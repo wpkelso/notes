@@ -4,12 +4,27 @@
     "type": "split",
     "children": [
       {
+        "id": "b581d77f8f4f4cc1",
+        "type": "leaf",
+        "dimension": 48.1042654028436,
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "502128681d4ebac9"
+      },
+      {
         "id": "173c0a366687a105",
         "type": "leaf",
+        "dimension": 51.8957345971564,
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Operations on Functions.md",
+            "mode": "preview"
+          }
+        },
+        "group": "502128681d4ebac9"
       }
     ],
     "direction": "vertical"
@@ -82,6 +97,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "173c0a366687a105",
-  "lastOpenFiles": []
+  "active": "b581d77f8f4f4cc1",
+  "lastOpenFiles": [
+    "Operations on Functions.md",
+    "Sinusoidal Function.md",
+    "Unit Step Function.md",
+    "Signal.md",
+    "Exponential Function.md",
+    "Basic Functions.md"
+  ]
 }
