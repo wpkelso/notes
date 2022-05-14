@@ -6,25 +6,13 @@
       {
         "id": "b581d77f8f4f4cc1",
         "type": "leaf",
-        "dimension": 48.1042654028436,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "502128681d4ebac9"
-      },
-      {
-        "id": "173c0a366687a105",
-        "type": "leaf",
-        "dimension": 51.8957345971564,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Operations on Functions.md",
-            "mode": "preview"
+            "file": "Sinusoidal Function.md",
+            "mode": "source"
           }
-        },
-        "group": "502128681d4ebac9"
+        }
       }
     ],
     "direction": "vertical"
@@ -80,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sinusoidal Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +88,15 @@
   },
   "active": "b581d77f8f4f4cc1",
   "lastOpenFiles": [
-    "Operations on Functions.md",
     "Sinusoidal Function.md",
+    "Time Reversal.md",
     "Unit Step Function.md",
+    "Time Shifts.md",
+    "Time Scaling.md",
     "Signal.md",
-    "Exponential Function.md",
+    "Operations on Functions.md",
+    "Multiplication by a constant.md",
+    "Addition of a Constant.md",
     "Basic Functions.md"
   ]
 }

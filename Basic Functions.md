@@ -7,3 +7,5 @@
 - [[Exponential Function]]
 - [[Sinusoidal Function]]
 - [[Polynomial Function]]
+
+#ECE220 
