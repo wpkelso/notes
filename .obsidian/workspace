@@ -7,11 +7,8 @@
         "id": "b581d77f8f4f4cc1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sinusoidal Function.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sinusoidal Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "b581d77f8f4f4cc1",
   "lastOpenFiles": [
+    "Operations on Functions.md",
+    "Multiplication & Division of Signals.md",
+    "Addition & Subtraction of Signals.md",
     "Sinusoidal Function.md",
     "Time Reversal.md",
     "Unit Step Function.md",
     "Time Shifts.md",
     "Time Scaling.md",
     "Signal.md",
-    "Operations on Functions.md",
-    "Multiplication by a constant.md",
-    "Addition of a Constant.md",
-    "Basic Functions.md"
+    "Multiplication by a constant.md"
   ]
 }
