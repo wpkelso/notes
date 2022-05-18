@@ -1,5 +1,5 @@
 # Exponential Function
-Useful for modelling [[Signal]]s.
+Useful for modelling [[Signals]]s.
 
 **Base form:**
 

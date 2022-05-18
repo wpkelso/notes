@@ -1,5 +1,5 @@
 # Sinusoidal Function
-Useful in modelling [[Signal]]s.
+Useful in modelling [[Signals]]s.
 
 **Base form:**
 $$
