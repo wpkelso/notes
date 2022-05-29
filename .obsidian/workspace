@@ -7,8 +7,11 @@
         "id": "b581d77f8f4f4cc1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Pulses.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pulses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "b581d77f8f4f4cc1",
   "lastOpenFiles": [
-    "Operations on Functions.md",
+    "Pulses.md",
+    "Basic Functions.md",
     "Multiplication & Division of Signals.md",
-    "Addition & Subtraction of Signals.md",
-    "Sinusoidal Function.md",
-    "Time Reversal.md",
+    "Exponential Function.md",
     "Unit Step Function.md",
-    "Time Shifts.md",
-    "Time Scaling.md",
-    "Signal.md",
-    "Multiplication by a constant.md"
+    "Operations on Functions.md",
+    "Multiplication by a constant.md",
+    "pulse.png",
+    "Addition & Subtraction of Signals.md",
+    "Sinusoidal Function.md"
   ]
 }
