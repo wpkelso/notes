@@ -7,11 +7,16 @@
         "id": "ecb1d6b7c9622e7d",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "markdown",
           "state": {
             "file": "Stability.md",
             "mode": "source"
           }
+=======
+          "type": "graph",
+          "state": {}
+>>>>>>> 1baf20808acb81ce61b27c93b8e647f93e71221e
         }
       }
     ],
@@ -68,7 +73,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Stability.md",
+=======
+>>>>>>> 1baf20808acb81ce61b27c93b8e647f93e71221e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +96,7 @@
   },
   "active": "ecb1d6b7c9622e7d",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Stability.md",
     "Invertibility.md",
     "Memoryless.md",
@@ -98,5 +107,17 @@
     "Systems.md",
     "systems.md",
     "Sinusoidal Function.md"
+=======
+    "Operations on Functions.md",
+    "Multiplication & Division of Signals.md",
+    "Addition & Subtraction of Signals.md",
+    "Sinusoidal Function.md",
+    "Time Reversal.md",
+    "Unit Step Function.md",
+    "Time Shifts.md",
+    "Time Scaling.md",
+    "Signal.md",
+    "Multiplication by a constant.md"
+>>>>>>> 1baf20808acb81ce61b27c93b8e647f93e71221e
   ]
 }
