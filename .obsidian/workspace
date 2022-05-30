@@ -8,6 +8,7 @@
         "type": "leaf",
         "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "type": "markdown",
           "state": {
             "file": "Stability.md",
@@ -17,6 +18,13 @@
           "type": "graph",
           "state": {}
 >>>>>>> 1baf20808acb81ce61b27c93b8e647f93e71221e
+=======
+          "type": "markdown",
+          "state": {
+            "file": "Pulses.md",
+            "mode": "source"
+          }
+>>>>>>> 2165c43f28c034ad476a58f4bcbd012d62322634
         }
       }
     ],
@@ -74,9 +82,13 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Stability.md",
 =======
 >>>>>>> 1baf20808acb81ce61b27c93b8e647f93e71221e
+=======
+                "file": "Pulses.md",
+>>>>>>> 2165c43f28c034ad476a58f4bcbd012d62322634
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +109,7 @@
   "active": "ecb1d6b7c9622e7d",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Stability.md",
     "Invertibility.md",
     "Memoryless.md",
@@ -109,15 +122,25 @@
     "Sinusoidal Function.md"
 =======
     "Operations on Functions.md",
+=======
+    "Pulses.md",
+    "Basic Functions.md",
+>>>>>>> 2165c43f28c034ad476a58f4bcbd012d62322634
     "Multiplication & Division of Signals.md",
-    "Addition & Subtraction of Signals.md",
-    "Sinusoidal Function.md",
-    "Time Reversal.md",
+    "Exponential Function.md",
     "Unit Step Function.md",
+<<<<<<< HEAD
     "Time Shifts.md",
     "Time Scaling.md",
     "Signal.md",
     "Multiplication by a constant.md"
 >>>>>>> 1baf20808acb81ce61b27c93b8e647f93e71221e
+=======
+    "Operations on Functions.md",
+    "Multiplication by a constant.md",
+    "pulse.png",
+    "Addition & Subtraction of Signals.md",
+    "Sinusoidal Function.md"
+>>>>>>> 2165c43f28c034ad476a58f4bcbd012d62322634
   ]
 }
