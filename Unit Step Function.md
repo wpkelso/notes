@@ -15,6 +15,6 @@ $$
  Ex.
  $$u(t) + u(t-5) + ...$$
  
-The unit step function follows all of the rules for [[Operations on Functions]].
+The unit step function follows all of the rules for [[Function Transformtions]].
 
 #ECE220 

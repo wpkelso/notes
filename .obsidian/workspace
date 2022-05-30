@@ -1,45 +1,45 @@
 {
   "main": {
-    "id": "9db4c2466ab7f6b0",
+    "id": "ae61e37206f7633c",
     "type": "split",
     "children": [
       {
-        "id": "ecb1d6b7c9622e7d",
+        "id": "c4ea2850ab68dfc8",
         "type": "leaf",
         "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
           "type": "markdown",
           "state": {
-            "file": "Stability.md",
+            "file": "Linearity.md",
             "mode": "source"
           }
-=======
-          "type": "graph",
-          "state": {}
->>>>>>> 1baf20808acb81ce61b27c93b8e647f93e71221e
-=======
+        },
+        "group": "c38a09252040a3e6"
+      },
+      {
+        "id": "9876b127a8701fd9",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Pulses.md",
-            "mode": "source"
+            "file": "Linearity.md",
+            "mode": "preview"
           }
->>>>>>> 2165c43f28c034ad476a58f4bcbd012d62322634
-        }
+        },
+        "group": "c38a09252040a3e6"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "28bcd3fc15e9dff4",
+    "id": "dfe61ab291205bc0",
     "type": "split",
     "children": [
       {
-        "id": "a7b7f1f3004c25c2",
+        "id": "87937986bce5116f",
         "type": "tabs",
         "children": [
           {
-            "id": "70db4bc467b537fb",
+            "id": "c981954f23d5acc6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "7a7c1fda7c1f6465",
+            "id": "63910c642160d2f7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,6 +60,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4e976fd4796a05fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -68,27 +76,20 @@
     "width": 300
   },
   "right": {
-    "id": "c10e05bbbbf9e7f1",
+    "id": "84f304345e2826cb",
     "type": "split",
     "children": [
       {
-        "id": "a70001b04ff74ee1",
+        "id": "efb6b416ae4154f6",
         "type": "tabs",
         "children": [
           {
-            "id": "4745ff322763cdf0",
+            "id": "1bb6249e4bd23cf9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Stability.md",
-=======
->>>>>>> 1baf20808acb81ce61b27c93b8e647f93e71221e
-=======
-                "file": "Pulses.md",
->>>>>>> 2165c43f28c034ad476a58f4bcbd012d62322634
+                "file": "Linearity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +97,27 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1404ff29425739d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "508ffd722542044e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linearity.md"
               }
             }
           }
@@ -106,41 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ecb1d6b7c9622e7d",
+  "active": "c4ea2850ab68dfc8",
   "lastOpenFiles": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "Stability.md",
-    "Invertibility.md",
-    "Memoryless.md",
+    "Linearity.md",
+    "Superposition.md",
+    "Scaling.md",
     "System Properties.md",
-    "Causability.md",
-    "Signals.md",
-    "Complex Signals.md",
-    "Systems.md",
-    "systems.md",
-    "Sinusoidal Function.md"
-=======
-    "Operations on Functions.md",
-=======
-    "Pulses.md",
-    "Basic Functions.md",
->>>>>>> 2165c43f28c034ad476a58f4bcbd012d62322634
-    "Multiplication & Division of Signals.md",
-    "Exponential Function.md",
-    "Unit Step Function.md",
-<<<<<<< HEAD
-    "Time Shifts.md",
     "Time Scaling.md",
-    "Signal.md",
-    "Multiplication by a constant.md"
->>>>>>> 1baf20808acb81ce61b27c93b8e647f93e71221e
-=======
-    "Operations on Functions.md",
-    "Multiplication by a constant.md",
-    "pulse.png",
-    "Addition & Subtraction of Signals.md",
-    "Sinusoidal Function.md"
->>>>>>> 2165c43f28c034ad476a58f4bcbd012d62322634
+    "Time Variance.md",
+    "Function Transformtions.md",
+    "Impulse response.md",
+    "Systems.md",
+    "Stability.md"
   ]
 }
