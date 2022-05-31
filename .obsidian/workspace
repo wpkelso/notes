@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linearity.md",
+            "file": "Convolution Integral.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linearity.md",
+            "file": "Convolution Integral.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "impulse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linearity.md",
+                "file": "Convolution Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linearity.md"
+                "file": "Convolution Integral.md"
               }
             }
           }
@@ -130,15 +131,15 @@
   },
   "active": "c4ea2850ab68dfc8",
   "lastOpenFiles": [
-    "Linearity.md",
-    "Superposition.md",
-    "Scaling.md",
-    "System Properties.md",
+    "Convolution Integral.md",
+    "Impulse Decomposition.md",
+    "Basic Properties of Linear Systems.md",
+    "Sifting Property.md",
     "Time Scaling.md",
-    "Time Variance.md",
-    "Function Transformtions.md",
-    "Impulse response.md",
+    "Time Reversal.md",
     "Systems.md",
-    "Stability.md"
+    "System Properties.md",
+    "Function Transformtions.md",
+    "Addition & Subtraction of Signals.md"
   ]
 }
