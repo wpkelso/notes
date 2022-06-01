@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impulse",
+                "query": "convo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,6 +132,7 @@
   "active": "c4ea2850ab68dfc8",
   "lastOpenFiles": [
     "Convolution Integral.md",
+    "Causability.md",
     "Impulse Decomposition.md",
     "Basic Properties of Linear Systems.md",
     "Sifting Property.md",
@@ -139,7 +140,6 @@
     "Time Reversal.md",
     "Systems.md",
     "System Properties.md",
-    "Function Transformtions.md",
-    "Addition & Subtraction of Signals.md"
+    "Function Transformtions.md"
   ]
 }
