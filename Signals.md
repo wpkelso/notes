@@ -14,4 +14,7 @@ Also defined as a value or information relative to an independent variable (usua
 - taken at values $nT$ (where T is the sampling period)
 - A smaller $T$ will have a greater number of samples, $n$ must be an integer
 - Average will be calculated with a sum ($\Sigma$)
+
+### Distortion
+When resulting from overlap, occurs because the time between the impulses is shorter than the length of the input signal
 #ECE220 #ECE301
