@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Convolution Integral.md",
+            "file": "Fourier Transform.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Convolution Integral.md",
+            "file": "Fourier Transform.md",
             "mode": "preview"
           }
         },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convolution Integral.md",
+                "file": "Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convolution Integral.md"
+                "file": "Fourier Transform.md"
               }
             }
           }
@@ -131,6 +131,8 @@
   },
   "active": "c4ea2850ab68dfc8",
   "lastOpenFiles": [
+    "Fourier Transform.md",
+    "Frequency Domain.md",
     "Convolution Integral.md",
     "Signals.md",
     "Causability.md",
@@ -138,8 +140,6 @@
     "Basic Properties of Linear Systems.md",
     "Sifting Property.md",
     "Time Scaling.md",
-    "Time Reversal.md",
-    "Systems.md",
-    "System Properties.md"
+    "Time Reversal.md"
   ]
 }
