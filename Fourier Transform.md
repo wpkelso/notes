@@ -11,3 +11,11 @@ $g(t)=F^{-1}\{G(f)\}$
 $g(t)=\int _{t=-\infty}^{t=\infty}G(f)e^{j2\pi ft}df$
 
 *Note: $s$->$j2\pi t$*
+
+Response of a ____ : Sinc function
+
+### Properties
+- Multiplication in the time domain is convolution in the frequency domain
+- Convolution in the time domain is multiplication in the frequency domain
+- $a(t)+b(t)$ -> $A(f)+B(f)$
+- $a(t-T)$ -> $e^{-j2\pi fT}A(f)$

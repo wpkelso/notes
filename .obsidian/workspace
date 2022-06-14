@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "convolution",
+                "query": "fourier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,14 +132,14 @@
   "active": "c4ea2850ab68dfc8",
   "lastOpenFiles": [
     "Fourier Transform.md",
+    "Inverse Fourier Transform.md",
+    "Impulse.md",
+    "Impulse Decomposition.md",
     "Frequency Domain.md",
     "Convolution Integral.md",
     "Signals.md",
     "Causability.md",
-    "Impulse Decomposition.md",
     "Basic Properties of Linear Systems.md",
-    "Sifting Property.md",
-    "Time Scaling.md",
-    "Time Reversal.md"
+    "Sifting Property.md"
   ]
 }
