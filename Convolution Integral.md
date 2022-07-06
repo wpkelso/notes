@@ -1,4 +1,6 @@
 # Convolution Integral
+
+Related: [[Convolution]]
 1. $\sigma (t)$ -> $h(t)$
 ...
 5. $\int x(\tau)\sigma (t-\tau)d\tau$ -> $\int x(\tau)h(t-\tau)d\tau$

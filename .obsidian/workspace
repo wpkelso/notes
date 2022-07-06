@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c4ea2850ab68dfc8",
+        "id": "53e3f01f7920476f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fourier Transform.md",
+            "file": "Linear Regression.md",
             "mode": "source"
           }
-        },
-        "group": "c38a09252040a3e6"
-      },
-      {
-        "id": "9876b127a8701fd9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Fourier Transform.md",
-            "mode": "preview"
-          }
-        },
-        "group": "c38a09252040a3e6"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fourier",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fourier Transform.md",
+                "file": "Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fourier Transform.md"
+                "file": "Linear Regression.md"
               }
             }
           }
@@ -129,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4ea2850ab68dfc8",
+  "active": "53e3f01f7920476f",
   "lastOpenFiles": [
-    "Fourier Transform.md",
-    "Inverse Fourier Transform.md",
-    "Impulse.md",
-    "Impulse Decomposition.md",
-    "Frequency Domain.md",
-    "Convolution Integral.md",
-    "Signals.md",
-    "Causability.md",
-    "Basic Properties of Linear Systems.md",
-    "Sifting Property.md"
+    "Linear Regression.md",
+    "Mean Squared Error.md",
+    "Vector Space.md",
+    "Basic Functions.md",
+    "Mahcine Learning.md",
+    "Basis for a Vector Space.md",
+    "Laplace Transform.md",
+    "Laplace Transforms.md",
+    "Linear Independence for Vectors.md",
+    "Vector.md"
   ]
 }
