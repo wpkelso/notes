@@ -1,4 +1,5 @@
 # Sinusoidal Function
+#SignalAnalysis 
 Useful in modelling [[Signals]]s.
 
 **Base form:**
@@ -14,5 +15,3 @@ $\theta$ = Phase (moves the peak of the cosine to $-\theta/\omega_0$ when in rad
 Period = $2\pi/\omega_0$ = $1/f_0$
 
 *Sine could also be used, but isn't as $sin(x)=cos(x-\frac{\pi}{2})$*
-
-#ECE220 

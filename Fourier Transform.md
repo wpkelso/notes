@@ -1,4 +1,5 @@
 # Fourier Transform
+#SignalAnalysis 
 Used to analyze signals in the [[Frequency Domain]].
 Goes from time domain to frrquncy domain. To go back you would need to use the [[Inverse Fourier Transform]].
 

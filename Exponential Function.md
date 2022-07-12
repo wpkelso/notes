@@ -1,4 +1,5 @@
 # Exponential Function
+#SignalAnalysis 
 Useful for modelling [[Signals]]s.
 
 **Base form:**
@@ -6,4 +7,3 @@ Useful for modelling [[Signals]]s.
 $$f(t)=Ae^{at}$$
 
 Exponential functions follow all of the rules for #operationsOnFunctions.
-#ECE220 

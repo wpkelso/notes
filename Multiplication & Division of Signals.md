@@ -5,4 +5,4 @@
 $h(t)$ = $f(t)*g(t)$
 $h(t)$ = $f(t)/g(t)$
 
-#operationsOnFunctions #ECE220 
+#operationsOnFunctions #SignalAnalysis  

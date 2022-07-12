@@ -1,10 +1,13 @@
 # System Properties
-require the independent variable to be time
+#SignalAnalysis 
+All properties require the independent variable to be time.
 
 - [[Memoryless]]
 - [[Causability]]
 - [[Invertibility]]
+- [[Linearity]]
+- [[Time Variance]]
+- [[Stability]]
 
--[[Linearity]]
--[[Time Variance]]
-#ECE301 
+### Related
+[[Signals]]

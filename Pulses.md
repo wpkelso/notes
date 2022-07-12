@@ -1,5 +1,6 @@
 # Pulses
-Signal consisting of a single value over a single period of time
+#SignalAnalysis 
+[[Signals]] consisting of a single value over a single period of time
 $$p(t)=u(t)-u(t-\tau)=
 \begin{cases}
 1 &\text{, }0\le t\le\tau \\
@@ -22,4 +23,3 @@ $$p(\frac{t-t_{0}}{\tau})=
 0 &\text{, else}
 \end{cases}
 $$
-#ECE220 

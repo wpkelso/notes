@@ -7,11 +7,8 @@
         "id": "53e3f01f7920476f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linear Regression.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linear Regression.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -118,15 +112,15 @@
   },
   "active": "53e3f01f7920476f",
   "lastOpenFiles": [
-    "Linear Regression.md",
-    "Mean Squared Error.md",
-    "Vector Space.md",
-    "Basic Functions.md",
-    "Mahcine Learning.md",
-    "Basis for a Vector Space.md",
+    "Exponential Function.md",
     "Laplace Transform.md",
-    "Laplace Transforms.md",
-    "Linear Independence for Vectors.md",
-    "Vector.md"
+    "Inverse Laplace Transform.md",
+    "Linearity.md",
+    "Invertibility.md",
+    "Scaling.md",
+    "Fourier Transform.md",
+    "Pulses.md",
+    "Basic Properties of Linear Systems.md",
+    "Inverse Fourier Transform.md"
   ]
 }

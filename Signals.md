@@ -1,4 +1,5 @@
 # Signals
+#SignalAnalysis 
 A physical quantity that varies with some independent variable that can be used to convey information.
 
 Also defined as a value or information relative to an independent variable (usually time); a mathematical function with meaning
@@ -17,4 +18,3 @@ Also defined as a value or information relative to an independent variable (usua
 
 ### Distortion
 When resulting from overlap, occurs because the time between the impulses is shorter than the length of the input signal
-#ECE220 #ECE301

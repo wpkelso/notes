@@ -5,17 +5,17 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#ECE220",
+      "query": "tag:#MachineLearning",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#ECE301",
+      "query": "tag:#SignalAnalysis",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -30,8 +30,8 @@
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.8793372307013745,
+  "linkStrength": 0.756179775280899,
+  "linkDistance": 161,
+  "scale": 1.0637586232632217,
   "close": false
 }
