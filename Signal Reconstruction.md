@@ -1,0 +1,7 @@
+# Signal Reconstruction
+#SignalAnalysis
+0 Order Hold is not a good function to reconstruct a function with, because it'll create harmonics in the spectrum; better to use a sinc function in the time domain, which'll create a square function in the frequncy domain (this violates causality).
+### Nyquist Reconstruction
+- If the Nyquist rate frequncy = 2B, then the reconsturction is a Nyquist reconstruction
+### Aliasing
+If the sampling frequncy is less than the Nyquist rate frequency, then the replicas will overlap, and create distortion

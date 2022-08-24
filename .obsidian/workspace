@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "53e3f01f7920476f",
+        "id": "4cbbe4e79ecfc0d0",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -110,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53e3f01f7920476f",
+  "active": "4cbbe4e79ecfc0d0",
   "lastOpenFiles": [
-    "Exponential Function.md",
-    "Laplace Transform.md",
-    "Inverse Laplace Transform.md",
-    "Linearity.md",
-    "Invertibility.md",
-    "Scaling.md",
-    "Fourier Transform.md",
     "Pulses.md",
-    "Basic Properties of Linear Systems.md",
-    "Inverse Fourier Transform.md"
+    "Vector.md",
+    "Vector Space.md",
+    "Basis for a Vector Space.md",
+    "Signals.md",
+    "Machine Learning.md",
+    "Data Structure.md",
+    "Graph.md",
+    "Vertex.md",
+    "Heap.md"
   ]
 }

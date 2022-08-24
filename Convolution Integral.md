@@ -1,5 +1,5 @@
 # Convolution Integral
-
+#SignalAnalysis 
 Related: [[Convolution]]
 1. $\sigma (t)$ -> $h(t)$
 ...
@@ -26,4 +26,3 @@ Repeat for all values of time $t$ to find $y(t)$
 ###### Integral Solution
 1. Plug $x(t)$ and $h(t)$ into the integral $y(t)=\int ^{t}_{0}x(t) h(t-\tau)d\tau$
 2. Solve for each range of t
-#ECE301 

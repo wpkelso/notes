@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#MachineLearning",
@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#GeneralMath",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#dataStructure",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -28,10 +42,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 0.756179775280899,
+  "centerStrength": 0.428089887640449,
+  "repelStrength": 9.73033707865169,
+  "linkStrength": 1,
   "linkDistance": 161,
-  "scale": 1.0637586232632217,
+  "scale": 0.6825549970259337,
   "close": false
 }
