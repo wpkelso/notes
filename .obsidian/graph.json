@@ -1,17 +1,24 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#MachineLearning",
+      "query": "tag:#GeneralMath",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#programming",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     },
     {
@@ -22,10 +29,10 @@
       }
     },
     {
-      "query": "tag:#GeneralMath",
+      "query": "tag:#MachineLearning",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14701138
       }
     },
     {
@@ -33,6 +40,20 @@
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#OOP",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#embeddedSystems",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -46,6 +67,6 @@
   "repelStrength": 9.73033707865169,
   "linkStrength": 1,
   "linkDistance": 161,
-  "scale": 0.6825549970259337,
-  "close": false
+  "scale": 0.11660587706329713,
+  "close": true
 }
