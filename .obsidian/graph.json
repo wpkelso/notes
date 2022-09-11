@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#GeneralMath",
@@ -67,6 +67,6 @@
   "repelStrength": 9.73033707865169,
   "linkStrength": 1,
   "linkDistance": 161,
-  "scale": 0.11660587706329713,
+  "scale": 0.12017602227283361,
   "close": true
 }
