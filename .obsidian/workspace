@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "55a33a265f13e220",
+        "id": "e2ef6e1351d840a7",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "list",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55a33a265f13e220",
+  "active": "e2ef6e1351d840a7",
   "lastOpenFiles": [
+    "Record.md",
+    "Data Structure.md",
+    "Linked List.md",
+    "Abstract Data Type.md",
     "Untitled 1.md",
     "Digital-to-Analog Converters.md",
     "Singly-Linked List.md",
-    "Abstract Data Type.md",
-    "Linked List.md",
     "General Purpose IO.md",
     "CMSIS.md",
-    "Endianness.md",
-    "Sequencing.md",
-    "Closed-Loop Control.md"
+    "Endianness.md"
   ]
 }
