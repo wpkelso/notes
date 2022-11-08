@@ -1,4 +1,4 @@
-# Vector
+
 #SignalAnalysis #GeneralMath 
 ### Related
 [[Vector Space]]

@@ -1,6 +1,6 @@
 # Linear Independence of Vectors
 #SignalAnalysis 
-Given a [[Vector]], for $a_{1}v_{1}+\text{...}+a_{n}v_{n}=\text{**0**}$
+Given a [[Vector (Math)]], for $a_{1}v_{1}+\text{...}+a_{n}v_{n}=\text{**0**}$
 - if $a_{i}=0$, for all $i$, then "linearly independent"
 - if not all $a_{i}=0$, then "linearly dependent"
 
