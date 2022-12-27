@@ -9,7 +9,7 @@ List of Common ADTs:
 - List (Implemented using an [[array]] or a [[linked list]])
 - [[Dynamic Array]]
 - [[Stack]]
-- [[Queue]]
+- [[Queue (Data Structure)]]
 - [[Deque]]
 - [[Bag]]
 - Set (Implemented using a [[binary search tree]] or a [[hash table]])

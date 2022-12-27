@@ -1,2 +1,4 @@
-# Digital-to-Analog Converters (DAC)
+---
+aliases: [DAC]
+---
 #embeddedSystems #ECE460 

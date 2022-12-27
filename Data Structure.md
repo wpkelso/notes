@@ -10,6 +10,6 @@
 - [[Binary Tree]]
 - [[Hash Table]]
 - [[Heap]]
-- [[Graph]]
+- [[Graph (Data Structure)]]
 
 Choosing which data structure a given program should use is based on the structure of the expected data and the operations that might need to be performed on that data.
