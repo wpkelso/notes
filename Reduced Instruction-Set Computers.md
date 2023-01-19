@@ -1,7 +1,4 @@
----
-aliases="RISC"
----
 #computer_architecture 
-Computers with a reduced set of instructions, set of registers, & addressing modes available.
+Computers with a reduced [[Instruction Set Architecture]], set of registers, & addressing modes available. In a RISC architecture, [[Arithmetic Instructions|arithmetic operations]]can only access registers, and only [[Memory Instructions|memory instructions]] can access memory. [[Control Flow Instructions]] use PC-relative addressing.
 
 *Ex.* MIPS, RISC-5

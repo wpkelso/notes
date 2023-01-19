@@ -1,4 +1,3 @@
-# Memoryless
 #signal_analysis 
 - a system is memoryless if the output depends only on the value of the current input, otherwise it is described as having memory
 - general approach requires checking to see if there is any dependence on past or future inputs

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7828d01b7177ee8",
+        "id": "cc20e0a0c338aa3c",
         "type": "tabs",
         "children": [
           {
-            "id": "59a5907684b4afe1",
+            "id": "917b9b4a5d905380",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ECE309",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,6 +59,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d3f5f663eeeb1c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -144,17 +152,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "59a5907684b4afe1",
+  "active": "917b9b4a5d905380",
   "lastOpenFiles": [
-    "Initial Value Problem.md",
-    "Ordinary Differential Equation.md",
-    "Sunjata.md",
-    "Geometric Meaning of an ODE.md",
-    "Wellposedness.md",
-    "Differential Equation.md",
-    "Computer Processor.md",
-    "Amdhal's Law.md",
-    "Complex Instruction Set Computers.md",
-    "Reduced Instruction-Set Computers.md"
+    "Registers.md",
+    "Microprocessor Architecture.md",
+    "Member.md",
+    "Object.md",
+    "Systems.md",
+    "Memoryless.md",
+    "Bias-Variance Tradeoff.md",
+    "Signals.md",
+    "Superposition.md",
+    "Linear Independence for Vectors.md"
   ]
 }

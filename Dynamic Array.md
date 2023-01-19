@@ -1,4 +1,3 @@
-# Dynamic Array
-#data_structures #ECE309 
+#data_structures #programming 
 
-Common ADT for holding ordered data and allowing indexed access; commonly implemented using an [[array]].
+Common [[Abstract Data Type|ADT]] for holding ordered data and allowing indexed access; commonly implemented using an [[array]].

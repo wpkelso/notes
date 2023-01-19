@@ -1,4 +1,3 @@
-# Linear Independence of Vectors
 #signal_analysis 
 Given a [[Vector (Math)]], for $a_{1}v_{1}+\text{...}+a_{n}v_{n}=\text{**0**}$
 - if $a_{i}=0$, for all $i$, then "linearly independent"
