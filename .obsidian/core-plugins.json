@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "tag-pane",
   "page-preview",
   "note-composer",
@@ -13,6 +14,5 @@
   "markdown-importer",
   "random-note",
   "outline",
-  "word-count",
   "file-recovery"
 ]

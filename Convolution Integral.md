@@ -1,5 +1,5 @@
 # Convolution Integral
-#SignalAnalysis 
+#signal_analysis 
 Related: [[Convolution]]
 1. $\sigma (t)$ -> $h(t)$
 ...

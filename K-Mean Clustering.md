@@ -1,5 +1,5 @@
 # K-Mean Clustering
-#MachineLearning 
+#machine_learning 
 Let $C_1,...,C_K$ be a set of observations
 **Assumptions**:
 - Each observations belongs to at least one cluster

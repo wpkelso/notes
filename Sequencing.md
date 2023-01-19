@@ -1,5 +1,4 @@
-# Sequencing
-#embeddedSystems #ECE460 
+#embedded_systems #ECE460 
 
 Sequencing involves controlling an output through a series of steps, performed on after the other.
 

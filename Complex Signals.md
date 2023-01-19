@@ -1,5 +1,5 @@
 # Complex Signals
-#SignalAnalysis 
+#signal_analysis 
 Real world [[signals]] cannot be complex, but complex signals can be defined
 - Many connections between complex signals, [[Maxwell's Equations]], [[Phasors]], etc.
 

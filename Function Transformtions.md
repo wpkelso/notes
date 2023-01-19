@@ -10,4 +10,4 @@
 - [[Addition & Subtraction of Signals]]
 - [[Multiplication & Division of Signals]]
 
-#SignalAnalysis 
+#signal_analysis 

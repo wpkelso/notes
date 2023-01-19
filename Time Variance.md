@@ -1,5 +1,5 @@
 # Time Variance/Invariance
-#SignalAnalysis 
+#signal_analysis 
 A system is time invariant if it behaves in the same way regardless of the current time
 
 If $x(t-t_0) \text{ -> System -> }y(t-t_0)$ for all $t_0$ then the system is time invariant; otherwise it is time varying

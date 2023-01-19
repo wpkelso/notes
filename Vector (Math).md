@@ -1,5 +1,5 @@
 
-#SignalAnalysis #GeneralMath 
+#signal_analysis #mathematics 
 ### Related
 [[Vector Space]]
 [[Inner Product of Vectors]]

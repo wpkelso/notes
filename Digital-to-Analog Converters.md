@@ -1,4 +1,4 @@
 ---
 aliases: [DAC]
 ---
-#embeddedSystems #ECE460 
+#embedded_systems #ECE460 

@@ -1,5 +1,5 @@
 # Algorithm
-#programming #OOP #dataStructure  #ECE309 
+#programming #OOP #data_structures  #ECE309 
 
 An algorithm describes a sequence of steps to solve a computational problem or perform a calculation. They can be described and implemented in a large amount of ways, be it plain English, psuedocode, directly in a programming language, in hardware, etc.
 

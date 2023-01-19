@@ -1,5 +1,5 @@
 # Sinusoidal Function
-#SignalAnalysis 
+#signal_analysis 
 Useful in modelling [[Signals]]s.
 
 **Base form:**

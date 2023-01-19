@@ -1,4 +1,4 @@
-#embeddedSystems #ECE460 
+#embedded_systems #ECE460 
 
 Embedded systems often work with peripheral hardware in conjunction with software to achieve [[Task (OS)|tasks (OS)]]. These peripherals will allow for actions such as timing, interrupts, or conversion between digital and analog signals.
 

@@ -1,5 +1,4 @@
-# Closed-Loop Control
-#embeddedSystems #ECE460 
+#embedded_systems #ECE460 
 
 Closed-Loop control involves controlling  an output variable based on one or more input measurements
 

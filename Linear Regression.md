@@ -1,5 +1,5 @@
 # Linear Regression
-#MachineLearning 
+#machine_learning 
 ### Terminology
 - Training Data
 - Test Data

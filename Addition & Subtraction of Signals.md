@@ -5,4 +5,4 @@
 $h(t)$ = $f(t)+g(t)$
 
 
-#operationsOnFunctions #SignalAnalysis 
+#operations_on_functions #signal_analysis 

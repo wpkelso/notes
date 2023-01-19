@@ -1,5 +1,5 @@
 # Systems
-#SignalAnalysis 
+#signal_analysis 
 - Mathematical description of how an input [[Signals]] is transformed into the output signal
 - Shown through a block diagram like shown below:
 

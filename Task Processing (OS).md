@@ -1,7 +1,7 @@
 ---
 aliases: [task processing (OS)]
 ---
-#programming #operatingSystems #embeddedSystems  #ECE460 
+#programming #operating_systems #embedded_systems  #ECE460 
 
 ## Types of Scheduling
 - [[Sequencing|Sequential]] : Finish one [[Task (OS)|task]] before starting another task

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c666fd21726c66",
+        "id": "f7828d01b7177ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "189d9562712314d8",
+            "id": "59a5907684b4afe1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scheduler",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "84f304345e2826cb",
@@ -133,17 +134,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "189d9562712314d8",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "59a5907684b4afe1",
   "lastOpenFiles": [
-    "Architecture.md",
-    "Time Variance.md",
-    "Signals.md",
-    "Topological Sort.md",
-    "Depth First Search.md",
-    "Minimum Spanning Tree.md",
-    "Directed Acylic Graph.md",
-    "Runtime Complexity.md",
-    "Digital-to-Analog Converters.md",
-    "Task (OS).md"
+    "Initial Value Problem.md",
+    "Ordinary Differential Equation.md",
+    "Sunjata.md",
+    "Geometric Meaning of an ODE.md",
+    "Wellposedness.md",
+    "Differential Equation.md",
+    "Computer Processor.md",
+    "Amdhal's Law.md",
+    "Complex Instruction Set Computers.md",
+    "Reduced Instruction-Set Computers.md"
   ]
 }

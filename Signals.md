@@ -1,5 +1,4 @@
-# Signals
-#SignalAnalysis 
+#signal_analysis 
 A physical quantity that varies with some independent variable that can be used to convey information.
 
 Also defined as a value or information relative to an independent variable (usually time); a mathematical function with meaning

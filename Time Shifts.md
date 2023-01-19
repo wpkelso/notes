@@ -8,5 +8,5 @@ t_{0}<0 &\text{shifts function right}
 \end{cases}
 $$
 
-#operationsOnFunctions 
-#SignalAnalysis  
+#operations_on_functions 
+#signal_analysis  

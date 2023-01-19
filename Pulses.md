@@ -1,5 +1,5 @@
 # Pulses
-#SignalAnalysis 
+#signal_analysis 
 [[Signals]] consisting of a single value over a single period of time
 $$p(t)=u(t)-u(t-\tau)=
 \begin{cases}

@@ -1,4 +1,4 @@
 ---
 aliases: [DAG]
 ---
-#dataStructure #ECE309 #graphTheory
+#data_structures #ECE309 #graph_theory #programming

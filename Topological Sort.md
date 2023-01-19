@@ -1,4 +1,4 @@
-#dataStructure #ECE309 #graphTheory 
+#data_structures #ECE309 #graph_theory #programming 
 
 >[!note] Definition
 >Orders the nodes in a [[Directed Acylic Graph|DAG]] such that the source of an [[Edge (Data Structure)|edge]] occurs before the destination of the edge
@@ -9,7 +9,7 @@
 	2. Once all of a node's incoming edges are scheduled, schedule it
 ```psuedocode
 GraphTopologicalSort(graph) {
-	resultList = emnpty list of vertices
+	resultList = empty list of vertices
 	noIncoming = list of all vertices with no incoming edges
 	remainingEdges = list of all edges in the graph
 

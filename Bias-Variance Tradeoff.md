@@ -1,5 +1,4 @@
-# Bias-Variance Tradeoff
-#MachineLearning 
+#machine_learning 
 
 ### Overfitting vs Underfitting
 - Overfitting: "learning the noise"; relation between data and curve is too close, and will not work with another data set, i.e. the model cannot be generalized

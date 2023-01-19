@@ -1,4 +1,4 @@
-#dataStructure #ECE309 
+#data_structures #ECE309 
 
 Represents a connection between two [[Vertex|vertices]] in a [[Graph (Data Structure)|graph]]
 

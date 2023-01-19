@@ -1,0 +1,1 @@
+Extremely application specific computers designed to be as low cost as possible. Generally lower computing power, but power, size, and cost efficient. Computers of this classification will also often be designed for high real-time performance.

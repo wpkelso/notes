@@ -1,0 +1,1 @@
+Computers used in a more application specific context, usually being specialized to give much more power. This power comes at the trade-off of expense though. Power is still a concern though as large amounts of servers can be very expensive to run.

@@ -1,3 +1,3 @@
 # Impulse
-#SignalAnalysis 
+#signal_analysis 
 ** Contains all frequencies **

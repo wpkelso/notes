@@ -1,7 +1,7 @@
 ---
 aliases: [MST]
 ---
-#dataStructure #ECE309 #graphTheory 
+#data_structures #ECE309 #graph_theory 
 
 An instance of a [[Tree (Data Structure)|tree]] that has a minimum weight.
 

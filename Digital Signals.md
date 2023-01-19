@@ -1,5 +1,5 @@
 # Digital Signals
-#SignalAnalysis 
+#signal_analysis 
 Exist in a discrete space, so there is no continuous signal
 
 ### Types

@@ -1,5 +1,5 @@
 # Linearity
-#SignalAnalysis 
+#signal_analysis 
 2 Properties:
 - [[Scaling]] Property
 - [[Superposition]] Property

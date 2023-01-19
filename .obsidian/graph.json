@@ -5,59 +5,66 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#GeneralMath",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#programming",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#SignalAnalysis",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#MachineLearning",
+      "query": "tag:#mathematics",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#dataStructure",
+      "query": "tag:#literature",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#programming",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#embedded_systems",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "tag:#OOP",
+      "query": "tag:#signal_analysis",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "tag:#embeddedSystems",
+      "query": "tag:#machine_learning",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "tag:#computer_architecture",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#compilers",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -67,6 +74,6 @@
   "repelStrength": 11.5384615384615,
   "linkStrength": 1,
   "linkDistance": 46,
-  "scale": 0.9681619554185363,
+  "scale": 0.6931639236735243,
   "close": true
 }

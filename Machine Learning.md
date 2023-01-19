@@ -1,5 +1,5 @@
 # Machine Learning
-#MachineLearning 
+#machine_learning 
 ### Types of Machine Learning
 - Unsupervised learning: model learns from a set of **unlabeled** data to discover patterns, without supervision
 	Used to visualize data in an informative way or discover subgroups among observations/variables

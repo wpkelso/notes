@@ -1,5 +1,5 @@
 # System Properties
-#SignalAnalysis 
+#signal_analysis 
 All properties require the independent variable to be time.
 
 - [[Memoryless]]

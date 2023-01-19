@@ -1,7 +1,7 @@
 ---
 aliases: [RTCS]
 ---
-#programming #operatingSystems #embeddedSystems #ECE460 
+#programming #operating_systems #embedded_systems #ECE460 
 
 Round-Robin based [[Scheduler (OS)|scheduler]] that doesn't allow [[Task (OS)|task]] preempting. This means that all tasks have the same priority, task function names are hard-coded into the scheduler, and each tasks makes its own decisions as to whether or not it runs. All tasks also run at the same rate, and have a fixed order of running.
 
