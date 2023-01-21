@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc20e0a0c338aa3c",
+        "id": "7734c4cc8ec3772d",
         "type": "tabs",
         "children": [
           {
-            "id": "917b9b4a5d905380",
+            "id": "964c1e3df8a8c048",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ECE309",
+                "query": "tag:#ECE460",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,17 +152,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "917b9b4a5d905380",
+  "active": "964c1e3df8a8c048",
   "lastOpenFiles": [
-    "Registers.md",
-    "Microprocessor Architecture.md",
-    "Member.md",
-    "Object.md",
-    "Systems.md",
-    "Memoryless.md",
-    "Bias-Variance Tradeoff.md",
-    "Signals.md",
-    "Superposition.md",
-    "Linear Independence for Vectors.md"
+    "African Origin Stories.md",
+    "Non-Western Literature.md",
+    "Peripheral Hardware (Embedded Systems).md",
+    "Ordinary Differential Equation.md",
+    "Direct Memory Address Unit.md",
+    "Isocline.md",
+    "Directional Field.md",
+    "Wellposedness.md",
+    "Geometric Meaning of an ODE.md",
+    "Registers.md"
   ]
 }
