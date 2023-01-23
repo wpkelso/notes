@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e2ef6e1351d840a7",
+        "id": "6eb9a59f4cd70a5e",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84f304345e2826cb",
@@ -124,7 +125,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2ef6e1351d840a7",
+  "active": "6eb9a59f4cd70a5e",
   "lastOpenFiles": [
     "Record.md",
     "Data Structure.md",
