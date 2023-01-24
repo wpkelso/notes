@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7734c4cc8ec3772d",
+        "id": "cafc6e76dcdf15e8",
         "type": "tabs",
         "children": [
           {
-            "id": "964c1e3df8a8c048",
+            "id": "b189581e3e34ad54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non-Western Literature.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "0fc986c115d0321e",
+            "id": "ff3cbdaab9fd6186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Tale of the Doomed Prince.md",
+                "file": "Designing Datapaths.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Tale of the Doomed Prince.md",
+                "file": "Designing Datapaths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Tale of the Doomed Prince.md"
+                "file": "Designing Datapaths.md"
               }
             }
           }
@@ -172,17 +168,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0fc986c115d0321e",
+  "active": "ff3cbdaab9fd6186",
   "lastOpenFiles": [
+    "Designing Datapaths.md",
+    "Instruction Memory.md",
+    "Control Flow Instructions.md",
+    "Desktop Computing Classification.md",
+    "Amdhal's Law.md",
+    "The Tale of the Doomed Prince.md",
     "Non-Western Literature.md",
     "The Shipwrecked Sailor.md",
     "Pyramid Texts.md",
-    "African Origin Stories.md",
-    "Peripheral Hardware (Embedded Systems).md",
-    "Ordinary Differential Equation.md",
-    "Direct Memory Address Unit.md",
-    "Isocline.md",
-    "Directional Field.md",
-    "Wellposedness.md"
+    "African Origin Stories.md"
   ]
 }
