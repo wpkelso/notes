@@ -1,6 +1,6 @@
 # Sinusoidal Function
-#signal_analysis 
-Useful in modelling [[Signals]]s.
+#signal_analysis #mathematics 
+Useful in modelling [[Signals|signals]].
 
 **Base form:**
 $$

@@ -1,7 +1,6 @@
-# Constructors
-#OOP #ECE309 
+#OOP #programming  
 
-Special [[member]] functions that intialize an instance of a [[class]] when it is declared. They are never called explicitly, only implicitly when the [[object]] is declared.
+Special [[member]] functions that initialize an instance of a [[class]] when it is declared. They are never called explicitly, only implicitly when the [[object]] is declared.
 *Note: a class can have many constructors, as long as they have different arguments*
 
 Special rules for C++:

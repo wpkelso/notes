@@ -1,4 +1,3 @@
-# Time Variance/Invariance
 #signal_analysis 
 A system is time invariant if it behaves in the same way regardless of the current time
 

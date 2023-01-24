@@ -1,4 +1,3 @@
-# Stability
 #signal_analysis 
 ### Bounded Input Bounded Output (BIBO)
 A system is BIBO stable if finite inputs result in finite outputs

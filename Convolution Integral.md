@@ -1,4 +1,3 @@
-# Convolution Integral
 #signal_analysis 
 Related: [[Convolution]]
 1. $\sigma (t)$ -> $h(t)$
@@ -18,7 +17,7 @@ After applying causality, we get $y(t)=\int ^{t}_{0}x(t-\tau) h(\tau)d\tau$
 Draw $x(t)$ and $h(t)$ using the same scale on the $\tau$-axis
 1. Reflect ($x(\tau)$->$x(-\tau)$)
 2. Shift ($x(-\tau)$->$x(t-\tau)$)
-	1. Important that the $\tau$ value inside of the parenthases is zero or positive
+	1. Important that the $\tau$ value inside of the parentheses is zero or positive
 3. Multiply ($h(\tau)x(t-\tau)$)
 4. Integrate ($y(t)=\int ^{t}_{0}x(t-\tau) h(\tau)d\tau$)
 

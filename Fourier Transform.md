@@ -1,7 +1,6 @@
-# Fourier Transform
 #signal_analysis 
 Used to analyze signals in the [[Frequency Domain]].
-Goes from time domain to frrquncy domain. To go back you would need to use the [[Inverse Fourier Transform]].
+Goes from time domain to frequency domain. To go back you would need to use the [[Inverse Fourier Transform]].
 
 ### Definitions
 $G(f)=F\{g(t)\}$
@@ -14,7 +13,7 @@ $g(t)=\int _{t=-\infty}^{t=\infty}G(f)e^{j2\pi ft}df$
 
 *Note: $s$->$j2\pi t$*
 
-Response of a ____ : Sinc function
+Response of a ____ : $Sinc$ function
 
 ### Properties
 - Multiplication in the time domain is convolution in the frequency domain

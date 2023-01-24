@@ -2,7 +2,7 @@
 Primary control unit within a computer. Performs all [[Instruction Set Architecture|instructions]], reads and writes to memory, etc.
 
 ### Data Path
-A simple processor data path will have a register file to store data, memory (DRAM & disk) and a primary path of instruction fetch -> decode -> execute -> memory -> write back.
+A simple processor data path will have a [[Register File|register file]] to store data, memory (DRAM & disk) and a primary path of instruction fetch -> decode -> execute -> memory -> write back.
 
 ## Performance Evaluation
 The measure of performance used for processors is how long a tasks takes, as well as the number of instructions processed per unit time.

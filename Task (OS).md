@@ -1,7 +1,7 @@
 ---
 aliases: [thread (OS), process (OS)]
 ---
-#programming #operating_systems #embedded_systems #ECE460 
+#programming #operating_systems #embedded_systems
 
 A task is a sequence of instructions that can be executed. Each task will have a "root" function which can call other functions as needed. 
 
