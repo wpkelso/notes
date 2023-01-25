@@ -8,7 +8,7 @@ If two REs are appended in sequence, both must match or the whole expression to 
 An operator ( | ) that allows a choice between two REs
 
 ## Repetition of Patterns
-\* = Match 0 or more times
-\+ = match 1 or more times
-\? = Match 0 or 1 time
+$*$ = Match 0 or more times
+$+$ = match 1 or more times
+$?$ = Match 0 or 1 time
 (*A regular expression allowed to match 0 times can match an empty string* , $\epsilon$)

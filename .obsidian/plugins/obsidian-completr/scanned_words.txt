@@ -37,6 +37,7 @@ mathematical
 meaning
 maintains
 many
+match
 graphic
 general
 given
@@ -59,6 +60,7 @@ generally
 give
 goal
 groups
+guess
 representation
 rd
 respect
@@ -106,6 +108,10 @@ resulting
 real
 rules
 return
+represent
+regular
+representing
+repetitions
 of
 one
 or
@@ -143,6 +149,7 @@ over
 observation
 obtained
 occurs
+operator
 the
 those
 th
@@ -192,6 +199,7 @@ their
 techniques
 taken
 tree
+transition
 slope
 solution
 special
@@ -284,6 +292,11 @@ shorter
 size
 shown
 sure
+strings
+string
+said
+simulate
+state
 in
 involving
 is
@@ -377,6 +390,7 @@ distinct
 description
 diagram
 declared
+described
 Definition
 DE
 Decode
@@ -396,6 +410,7 @@ Daughters
 Definitions
 Discrete
 Distortion
+DFA
 where
 written
 with
@@ -434,6 +449,7 @@ user
 unlabeled
 unordered
 unstable
+unique
 consists
 can
 case
@@ -521,6 +537,9 @@ correspondance
 childrens
 constructors
 combination
+concise
+choice
+corresponds
 functions
 find
 form
@@ -552,6 +571,7 @@ frrquncy
 finite
 found
 finding
+fashion
 variable
 value
 vs
@@ -653,6 +673,13 @@ addition
 acted
 application
 arguments
+appended
+allows
+allowed
+always
+accepting
+above
+alternation
 ODE
 Order
 ODEs
@@ -695,6 +722,7 @@ byte
 built
 block
 below
+bad
 We
 What
 Workload
@@ -723,6 +751,8 @@ hunted
 helped
 houses
 hashing
+he
+helpful
 Ex
 ECE
 Embedded
@@ -739,6 +769,7 @@ Eculidian
 Endianness
 Endian
 Extremely
+Edges
 Solution
 Speedup
 Systems
@@ -775,6 +806,7 @@ Similarity
 Signals
 Shown
 Special
+Some
 Classification
 Constant
 Common
@@ -805,6 +837,9 @@ CISC
 Continuous
 CT
 Constructors
+Concatenation
+Characteristics
+Closure
 level
 linear
 long
@@ -841,6 +876,8 @@ length
 low
 lower
 lead
+leaving
+leave
 Linear
 LHS
 Latency
@@ -900,6 +937,7 @@ How
 Hz
 Hold
 Have
+However
 equal
 embedded
 extremely
@@ -936,12 +974,17 @@ exist
 extent
 endian
 explicitly
+expression
+easy
+expressions
 zero
 Non
 NP
 Nyquist
 NEC
 Note
+NFAs
+NFA
 For
 First
 Find
@@ -954,6 +997,7 @@ Free
 Formally
 Feedback
 Files
+Finite
 Quantitative
 Queue
 problems
@@ -1038,6 +1082,7 @@ Most
 Mathematical
 Min
 May
+Match
 RHS
 Rapunzel
 Represents
@@ -1050,6 +1095,8 @@ Response
 Right
 Randomly
 Refers
+REs
+Repetition
 Peripheral
 Pulse
 Phase
@@ -1070,6 +1117,7 @@ Priority
 Pulses
 Properties
 Parse
+Patterns
 Africa
 All
 Arithmetic
@@ -1098,6 +1146,8 @@ Assign
 Also
 Average
 Always
+Alternation
+Automata
 you
 yields
 Universal
@@ -1133,6 +1183,7 @@ knowledge
 key
 Kruskal
 Key
+Kleene
 Variance
 Vocabulary
 Vector
