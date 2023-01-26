@@ -32,3 +32,8 @@ Many different types available in [[Complex Instruction Set Computers|CISC]] arc
 - Register (ADD R4, R3)
 - Immediate (ADD R4, #3)
 - Displacement (ADD R4, 100(R1)); local variables & register indirect
+
+## Formats
+**R-Format:** register to register format
+**I-Format:** immediate format
+**J-Format:** jump/branch format

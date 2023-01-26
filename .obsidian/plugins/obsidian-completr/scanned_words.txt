@@ -112,6 +112,8 @@ represent
 regular
 representing
 repetitions
+representations
+results
 of
 one
 or
@@ -200,6 +202,8 @@ techniques
 taken
 tree
 transition
+types
+transfer
 slope
 solution
 special
@@ -297,6 +301,10 @@ string
 said
 simulate
 state
+storage
+sequences
+sizes
+source
 in
 involving
 is
@@ -348,6 +356,9 @@ invertible
 index
 intialize
 implicitly
+include
+indirect
+immediate
 domain
 derivatives
 dependent
@@ -391,6 +402,9 @@ description
 diagram
 declared
 described
+designers
+datapath
+destination
 Definition
 DE
 Decode
@@ -411,6 +425,8 @@ Definitions
 Discrete
 Distortion
 DFA
+Division
+Displacement
 where
 written
 with
@@ -450,6 +466,7 @@ unlabeled
 unordered
 unstable
 unique
+unpipelined
 consists
 can
 case
@@ -540,6 +557,8 @@ combination
 concise
 choice
 corresponds
+conditions
+contiguously
 functions
 find
 form
@@ -572,6 +591,9 @@ finite
 found
 finding
 fashion
+formatting
+falls
+format
 variable
 value
 vs
@@ -610,6 +632,12 @@ Invariance
 Iterate
 Input
 Invertible
+Interface
+Instructions
+Integer
+Immediate
+Ideally
+ILP
 an
 as
 and
@@ -680,6 +708,16 @@ always
 accepting
 above
 alternation
+along
+answer
+arithmetic
+aggregate
+arrays
+allocated
+architectures
+achieved
+aren
+adjacent
 ODE
 Order
 ODEs
@@ -693,6 +731,7 @@ OOP
 One
 Outside
 Output
+Organization
 be
 but
 because
@@ -723,6 +762,8 @@ built
 block
 below
 bad
+branching
+behavior
 We
 What
 Workload
@@ -753,6 +794,7 @@ houses
 hashing
 he
 helpful
+hazards
 Ex
 ECE
 Embedded
@@ -770,6 +812,7 @@ Endianness
 Endian
 Extremely
 Edges
+Exception
 Solution
 Speedup
 Systems
@@ -807,6 +850,7 @@ Signals
 Shown
 Special
 Some
+SUB
 Classification
 Constant
 Common
@@ -878,6 +922,7 @@ lower
 lead
 leaving
 leave
+local
 Linear
 LHS
 Latency
@@ -931,6 +976,7 @@ quasi
 qualitative
 quality
 quantity
+question
 Homogeneous
 Hardware
 How
@@ -977,6 +1023,7 @@ explicitly
 expression
 easy
 expressions
+encodings
 zero
 Non
 NP
@@ -985,6 +1032,7 @@ NEC
 Note
 NFAs
 NFA
+No
 For
 First
 Find
@@ -998,6 +1046,11 @@ Formally
 Feedback
 Files
 Finite
+Forms
+Floating
+Formats
+Format
+Fig
 Quantitative
 Queue
 problems
@@ -1059,6 +1112,16 @@ partition
 physical
 primarily
 power
+programmable
+programmer
+perform
+procedures
+point
+purely
+pipelined
+practice
+pipeline
+propagated
 Move
 Myths
 Main
@@ -1083,6 +1146,8 @@ Mathematical
 Min
 May
 Match
+Minimal
+Modes
 RHS
 Rapunzel
 Represents
@@ -1097,6 +1162,8 @@ Randomly
 Refers
 REs
 Repetition
+Register
+Registers
 Peripheral
 Pulse
 Phase
@@ -1118,6 +1185,9 @@ Pulses
 Properties
 Parse
 Patterns
+Programmer
+Primitive
+Pipeline
 Africa
 All
 Arithmetic
@@ -1148,6 +1218,9 @@ Average
 Always
 Alternation
 Automata
+Assembly
+ADD
+Addressing
 you
 yields
 Universal
@@ -1166,6 +1239,7 @@ BIBO
 Jumps
 jump
 just
+jumps
 General
 Gives
 Grammars
