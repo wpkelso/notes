@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cafc6e76dcdf15e8",
+        "id": "135ba842b789f04f",
         "type": "tabs",
         "children": [
           {
-            "id": "b189581e3e34ad54",
+            "id": "b78da365b2b00eeb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -153,17 +153,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b189581e3e34ad54",
+  "active": "b78da365b2b00eeb",
   "lastOpenFiles": [
+    "Semantic Analysis.md",
+    "Syntax Directed Translation.md",
+    "Epsilon Closure.md",
+    "Deterministic Finite Automata.md",
+    "Non-Deterministic Finite Automata.md",
+    "Finite Automata.md",
     "Designing Datapaths.md",
     "Instruction-Level Parallelism.md",
     "Pipelining.md",
-    "Amdhal's Law.md",
-    "Instruction Set Architecture.md",
-    "Regular Expression.md",
-    "Non-Deterministic Finite Automata.md",
-    "Deterministic Finite Automata.md",
-    "Finite Automata.md",
-    "Grammar.md"
+    "Amdhal's Law.md"
   ]
 }
