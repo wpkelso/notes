@@ -115,6 +115,7 @@ repetitions
 representations
 results
 reachable
+reading
 of
 one
 or
@@ -308,6 +309,7 @@ storage
 sequences
 sizes
 source
+sides
 in
 involving
 is
@@ -408,6 +410,7 @@ described
 designers
 datapath
 destination
+don
 Definition
 DE
 Decode
@@ -430,6 +433,7 @@ Distortion
 DFA
 Division
 Displacement
+Discovery
 where
 written
 with
@@ -454,6 +458,7 @@ weighted
 without
 worse
 would
+whether
 unknowns
 usually
 used
@@ -781,6 +786,7 @@ Workload
 Writeback
 Write
 When
+Where
 have
 highest
 homogenous
@@ -966,6 +972,7 @@ Types
 Tree
 TI
 They
+Take
 not
 non
 natural
@@ -1037,6 +1044,7 @@ easy
 expressions
 encodings
 exploration
+exact
 zero
 Non
 NP
@@ -1064,6 +1072,7 @@ Floating
 Formats
 Format
 Fig
+Further
 Quantitative
 Queue
 problems
@@ -1135,6 +1144,7 @@ pipelined
 practice
 pipeline
 propagated
+partial
 Move
 Myths
 Main

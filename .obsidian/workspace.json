@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "135ba842b789f04f",
+        "id": "25c9526e42ed3d70",
         "type": "tabs",
         "children": [
           {
-            "id": "b78da365b2b00eeb",
+            "id": "fa79a2de66cd124c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Exact Equations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exact Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Exact Equations.md"
+              }
             }
           }
         ]
@@ -153,8 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b78da365b2b00eeb",
+  "active": "fa79a2de66cd124c",
   "lastOpenFiles": [
+    "Exact Equations.md",
+    "Ordinary Differential Equation.md",
     "Semantic Analysis.md",
     "Syntax Directed Translation.md",
     "Epsilon Closure.md",
@@ -162,8 +171,6 @@
     "Non-Deterministic Finite Automata.md",
     "Finite Automata.md",
     "Designing Datapaths.md",
-    "Instruction-Level Parallelism.md",
-    "Pipelining.md",
-    "Amdhal's Law.md"
+    "Instruction-Level Parallelism.md"
   ]
 }
