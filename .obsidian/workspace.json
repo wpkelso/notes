@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "25c9526e42ed3d70",
+        "id": "c554c9aacb9217ec",
         "type": "tabs",
         "children": [
           {
-            "id": "fa79a2de66cd124c",
+            "id": "458944274c04b153",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exact Equations.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exact Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Exact Equations.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,17 +153,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa79a2de66cd124c",
+  "active": "458944274c04b153",
   "lastOpenFiles": [
+    "Non-Western Literature.md",
+    "Early Arabic Poetry.md",
+    "Qasida.md",
+    "Adapa the Man.md",
     "Exact Equations.md",
     "Ordinary Differential Equation.md",
     "Semantic Analysis.md",
     "Syntax Directed Translation.md",
     "Epsilon Closure.md",
-    "Deterministic Finite Automata.md",
-    "Non-Deterministic Finite Automata.md",
-    "Finite Automata.md",
-    "Designing Datapaths.md",
-    "Instruction-Level Parallelism.md"
+    "Deterministic Finite Automata.md"
   ]
 }

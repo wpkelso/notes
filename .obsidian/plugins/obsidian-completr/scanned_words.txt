@@ -38,6 +38,7 @@ meaning
 maintains
 many
 match
+metre
 graphic
 general
 given
@@ -116,6 +117,8 @@ representations
 results
 reachable
 reading
+rhymes
+runs
 of
 one
 or
@@ -208,6 +211,8 @@ types
 transfer
 transitions
 thought
+throughout
+typically
 slope
 solution
 special
@@ -310,6 +315,7 @@ sequences
 sizes
 source
 sides
+sometimes
 in
 involving
 is
@@ -434,6 +440,7 @@ DFA
 Division
 Displacement
 Discovery
+Deserted
 where
 written
 with
@@ -459,6 +466,7 @@ without
 worse
 would
 whether
+writing
 unknowns
 usually
 used
@@ -570,6 +578,9 @@ conditions
 contiguously
 consider
 closure
+camp
+cultures
+classic
 functions
 find
 form
@@ -608,6 +619,7 @@ format
 final
 force
 following
+fifteen
 variable
 value
 vs
@@ -748,6 +760,7 @@ One
 Outside
 Output
 Organization
+Odes
 be
 but
 because
@@ -812,6 +825,8 @@ hashing
 he
 helpful
 hazards
+home
+hundred
 Ex
 ECE
 Embedded
@@ -830,6 +845,8 @@ Endian
 Extremely
 Edges
 Exception
+East
+Elegy
 Solution
 Speedup
 Systems
@@ -868,6 +885,8 @@ Shown
 Special
 Some
 SUB
+Sakhr
+Sumeria
 Classification
 Constant
 Common
@@ -941,6 +960,8 @@ lead
 leaving
 leave
 local
+line
+lines
 Linear
 LHS
 Latency
@@ -973,6 +994,7 @@ Tree
 TI
 They
 Take
+Travel
 not
 non
 natural
@@ -996,6 +1018,7 @@ qualitative
 quality
 quantity
 question
+qasida
 Homogeneous
 Hardware
 How
@@ -1003,6 +1026,7 @@ Hz
 Hold
 Have
 However
+Her
 equal
 embedded
 extremely
@@ -1045,6 +1069,9 @@ expressions
 encodings
 exploration
 exact
+expansion
+elaborate
+eighty
 zero
 Non
 NP
@@ -1145,6 +1172,8 @@ practice
 pipeline
 propagated
 partial
+poetry
+poem
 Move
 Myths
 Main
@@ -1171,6 +1200,8 @@ May
 Match
 Minimal
 Modes
+Middle
+Muslim
 RHS
 Rapunzel
 Represents
@@ -1244,6 +1275,10 @@ Automata
 Assembly
 ADD
 Addressing
+Ancient
+Arabic
+Arab
+Arabia
 you
 yields
 Universal
@@ -1260,6 +1295,8 @@ Binary
 Bounded
 BIBO
 Brute
+Brother
+Boasting
 Jumps
 jump
 just
@@ -1272,6 +1309,7 @@ Generator
 Generally
 Goes
 Given
+Going
 known
 keep
 keys
