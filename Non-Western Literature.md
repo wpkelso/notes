@@ -4,7 +4,12 @@
 [[Sunjata]]
 [[Life of Olauda Equiano]]
 
-## Egypt
+## The Middle East
+### Egypt
 [[Pyramid Texts]]
 [[The Shipwrecked Sailor]]
 [[The Tale of the Doomed Prince]]
+### Sumeria
+[[Adapa the Man]]
+### Arabia
+[[Early Arabic Poetry]]
