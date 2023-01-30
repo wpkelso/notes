@@ -9,6 +9,9 @@ A formula which gives the theoretical [speedup](https://en.wikipedia.org/wiki/Sp
 >$p$ is the proportion of execution time that the part benefitting from resources originally occupied
 >
 >[Source](https://en.wikipedia.org/wiki/Amdahl%27s_law)	
+## Considering more than one factor
+$$S_{\text{latency}}(s)=\frac{1}{(1-p_1-p_2)+\frac{p_1}{s_1}+\frac{p_2}{s_2}}$$
+
 
 ## Law for Multicore Systems
 - Moving from 1 core to $n$ cores

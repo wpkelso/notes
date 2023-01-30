@@ -10,6 +10,8 @@
 [[The Shipwrecked Sailor]]
 [[The Tale of the Doomed Prince]]
 ### Sumeria
+[[Enheduanna]]
 [[Adapa the Man]]
 ### Arabia
 [[Early Arabic Poetry]]
+[[The Quran]]

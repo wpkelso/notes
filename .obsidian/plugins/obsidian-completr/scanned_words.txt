@@ -119,6 +119,8 @@ reachable
 reading
 rhymes
 runs
+religion
+recorded
 of
 one
 or
@@ -157,6 +159,9 @@ observation
 obtained
 occurs
 operator
+obediance
+oral
+originating
 the
 those
 th
@@ -213,6 +218,10 @@ transitions
 thought
 throughout
 typically
+text
+textual
+tithe
+teachings
 slope
 solution
 special
@@ -316,6 +325,7 @@ sizes
 source
 sides
 sometimes
+seen
 in
 involving
 is
@@ -467,6 +477,7 @@ worse
 would
 whether
 writing
+were
 unknowns
 usually
 used
@@ -581,6 +592,8 @@ closure
 camp
 cultures
 classic
+confined
+compiled
 functions
 find
 form
@@ -664,6 +677,7 @@ Integer
 Immediate
 Ideally
 ILP
+Islam
 an
 as
 and
@@ -746,6 +760,7 @@ aren
 adjacent
 active
 automata
+around
 ODE
 Order
 ODEs
@@ -793,6 +808,7 @@ below
 bad
 branching
 behavior
+book
 We
 What
 Workload
@@ -827,6 +843,8 @@ helpful
 hazards
 home
 hundred
+holy
+his
 Ex
 ECE
 Embedded
@@ -887,6 +905,7 @@ Some
 SUB
 Sakhr
 Sumeria
+Submission
 Classification
 Constant
 Common
@@ -921,6 +940,7 @@ Concatenation
 Characteristics
 Closure
 Conversion
+Charity
 level
 linear
 long
@@ -995,6 +1015,8 @@ TI
 They
 Take
 Travel
+Testimony
+Testament
 not
 non
 natural
@@ -1100,6 +1122,8 @@ Formats
 Format
 Fig
 Further
+Faith
+Fasting
 Quantitative
 Queue
 problems
@@ -1202,6 +1226,7 @@ Minimal
 Modes
 Middle
 Muslim
+Muhammad
 RHS
 Rapunzel
 Represents
@@ -1242,6 +1267,10 @@ Patterns
 Programmer
 Primitive
 Pipeline
+Pillars
+Pilgrimmage
+Prayer
+Prophet
 Africa
 All
 Arithmetic
