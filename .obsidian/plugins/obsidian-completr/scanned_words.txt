@@ -326,6 +326,7 @@ source
 sides
 sometimes
 seen
+second
 in
 involving
 is
@@ -427,6 +428,7 @@ designers
 datapath
 destination
 don
+differential
 Definition
 DE
 Decode
@@ -478,6 +480,7 @@ would
 whether
 writing
 were
+wellposed
 unknowns
 usually
 used
@@ -594,6 +597,7 @@ cultures
 classic
 confined
 compiled
+center
 functions
 find
 form
@@ -678,6 +682,7 @@ Immediate
 Ideally
 ILP
 Islam
+Iran
 an
 as
 and
@@ -761,6 +766,7 @@ adjacent
 active
 automata
 around
+assume
 ODE
 Order
 ODEs
@@ -1017,6 +1023,7 @@ Take
 Travel
 Testimony
 Testament
+Therefore
 not
 non
 natural
@@ -1094,6 +1101,7 @@ exact
 expansion
 elaborate
 eighty
+equations
 zero
 Non
 NP
@@ -1124,6 +1132,7 @@ Fig
 Further
 Faith
 Fasting
+Form
 Quantitative
 Queue
 problems
@@ -1271,6 +1280,7 @@ Pillars
 Pilgrimmage
 Prayer
 Prophet
+Persia
 Africa
 All
 Arithmetic

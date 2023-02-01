@@ -35,14 +35,6 @@ A [[Differential Equation]] where the unknowns consists of one or more functions
 >Move all $y, y',...$ terms to the LHS, if the RHS $=0$, homogenous. If not, it's non-homogeneous
 
 ## Solution Techniques for First-Order ODEs (Linear & Non-Linear)
-*(Trying to find analytic solutions of ODEs)*
-
->[!question] 
->$$\frac{dy}{dt}=-ky$$
->*1<sup>st</sup> order, linear, constant coefficient, homogeneous ODE*
-
-1. Find the general solution
-2. Solution to [[Initial Value Problem]]
-
->[!question] 
->$$\frac{dy}{dx}=xy$$
+- Linear -> formula
+- [[Separable ODEs|Separable]]
+- [[Exact Equations|Exact equation]]

@@ -15,3 +15,8 @@
 ### Arabia
 [[Early Arabic Poetry]]
 [[The Quran]]
+[[Rabia]]
+[[1001 Nights]]
+[[Book of Reflections]]
+## Iran/Persia
+[[Epic of Kings]]
