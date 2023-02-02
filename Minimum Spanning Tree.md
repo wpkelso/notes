@@ -1,7 +1,7 @@
 ---
 aliases: [MST]
 ---
-#data_structures #graph_theory #mathematics 
+#programming #data_structures #graph_theory #mathematics 
 
 An instance of a [[Tree (Data Structure)|tree]] that has a minimum weight.
 

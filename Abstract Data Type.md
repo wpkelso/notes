@@ -1,4 +1,4 @@
-#data_structures #ECE309 #programming 
+#data_structures #programming 
 
 An abstract data type (ADT) is a data type described by predefined user operations, without indication as to how each operation is implemented. An ADT can be implemented using different underlying [[data structure]]s, but you don't necessarily have to know the implementation to be able to use it.
 

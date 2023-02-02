@@ -14,33 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "738963ea6f5d424d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non-Western Literature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b11e0ae70fe2ed8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1001 Nights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -131,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1001 Nights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1001 Nights.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,17 +153,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b11e0ae70fe2ed8a",
+  "active": "458944274c04b153",
   "lastOpenFiles": [
-    "Non-Western Literature.md",
-    "Rabia.md",
-    "Second Order Linear ODE.md",
-    "Ordinary Differential Equation.md",
+    "Sampling Theorem.md",
+    "Vertex.md",
+    "Runtime Complexity.md",
+    "Depth First Search.md",
+    "Vector (Disambiguation).md",
+    "Server Computing Classification.md",
     "Exact Equations.md",
-    "Islam.md",
-    "The Quran.md",
-    "Amdhal's Law.md",
-    "Early Arabic Poetry.md",
-    "Qasida.md"
+    "Keyword Modifiers.md",
+    "Singly-Linked List.md",
+    "Semantic Analysis.md"
   ]
 }
