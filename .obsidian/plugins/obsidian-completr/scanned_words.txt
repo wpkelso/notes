@@ -44,6 +44,7 @@ minimized
 man
 metaphor
 much
+matrix
 graphic
 general
 given
@@ -353,6 +354,8 @@ showing
 service
 semantic
 servers
+study
+show
 in
 involving
 is
@@ -473,6 +476,7 @@ describes
 deletion
 doing
 defines
+determinant
 Definition
 DE
 Decode
@@ -501,6 +505,9 @@ Detection
 Dependency
 Deriving
 Domain
+Denoted
+Defining
+Determinant
 where
 written
 with
@@ -707,6 +714,8 @@ follow
 figures
 figured
 feedback
+follows
+field
 variable
 value
 vs
@@ -1009,6 +1018,7 @@ Sumeria
 Submission
 Set
 Scales
+Solving
 Classification
 Constant
 Common
@@ -1216,6 +1226,8 @@ event
 environment
 expense
 expensive
+entries
+element
 zero
 Non
 NP
@@ -1253,6 +1265,7 @@ Flow
 Forwarding
 Forward
 Finding
+Formulas
 Quantitative
 Queue
 problems
