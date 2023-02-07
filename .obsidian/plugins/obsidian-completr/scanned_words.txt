@@ -45,6 +45,7 @@ man
 metaphor
 much
 matrix
+multiplier
 graphic
 general
 given
@@ -131,6 +132,7 @@ runtime
 represents
 remain
 retelling
+relationship
 of
 one
 or
@@ -175,6 +177,7 @@ originating
 occures
 opposed
 off
+ops
 the
 those
 th
@@ -240,6 +243,8 @@ though
 triggered
 translating
 trade
+trigonometric
+transform
 slope
 solution
 special
@@ -358,6 +363,7 @@ servers
 study
 show
 sitting
+supports
 in
 involving
 is
@@ -482,6 +488,8 @@ defines
 determinant
 divided
 drainage
+double
+divider
 Definition
 DE
 Decode
@@ -514,6 +522,7 @@ Denoted
 Defining
 Determinant
 Dried
+Different
 where
 written
 with
@@ -568,6 +577,8 @@ unique
 unpipelined
 union
 underlying
+units
+useful
 consists
 can
 case
@@ -681,6 +692,8 @@ cutting
 chair
 carried
 crafts
+converts
+change
 functions
 find
 form
@@ -726,6 +739,8 @@ figured
 feedback
 follows
 field
+floating
+functional
 variable
 value
 vs
@@ -778,6 +793,9 @@ Implemented
 Interesting
 Interactions
 Introduction
+Int
+Identity
+Im
 an
 as
 and
@@ -871,6 +889,7 @@ attributes
 action
 associated
 amounts
+adder
 ODE
 Order
 ODEs
@@ -886,6 +905,8 @@ Outside
 Output
 Organization
 Odes
+Of
+Operations
 be
 but
 because
@@ -927,6 +948,7 @@ bug
 bride
 bed
 bricks
+bit
 We
 What
 Workload
@@ -992,6 +1014,7 @@ East
 Elegy
 English
 Efficient
+Execution
 Solution
 Speedup
 Systems
@@ -1119,6 +1142,9 @@ leave
 local
 line
 lines
+loads
+latency
+latencies
 Linear
 LHS
 Latency
@@ -1178,6 +1204,8 @@ needed
 need
 never
 name
+now
+named
 quasi
 qualitative
 quality
@@ -1249,6 +1277,8 @@ expense
 expensive
 entries
 element
+establishes
+evaluated
 zero
 Non
 NP
@@ -1261,6 +1291,7 @@ No
 Name
 Notation
 New
+Named
 For
 First
 Find
@@ -1289,6 +1320,7 @@ Forward
 Finding
 Formulas
 Family
+FP
 Quantitative
 Queue
 problems
@@ -1380,6 +1412,7 @@ piece
 production
 peoples
 plumbing
+precision
 Move
 Myths
 Main
@@ -1411,6 +1444,8 @@ Muslim
 Muhammad
 Modulation
 Mande
+Multi
+Multiple
 RHS
 Rapunzel
 Represents
@@ -1428,6 +1463,7 @@ Repetition
 Register
 Registers
 Real
+Re
 Peripheral
 Pulse
 Phase

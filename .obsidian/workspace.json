@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "458944274c04b153",
+            "id": "9cd42d3dbcc15f53",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -153,17 +153,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "458944274c04b153",
+  "active": "9cd42d3dbcc15f53",
   "lastOpenFiles": [
+    "Laplace Transform.md",
+    "Complex Signals.md",
+    "Euler's Identity.md",
+    "Euler's Formula.md",
+    "Floating Point Pipeline.md",
+    "Designing Datapaths.md",
     "Rig Veda.md",
     "Dharma.md",
     "Non-Western Literature.md",
-    "Mohenjo Daro.md",
-    "Sunjata.md",
-    "Non-Deterministic Finite Automata.md",
-    "Vector (Math).md",
-    "Scalar.md",
-    "Homogenous Linear Equations.md",
-    "Determinant.md"
+    "Mohenjo Daro.md"
   ]
 }
