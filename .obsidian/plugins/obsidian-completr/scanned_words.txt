@@ -46,6 +46,7 @@ metaphor
 much
 matrix
 multiplier
+million
 graphic
 general
 given
@@ -69,6 +70,7 @@ give
 goal
 groups
 guess
+generation
 representation
 rd
 respect
@@ -133,6 +135,8 @@ represents
 remain
 retelling
 relationship
+reproduce
+records
 of
 one
 or
@@ -178,6 +182,8 @@ occures
 opposed
 off
 ops
+organisms
+offspring
 the
 those
 th
@@ -245,6 +251,9 @@ translating
 trade
 trigonometric
 transform
+traits
+tall
+tools
 slope
 solution
 special
@@ -364,6 +373,16 @@ study
 show
 sitting
 supports
+species
+survive
+selection
+surviving
+skull
+stooped
+specimens
+significantly
+significant
+stone
 in
 involving
 is
@@ -523,6 +542,7 @@ Defining
 Determinant
 Dried
 Different
+Darwin
 where
 written
 with
@@ -559,6 +579,7 @@ ways
 whatever
 was
 while
+wealth
 unknowns
 usually
 used
@@ -694,6 +715,10 @@ carried
 crafts
 converts
 change
+conclusions
+created
+cranium
+chipped
 functions
 find
 form
@@ -741,6 +766,12 @@ follows
 field
 floating
 functional
+facts
+fact
+favored
+famous
+fossil
+face
 variable
 value
 vs
@@ -761,6 +792,8 @@ vluster
 varies
 violated
 vertical
+variability
+vegetarian
 In
 If
 It
@@ -890,6 +923,10 @@ action
 associated
 amounts
 adder
+ancestor
+ago
+ape
+about
 ODE
 Order
 ODEs
@@ -907,6 +944,7 @@ Organization
 Odes
 Of
 Operations
+Origin
 be
 but
 because
@@ -949,6 +987,9 @@ bride
 bed
 bricks
 bit
+biology
+bipedal
+believe
 We
 What
 Workload
@@ -992,6 +1033,9 @@ happened
 hold
 handle
 hunters
+history
+human
+had
 Ex
 ECE
 Embedded
@@ -1015,6 +1059,8 @@ Elegy
 English
 Efficient
 Execution
+Evolutionary
+Ethiopia
 Solution
 Speedup
 Systems
@@ -1060,6 +1106,7 @@ Set
 Scales
 Solving
 South
+Species
 Classification
 Constant
 Common
@@ -1101,6 +1148,7 @@ Complex
 Checking
 Customs
 Cities
+Charles
 level
 linear
 long
@@ -1145,6 +1193,9 @@ lines
 loads
 latency
 latencies
+lived
+lbs
+larger
 Linear
 LHS
 Latency
@@ -1161,6 +1212,7 @@ Let
 Little
 LMD
 Laplace
+Lucy
 There
 Techniques
 Trying
@@ -1222,6 +1274,9 @@ However
 Her
 Handling
 Harrapans
+Human
+Homo
+Habilis
 equal
 embedded
 extremely
@@ -1279,6 +1334,10 @@ entries
 element
 establishes
 evaluated
+exhibit
+encompassing
+exhibiting
+early
 zero
 Non
 NP
@@ -1321,6 +1380,8 @@ Finding
 Formulas
 Family
 FP
+Females
+Female
 Quantitative
 Queue
 problems
@@ -1413,6 +1474,9 @@ production
 peoples
 plumbing
 precision
+presented
+posture
+predecessors
 Move
 Myths
 Main
@@ -1446,6 +1510,8 @@ Modulation
 Mande
 Multi
 Multiple
+Males
+Male
 RHS
 Rapunzel
 Represents
@@ -1541,8 +1607,11 @@ Algorithms
 Alternative
 Associate
 Asia
+Australopithecus
+Afarensis
 you
 yields
+years
 Universal
 Unconditional
 Useful
@@ -1588,6 +1657,7 @@ Kruskal
 Key
 Kleene
 Kiln
+Known
 Variance
 Vocabulary
 Vector

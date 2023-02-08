@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#mathematics",
@@ -22,6 +22,20 @@
       }
     },
     {
+      "query": "tag:#history",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#religion",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
       "query": "tag:#programming",
       "color": {
         "a": 1,
@@ -32,42 +46,35 @@
       "query": "tag:#embedded_systems",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 11657298
       }
     },
     {
       "query": "tag:#signal_analysis",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 14701138
       }
     },
     {
       "query": "tag:#machine_learning",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 11657298
       }
     },
     {
       "query": "tag:#computer_architecture",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 11657298
       }
     },
     {
       "query": "tag:#compilers",
       "color": {
         "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "tag:#religion",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
+        "rgb": 11657298
       }
     }
   ],
@@ -81,6 +88,6 @@
   "repelStrength": 11.5384615384615,
   "linkStrength": 1,
   "linkDistance": 46,
-  "scale": 0.13577369247077717,
+  "scale": 0.06282480754802411,
   "close": true
 }
