@@ -1,0 +1,2 @@
+#compilers #programming 
+A form of [[Intermediate Representation|intermediate representation]] in which the program is encoded as a graph, and optimizations operate on [[Vertex|nodes]], [[Edge|edges]], [[Linked List|lists]], or [[Tree (Data Structure)|trees]]. For example, a [[Parse Tree|parse tree]] could be used.

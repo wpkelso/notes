@@ -16,31 +16,19 @@
             }
           },
           {
-            "id": "d9efaa593153c7f3",
+            "id": "21a79095060642e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semantic Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e6271bd7b9958ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semantic Attributes.md",
+                "file": "Control Flow Graph.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semantic Attributes.md",
+                "file": "Control Flow Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semantic Attributes.md"
+                "file": "Control Flow Graph.md"
               }
             }
           }
@@ -181,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e6271bd7b9958ae",
+  "active": "21a79095060642e3",
   "lastOpenFiles": [
-    "Semantic Analysis.md",
-    "Syntax Directed Translation.md",
-    "Non-Western Literature.md",
-    "Dharmasatras.md",
-    "Dharmasutras.md",
-    "Laws of Manu.md",
-    "Paleolithic.md",
-    "Homo Habilis.md",
-    "Homo Erectus.md",
-    "Australopithecus Afarensis.md"
+    "Control Flow Graph.md",
+    "Control Flow Dominance.md",
+    "Dominator Tree.md",
+    "Graph.md",
+    "Path.md",
+    "Edge.md",
+    "Directed Acyclic Graph.md",
+    "Intermediate Representation.md",
+    "Graphical Intermediate Representation.md",
+    "Hybrid Intermediate Representation.md"
   ]
 }

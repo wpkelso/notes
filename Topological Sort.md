@@ -1,7 +1,7 @@
 #data_structures #ECE309 #graph_theory #programming 
 
 >[!note] Definition
->Orders the nodes in a [[Directed Acylic Graph|DAG]] such that the source of an [[Edge (Data Structure)|edge]] occurs before the destination of the edge
+>Orders the nodes in a [[Directed Acyclic Graph|DAG]] such that the source of an [[Edge|edge]] occurs before the destination of the edge
 
 ## Implementations
 - Approach 1:

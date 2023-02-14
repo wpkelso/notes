@@ -71,7 +71,9 @@ goal
 groups
 guess
 generation
-genre
+generically
+goals
+guaranteed
 representation
 rd
 respect
@@ -138,7 +140,7 @@ retelling
 relationship
 reproduce
 records
-referring
+really
 of
 one
 or
@@ -186,7 +188,7 @@ off
 ops
 organisms
 offspring
-omniscient
+operate
 the
 those
 th
@@ -257,9 +259,8 @@ transform
 traits
 tall
 tools
-texts
-targeted
-treatises
+them
+terminated
 slope
 solution
 special
@@ -389,7 +390,8 @@ specimens
 significantly
 significant
 stone
-suggest
+sets
+strictly
 in
 involving
 is
@@ -453,6 +455,9 @@ insertion
 interrupt
 interact
 indoor
+itself
+immediately
+idom
 domain
 derivatives
 dependent
@@ -516,6 +521,13 @@ divided
 drainage
 double
 divider
+debuggable
+dominate
+dom
+dominating
+dominates
+dominators
+dominator
 Definition
 DE
 Decode
@@ -550,8 +562,6 @@ Determinant
 Dried
 Different
 Darwin
-Dharmasatras
-Dharmasutras
 where
 written
 with
@@ -589,6 +599,8 @@ whatever
 was
 while
 wealth
+wide
+widely
 unknowns
 usually
 used
@@ -609,7 +621,6 @@ union
 underlying
 units
 useful
-upon
 consists
 can
 case
@@ -729,9 +740,11 @@ conclusions
 created
 cranium
 chipped
-constitution
-contents
-conduct
+critical
+compilation
+compile
+calls
+connection
 functions
 find
 form
@@ -785,6 +798,8 @@ favored
 famous
 fossil
 face
+fulfilling
+flow
 variable
 value
 vs
@@ -807,6 +822,7 @@ violated
 vertical
 variability
 vegetarian
+variety
 In
 If
 It
@@ -842,6 +858,8 @@ Introduction
 Int
 Identity
 Im
+IR
+ISAs
 an
 as
 and
@@ -940,7 +958,8 @@ ancestor
 ago
 ape
 about
-aside
+assembly
+agnostically
 ODE
 Order
 ODEs
@@ -1004,7 +1023,8 @@ bit
 biology
 bipedal
 believe
-brief
+blocks
+beginning
 We
 What
 Workload
@@ -1013,6 +1033,7 @@ Write
 When
 Where
 West
+With
 have
 highest
 homogenous
@@ -1051,7 +1072,6 @@ hunters
 history
 human
 had
-hinduism
 Ex
 ECE
 Embedded
@@ -1077,6 +1097,7 @@ Efficient
 Execution
 Evolutionary
 Ethiopia
+Expressiveness
 Solution
 Speedup
 Systems
@@ -1123,7 +1144,9 @@ Scales
 Solving
 South
 Species
-Sanskrit
+Structural
+Starting
+Start
 Classification
 Constant
 Common
@@ -1166,6 +1189,7 @@ Checking
 Customs
 Cities
 Charles
+Control
 level
 linear
 long
@@ -1213,8 +1237,7 @@ latencies
 lived
 lbs
 larger
-legal
-law
+leverage
 Linear
 LHS
 Latency
@@ -1232,6 +1255,8 @@ Little
 LMD
 Laplace
 Lucy
+LLVM
+Level
 There
 Techniques
 Trying
@@ -1257,6 +1282,8 @@ Therefore
 True
 Two
 Test
+Taxonomy
+Terminate
 not
 non
 natural
@@ -1277,6 +1304,7 @@ never
 name
 now
 named
+nearest
 quasi
 qualitative
 quality
@@ -1357,6 +1385,9 @@ exhibit
 encompassing
 exhibiting
 early
+encoded
+ease
+excluding
 zero
 Non
 NP
@@ -1370,7 +1401,6 @@ Name
 Notation
 New
 Named
-Nonetheless
 For
 First
 Find
@@ -1402,6 +1432,7 @@ Family
 FP
 Females
 Female
+Formal
 Quantitative
 Queue
 problems
@@ -1497,9 +1528,7 @@ precision
 presented
 posture
 predecessors
-precisely
-person
-portion
+producing
 Move
 Myths
 Main
@@ -1535,7 +1564,6 @@ Multi
 Multiple
 Males
 Male
-Manusmriti
 RHS
 Rapunzel
 Represents
@@ -1633,6 +1661,9 @@ Associate
 Asia
 Australopithecus
 Afarensis
+Abstraction
+As
+Attention
 you
 yields
 years
@@ -1644,7 +1675,6 @@ Unsupervised
 Uses
 Usually
 Utilized
-Unlike
 Branches
 Base
 Bug
@@ -1656,6 +1686,7 @@ Brother
 Boasting
 Big
 BCE
+Basic
 Jumps
 jump
 just
@@ -1669,6 +1700,7 @@ Generally
 Goes
 Given
 Going
+Graph
 known
 keep
 keys
@@ -1678,6 +1710,7 @@ knowledge
 key
 know
 kill
+kind
 Kruskal
 Key
 Kleene
@@ -1687,3 +1720,4 @@ Variance
 Vocabulary
 Vector
 Young
+You

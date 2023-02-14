@@ -1,0 +1,2 @@
+#compilers #programming 
+An [[Intermediate Representation|intermediate representation]] form by which the program is encoded in a sequence of [[Instruction Set Architecture|instructions]] that look similar to assembly language.
