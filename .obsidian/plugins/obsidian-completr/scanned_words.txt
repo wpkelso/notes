@@ -47,6 +47,8 @@ much
 matrix
 multiplier
 million
+multiply
+might
 graphic
 general
 given
@@ -141,6 +143,9 @@ relationship
 reproduce
 records
 really
+rule
+refers
+record
 of
 one
 or
@@ -189,6 +194,7 @@ ops
 organisms
 offspring
 operate
+once
 the
 those
 th
@@ -392,6 +398,8 @@ significant
 stone
 sets
 strictly
+solely
+siblings
 in
 involving
 is
@@ -458,6 +466,7 @@ indoor
 itself
 immediately
 idom
+identifiers
 domain
 derivatives
 dependent
@@ -528,6 +537,8 @@ dominating
 dominates
 dominators
 dominator
+discarded
+determined
 Definition
 DE
 Decode
@@ -562,6 +573,7 @@ Determinant
 Dried
 Different
 Darwin
+Determined
 where
 written
 with
@@ -601,6 +613,7 @@ while
 wealth
 wide
 widely
+whitespace
 unknowns
 usually
 used
@@ -745,6 +758,8 @@ compilation
 compile
 calls
 connection
+convert
+comments
 functions
 find
 form
@@ -860,6 +875,7 @@ Identity
 Im
 IR
 ISAs
+Inherited
 an
 as
 and
@@ -960,6 +976,10 @@ ape
 about
 assembly
 agnostically
+affected
+attribute
+ability
+accommodate
 ODE
 Order
 ODEs
@@ -1025,6 +1045,7 @@ bipedal
 believe
 blocks
 beginning
+become
 We
 What
 Workload
@@ -1147,6 +1168,8 @@ Species
 Structural
 Starting
 Start
+Scanning
+Synthesized
 Classification
 Constant
 Common
@@ -1257,6 +1280,7 @@ Laplace
 Lucy
 LLVM
 Level
+LVALUE
 There
 Techniques
 Trying
@@ -1284,6 +1308,7 @@ Two
 Test
 Taxonomy
 Terminate
+Token
 not
 non
 natural
@@ -1529,6 +1554,9 @@ presented
 posture
 predecessors
 producing
+punctuation
+parents
+possibilities
 Move
 Myths
 Main
@@ -1664,6 +1692,7 @@ Afarensis
 Abstraction
 As
 Attention
+Attributes
 you
 yields
 years
