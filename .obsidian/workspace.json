@@ -14,8 +14,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d9efaa593153c7f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semantic Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e6271bd7b9958ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semantic Attributes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -106,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semantic Attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Semantic Attributes.md"
+              }
             }
           }
         ]
@@ -153,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9cd42d3dbcc15f53",
+  "active": "1e6271bd7b9958ae",
   "lastOpenFiles": [
+    "Semantic Analysis.md",
+    "Syntax Directed Translation.md",
+    "Non-Western Literature.md",
+    "Dharmasatras.md",
+    "Dharmasutras.md",
+    "Laws of Manu.md",
     "Paleolithic.md",
     "Homo Habilis.md",
     "Homo Erectus.md",
-    "Australopithecus Afarensis.md",
-    "Sexual Dimorphism.md",
-    "Ardipithecus.md",
-    "Theory of Evolution.md",
-    "Obsidian Color Codes.md",
-    "River Valley Civilizations.md",
-    "Mohenjo Daro.md"
+    "Australopithecus Afarensis.md"
   ]
 }

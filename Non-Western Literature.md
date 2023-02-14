@@ -22,3 +22,4 @@
 [[Epic of Kings]]
 ## South Asia
 [[Rig Veda]]
+[[Laws of Manu]]
