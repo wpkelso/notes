@@ -51,6 +51,7 @@ multiply
 moon
 moksha
 movement
+medieval
 graphic
 general
 given
@@ -77,6 +78,8 @@ guess
 generation
 genre
 guide
+guidebooks
+guidelines
 representation
 rd
 respect
@@ -146,6 +149,10 @@ records
 referring
 rule
 religious
+rich
+referred
+refers
+reforms
 of
 one
 or
@@ -195,6 +202,7 @@ organisms
 offspring
 omniscient
 once
+older
 the
 those
 th
@@ -269,6 +277,8 @@ texts
 targeted
 treatises
 theistic
+tradition
+towards
 slope
 solution
 special
@@ -405,6 +415,14 @@ seems
 scripture
 synthesis
 selfless
+sacred
+stand
+societal
+simply
+spirituality
+sought
+society
+salvation
 in
 involving
 is
@@ -471,6 +489,7 @@ indoor
 ideas
 ideals
 inspiration
+individual
 domain
 derivatives
 dependent
@@ -537,6 +556,8 @@ divider
 determined
 daughter
 dialogue
+devotion
+devotee
 Definition
 DE
 Decode
@@ -611,6 +632,7 @@ whatever
 was
 while
 wealth
+worship
 unknowns
 usually
 used
@@ -756,6 +778,9 @@ contents
 conduct
 charioteer
 calls
+civil
+criminal
+connotates
 functions
 find
 form
@@ -810,6 +835,9 @@ famous
 fossil
 face
 framework
+four
+fondness
+faith
 variable
 value
 vs
@@ -973,6 +1001,9 @@ aside
 affected
 attribute
 author
+attachment
+ancient
+adopting
 ODE
 Order
 ODEs
@@ -1038,6 +1069,8 @@ bipedal
 believe
 brief
 bhakti
+behaviors
+bring
 We
 What
 Workload
@@ -1088,6 +1121,8 @@ human
 had
 hinduism
 herself
+hymns
+homage
 Ex
 ECE
 Embedded
@@ -1162,6 +1197,7 @@ South
 Species
 Sanskrit
 Synthesized
+Significant
 Classification
 Constant
 Common
@@ -1255,6 +1291,8 @@ legal
 law
 liking
 leaders
+love
+levels
 Linear
 LHS
 Latency
@@ -1273,6 +1311,7 @@ LMD
 Laplace
 Lucy
 LVALUE
+Literally
 There
 Techniques
 Trying
@@ -1318,6 +1357,7 @@ never
 name
 now
 named
+norms
 quasi
 qualitative
 quality
@@ -1401,6 +1441,8 @@ exhibiting
 early
 emperor
 epic
+ethical
+endeavor
 zero
 Non
 NP
@@ -1446,6 +1488,7 @@ Family
 FP
 Females
 Female
+Four
 Quantitative
 Queue
 problems
@@ -1549,6 +1592,10 @@ priestess
 political
 prince
 presents
+personal
+participation
+purity
+paths
 Move
 Myths
 Main
@@ -1685,6 +1732,7 @@ Attributes
 Akkadian
 Author
 Arjuna
+As
 you
 yields
 years
@@ -1741,4 +1789,5 @@ Krishna
 Variance
 Vocabulary
 Vector
+Vedic
 Young
