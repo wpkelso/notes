@@ -1,18 +1,1 @@
-[
-  "quick-latex",
-  "tag-wrangler",
-  "obsidian-git",
-  "note-refactor-obsidian",
-  "obsidian-style-settings",
-  "code-block-copy",
-  "obsidian-completr",
-  "cmenu-plugin",
-  "cm-editor-syntax-highlight-obsidian",
-<<<<<<< HEAD
-  "cm-typewriter-scroll-obsidian",
-  "table-editor-obsidian",
-  "obsidian-hider"
-=======
-  "table-editor-obsidian"
->>>>>>> 743e2fd2fedfa7522410a1a6e7457415751b9cc2
-]
+[]
