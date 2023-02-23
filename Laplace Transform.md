@@ -6,6 +6,6 @@ Integral transform that converts a function of a real variable (usually $t$ in t
 
 
 >[!info] 
->One useful application of the transform is to change [[Ordinary Differential Equation|ordinary differential equations]] into [[Algebra|algebraic]] equations, as well as changing [[Convolution|convolution]] into multiplication.
+>One useful application of the transform is to change [[Differential Equation|differential equations]] into [[Algebra|algebraic]] equations, as well as changing [[Convolution|convolution]] into multiplication.
 
 *To go from the $s$-domain to the time domain, use the [[Inverse Laplace Transform]]*

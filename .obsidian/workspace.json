@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81ef3358c5b7294f",
+        "id": "d56dbd23f1bc1310",
         "type": "tabs",
         "children": [
           {
-            "id": "5e78e96817be0d56",
+            "id": "6e7c761c96bc3770",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -153,8 +153,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e78e96817be0d56",
+  "active": "6e7c761c96bc3770",
   "lastOpenFiles": [
+    "Isocline.md",
+    "Graph.md",
+    "Directed Cyclic Graph.md",
+    "Directed Acyclic Graph.md",
+    "Untitled.md",
+    "Gradient.md",
+    "K-Mean Clustering.md",
+    "Clustering.md",
+    "Bias-Variance Tradeoff.md",
+    "Mean Squared Error.md",
+    "Directional Field.md",
+    "Laplace Transform.md",
+    "Superposition Principle for Linear DEs.md",
+    "Superposition (Disambiguation).md",
+    "Superposition of Signals.md",
+    "First Order Linear ODE.md",
+    "Second Order Linear ODE.md",
+    "Separable ODEs.md",
     "Addition & Subtraction of Signals.md",
     "Impulse.md",
     "Non-Western Literature.md",
@@ -162,19 +180,6 @@
     "Compiler Design.md",
     "Paleolithic.md",
     "Priority Queue.md",
-    "Bhakti.md",
-    "Minimum Spanning Tree.md",
-    "Invertibility.md",
-    "Computer Processor.md",
-    "Complex Instruction Set Computers.md",
-    "Bhakti Movement.md",
-    "Bhagavad Gita.md",
-    "Exact Equations.md",
-    "Dharmasutras.md",
-    "Rig Veda.md",
-    "Rabia.md",
-    "Laws of Manu.md",
-    "Adapa the Man.md",
-    "Enheduanna.md"
+    "Bhakti.md"
   ]
 }

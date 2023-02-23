@@ -52,6 +52,7 @@ moon
 moksha
 movement
 medieval
+map
 graphic
 general
 given
@@ -80,6 +81,9 @@ genre
 guide
 guidebooks
 guidelines
+graphical
+generalized
+gradient
 representation
 rd
 respect
@@ -153,6 +157,8 @@ rich
 referred
 refers
 reforms
+related
+role
 of
 one
 or
@@ -204,6 +210,7 @@ omniscient
 once
 older
 obeys
+orders
 the
 those
 th
@@ -280,6 +287,9 @@ treatises
 theistic
 tradition
 towards
+training
+test
+too
 slope
 solution
 special
@@ -425,6 +435,9 @@ sought
 society
 salvation
 similarly
+solving
+slight
+several
 in
 involving
 is
@@ -492,6 +505,8 @@ ideas
 ideals
 inspiration
 individual
+isocline
+intersecting
 domain
 derivatives
 dependent
@@ -560,6 +575,9 @@ daughter
 dialogue
 devotion
 devotee
+distribution
+differentiable
+direction
 Definition
 DE
 Decode
@@ -635,6 +653,7 @@ was
 while
 wealth
 worship
+won
 unknowns
 usually
 used
@@ -656,6 +675,7 @@ underlying
 units
 useful
 upon
+us
 consists
 can
 case
@@ -783,6 +803,13 @@ calls
 civil
 criminal
 connotates
+constants
+coincide
+curve
+close
+couple
+changes
+calculus
 functions
 find
 form
@@ -840,6 +867,9 @@ framework
 four
 fondness
 faith
+fit
+fastest
+fundamental
 variable
 value
 vs
@@ -863,6 +893,7 @@ vertical
 variability
 vegetarian
 verse
+valued
 In
 If
 It
@@ -1006,6 +1037,8 @@ author
 attachment
 ancient
 adopting
+assumption
+approximation
 ODE
 Order
 ODEs
@@ -1024,6 +1057,7 @@ Odes
 Of
 Operations
 Origin
+Overfitting
 be
 but
 because
@@ -1083,6 +1117,7 @@ Where
 West
 Written
 Was
+Will
 have
 highest
 homogenous
@@ -1151,6 +1186,7 @@ Execution
 Evolutionary
 Ethiopia
 Enlil
+Error
 Solution
 Speedup
 Systems
@@ -1201,6 +1237,7 @@ Sanskrit
 Synthesized
 Significant
 Subtraction
+Squared
 Classification
 Constant
 Common
@@ -1297,6 +1334,7 @@ leaders
 love
 levels
 leads
+linking
 Linear
 LHS
 Latency
@@ -1341,6 +1379,7 @@ Therefore
 True
 Two
 Test
+Theorem
 not
 non
 natural
@@ -1362,6 +1401,7 @@ name
 now
 named
 norms
+noise
 quasi
 qualitative
 quality
@@ -1382,6 +1422,7 @@ Human
 Homo
 Habilis
 Hindu
+High
 equal
 embedded
 extremely
@@ -1447,6 +1488,8 @@ emperor
 epic
 ethical
 endeavor
+especially
+error
 zero
 Non
 NP
@@ -1601,6 +1644,8 @@ participation
 purity
 paths
 pointwise
+placing
+plays
 Move
 Myths
 Main
@@ -1752,6 +1797,8 @@ Uses
 Usually
 Utilized
 Unlike
+Underfitting
+Ultimately
 Branches
 Base
 Bug
@@ -1763,6 +1810,7 @@ Brother
 Boasting
 Big
 BCE
+Bias
 Jumps
 jump
 just

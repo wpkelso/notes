@@ -13,6 +13,6 @@ $$\text{--INSERT MATH FUNCTION FROM NOTES HERE--}$$
 ### Algorithm
 *The number of clusters the algorithm will work on must be defined beforehand*
 1. Randomly assign a number, from I to K, to each of the observations (they'll serve as the initial cluster assignments).
-2. Iterate until cluster assignments stop canging:
+2. Iterate until cluster assignments stop changing:
 	1. For each of the K clusters, compute the cluster *centroid*
-	2. Assign each observation to the vluster whose centroid is closest (due to chosen metric)
+	2. Assign each observation to the cluster whose centroid is closest (due to chosen metric)
