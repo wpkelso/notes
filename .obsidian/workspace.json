@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c554c9aacb9217ec",
+        "id": "81ef3358c5b7294f",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd42d3dbcc15f53",
+            "id": "5e78e96817be0d56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scaling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Scaling.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +153,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9cd42d3dbcc15f53",
+  "active": "5e78e96817be0d56",
   "lastOpenFiles": [
+    "Addition & Subtraction of Signals.md",
+    "Impulse.md",
+    "Non-Western Literature.md",
+    "Scaling.md",
     "Compiler Design.md",
     "Paleolithic.md",
     "Priority Queue.md",
