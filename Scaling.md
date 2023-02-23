@@ -1,4 +1,3 @@
-# Scaling Property
 #signal_analysis 
 If a system obeys this property, then a scaled input leads to a scaled output
 

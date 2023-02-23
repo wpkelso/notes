@@ -203,6 +203,7 @@ offspring
 omniscient
 once
 older
+obeys
 the
 those
 th
@@ -1293,6 +1294,7 @@ liking
 leaders
 love
 levels
+leads
 Linear
 LHS
 Latency
@@ -1681,6 +1683,7 @@ Persia
 Potentially
 Part
 Power
+Property
 Africa
 All
 Arithmetic
