@@ -11,8 +11,12 @@
             "id": "6e7c761c96bc3770",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "China.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "China.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "China.md"
+              }
             }
           }
         ]
@@ -155,6 +162,12 @@
   },
   "active": "6e7c761c96bc3770",
   "lastOpenFiles": [
+    "China.md",
+    "Zhou Dynasty.md",
+    "Book of Songs.md",
+    "Shang Dynasty.md",
+    "Creation Myth.md",
+    "Pan Ku, The Chinese Creator of the Universe.md",
     "Isocline.md",
     "Graph.md",
     "Directed Cyclic Graph.md",
@@ -174,12 +187,6 @@
     "Second Order Linear ODE.md",
     "Separable ODEs.md",
     "Addition & Subtraction of Signals.md",
-    "Impulse.md",
-    "Non-Western Literature.md",
-    "Scaling.md",
-    "Compiler Design.md",
-    "Paleolithic.md",
-    "Priority Queue.md",
-    "Bhakti.md"
+    "Impulse.md"
   ]
 }

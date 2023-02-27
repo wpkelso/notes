@@ -615,6 +615,7 @@ Darwin
 Dharmasatras
 Dharmasutras
 Determined
+Dynasties
 where
 written
 with
@@ -1107,6 +1108,7 @@ brief
 bhakti
 behaviors
 bring
+basins
 We
 What
 Workload
@@ -1280,6 +1282,7 @@ Checking
 Customs
 Cities
 Charles
+China
 level
 linear
 long
@@ -1784,6 +1787,7 @@ Akkadian
 Author
 Arjuna
 As
+Age
 you
 yields
 years
@@ -1811,6 +1815,8 @@ Boasting
 Big
 BCE
 Bias
+Based
+Bronze
 Jumps
 jump
 just
