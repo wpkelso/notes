@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d56dbd23f1bc1310",
+        "id": "46cd2d5066600408",
         "type": "tabs",
         "children": [
           {
-            "id": "6e7c761c96bc3770",
+            "id": "01547fedf32d9eeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "China.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -93,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "84f304345e2826cb",
@@ -110,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "China.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "China.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +152,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e7c761c96bc3770",
+  "active": "01547fedf32d9eeb",
   "lastOpenFiles": [
+    "Laplace Transform.md",
     "China.md",
     "Zhou Dynasty.md",
     "Book of Songs.md",
@@ -179,7 +172,6 @@
     "Bias-Variance Tradeoff.md",
     "Mean Squared Error.md",
     "Directional Field.md",
-    "Laplace Transform.md",
     "Superposition Principle for Linear DEs.md",
     "Superposition (Disambiguation).md",
     "Superposition of Signals.md",
