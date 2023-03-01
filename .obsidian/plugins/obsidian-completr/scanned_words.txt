@@ -84,6 +84,7 @@ guidelines
 graphical
 generalized
 gradient
+grow
 representation
 rd
 respect
@@ -290,6 +291,8 @@ towards
 training
 test
 too
+translated
+things
 slope
 solution
 special
@@ -578,6 +581,8 @@ devotee
 distribution
 differentiable
 direction
+develop
+derived
 Definition
 DE
 Decode
@@ -616,6 +621,8 @@ Dharmasatras
 Dharmasutras
 Determined
 Dynasties
+Daoism
+Dao
 where
 written
 with
@@ -811,6 +818,8 @@ close
 couple
 changes
 calculus
+cyclical
+cosmic
 functions
 find
 form
@@ -1040,6 +1049,7 @@ ancient
 adopting
 assumption
 approximation
+accordance
 ODE
 Order
 ODEs
@@ -1109,6 +1119,7 @@ bhakti
 behaviors
 bring
 basins
+beings
 We
 What
 Workload
@@ -1120,6 +1131,7 @@ West
 Written
 Was
 Will
+War
 have
 highest
 homogenous
@@ -1162,6 +1174,7 @@ hinduism
 herself
 hymns
 homage
+hinges
 Ex
 ECE
 Embedded
@@ -1338,6 +1351,8 @@ love
 levels
 leads
 linking
+living
+laws
 Linear
 LHS
 Latency
@@ -1405,6 +1420,7 @@ now
 named
 norms
 noise
+naturally
 quasi
 qualitative
 quality
@@ -1649,6 +1665,7 @@ paths
 pointwise
 placing
 plays
+philosophy
 Move
 Myths
 Main
@@ -1684,6 +1701,7 @@ Multiple
 Males
 Male
 Manusmriti
+Major
 RHS
 Rapunzel
 Represents
@@ -1735,6 +1753,8 @@ Potentially
 Part
 Power
 Property
+Philosophies
+Philosophers
 Africa
 All
 Arithmetic
@@ -1831,6 +1851,7 @@ Goes
 Given
 Going
 Gita
+Grew
 known
 keep
 keys

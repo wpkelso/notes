@@ -9,3 +9,8 @@ Based around the [[Yellow River]] and the [[Yangtze River]] basins.
 [[Zhou Dynasty]]
 
 ## [[Chinese Writing Systems]]
+
+### Major Philosophies
+[[Daoism]]
+[[Confucianism]]
+[[Legalism]]
