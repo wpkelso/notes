@@ -7,7 +7,8 @@ Based around the [[Yellow River]] and the [[Yangtze River]] basins.
 ### Bronze Age China
 [[Shang Dynasty]]
 [[Zhou Dynasty]]
-
+[[Qin Dynasty]]
+[[Han Dynasty]]
 ## [[Chinese Writing Systems]]
 
 ### Major Philosophies
