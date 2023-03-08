@@ -1,2 +1,2 @@
-#history 
-ca. 1600- 1046 BCE
+#history #china 
+**Postceeding Dynasty** -> [[Zhou Dynasty]]

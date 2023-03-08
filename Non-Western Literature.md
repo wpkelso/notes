@@ -9,7 +9,7 @@
 [[Pyramid Texts]]
 [[The Shipwrecked Sailor]]
 [[The Tale of the Doomed Prince]]
-### [[Sumeria]]
+### Sumeria
 [[Enheduanna]]
 [[Adapa the Man]]
 ### Arabia
