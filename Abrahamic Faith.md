@@ -1,0 +1,3 @@
+[[Islam]]
+[[Christianity]]
+[[Judaism]]

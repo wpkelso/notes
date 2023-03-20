@@ -1,5 +1,4 @@
-# K-Mean Clustering
-#machine_learning 
+#machine_learning #mathematics  
 Let $C_1,...,C_K$ be a set of observations
 **Assumptions**:
 - Each observations belongs to at least one cluster
@@ -7,7 +6,7 @@ Let $C_1,...,C_K$ be a set of observations
 
 Given a data set, define $K$ and $W(C_{k})$, and apply
 $$\text{minimize for }C_1,...,C_{k}\{\sum_{k=1}^{K}{W(C_{k})}\}$$
-where $W(C_{k})$ for the squared Eculidian distance is the sum of inertia of all clusters:
+where $W(C_{k})$ for the squared Euclidian distance is the sum of inertia of all clusters:
 $$\text{--INSERT MATH FUNCTION FROM NOTES HERE--}$$
 
 ### Algorithm
