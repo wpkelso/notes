@@ -9,3 +9,9 @@ Integral transform that converts a function of a real variable (usually $t$ in t
 >One useful application of the transform is to change [[Differential Equation|differential equations]] into [[Algebra|algebraic]] equations, as well as changing [[Convolution|convolution]] into multiplication.
 
 *To go from the $s$-domain to the time domain, use the [[Inverse Laplace Transform]]*
+
+## Laplace Transform Method for Solving for IVPs
+[[Initial Value Problem|IVP]]->[[Laplace Transform]]->[[Algebra|Algebraic Equation]]->[[Inverse Laplace Transform]]
+
+**CHEAT SHEET**
+![[Pasted image 20230321163522.png]]
