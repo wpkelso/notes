@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a77cff8a94a31b6",
+        "id": "795b4b22fbbbb812",
         "type": "tabs",
         "children": [
           {
-            "id": "991f59545ae6060a",
+            "id": "b020fafd30bb259d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -153,34 +153,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "991f59545ae6060a",
+  "active": "b020fafd30bb259d",
   "lastOpenFiles": [
-    "Inverse Laplace Transform.md",
+    "Compiler Optimization.md",
+    "Memory to Register Promotion.md",
+    "Unambiguous Variables.md",
+    "Compiler Front End.md",
+    "The Ramayana.md",
+    "Journey to the West.md",
+    "Song Dynasty.md",
+    "The Marsh Heroes.md",
     "Laplace Transform.md",
+    "Static Single-Assignment.md",
+    "Inverse Laplace Transform.md",
     "Pasted image 20230321163522.png",
     "Romance of the Western Chamber.md",
     "Chinese Writing Systems.md",
     "Northern & Southern Dynasties.md",
     "Jin Dynasty.md",
     "Han Dynasty.md",
-    "Song Dynasty.md",
     "Three Kingdoms Era.md",
     "Qin Dynasty.md",
     "Phi-Node.md",
-    "Static Single-Assignment.md",
     "Intermediate Representation.md",
     "Control Flow Graph.md",
     "Semantic Analysis.md",
     "Control Flow Loops.md",
     "Back Edge.md",
     "Abrahamic Faith.md",
-    "K-Mean Clustering.md",
-    "African Origin Stories.md",
-    "Instruction Memory.md",
-    "Geometric Meaning of an ODE.md",
-    "Stability.md",
-    "Non-Western Literature.md",
-    "Sumeria.md",
-    "Book of Songs.md"
+    "K-Mean Clustering.md"
   ]
 }

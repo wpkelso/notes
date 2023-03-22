@@ -58,6 +58,11 @@ might
 matched
 merge
 marriage
+murder
+monk
+moved
+made
+magic
 graphic
 general
 given
@@ -185,6 +190,9 @@ represented
 re
 require
 romantic
+retains
+relies
+reduce
 of
 one
 or
@@ -241,6 +249,12 @@ own
 organization
 optimization
 obeyed
+outlaws
+ones
+opportunity
+operand
+ordering
+orderings
 the
 those
 th
@@ -327,6 +341,11 @@ them
 terminated
 true
 trivially
+traversals
+title
+travels
+turned
+transforming
 slope
 solution
 special
@@ -478,6 +497,12 @@ several
 standardized
 saves
 sets
+specifically
+schedule
+slower
+stack
+scanf
+simpler
 in
 involving
 is
@@ -551,6 +576,8 @@ inhabitants
 incorrect
 inefficient
 inverse
+introduce
+iff
 domain
 derivatives
 dependent
@@ -634,6 +661,8 @@ dominate
 definition
 dominates
 denoted
+disgraced
+default
 Definition
 DE
 Decode
@@ -677,6 +706,7 @@ Dao
 Dynasty
 Dominance
 Dragon
+Design
 where
 written
 with
@@ -719,6 +749,7 @@ won
 water
 wide
 widely
+working
 unknowns
 usually
 used
@@ -741,6 +772,8 @@ units
 useful
 upon
 us
+under
+unambiguous
 consists
 can
 case
@@ -889,6 +922,11 @@ compile
 conforms
 comedy
 consummating
+comedic
+county
+committing
+constraint
+constitutes
 functions
 find
 form
@@ -955,6 +993,13 @@ further
 fulfilling
 flow
 formed
+forward
+former
+flees
+fiction
+failures
+fewer
+focusing
 variable
 value
 vs
@@ -1023,6 +1068,7 @@ IR
 ISAs
 Information
 IVPs
+Idea
 an
 as
 and
@@ -1140,6 +1186,10 @@ accommodate
 argument
 anywhere
 approval
+army
+accidently
+allegorical
+alloca
 ODE
 Order
 ODEs
@@ -1160,6 +1210,10 @@ Operations
 Origin
 Overfitting
 Oracle
+Outlaws
+Optimization
+Ordering
+Optimizations
 be
 but
 because
@@ -1219,6 +1273,8 @@ blocks
 beginning
 body
 becomes
+believed
+band
 We
 What
 Workload
@@ -1278,6 +1334,8 @@ homage
 hinges
 header
 holding
+hopes
+hide
 Ex
 ECE
 Embedded
@@ -1307,6 +1365,7 @@ Enlil
 Error
 Expressiveness
 Example
+Effects
 Solution
 Speedup
 Systems
@@ -1365,6 +1424,8 @@ SSA
 Script
 Shifu
 SHEET
+Sagacious
+Select
 Classification
 Constant
 Common
@@ -1415,6 +1476,9 @@ Chinese
 Control
 Chamber
 CHEAT
+Characters
+Co
+Create
 level
 linear
 long
@@ -1477,6 +1541,10 @@ likelihood
 leverage
 loop
 looks
+likened
+literary
+lieutenant
+later
 Linear
 LHS
 Latency
@@ -1500,6 +1568,8 @@ LLVM
 Level
 Loops
 Later
+Lu
+Longer
 There
 Techniques
 Trying
@@ -1574,6 +1644,9 @@ Habilis
 Hindu
 High
 History
+Hood
+Heroes
+Hannuman
 equal
 embedded
 extremely
@@ -1648,6 +1721,11 @@ effort
 excluding
 entrance
 except
+easier
+exceptions
+existing
+experimentation
+enable
 zero
 Non
 NP
@@ -1817,6 +1895,9 @@ parser
 putting
 poet
 parental
+process
+puts
+prove
 Move
 Myths
 Main
@@ -1854,6 +1935,10 @@ Male
 Manusmriti
 Major
 Marked
+Makes
+Marsh
+Men
+Monkey
 RHS
 Rapunzel
 Represents
@@ -1874,6 +1959,9 @@ Real
 Re
 Representing
 Romance
+Robin
+Reduce
+Replace
 Peripheral
 Pulse
 Phase
@@ -1918,6 +2006,7 @@ Placed
 Preeceeded
 Preceeded
 Postceeded
+Prerequisites
 Africa
 All
 Arithmetic
@@ -1975,6 +2064,7 @@ African
 Abstraction
 Additionally
 Approaches
+Anything
 you
 yields
 years
@@ -2008,6 +2098,7 @@ Bronze
 Basic
 By
 Bone
+Brothers
 Jumps
 jump
 just
@@ -2036,12 +2127,14 @@ key
 know
 kill
 kind
+knowing
 Kruskal
 Key
 Kleene
 Kiln
 Known
 Krishna
+King
 Variance
 Vocabulary
 Vector

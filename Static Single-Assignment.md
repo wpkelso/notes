@@ -16,6 +16,11 @@ A form of organization for an [[Intermediate Representation|IR]] where all [[Reg
 
 Additionally, all definitions [[Control Flow Dominance|dominate]] their uses, except for in [[Phi-Node|phi-nodes]].
 
+>[!important] Important Effects of SSA Form
+>- Makes finding uses easier as there are no forward traversals of the [[Control Flow Graph|CFG]]
+>- Makes finding a definition easier, as every register is unique and only has one definition
+>- The presence or absence of [[Phi-Node|phi instructions]] will be useful for optimization, as phis will only show up in specific situations that outline important behaviors that should be optimized
+
 ## Dominance Property of SSA Form
 Definitions **always** dominate uses, with the following two rules holding true:
 - If register $x$ is used in a non-phi instruction in block $n$, then the definition of $x$ dominates $n$

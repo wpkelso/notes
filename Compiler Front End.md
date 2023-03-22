@@ -1,5 +1,5 @@
 #compilers
-The part of the [[Compiler Design|compiler]] that translates high level languages to an [[Intermediate Representation]] readable by the [[Compiler Optimizer|optimizer]].
+The part of the [[Compiler Design|compiler]] that translates high level languages to an [[Intermediate Representation]] readable by the [[Compiler Optimization|optimizer]].
 
 Generally has three stages:
 1. [[Lexical Analysis|Scanning]]
