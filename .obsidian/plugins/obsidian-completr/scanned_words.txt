@@ -63,6 +63,7 @@ monk
 moved
 made
 magic
+middleEast
 graphic
 general
 given
@@ -346,6 +347,7 @@ title
 travels
 turned
 transforming
+think
 slope
 solution
 special
@@ -503,6 +505,7 @@ slower
 stack
 scanf
 simpler
+shoki
 in
 involving
 is
@@ -578,6 +581,7 @@ inefficient
 inverse
 introduce
 iff
+influenced
 domain
 derivatives
 dependent
@@ -663,6 +667,7 @@ dominates
 denoted
 disgraced
 default
+day
 Definition
 DE
 Decode
@@ -750,6 +755,7 @@ water
 wide
 widely
 working
+wasn
 unknowns
 usually
 used
@@ -927,6 +933,12 @@ county
 committing
 constraint
 constitutes
+coast
+characterized
+chimpanzees
+cry
+chimp
+considered
 functions
 find
 form
@@ -1000,6 +1012,7 @@ fiction
 failures
 fewer
 focusing
+far
 variable
 value
 vs
@@ -1069,6 +1082,7 @@ ISAs
 Information
 IVPs
 Idea
+Island
 an
 as
 and
@@ -1190,6 +1204,7 @@ army
 accidently
 allegorical
 alloca
+ancestors
 ODE
 Order
 ODEs
@@ -1275,6 +1290,7 @@ body
 becomes
 believed
 band
+brain
 We
 What
 Workload
@@ -1336,6 +1352,7 @@ header
 holding
 hopes
 hide
+humans
 Ex
 ECE
 Embedded
@@ -1366,6 +1383,7 @@ Error
 Expressiveness
 Example
 Effects
+Earth
 Solution
 Speedup
 Systems
@@ -1479,6 +1497,7 @@ CHEAT
 Characters
 Co
 Create
+Culture
 level
 linear
 long
@@ -1570,6 +1589,7 @@ Loops
 Later
 Lu
 Longer
+Literature
 There
 Techniques
 Trying
@@ -1622,6 +1642,8 @@ norms
 noise
 naturally
 necessary
+nation
+nonetheless
 quasi
 qualitative
 quality
@@ -1647,6 +1669,7 @@ History
 Hood
 Heroes
 Hannuman
+Heaven
 equal
 embedded
 extremely
@@ -1726,6 +1749,8 @@ exceptions
 existing
 experimentation
 enable
+egypt
+earliest
 zero
 Non
 NP
@@ -1742,6 +1767,8 @@ Named
 Nonetheless
 Natural
 Nodes
+Nihon
+North
 For
 First
 Find
@@ -1962,6 +1989,7 @@ Romance
 Robin
 Reduce
 Replace
+Religion
 Peripheral
 Pulse
 Phase
@@ -2065,6 +2093,7 @@ Abstraction
 Additionally
 Approaches
 Anything
+Ainu
 you
 yields
 years
@@ -2103,6 +2132,7 @@ Jumps
 jump
 just
 jumps
+japan
 General
 Gives
 Grammars
@@ -2135,9 +2165,11 @@ Kiln
 Known
 Krishna
 King
+Kenya
 Variance
 Vocabulary
 Vector
 Vedic
 Young
 You
+Yasamuro

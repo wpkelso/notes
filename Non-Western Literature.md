@@ -1,14 +1,12 @@
 #literature 
-## Africa
+## [[Africa]]
 [[African Origin Stories]]
 [[Sunjata]]
 [[Life of Olauda Equiano]]
 
 ## The Middle East
 ### [[Ancient Egypt|Egypt]]
-[[Pyramid Texts]]
-[[The Shipwrecked Sailor]]
-[[The Tale of the Doomed Prince]]
+
 ### Sumeria
 [[Enheduanna]]
 [[Adapa the Man]]

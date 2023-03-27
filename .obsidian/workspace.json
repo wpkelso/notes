@@ -155,6 +155,13 @@
   },
   "active": "b020fafd30bb259d",
   "lastOpenFiles": [
+    "Ardipithecus.md",
+    "Non-Western Literature.md",
+    "Ancient Egypt.md",
+    "Japanese Traditional Poetry.md",
+    "Japan.md",
+    "Japanese Origin Myths.md",
+    "Kami.md",
     "Compiler Optimization.md",
     "Memory to Register Promotion.md",
     "Unambiguous Variables.md",
@@ -174,13 +181,6 @@
     "Han Dynasty.md",
     "Three Kingdoms Era.md",
     "Qin Dynasty.md",
-    "Phi-Node.md",
-    "Intermediate Representation.md",
-    "Control Flow Graph.md",
-    "Semantic Analysis.md",
-    "Control Flow Loops.md",
-    "Back Edge.md",
-    "Abrahamic Faith.md",
-    "K-Mean Clustering.md"
+    "Phi-Node.md"
   ]
 }
