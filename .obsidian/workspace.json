@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "795b4b22fbbbb812",
+        "id": "76f33a88b936f971",
         "type": "tabs",
         "children": [
           {
-            "id": "b020fafd30bb259d",
+            "id": "d42c44fafdf79c48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Binary Search Tree.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -29,16 +33,6 @@
         "id": "87937986bce5116f",
         "type": "tabs",
         "children": [
-          {
-            "id": "c981954f23d5acc6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "63910c642160d2f7",
             "type": "leaf",
@@ -61,20 +55,11 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "2d3f5f663eeeb1c2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "e708319f22ca2b2a",
+        "id": "1d6eaf50b0437945",
         "type": "tabs",
         "children": [
           {
@@ -86,11 +71,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "46f0c4fdcf1d1808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c981954f23d5acc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "84f304345e2826cb",
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,10 +133,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Binary Search Tree.md"
+              }
+            }
+          },
+          {
+            "id": "775d0d63a7674aae",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -153,34 +165,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b020fafd30bb259d",
+  "active": "d42c44fafdf79c48",
   "lastOpenFiles": [
-    "Ardipithecus.md",
-    "Non-Western Literature.md",
-    "Ancient Egypt.md",
-    "Japanese Traditional Poetry.md",
-    "Japan.md",
-    "Japanese Origin Myths.md",
+    "Embedded Computing Classification.md",
+    "System Properties.md",
+    "Grammar.md",
+    "Computer Processor.md",
     "Kami.md",
-    "Compiler Optimization.md",
-    "Memory to Register Promotion.md",
-    "Unambiguous Variables.md",
-    "Compiler Front End.md",
-    "The Ramayana.md",
-    "Journey to the West.md",
-    "Song Dynasty.md",
-    "The Marsh Heroes.md",
+    "Bias-Variance Tradeoff.md",
+    "Obsidian Color Codes.md",
+    "Control Flow Graph.md",
+    "Wellposedness.md",
+    "Hash Table.md",
     "Laplace Transform.md",
-    "Static Single-Assignment.md",
-    "Inverse Laplace Transform.md",
-    "Pasted image 20230321163522.png",
-    "Romance of the Western Chamber.md",
-    "Chinese Writing Systems.md",
-    "Northern & Southern Dynasties.md",
-    "Jin Dynasty.md",
-    "Han Dynasty.md",
-    "Three Kingdoms Era.md",
-    "Qin Dynasty.md",
-    "Phi-Node.md"
+    "Data Structure.md",
+    "Vector (Disambiguation).md",
+    "Max-Heap.md",
+    "Song Dynasty.md",
+    "Japanese Traditional Poetry.md",
+    "Scaling.md",
+    "Journey to the West.md",
+    "Graphical Intermediate Representation.md",
+    "Euler's Identity.md",
+    "Finite Automata.md",
+    "The Tale of the Doomed Prince.md",
+    "Cache Associativity.md",
+    "Programming/Data Types",
+    "Programming",
+    "Mathematics/Differential Equations",
+    "Mathematics",
+    "Ordinary Differential Equation.md",
+    "Programming/Data Types/Abstract Data Type.md",
+    "Non-Western Literature/Abrahamic Faith.md",
+    "Non-Western Literature",
+    "Pasted image 20230321163522.png"
   ]
 }

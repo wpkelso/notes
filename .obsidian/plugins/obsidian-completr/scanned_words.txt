@@ -64,6 +64,9 @@ moved
 made
 magic
 middleEast
+miss
+mapped
+mythology
 graphic
 general
 given
@@ -104,6 +107,7 @@ guaranteed
 generating
 generate
 governance
+grouped
 representation
 rd
 respect
@@ -194,6 +198,8 @@ romantic
 retains
 relies
 reduce
+relatively
+referenced
 of
 one
 or
@@ -256,6 +262,8 @@ opportunity
 operand
 ordering
 orderings
+operate
+organizing
 the
 those
 th
@@ -506,6 +514,13 @@ stack
 scanf
 simpler
 shoki
+stored
+small
+soon
+storing
+sensitive
+search
+subtree
 in
 involving
 is
@@ -582,6 +597,8 @@ inverse
 introduce
 iff
 influenced
+instant
+ill
 domain
 derivatives
 dependent
@@ -668,6 +685,7 @@ denoted
 disgraced
 default
 day
+duplicates
 Definition
 DE
 Decode
@@ -712,6 +730,7 @@ Dynasty
 Dominance
 Dragon
 Design
+Direct
 where
 written
 with
@@ -756,6 +775,7 @@ wide
 widely
 working
 wasn
+word
 unknowns
 usually
 used
@@ -780,6 +800,7 @@ upon
 us
 under
 unambiguous
+update
 consists
 can
 case
@@ -939,6 +960,7 @@ chimpanzees
 cry
 chimp
 considered
+cache
 functions
 find
 form
@@ -1205,6 +1227,13 @@ accidently
 allegorical
 alloca
 ancestors
+accessed
+appropriate
+again
+addresses
+asks
+associativity
+arranged
 ODE
 Order
 ODEs
@@ -1291,6 +1320,7 @@ becomes
 believed
 band
 brain
+buffer
 We
 What
 Workload
@@ -1305,6 +1335,9 @@ Will
 War
 Wang
 Western
+Way
+Whether
+Wellposedness
 have
 highest
 homogenous
@@ -1353,6 +1386,8 @@ holding
 hopes
 hide
 humans
+happen
+hit
 Ex
 ECE
 Embedded
@@ -1444,6 +1479,13 @@ Shifu
 SHEET
 Sagacious
 Select
+Sitting
+Spatial
+Size
+Structure
+Structures
+Spirit
+Search
 Classification
 Constant
 Common
@@ -1498,6 +1540,9 @@ Characters
 Co
 Create
 Culture
+Caches
+Cache
+Choosing
 level
 linear
 long
@@ -1564,6 +1609,8 @@ likened
 literary
 lieutenant
 later
+located
+lesser
 Linear
 LHS
 Latency
@@ -1590,6 +1637,8 @@ Later
 Lu
 Longer
 Literature
+Locality
+Line
 There
 Techniques
 Trying
@@ -1618,6 +1667,7 @@ Test
 Theorem
 Taxonomy
 Terminate
+Temporal
 not
 non
 natural
@@ -1769,6 +1819,9 @@ Natural
 Nodes
 Nihon
 North
+Number
+Not
+Namely
 For
 First
 Find
@@ -1801,8 +1854,10 @@ FP
 Females
 Female
 Four
+Fully
 Quantitative
 Queue
+Quality
 problems
 peripheral
 peripherals
@@ -1925,6 +1980,10 @@ parental
 process
 puts
 prove
+positions
+position
+performing
+posed
 Move
 Myths
 Main
@@ -1966,6 +2025,9 @@ Makes
 Marsh
 Men
 Monkey
+Mapping
+Mapped
+Max
 RHS
 Rapunzel
 Represents
@@ -2035,6 +2097,7 @@ Preeceeded
 Preceeded
 Postceeded
 Prerequisites
+Principle
 Africa
 All
 Arithmetic
@@ -2094,6 +2157,7 @@ Additionally
 Approaches
 Anything
 Ainu
+Associative
 you
 yields
 years
@@ -2128,7 +2192,10 @@ Basic
 By
 Bone
 Brothers
+Block
+Blocks
 Jumps
+Japanese
 jump
 just
 jumps

@@ -1,7 +1,7 @@
-# Data Structure
-#data_structures #ECE309 #programming 
+#data_structures #programming 
 
-**Definition:** a way of organizing, storing, and performing operations on data.
+>[!info] Definition
+>A way of organizing, storing, and performing operations on data.
 
 ### Basic Data Structures:
 - [[Record]]
