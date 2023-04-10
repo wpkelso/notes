@@ -2,7 +2,7 @@
 #embedded_systems #computer_architecture 
 
 ### Little-Endian
-If there is a value that stores across multiple bytes, the **least-significant** byte goes into the lowest [[Memory|memory]] address
+If there is a value that stores across multiple bytes, the **least-significant** byte goes into the lowest [[Computer Memory|memory]] address
 
 *ARM is generally little-endian*
 

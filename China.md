@@ -15,3 +15,5 @@ Based around the [[Yellow River]] and the [[Yangtze River]] basins.
 [[Daoism]]
 [[Confucianism]]
 [[Legalism]]
+
+[[Buddhism]]

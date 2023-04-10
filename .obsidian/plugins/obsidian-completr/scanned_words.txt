@@ -67,6 +67,12 @@ middleEast
 miss
 mapped
 mythology
+matured
+multiplies
+maximizes
+minimizes
+making
+myths
 graphic
 general
 given
@@ -108,6 +114,8 @@ generating
 generate
 governance
 grouped
+going
+gates
 representation
 rd
 respect
@@ -200,6 +208,9 @@ relies
 reduce
 relatively
 referenced
+rows
+row
+respond
 of
 one
 or
@@ -521,6 +532,11 @@ storing
 sensitive
 search
 subtree
+strong
+scenarios
+shamanism
+shrine
+school
 in
 involving
 is
@@ -599,6 +615,8 @@ iff
 influenced
 instant
 ill
+influences
+incorporating
 domain
 derivatives
 dependent
@@ -686,6 +704,9 @@ disgraced
 default
 day
 duplicates
+division
+declined
+decent
 Definition
 DE
 Decode
@@ -801,6 +822,7 @@ us
 under
 unambiguous
 update
+unsuited
 consists
 can
 case
@@ -961,6 +983,13 @@ cry
 chimp
 considered
 cache
+classical
+culture
+columns
+column
+conflicts
+course
+contact
 functions
 find
 form
@@ -1035,6 +1064,7 @@ failures
 fewer
 focusing
 far
+forces
 variable
 value
 vs
@@ -1105,6 +1135,8 @@ Information
 IVPs
 Idea
 Island
+Izanagi
+Izanami
 an
 as
 and
@@ -1234,6 +1266,7 @@ addresses
 asks
 associativity
 arranged
+aspects
 ODE
 Order
 ODEs
@@ -1321,6 +1354,7 @@ believed
 band
 brain
 buffer
+belief
 We
 What
 Workload
@@ -1388,6 +1422,9 @@ hide
 humans
 happen
 hit
+hero
+holds
+harmony
 Ex
 ECE
 Embedded
@@ -1486,6 +1523,9 @@ Structure
 Structures
 Spirit
 Search
+Shinto
+Shintoism
+Shrines
 Classification
 Constant
 Common
@@ -1543,6 +1583,7 @@ Culture
 Caches
 Cache
 Choosing
+Comes
 level
 linear
 long
@@ -1611,6 +1652,7 @@ lieutenant
 later
 located
 lesser
+landscape
 Linear
 LHS
 Latency
@@ -1668,6 +1710,8 @@ Theorem
 Taxonomy
 Terminate
 Temporal
+Timeline
+Torii
 not
 non
 natural
@@ -1694,6 +1738,7 @@ naturally
 necessary
 nation
 nonetheless
+nature
 quasi
 qualitative
 quality
@@ -1720,6 +1765,7 @@ Hood
 Heroes
 Hannuman
 Heaven
+Heian
 equal
 embedded
 extremely
@@ -1801,6 +1847,8 @@ experimentation
 enable
 egypt
 earliest
+exchange
+emphasizes
 zero
 Non
 NP
@@ -1822,6 +1870,7 @@ North
 Number
 Not
 Namely
+National
 For
 First
 Find
@@ -1984,6 +2033,10 @@ positions
 position
 performing
 posed
+postceeded
+prayers
+parts
+particularly
 Move
 Myths
 Main
@@ -2028,6 +2081,7 @@ Monkey
 Mapping
 Mapped
 Max
+Multiplying
 RHS
 Rapunzel
 Represents
@@ -2052,6 +2106,7 @@ Robin
 Reduce
 Replace
 Religion
+Ritual
 Peripheral
 Pulse
 Phase
@@ -2098,6 +2153,8 @@ Preceeded
 Postceeded
 Prerequisites
 Principle
+Political
+Purification
 Africa
 All
 Arithmetic
@@ -2158,6 +2215,8 @@ Approaches
 Anything
 Ainu
 Associative
+Adding
+According
 you
 yields
 years
@@ -2233,6 +2292,7 @@ Known
 Krishna
 King
 Kenya
+Kami
 Variance
 Vocabulary
 Vector

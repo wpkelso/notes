@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76f33a88b936f971",
+        "id": "656ca10f3f6911a9",
         "type": "tabs",
         "children": [
           {
-            "id": "d42c44fafdf79c48",
+            "id": "0c16637f13a5b9ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search Tree.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -39,7 +35,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "japan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Binary Search Tree.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,38 +158,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d42c44fafdf79c48",
+  "active": "0c16637f13a5b9ad",
   "lastOpenFiles": [
+    "Zen Buddhism.md",
+    "Chan Buddhism.md",
+    "Mahayana Buddhism.md",
+    "Japanese Origin Myths.md",
+    "Japanese Traditional Poetry.md",
+    "Shintoism.md",
+    "Pure Land Buddhism.md",
+    "Kamo no Chomei.md",
+    "China.md",
+    "Kami.md",
+    "Laplace Transform.md",
+    "Memory Block.md",
+    "Cache Associativity.md",
+    "Cache.md",
+    "Register.md",
+    "Computer Memory.md",
+    "Wronskian.md",
+    "Determinant.md",
+    "Japan.md",
+    "Heian Period.md",
+    "Japanese Literature.md",
+    "Binary Search Tree.md",
     "Embedded Computing Classification.md",
     "System Properties.md",
     "Grammar.md",
     "Computer Processor.md",
-    "Kami.md",
-    "Bias-Variance Tradeoff.md",
-    "Obsidian Color Codes.md",
-    "Control Flow Graph.md",
-    "Wellposedness.md",
-    "Hash Table.md",
-    "Laplace Transform.md",
-    "Data Structure.md",
-    "Vector (Disambiguation).md",
-    "Max-Heap.md",
-    "Song Dynasty.md",
-    "Japanese Traditional Poetry.md",
-    "Scaling.md",
-    "Journey to the West.md",
-    "Graphical Intermediate Representation.md",
-    "Euler's Identity.md",
-    "Finite Automata.md",
-    "The Tale of the Doomed Prince.md",
-    "Cache Associativity.md",
     "Programming/Data Types",
     "Programming",
     "Mathematics/Differential Equations",
     "Mathematics",
-    "Ordinary Differential Equation.md",
-    "Programming/Data Types/Abstract Data Type.md",
-    "Non-Western Literature/Abrahamic Faith.md",
     "Non-Western Literature",
     "Pasted image 20230321163522.png"
   ]
