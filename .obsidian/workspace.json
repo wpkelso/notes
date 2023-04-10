@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "656ca10f3f6911a9",
+        "id": "3eaaf1196eb1fa99",
         "type": "tabs",
         "children": [
           {
-            "id": "0c16637f13a5b9ad",
+            "id": "be987a361069f8e9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -35,7 +35,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "japan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,14 +158,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c16637f13a5b9ad",
+  "active": "be987a361069f8e9",
   "lastOpenFiles": [
+    "Hinduism.md",
+    "Bhakti Movement.md",
+    "Bhagavad Gita.md",
+    "Indus River Valley Civilization.md",
+    "Shintoism.md",
+    "Geisha.md",
+    "Japan.md",
     "Zen Buddhism.md",
     "Chan Buddhism.md",
     "Mahayana Buddhism.md",
     "Japanese Origin Myths.md",
     "Japanese Traditional Poetry.md",
-    "Shintoism.md",
     "Pure Land Buddhism.md",
     "Kamo no Chomei.md",
     "China.md",
@@ -178,14 +184,8 @@
     "Computer Memory.md",
     "Wronskian.md",
     "Determinant.md",
-    "Japan.md",
     "Heian Period.md",
     "Japanese Literature.md",
-    "Binary Search Tree.md",
-    "Embedded Computing Classification.md",
-    "System Properties.md",
-    "Grammar.md",
-    "Computer Processor.md",
     "Programming/Data Types",
     "Programming",
     "Mathematics/Differential Equations",
