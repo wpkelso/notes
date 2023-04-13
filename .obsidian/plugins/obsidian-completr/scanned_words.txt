@@ -367,6 +367,9 @@ travels
 turned
 transforming
 think
+table
+tag
+tags
 slope
 solution
 special
@@ -617,6 +620,7 @@ instant
 ill
 influences
 incorporating
+icache
 domain
 derivatives
 dependent
@@ -1137,6 +1141,7 @@ Idea
 Island
 Izanagi
 Izanami
+Is
 an
 as
 and
@@ -1267,6 +1272,7 @@ asks
 associativity
 arranged
 aspects
+addressed
 ODE
 Order
 ODEs
@@ -1355,6 +1361,7 @@ band
 brain
 buffer
 belief
+bits
 We
 What
 Workload
@@ -1584,6 +1591,7 @@ Caches
 Cache
 Choosing
 Comes
+Continued
 level
 linear
 long
@@ -1712,6 +1720,8 @@ Terminate
 Temporal
 Timeline
 Torii
+Table
+Target
 not
 non
 natural
@@ -2037,6 +2047,8 @@ postceeded
 prayers
 parts
 particularly
+predict
+predictions
 Move
 Myths
 Main
@@ -2155,6 +2167,10 @@ Prerequisites
 Principle
 Political
 Purification
+Predicted
+Parameters
+Predictors
+Prediction
 Africa
 All
 Arithmetic
@@ -2233,6 +2249,7 @@ Utilized
 Unlike
 Underfitting
 Ultimately
+Use
 Branches
 Base
 Bug
@@ -2253,6 +2270,10 @@ Bone
 Brothers
 Block
 Blocks
+Backward
+Branch
+Buffer
+BTB
 Jumps
 Japanese
 jump
@@ -2293,6 +2314,7 @@ Krishna
 King
 Kenya
 Kami
+Kinds
 Variance
 Vocabulary
 Vector

@@ -55,20 +55,6 @@
         ]
       },
       {
-        "id": "1d6eaf50b0437945",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0bb73a06103f225e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "46f0c4fdcf1d1808",
         "type": "tabs",
         "children": [
@@ -158,8 +144,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be987a361069f8e9",
+  "active": "c981954f23d5acc6",
   "lastOpenFiles": [
+    "Dynamic Branch prediction.md",
+    "Branch Prediction.md",
+    "Static Branch Prediction.md",
+    "Datapath Design.md",
+    "Computer Processor.md",
+    "Tomasulo's Algorithm.md",
     "Hinduism.md",
     "Bhakti Movement.md",
     "Bhagavad Gita.md",
@@ -180,12 +172,6 @@
     "Memory Block.md",
     "Cache Associativity.md",
     "Cache.md",
-    "Register.md",
-    "Computer Memory.md",
-    "Wronskian.md",
-    "Determinant.md",
-    "Heian Period.md",
-    "Japanese Literature.md",
     "Programming/Data Types",
     "Programming",
     "Mathematics/Differential Equations",

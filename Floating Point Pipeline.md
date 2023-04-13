@@ -10,7 +10,7 @@ Assume 4 functional units:
 *The floating point units only handle [[Arithmetic|arithemetic operations]]*
 
 ## How all of this affects the pipeline
-1. Multiple functional units in the [[Designing Datapaths|execution stage]]
+1. Multiple functional units in the [[Datapath Design|execution stage]]
 2. Execution stage can now have a latency >1
 	1. Different execution units can have different latencies
 2. Execution units can be pipelined
