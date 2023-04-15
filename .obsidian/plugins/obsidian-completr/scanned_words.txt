@@ -67,6 +67,12 @@ middleEast
 miss
 mapped
 mythology
+matured
+multiplies
+maximizes
+minimizes
+making
+myths
 graphic
 general
 given
@@ -108,6 +114,8 @@ generating
 generate
 governance
 grouped
+going
+gates
 representation
 rd
 respect
@@ -200,6 +208,9 @@ relies
 reduce
 relatively
 referenced
+rows
+row
+respond
 of
 one
 or
@@ -356,6 +367,9 @@ travels
 turned
 transforming
 think
+table
+tag
+tags
 slope
 solution
 special
@@ -521,6 +535,11 @@ storing
 sensitive
 search
 subtree
+strong
+scenarios
+shamanism
+shrine
+school
 in
 involving
 is
@@ -599,6 +618,9 @@ iff
 influenced
 instant
 ill
+influences
+incorporating
+icache
 domain
 derivatives
 dependent
@@ -686,6 +708,9 @@ disgraced
 default
 day
 duplicates
+division
+declined
+decent
 Definition
 DE
 Decode
@@ -801,6 +826,7 @@ us
 under
 unambiguous
 update
+unsuited
 consists
 can
 case
@@ -961,6 +987,13 @@ cry
 chimp
 considered
 cache
+classical
+culture
+columns
+column
+conflicts
+course
+contact
 functions
 find
 form
@@ -1035,6 +1068,7 @@ failures
 fewer
 focusing
 far
+forces
 variable
 value
 vs
@@ -1105,6 +1139,9 @@ Information
 IVPs
 Idea
 Island
+Izanagi
+Izanami
+Is
 an
 as
 and
@@ -1234,6 +1271,8 @@ addresses
 asks
 associativity
 arranged
+aspects
+addressed
 ODE
 Order
 ODEs
@@ -1321,6 +1360,8 @@ believed
 band
 brain
 buffer
+belief
+bits
 We
 What
 Workload
@@ -1388,6 +1429,9 @@ hide
 humans
 happen
 hit
+hero
+holds
+harmony
 Ex
 ECE
 Embedded
@@ -1486,6 +1530,9 @@ Structure
 Structures
 Spirit
 Search
+Shinto
+Shintoism
+Shrines
 Classification
 Constant
 Common
@@ -1543,6 +1590,8 @@ Culture
 Caches
 Cache
 Choosing
+Comes
+Continued
 level
 linear
 long
@@ -1611,6 +1660,7 @@ lieutenant
 later
 located
 lesser
+landscape
 Linear
 LHS
 Latency
@@ -1668,6 +1718,10 @@ Theorem
 Taxonomy
 Terminate
 Temporal
+Timeline
+Torii
+Table
+Target
 not
 non
 natural
@@ -1694,6 +1748,7 @@ naturally
 necessary
 nation
 nonetheless
+nature
 quasi
 qualitative
 quality
@@ -1720,6 +1775,7 @@ Hood
 Heroes
 Hannuman
 Heaven
+Heian
 equal
 embedded
 extremely
@@ -1801,6 +1857,8 @@ experimentation
 enable
 egypt
 earliest
+exchange
+emphasizes
 zero
 Non
 NP
@@ -1822,6 +1880,7 @@ North
 Number
 Not
 Namely
+National
 For
 First
 Find
@@ -1984,6 +2043,12 @@ positions
 position
 performing
 posed
+postceeded
+prayers
+parts
+particularly
+predict
+predictions
 Move
 Myths
 Main
@@ -2028,6 +2093,7 @@ Monkey
 Mapping
 Mapped
 Max
+Multiplying
 RHS
 Rapunzel
 Represents
@@ -2052,6 +2118,7 @@ Robin
 Reduce
 Replace
 Religion
+Ritual
 Peripheral
 Pulse
 Phase
@@ -2098,6 +2165,12 @@ Preceeded
 Postceeded
 Prerequisites
 Principle
+Political
+Purification
+Predicted
+Parameters
+Predictors
+Prediction
 Africa
 All
 Arithmetic
@@ -2158,6 +2231,8 @@ Approaches
 Anything
 Ainu
 Associative
+Adding
+According
 you
 yields
 years
@@ -2174,6 +2249,7 @@ Utilized
 Unlike
 Underfitting
 Ultimately
+Use
 Branches
 Base
 Bug
@@ -2194,6 +2270,10 @@ Bone
 Brothers
 Block
 Blocks
+Backward
+Branch
+Buffer
+BTB
 Jumps
 Japanese
 jump
@@ -2233,6 +2313,8 @@ Known
 Krishna
 King
 Kenya
+Kami
+Kinds
 Variance
 Vocabulary
 Vector

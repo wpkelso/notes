@@ -1,2 +1,3 @@
+#literature #japan 
 ## Forms
 [[Haiku]]

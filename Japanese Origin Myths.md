@@ -1,4 +1,4 @@
-## Ainu Myths
+## Ainu [[Creation Myth|Creation Myths]]
 
 ## Yasamuro
 Two [[Kami]] Izanagi & Izanami, present in later myths

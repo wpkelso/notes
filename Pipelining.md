@@ -2,7 +2,7 @@
 A case of [[Instruction-Level Parallelism|instruction-level parallelism]] where different [[Instruction Set Architecture|instructions]] use the [[Computer Processor|processor]] at the same time.
 
 ![[Pasted image 20230126140749.png]]
-Fig. *An unpipelined [[Designing Datapaths|datapath]] vs a pipelined datapath*
+Fig. *An unpipelined [[Datapath Design|datapath]] vs a pipelined datapath*
 
 >[!note] 
 >Ideally, pipelining means there is one instruction or result every cycle. This is not achieved in practice due to hazards.

@@ -8,4 +8,4 @@ Arithmetic instructions implement basic [[Arithmetic]] operations
 Type 1: Adds two [[Register|register]] together and stores the result in a third register
 Type 2 (Add Immediate): Adds a register and an immediate together and stores the result in a third register
 
-A [[Reduced Instruction-Set Computers|RISC]] implementation only uses the [[Arithmetic Logic Unit]], so no [[Memory|memory]] operations are allowed.
+A [[Reduced Instruction-Set Computers|RISC]] implementation only uses the [[Arithmetic Logic Unit]], so no [[Computer Memory|memory]] operations are allowed.
