@@ -8,10 +8,12 @@ a & b  \\ c & d
 =ad-bc
 \end{equation*}
 $$
-
 >[!note] Definition
 >A [[Scalar|scalar value]] that is a function of the entries of a square [[Matrix|matrix]]
 >*Denoted:* $\det A, |A|, \text{or} \det(A)$
+
+## Taking the Determinant of Larger Matrices
+For larger matrices, manipulating the matrix is required, as show
 
 ## Properties
 1. The determinant of the [[Identity Matrix|identity matrix]] is 1
