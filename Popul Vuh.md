@@ -1,0 +1,2 @@
+#central_america #literature 
+Considered the ‘Greatest Work of Native American Literature’, the Popul Vuh consists of many different stories the explain many aspects of [[Maya|Mayan]] culture and life.
