@@ -1,0 +1,15 @@
+MST
+ILP
+DAG
+DAC
+DFS
+RTCS
+Scanning
+The Koran
+thread (OS)
+Pre-History
+process (OS)
+Orbits Equation
+Double-Ended Queue
+task processing (OS)
+software concurrency

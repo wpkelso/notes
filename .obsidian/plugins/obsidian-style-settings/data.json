@@ -1,0 +1,10 @@
+{
+  "typomagical-text@@body-ligatures": true,
+  "typomagical-text@@blockquote": "blockquote-neuomorphic",
+  "typomagical-colour@@theme-variant": "obsidian",
+  "typomagical-text@@callout-style": "callout-default",
+  "typomagical-title@@alignment-title": "align-title-center",
+  "typomagical-title@@title-gradient": "ss-title-solid",
+  "typomagical-text@@bold-weight": 700,
+  "typomagical-colour@@background-color-enable": false
+}

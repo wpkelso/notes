@@ -1,0 +1,11 @@
+{
+  "interfaceFontFamily": "SF Pro Display,Segoe UI",
+  "textFontFamily": "SF Pro Text,Times",
+  "monospaceFontFamily": "SF Mono,Cascadia Code",
+  "translucency": false,
+  "cssTheme": "Typomagical",
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "accentColor": "",
+  "nativeMenus": true
+}
