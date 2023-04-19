@@ -1,5 +1,5 @@
 #computer_architecture 
-A [[Pipelining|pipelined]] data-path that supports [[Floating-Point|floating-point]] operations, through the use of floating-point [[Register|registers]] and floating-point [[Instruction Set Architecture|instructions]]. Of these instructions, there are 2 types: single precision (32-bit, .S) and double precision (64-bit, .D)
+A [[Pipelining|pipelined]] data-path that supports [[IEEE Floating-Point Representation|floating-point]] operations, through the use of floating-point [[Register|registers]] and floating-point [[Instruction Set Architecture|instructions]]. Of these instructions, there are 2 types: single precision (32-bit, .S) and double precision (64-bit, .D)
 
 ## Multi-Cycle Operations:
 Assume 4 functional units:
