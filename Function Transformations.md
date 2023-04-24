@@ -1,4 +1,4 @@
-# Function Transformations
+[[Algebra|Algebraic]] extensions of the basic principles of [[Arithmetic|arithmetic]], where operations are applied to [[Function|functions]] using variables.
 - [[Addition of a Constant]]
 - [[Multiplication by a constant]]
 - [[Time Shifts]]
