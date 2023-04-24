@@ -4,5 +4,6 @@
   "foldIndent": false,
   "showLineNumber": false,
   "rightToLeft": false,
-  "vimMode": false
+  "vimMode": false,
+  "livePreview": false
 }

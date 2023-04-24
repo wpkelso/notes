@@ -81,6 +81,7 @@ multiprocessors
 matches
 modified
 multiplying
+misses
 graphic
 general
 given
@@ -2313,6 +2314,7 @@ MII
 Moves
 Miss
 Mathematically
+Modify
 RHS
 Rapunzel
 Represents
@@ -2470,6 +2472,7 @@ According
 America
 Approximation
 Address
+Allocate
 you
 yields
 years
