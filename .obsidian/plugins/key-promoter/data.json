@@ -11,11 +11,19 @@
     "backlink:open-backlinks": 4,
     "backlink:toggle-backlinks-in-document": 4,
     "obsidian-git:push": 4,
-    "obsidian-git:backup-and-close": 4,
+    "obsidian-git:backup-and-close": 7,
     "obsidian-git:commit-push-specified-message": 4,
     "editing-toolbar:change-background-color": 4,
     "obsidian-editor-shortcuts:goToPrevChar": 4,
-    "graph:open": 1
+    "graph:open": 2,
+    "workspace:undo-close-pane": 3,
+    "workspace:close": 3,
+    "workspace:close-window": 3,
+    "workspace:close-others": 3,
+    "pane-relief:ordered-close": 3,
+    "obsidian-completr:completr-close-suggestion-popup": 3
   },
-  "keyboardStatistics": {}
+  "keyboardStatistics": {
+    "editor:save-file": 1
+  }
 }

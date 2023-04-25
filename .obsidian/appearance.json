@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Typomagical",
-  "translucency": true,
+  "translucency": false,
   "interfaceFontFamily": "Segoe UI",
   "baseFontSize": 18,
   "theme": "moonstone"
