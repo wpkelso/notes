@@ -126,6 +126,7 @@ idea
 invariant
 instructions
 impact
+its
 conjunction
 conversion
 compilers
@@ -163,6 +164,7 @@ an
 act
 addressed
 also
+after
 These
 True
 The
@@ -174,8 +176,10 @@ first
 from
 flow
 fewer
+final
 Common
 Counters
+Computing
 Peripheral
 Parameters
 Predictors
@@ -200,10 +204,12 @@ relies
 recent
 reachable
 register
+range
 use
 used
 unnecessary
 unswitching
+until
 Algorithm
 Anti
 Advantages
@@ -228,6 +234,7 @@ lines
 loop
 loops
 live
+longer
 Output
 Ordering
 Schedule
@@ -245,3 +252,8 @@ Kinds
 Disadvantages
 Definition
 Loop
+Live
+Liveness
+no
+Register
+Range
