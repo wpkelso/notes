@@ -10,6 +10,7 @@ bits
 behavior
 based
 branches
+before
 size
 sexes
 same
@@ -32,6 +33,10 @@ simplify
 static
 space
 some
+set
+solve
+sets
+solution
 difference
 different
 deal
@@ -50,6 +55,8 @@ double
 dangerous
 definition
 dead
+defined
+def
 of
 often
 or
@@ -61,6 +68,7 @@ orders
 optimizations
 other
 occupy
+over
 the
 to
 timing
@@ -79,6 +87,8 @@ tags
 tend
 thing
 thus
+these
+there
 embedded
 each
 execute
@@ -88,12 +98,18 @@ earliest
 execution
 eliminates
 exponential
+executing
+equations
+empty
 Embedded
 Examples
+Eventually
 work
 with
 will
 which
+where
+while
 peripheral
 peripherals
 processor
@@ -127,6 +143,7 @@ invariant
 instructions
 impact
 its
+initialize
 conjunction
 conversion
 compilers
@@ -152,6 +169,8 @@ creates
 chances
 context
 considered
+changes
+compute
 achieve
 allow
 actions
@@ -165,12 +184,15 @@ act
 addressed
 also
 after
+all
+any
 These
 True
 The
 Table
 Target
 Tradeoffs
+To
 for
 first
 from
@@ -205,6 +227,7 @@ recent
 reachable
 register
 range
+registers
 use
 used
 unnecessary
@@ -235,6 +258,8 @@ loop
 loops
 live
 longer
+livein
+liveout
 Output
 Ordering
 Schedule

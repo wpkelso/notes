@@ -16,3 +16,10 @@ where:
 - $\text{liveout}[i]$ is the set of all registers live after executing $i$
 - $\text{use}[i]$ is the set of all registers used at $i$
 - $\text{def}[i]$ is the set of all registers defined at $i$
+
+To solve these equations:
+1. initialize all live-in and live-out sets to the empty set
+2. computer the use and def sets for each instruction
+3. while there are no changes to any live-in or live-out set:
+	1. loop over all instructions $i$ and compute livein$[i]$ and liveout$[i]$ set
+4. Eventually, the solution must [[Convergence|converge]]

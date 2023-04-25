@@ -4,5 +4,9 @@
   "translucency": false,
   "interfaceFontFamily": "Segoe UI",
   "baseFontSize": 18,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "smooth_caret"
+  ],
+  "baseFontSizeAction": true
 }
