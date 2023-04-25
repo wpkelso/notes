@@ -1,0 +1,20 @@
+{
+  "showUnassigned": true,
+  "showAssigned": true,
+  "threshold": 0,
+  "notificationTimeout": 5,
+  "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
+  "descriptionOfActions": false,
+  "mouseStatistics": {
+    "app:go-back": 4,
+    "backlink:open": 4,
+    "backlink:open-backlinks": 4,
+    "backlink:toggle-backlinks-in-document": 4,
+    "obsidian-git:push": 4,
+    "obsidian-git:backup-and-close": 4,
+    "obsidian-git:commit-push-specified-message": 4,
+    "editing-toolbar:change-background-color": 4,
+    "obsidian-editor-shortcuts:goToPrevChar": 4
+  },
+  "keyboardStatistics": {}
+}

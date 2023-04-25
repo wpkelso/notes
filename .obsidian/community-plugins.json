@@ -1,4 +1,23 @@
 [
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "cm-editor-syntax-highlight-obsidian",
+  "tag-wrangler",
+  "various-complements",
+  "editing-toolbar",
+  "pane-relief",
+  "obsidian-latex-suite",
+  "obsidian-smart-typography",
+  "settings-search",
+  "obsidian-completr",
+  "obsidian-editor-shortcuts",
+  "obsidian-list-callouts",
+  "obsidian-latex",
+  "obsidian-discordrpc",
+  "lapel",
+  "key-promoter",
+  "ghost-fade-focus",
+  "obsidian-functionplot",
+  "tabout"
 ]
