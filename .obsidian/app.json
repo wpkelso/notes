@@ -5,5 +5,7 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "vimMode": false,
-  "livePreview": false
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showFrontmatter": true
 }

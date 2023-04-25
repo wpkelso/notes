@@ -82,6 +82,7 @@ matches
 modified
 multiplying
 misses
+mult
 graphic
 general
 given
@@ -125,6 +126,7 @@ governance
 grouped
 going
 gates
+gets
 representation
 rd
 respect
@@ -306,6 +308,8 @@ opposite
 obeying
 outcome
 oscillations
+original
+outline
 the
 those
 th
@@ -593,6 +597,11 @@ status
 stability
 speaking
 satisfying
+simplify
+subtract
+step
+sub
+situations
 in
 involving
 is
@@ -681,6 +690,9 @@ iteration
 iterations
 ideal
 implement
+induction
+increased
+increment
 domain
 derivatives
 dependent
@@ -783,6 +795,10 @@ determine
 desired
 dirty
 dictate
+decreased
+divide
+div
+detect
 Definition
 DE
 Decode
@@ -878,6 +894,7 @@ wasn
 word
 weeding
 window
+wise
 unknowns
 usually
 used
@@ -1089,6 +1106,8 @@ corollary
 costly
 consistent
 corresponding
+closed
+chain
 functions
 find
 form
@@ -1169,6 +1188,7 @@ fetched
 falling
 flip
 factor
+family
 variable
 value
 vs
@@ -1253,6 +1273,7 @@ II
 Ignore
 Index
 IN
+Induction
 an
 as
 and
@@ -1396,6 +1417,8 @@ associative
 affect
 approximated
 algebra
+add
+absence
 ODE
 Order
 ODEs
@@ -1423,6 +1446,7 @@ Optimizations
 Optimal
 OUT
 On
+Only
 be
 but
 because
@@ -1753,6 +1777,7 @@ Counters
 CPU
 Check
 Characterizing
+Considering
 level
 linear
 long
@@ -1828,6 +1853,7 @@ loosely
 largest
 locality
 letter
+limit
 Linear
 LHS
 Latency
@@ -2262,6 +2288,8 @@ policies
 parallel
 policy
 physics
+presence
+phis
 Move
 Myths
 Main

@@ -6,4 +6,4 @@ A *basic* induction variable will have a closed update chain in the [[Static Sin
 - Only add and subtract operations with a constant step operand are allowed
 - The increment operation must dominate the back edge
 
-A *related* induction variable will show a modification to the original induction variable. These could take the form of any add, sub, multiply, 
+A *related* induction variable will show a modification to the original induction variable. These could take the form of any add, subtract, multiply, or divide operation on the basic induction variable $x$. These are represented as $<x, C, D> = x*C+D$

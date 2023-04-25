@@ -2,7 +2,7 @@
   "interfaceFontFamily": "SF Pro Display,Segoe UI",
   "textFontFamily": "SF Pro Text,Times",
   "monospaceFontFamily": "SF Mono,Cascadia Code",
-  "translucency": false,
+  "translucency": true,
   "cssTheme": "Typomagical",
   "baseFontSize": 18,
   "theme": "moonstone",
