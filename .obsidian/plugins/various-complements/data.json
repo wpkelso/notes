@@ -70,6 +70,22 @@
           "lastUpdated": 1682457070485
         }
       }
+    },
+    "Algorithm": {
+      "Algorithm": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682458108961
+        }
+      }
+    },
+    "Control Flow Graph": {
+      "Control Flow Graph": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682458267817
+        }
+      }
     }
   }
 }

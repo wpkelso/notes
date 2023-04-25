@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "tag:#sciences",
+      "query": "tag:#biology",
       "color": {
         "a": 1,
         "rgb": 2477777
@@ -92,6 +92,13 @@
       }
     },
     {
+      "query": "tag:#computer_hardware",
+      "color": {
+        "a": 1,
+        "rgb": 1671876
+      }
+    },
+    {
       "query": "tag:#religion",
       "color": {
         "a": 1,
@@ -111,11 +118,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 151,
-  "scale": 0.23257373609597534,
+  "scale": 0.25630035062567347,
   "close": true
 }

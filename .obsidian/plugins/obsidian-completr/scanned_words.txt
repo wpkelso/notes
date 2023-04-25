@@ -31,6 +31,7 @@ sciences
 simplify
 static
 space
+some
 difference
 different
 deal
@@ -47,6 +48,8 @@ dynamic
 direct
 double
 dangerous
+definition
+dead
 of
 often
 or
@@ -146,6 +149,8 @@ conditional
 creating
 creates
 chances
+context
+considered
 achieve
 allow
 actions
@@ -193,6 +198,8 @@ rather
 remaining
 relies
 recent
+reachable
+register
 use
 used
 unnecessary
@@ -208,6 +215,7 @@ BTB
 Bit
 Use
 Unswitching
+Useful
 graph
 going
 greater
@@ -219,11 +227,13 @@ lower
 lines
 loop
 loops
+live
 Output
 Ordering
 Schedule
 Store
 Figures
+Following
 Note
 violate
 very
@@ -233,4 +243,5 @@ It
 Will
 Kinds
 Disadvantages
+Definition
 Loop

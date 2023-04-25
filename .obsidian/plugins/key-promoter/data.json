@@ -11,17 +11,17 @@
     "backlink:open-backlinks": 4,
     "backlink:toggle-backlinks-in-document": 4,
     "obsidian-git:push": 4,
-    "obsidian-git:backup-and-close": 13,
+    "obsidian-git:backup-and-close": 14,
     "obsidian-git:commit-push-specified-message": 4,
     "editing-toolbar:change-background-color": 4,
     "obsidian-editor-shortcuts:goToPrevChar": 4,
     "graph:open": 5,
-    "workspace:undo-close-pane": 9,
-    "workspace:close": 9,
-    "workspace:close-window": 9,
-    "workspace:close-others": 9,
-    "pane-relief:ordered-close": 9,
-    "obsidian-completr:completr-close-suggestion-popup": 9,
+    "workspace:undo-close-pane": 10,
+    "workspace:close": 10,
+    "workspace:close-window": 10,
+    "workspace:close-others": 10,
+    "pane-relief:ordered-close": 10,
+    "obsidian-completr:completr-close-suggestion-popup": 10,
     "graph:open-local": 1,
     "graph:animate": 1,
     "editor:toggle-source": 1
@@ -29,11 +29,14 @@
   "keyboardStatistics": {
     "editor:save-file": 1,
     "switcher:open": 1,
-    "file-explorer:new-file": 1,
-    "obsidian-completr:completr-select-next-suggestion": 36,
+    "file-explorer:new-file": 2,
+    "obsidian-completr:completr-select-next-suggestion": 40,
     "obsidian-completr:completr-select-previous-suggestion": 8,
-    "obsidian-completr:completr-insert-selected-suggestion": 1,
+    "obsidian-completr:completr-insert-selected-suggestion": 2,
     "editing-toolbar:fullscreen-focus": 2,
-    "editor:toggle-bold": 2
+    "editor:toggle-bold": 3,
+    "app:toggle-left-sidebar": 4,
+    "app:toggle-right-sidebar": 4,
+    "editing-toolbar:workplace-fullscreen-focus": 4
   }
 }
