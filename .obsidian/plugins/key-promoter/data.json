@@ -14,7 +14,8 @@
     "obsidian-git:backup-and-close": 4,
     "obsidian-git:commit-push-specified-message": 4,
     "editing-toolbar:change-background-color": 4,
-    "obsidian-editor-shortcuts:goToPrevChar": 4
+    "obsidian-editor-shortcuts:goToPrevChar": 4,
+    "graph:open": 1
   },
   "keyboardStatistics": {}
 }

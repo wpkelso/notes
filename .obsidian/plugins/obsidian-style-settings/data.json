@@ -1,0 +1,8 @@
+{
+  "pane-relief@@pane-relief-disable-counts": true,
+  "pane-relief@@pane-relief-pane-numbering": true,
+  "typomagical-text@@body-ligatures": true,
+  "typomagical-text@@blockquote": "blockquote-neuomorphic",
+  "typomagical-text@@callout-style": "callout-default",
+  "typomagical-colour@@theme-variant": "vileplume"
+}
