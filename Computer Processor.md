@@ -1,4 +1,4 @@
-#computer_architecture 
+#computer_architecture #computer_hardware 
 Primary control unit within a computer. Performs all [[Instruction Set Architecture|instructions]], reads and writes to [[Computer Memory|memory]], etc.
 
 ### Data Path

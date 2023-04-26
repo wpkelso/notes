@@ -1,4 +1,5 @@
 #computer_architecture 
+
 Sitting between the [[Computer Processor|processor]] and the [[Computer Memory|memory]], the cache is a hardware controlled buffer for fast data access. When a [[Memory Instructions|memory instruction]] makes a call to the cache first, checking to see if the data is stored there. If it is, the cache will “hit” and return the word of data. However, if the cache has a “miss” and the data is not in the cache, the call will move to the memory/disk, stalling the CPU. This disk will return the appropriate [[Memory Block|block]] which will then be stored in the cache. The cache has a larger size than the [[Register|register block]], but a slower access time than a register.
 
 ## Principle of Locality
@@ -11,7 +12,7 @@ The idea that programs access a relatively small portion of the address space at
 - Size = Block Size $*$ Number of blocks
 - Line/Block Size
 - [[Cache Associativity|Associativity]] » Mapping of data blocks to the cache
-- The behavior of the cache can on specific operations can be characterized through it’s [[Cache Policies|various policies]]
+- The behavior of the cache on specific operations can be characterized through it’s [[Cache Policies|various policies]]
 
 ## Entries
 Each cache entry has the following sections:
@@ -38,4 +39,15 @@ Each cache entry has the following sections:
 ## Reads and Writes
 For reads, the tag and data block can be read in parallel, and the read can access more bytes than needed. For writes, the block can be modified only after the tag is checked, and only a specific portion of the block is changed.
 
+## Classifying Misses
+- **Compulsory (Cold Start):** occurs the first time you touch a block
+- **Capacity:** occurs when the working set is too big for the *ideal* cache with the same capacity and block size (ideal meaning it is fulley associetive with the optimal replacement algorithm).
+- **Conflict:** Mapping of two or more in-use blocks to the same location.
+- **Coherence:** Found only in [[Multiprocessor|multiprocessors]], occurs when a miss happens due to a cache block otherwise present being invalidated by a write from another core.
+
 ## Characterizing Cache Performance
+
+$$\text{T}_{\text{CPU}}=(C_{CPU}+C_{Mem})*T_{Clock Cycle}$$
+where $T_{\text{CPU}}$ is the execution time of the CPU, $C_{CPU}$ is the CPU clock cycles, and $C_{Mem}$ is the memory stall cycles. The memory stall cycles can be calculated with the equations 
+$$=N_{\text{misses}} * P_{miss} \text{ where } P_{miss} \text{ is the penalty for  a miss}$$ 
+$$=N_{instructions}*(\text{Misses/Instruction)*P$$

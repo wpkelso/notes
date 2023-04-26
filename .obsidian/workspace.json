@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "90066e1aa9dcf631",
+            "id": "1ad91b00dc911f49",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,8 +45,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control Flow Graph.md",
-                "mode": "preview",
+                "file": "Cache.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control Flow Graph.md",
+                "file": "Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control Flow Graph.md",
+                "file": "Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control Flow Graph.md"
+                "file": "Cache.md"
               }
             }
           }
@@ -247,11 +247,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90066e1aa9dcf631",
+  "active": "1ad91b00dc911f49",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Cache.md",
+    "Computer Processor.md",
     "Control Flow Graph.md",
     "Graph Coloring Hueristic.md",
     "Register Allocation.md",
