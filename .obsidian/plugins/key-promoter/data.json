@@ -42,6 +42,7 @@
     "app:toggle-right-sidebar": 4,
     "editing-toolbar:workplace-fullscreen-focus": 4,
     "editor:toggle-italics": 4,
-    "obsidian-completr:completr-close-suggestion-popup": 1
+    "obsidian-completr:completr-close-suggestion-popup": 1,
+    "global-search:open": 1
   }
 }

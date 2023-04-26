@@ -1,7 +1,23 @@
+/* COLORS
+	--theme-red: #FF595E
+	--theme-orange: #FF8600;
+	--theme-yellow: #FFCA3A;
+	--theme-green: #8AC926;
+	--theme-cyan: #25CED1;
+	--theme-blue: #1982C4;
+	--theme-purple: #68419F;
+	--theme-magenta: #B82EA3;
+
+	--theme-white: #F0F0F0;
+*/
+
 .theme-light {
 	--background-primary: #f0f0f0;
+	--background-secondary: #8ac926;
 }
 
+
+/* MARKDOWN ELEMENTS */
 .markdown-rendered h1, .markdown-rendered h2, .markdown-rendered h3, .markdown-rendered h4, .markdown-rendered h5, .markdown-rendered h6 {
 	padding: 10px 20px;
 	position: relative;
@@ -9,4 +25,22 @@
 	background: var(--background-primary);
 	box-shadow:  10px 10px 20px #cccccc,
              -10px -10px 20px #ffffff;
+}
+
+
+/* UI ELEMENTS */
+.status-bar {
+	--status-bar-background: #ffffffaa;
+	--status-bar-border-color: #ffffff33;
+	--status-bar-text-color: var(--text-normal);
+}
+.status-bar:after {
+	content: '';
+	position:absolute;
+	top:0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.5);
+	filter: blur(10px);
 }
