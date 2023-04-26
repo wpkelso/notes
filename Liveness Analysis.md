@@ -1,5 +1,5 @@
 #compilers #compiler_optimizations 
-Useful in the context of [[Dead Code Elimination]], [[Instruction Scheduling]], and [[Register Allocation]]. 
+Useful in the context of [[Dead Code Elimination]], [[Instruction Scheduling]], and [[Register Allocation]]; it is also an example of [[Iterative Dataflow Analysis|iterative dataflow analysis]]. 
 
 >[!info] Definition
 >A [[Register|register]] $r$ is considered ‘live’ at instrction $i$ if it is used by some instruction $j$ that is reachable from $i$ in the [[Control Flow Graph|CFG]].

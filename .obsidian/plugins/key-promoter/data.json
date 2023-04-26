@@ -26,12 +26,13 @@
     "graph:animate": 1,
     "editor:toggle-source": 1,
     "pane-relief:focus-lock": 1,
-    "obsidian-latex-suite:latex-suite-disable-all-features": 1
+    "obsidian-latex-suite:latex-suite-disable-all-features": 1,
+    "various-complements:toggle-complement-automatically": 1
   },
   "keyboardStatistics": {
-    "editor:save-file": 5,
+    "editor:save-file": 6,
     "switcher:open": 4,
-    "file-explorer:new-file": 2,
+    "file-explorer:new-file": 3,
     "obsidian-completr:completr-select-next-suggestion": 40,
     "obsidian-completr:completr-select-previous-suggestion": 8,
     "obsidian-completr:completr-insert-selected-suggestion": 2,
@@ -40,6 +41,7 @@
     "app:toggle-left-sidebar": 4,
     "app:toggle-right-sidebar": 4,
     "editing-toolbar:workplace-fullscreen-focus": 4,
-    "editor:toggle-italics": 1
+    "editor:toggle-italics": 1,
+    "obsidian-completr:completr-close-suggestion-popup": 1
   }
 }
