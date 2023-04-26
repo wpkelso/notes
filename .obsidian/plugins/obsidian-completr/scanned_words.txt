@@ -82,6 +82,7 @@ small
 soon
 sections
 status
+stall
 difference
 different
 deal
@@ -123,6 +124,7 @@ desired
 dirty
 depends
 determine
+due
 of
 often
 or
@@ -146,6 +148,7 @@ observe
 operations
 offset
 occurs
+otherwise
 the
 to
 timing
@@ -183,6 +186,7 @@ types
 together
 touch
 too
+thumb
 embedded
 each
 execute
@@ -208,6 +212,7 @@ error
 excluding
 every
 entry
+equation
 Embedded
 Examples
 Eventually
@@ -273,6 +278,8 @@ programs
 portion
 present
 parallel
+penalty
+power
 hardware
 hierarchy
 how
@@ -287,6 +294,8 @@ has
 hueristics
 hueristic
 hit
+happens
+higher
 in
 interrupts
 instruction
@@ -319,6 +328,7 @@ instant
 item
 items
 ideal
+invalidated
 conjunction
 conversion
 compilers
@@ -383,6 +393,11 @@ check
 checked
 changed
 capacity
+core
+calculated
+compulsory
+cost
+conflict
 achieve
 allow
 actions
@@ -424,6 +439,7 @@ addresses
 allowing
 associative
 associetive
+associativity
 These
 True
 The
@@ -486,6 +502,7 @@ Compulsory
 Cold
 Capacity
 Conflict
+Coherence
 Peripheral
 Parameters
 Predictors
@@ -508,6 +525,7 @@ Heuristics
 Hoist
 Homogeneous
 However
+Higher
 methodology
 more
 must
@@ -530,6 +548,7 @@ match
 matches
 modified
 meaning
+misses
 ready
 resource
 reach
@@ -561,6 +580,9 @@ recognize
 remainder
 read
 replacement
+reduce
+rate
+rule
 use
 used
 unnecessary
@@ -630,6 +652,7 @@ larger
 likely
 line
 location
+leads
 Output
 Ordering
 ODE
@@ -637,6 +660,7 @@ Order
 ODEs
 OOP
 Observation
+Optimizations
 Schedule
 Store
 Solution
@@ -656,6 +680,7 @@ For
 First
 Flow
 Follow
+Found
 Note
 Non
 NP
@@ -695,6 +720,7 @@ Data
 DRAM
 Deeper
 Decomposition
+DM
 Loop
 Live
 Liveness
@@ -703,6 +729,7 @@ LHS
 Law
 Locality
 Line
+Larger
 no
 not
 non

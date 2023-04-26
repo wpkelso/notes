@@ -48,6 +48,6 @@ For reads, the tag and data block can be read in parallel, and the read can acce
 ## Characterizing Cache Performance
 
 $$\text{T}_{\text{CPU}}=(C_{CPU}+C_{Mem})*T_{Clock Cycle}$$
-where $T_{\text{CPU}}$ is the execution time of the CPU, $C_{CPU}$ is the CPU clock cycles, and $C_{Mem}$ is the memory stall cycles. The memory stall cycles can be calculated with the equations 
-$$=N_{\text{misses}} * P_{miss} \text{ where } P_{miss} \text{ is the penalty for  a miss}$$ 
-$$=N_{instructions}*(\text{Misses/Instruction)*P$$
+where $T_{\text{CPU}}$ is the execution time of the CPU, $C_{CPU}$ is the CPU clock cycles, and $C_{Mem}$ is the memory stall cycles. The memory stall cycles can be calculated with the equation: 
+$$=N_{instructions}*\text{Memory Accesses/Instruction}*\text{Misses/Instruction}*P_{miss}$$
+where $P_{miss}$ is the [[Cache Miss Penalty|penalty for  a miss]].
