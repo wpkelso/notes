@@ -2,21 +2,17 @@
 .theme-light .x-cursor {
     opacity: 1;
     background: var(--text-normal);
-    border-left: 1px;
     width: 1px;
-    left: -1px;
-    height: calc(6px + var(--cursor-height));
+    height: calc(0.81 * (6px + var(--cursor-height)));
     transition: all 150ms;
-    top: calc( -6px - var(--header-height));
+    top: calc(-0px - var(--header-height));
 }
 
 /* iAWriter-ish style. The cursor colour in a dark theme */
 .theme-dark .x-cursor {
     opacity: 1;
     background: var(--text-normal);
-    border-left: 1px;
     width: 1px;
-    left: -1px;
     height: calc(6px + var(--cursor-height));
     transition: all 150ms;
     top: calc( -6px - var(--header-height));
@@ -40,7 +36,7 @@
 
 .cursorWrapper .x-cursor0,
 .cursorWrapper .x-cursor1 {
-    animation: blink1 1.5s 0s both infinite;
+    animation: blink1 1.3s 0s both infinite;
     animation-delay: 0.5s;
 }
 

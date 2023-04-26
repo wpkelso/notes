@@ -84,6 +84,7 @@ over
 optimization
 order
 others
+only
 the
 to
 timing
@@ -137,6 +138,7 @@ where
 while
 written
 we
+within
 peripheral
 peripherals
 processor
@@ -151,6 +153,7 @@ performance
 potentially
 points
 problems
+physical
 hardware
 hierarchy
 how
@@ -182,6 +185,7 @@ instrction
 implemented
 involving
 independent
+infinite
 conjunction
 conversion
 compilers
@@ -236,6 +240,9 @@ around
 another
 analytic
 analysis
+architecture
+assumes
+actual
 These
 True
 The
@@ -245,6 +252,7 @@ Tradeoffs
 To
 There
 Techniques
+Therefore
 for
 first
 from
@@ -270,6 +278,7 @@ Prediction
 PC
 Propagate
 Philosophies
+Problem
 Hardware
 Heuristics
 Hoist
@@ -282,6 +291,7 @@ measure
 many
 means
 mathematics
+maps
 ready
 resource
 reach
@@ -337,6 +347,7 @@ liveout
 later
 level
 long
+limited
 Output
 Ordering
 ODE
@@ -355,6 +366,8 @@ Non
 violate
 very
 variable
+virtual
+values
 Is
 Idea
 It
@@ -377,6 +390,8 @@ LHS
 no
 not
 non
+number
+need
 Register
 Range
 RHS
@@ -386,3 +401,4 @@ quasi
 qualitative
 zero
 Quantitative
+kept
