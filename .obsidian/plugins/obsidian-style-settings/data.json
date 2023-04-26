@@ -5,5 +5,7 @@
   "typomagical-text@@blockquote": "blockquote-neuomorphic",
   "typomagical-text@@callout-style": "callout-default",
   "typomagical-colour@@theme-variant": "obsidian",
-  "typomagical-title@@font-title": "Amiri"
+  "typomagical-title@@font-title": "Amiri",
+  "typomagical-title@@title-weight": 650,
+  "typomagical-title@@title-gradient": "ss-title-solid"
 }

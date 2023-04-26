@@ -9,3 +9,8 @@
 	--link-color-hover: #25CED1;
 	--link-unresolved-color: var(--text-normal);
 }
+
+.tag {
+	font-size: 0.8em;
+	font-family: "Segoe UI" !important;
+}

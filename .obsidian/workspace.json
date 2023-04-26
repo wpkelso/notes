@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "abfc064c19524eaa",
+            "id": "a3f0e68d002c7bfb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -33,41 +33,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liveness Analysis.md",
+                "file": "Ordinary Differential Equation.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d0f67d6cf30f1b70",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iterative Dataflow Analysis.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -102,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liveness Analysis.md",
+                "file": "Ordinary Differential Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liveness Analysis.md",
+                "file": "Ordinary Differential Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liveness Analysis.md"
+                "file": "Ordinary Differential Equation.md"
               }
             }
           }
@@ -268,12 +241,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abfc064c19524eaa",
+  "active": "a3f0e68d002c7bfb",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "China.md",
     "Iterative Dataflow Analysis.md",
+    "Dead Code Elimination.md",
     "Liveness Analysis.md",
     "obsidian.css",
     "Loop Unswitching.md",
