@@ -1,0 +1,12 @@
+.theme-light {
+	--background-primary: #f0f0f0;
+}
+
+.markdown-rendered h1, .markdown-rendered h2, .markdown-rendered h3, .markdown-rendered h4, .markdown-rendered h5, .markdown-rendered h6 {
+	padding: 10px 20px;
+	position: relative;
+	border-radius: 10px;
+	background: var(--background-primary);
+	box-shadow:  10px 10px 20px #cccccc,
+             -10px -10px 20px #ffffff;
+}

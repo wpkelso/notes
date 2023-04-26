@@ -14,3 +14,4 @@ Based on the classic problem of coloring countries on a map a different color, t
 3. Continue until only 1 node remains
 4. Starting with the last node, assign a color
 5. Pop nodes from the stack and assign a color
+	   (If being used for [[Register Allocation|register allocation]], the [[Interference Graph|interference graph]] must be used to avoid assigning conflicting registers)

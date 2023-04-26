@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "Graph Coloring Hueristic.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,13 +85,12 @@
               "type": "markdown",
               "state": {
                 "file": "Register Allocation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -120,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Register Allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Register Allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +183,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Register Allocation.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -287,7 +282,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36da53d7a2c7f4a3",
+  "active": "53b129f2a74c88e1",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
