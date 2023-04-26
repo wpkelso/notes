@@ -11,8 +11,14 @@
             "id": "53b129f2a74c88e1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Graph Coloring Hueristic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Graph Coloring Hueristic.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -25,11 +31,44 @@
             }
           },
           {
+            "id": "afb773cf57a43933",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Algorithm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Algorithm.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":19},\"to\":{\"line\":4,\"ch\":19}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph Coloring Hueristic.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "36da53d7a2c7f4a3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Interference Graph",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interference Graph.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -52,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -253,12 +292,16 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Graph Coloring Hueristic.md",
     "Register Allocation.md",
+    "Programming/Algorithm.md",
+    "Interference Graph.md",
+    "Liveness Analysis.md",
+    "Hueristic.md",
     "Ordinary Differential Equation.md",
     "China.md",
     "Iterative Dataflow Analysis.md",
     "Dead Code Elimination.md",
-    "Liveness Analysis.md",
     "obsidian.css",
     "Loop Unswitching.md",
     "Sexual Dimorphism.md",

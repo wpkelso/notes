@@ -74,8 +74,8 @@
     "Algorithm": {
       "Algorithm": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682458108961
+          "count": 2,
+          "lastUpdated": 1682525822504
         }
       }
     },
@@ -140,6 +140,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1682481537168
+        }
+      }
+    },
+    "NP-complete": {
+      "NP-complete": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682525686150
+        }
+      }
+    },
+    "hueristic": {
+      "hueristic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682525736784
         }
       }
     }
