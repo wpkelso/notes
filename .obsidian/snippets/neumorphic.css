@@ -18,6 +18,11 @@
 
 
 /* MARKDOWN ELEMENTS */
+.tag {
+	inset: 0px;
+	background: radial-gradient(farthest-corner at 35px 5px, #f0f0f066, transparent);
+	
+}
 .markdown-rendered h1, .markdown-rendered h2, .markdown-rendered h3, .markdown-rendered h4, .markdown-rendered h5, .markdown-rendered h6 {
 	padding: 10px 20px;
 	position: relative;
