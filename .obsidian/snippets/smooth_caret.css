@@ -1,3 +1,5 @@
-.CodeMirror-cursor {
+.CodeMirror-cursor,
+.cm-s-obsidian .cm-cursor,
+.cm-s-obsidian .cm-dropCursor {
 	transition: all 80ms !important;
 }

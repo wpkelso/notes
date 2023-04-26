@@ -18,7 +18,7 @@
     "graph:open": 5,
     "workspace:undo-close-pane": 11,
     "workspace:close": 11,
-    "workspace:close-window": 11,
+    "workspace:close-window": 12,
     "workspace:close-others": 11,
     "pane-relief:ordered-close": 11,
     "obsidian-completr:completr-close-suggestion-popup": 11,
