@@ -18,16 +18,18 @@
     "graph:open": 5,
     "workspace:undo-close-pane": 11,
     "workspace:close": 11,
-    "workspace:close-window": 12,
+    "workspace:close-window": 13,
     "workspace:close-others": 11,
     "pane-relief:ordered-close": 11,
     "obsidian-completr:completr-close-suggestion-popup": 11,
     "graph:open-local": 1,
     "graph:animate": 1,
-    "editor:toggle-source": 1
+    "editor:toggle-source": 1,
+    "pane-relief:focus-lock": 1,
+    "obsidian-latex-suite:latex-suite-disable-all-features": 1
   },
   "keyboardStatistics": {
-    "editor:save-file": 1,
+    "editor:save-file": 3,
     "switcher:open": 3,
     "file-explorer:new-file": 2,
     "obsidian-completr:completr-select-next-suggestion": 40,

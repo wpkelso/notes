@@ -1,0 +1,31 @@
+.CodeMirror-cursor { 
+  border-left-width: 0.5em;
+}
+
+/* Smooth cursor blinking */
+.ͼ1.cm-focused .cm-cursorLayer {
+  animation: ease cm-blink 1s infinite !important;
+}
+
+@keyframes cm-blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes cm-blink2 {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
