@@ -57,6 +57,7 @@ definition
 dead
 defined
 def
+dataflow
 of
 often
 or
@@ -69,6 +70,7 @@ optimizations
 other
 occupy
 over
+optimization
 the
 to
 timing
@@ -102,6 +104,7 @@ executing
 equations
 empty
 example
+earlier
 Embedded
 Examples
 Eventually
@@ -147,6 +150,7 @@ impact
 its
 initialize
 instrction
+implemented
 conjunction
 conversion
 compilers
@@ -174,6 +178,7 @@ context
 considered
 changes
 compute
+category
 achieve
 allow
 actions
@@ -202,6 +207,8 @@ from
 flow
 fewer
 final
+forward
+falls
 Common
 Counters
 Computing
@@ -237,6 +244,7 @@ used
 unnecessary
 unswitching
 until
+under
 Algorithm
 Anti
 Advantages
@@ -246,6 +254,7 @@ Branch
 Buffer
 BTB
 Bit
+Backward
 Use
 Unswitching
 Useful

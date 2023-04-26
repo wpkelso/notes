@@ -5,11 +5,9 @@
     border-left: 1px;
     width: 1px;
     left: -1px;
-    --header-height: 40px;
-    --cursor-height: 22px;
     height: calc(6px + var(--cursor-height));
     transition: all 150ms;
-    top: calc( -2px - var(--header-height));
+    top: calc( -6px - var(--header-height));
 }
 
 /* iAWriter-ish style. The cursor colour in a dark theme */
@@ -19,11 +17,9 @@
     border-left: 1px;
     width: 1px;
     left: -1px;
-    --header-height: 40px;
-    --cursor-height: 22px;
     height: calc(6px + var(--cursor-height));
     transition: all 150ms;
-    top: calc( -2px - var(--header-height));
+    top: calc( -6px - var(--header-height));
 }
 
 
@@ -45,7 +41,7 @@
 .cursorWrapper .x-cursor0,
 .cursorWrapper .x-cursor1 {
     animation: blink1 1.5s 0s both infinite;
-    animation-delay: 1s;
+    animation-delay: 0.5s;
 }
 
 
