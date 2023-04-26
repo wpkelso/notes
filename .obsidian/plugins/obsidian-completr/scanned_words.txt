@@ -18,6 +18,10 @@ block
 been
 border
 being
+basic
+blocks
+beginning
+build
 size
 sexes
 same
@@ -62,6 +66,7 @@ system
 succeed
 stack
 solving
+sequential
 difference
 different
 deal
@@ -96,6 +101,7 @@ deletion
 doesn
 degree
 deleted
+destination
 of
 often
 or
@@ -145,6 +151,8 @@ through
 two
 typically
 trial
+them
+terminated
 embedded
 each
 execute
@@ -167,6 +175,8 @@ efficiently
 enough
 even
 error
+excluding
+every
 Embedded
 Examples
 Eventually
@@ -186,6 +196,7 @@ within
 ways
 whose
 would
+widely
 peripheral
 peripherals
 processor
@@ -248,6 +259,7 @@ input
 impossible
 insertion
 implementation
+important
 conjunction
 conversion
 compilers
@@ -297,6 +309,9 @@ course
 colors
 colored
 conflicting
+called
+connects
+calls
 achieve
 allow
 actions
@@ -339,6 +354,8 @@ There
 Techniques
 Therefore
 They
+Terminate
+This
 for
 first
 from
@@ -352,6 +369,7 @@ find
 form
 formula
 found
+function
 Common
 Counters
 Computing
@@ -362,6 +380,8 @@ Considering
 Coloring
 Chaitan
 Continue
+Control
+Creation
 Peripheral
 Parameters
 Predictors
@@ -373,6 +393,7 @@ Problem
 Problems
 Push
 Pop
+Properties
 Hardware
 Heuristics
 Hoist
@@ -411,6 +432,8 @@ required
 representing
 remains
 rules
+represents
+really
 use
 used
 unnecessary
@@ -428,6 +451,7 @@ An
 All
 And
 Algorithms
+As
 Build
 Based
 Branch
@@ -436,6 +460,7 @@ BTB
 Bit
 Backward
 Bronze
+Basic
 Use
 Unswitching
 Useful
@@ -447,6 +472,7 @@ general
 given
 goal
 give
+guaranteed
 linear
 latency
 list
@@ -466,6 +492,7 @@ large
 language
 last
 loosely
+leverage
 Output
 Ordering
 ODE
@@ -477,11 +504,13 @@ Schedule
 Store
 Solution
 Starting
+Start
 Figures
 Following
 Forward
 For
 First
+Flow
 Note
 Non
 NP
@@ -533,4 +562,8 @@ zero
 Quantitative
 kept
 known
+kind
 Goal
+Graph
+You
+just
