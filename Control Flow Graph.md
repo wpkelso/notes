@@ -1,4 +1,5 @@
-#compilers #programming 
+#compilers #programming
+
 The Control Flow Graph is an important and widely used [[Hybrid Intermediate Representation|hybrid IR]]. As its most basic, it is a [[Directed Cyclic Graph|directed cyclic graph]] that represents control flow in the program. [[Vertex|Nodes]] are sets of **guaranteed sequential** instructions called "basic blocks." If control can flow from one basic block to another, an [[Edge|edge]] connects them. Basic blocks are then terminated by a branch.
 
 ## Creation

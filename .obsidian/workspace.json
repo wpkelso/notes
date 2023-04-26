@@ -52,6 +52,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -80,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Control Flow Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Control Flow Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +147,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Control Flow Graph.md"
+              }
             }
           }
         ],
@@ -242,7 +247,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53b129f2a74c88e1",
+  "active": "90066e1aa9dcf631",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
