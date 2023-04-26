@@ -8,30 +8,37 @@
 	--theme-purple: #68419F;
 	--theme-magenta: #B82EA3;
 
-	--theme-white: #F0F0F0;
+	--theme-white: #EEEEEE;
+	--theme-black: ;
 */
 
 .theme-light {
-	--background-primary: #f0f0f0;
+	--background-primary: #eeeeee;
 	--background-secondary: #8ac926;
 }
 
 
 /* MARKDOWN ELEMENTS */
 .tag {
-	inset: 0px;
-	background: radial-gradient(farthest-corner at 35px 5px, #f0f0f066, transparent);
+	box-shadow: 1px 5px 10px #cccccc, 1px -5px 10px #ffffff;
 	
 }
 .markdown-rendered h1, .markdown-rendered h2, .markdown-rendered h3, .markdown-rendered h4, .markdown-rendered h5, .markdown-rendered h6 {
 	padding: 10px 20px;
 	position: relative;
 	border-radius: 10px;
-	background: var(--background-primary);
-	box-shadow:  10px 10px 20px #cccccc,
-             -10px -10px 20px #ffffff;
+	background: var(--background-secondary);
+	box-shadow:  5px 5px 10px #cccccc,
+             -5px -5px 10px #ffffff;
 }
 
+.view-content{
+	border-radius: 10px;
+	background: #eeeeee;
+	box-shadow: inset 5px 5px 10px #cacaca,
+            inset -5px -5px 10px #ffffff;
+
+}
 
 /* UI ELEMENTS */
 .status-bar {

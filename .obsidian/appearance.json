@@ -7,8 +7,7 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "smooth_caret",
-    "typomagical-overrides",
-    "neumorphic"
+    "typomagical-overrides"
   ],
   "baseFontSizeAction": true
 }
