@@ -46,6 +46,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -74,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Liveness Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Liveness Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Liveness Analysis.md"
+              }
             }
           }
         ],
@@ -236,7 +241,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "abfc064c19524eaa",
+  "active": "452409026a00a315",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
