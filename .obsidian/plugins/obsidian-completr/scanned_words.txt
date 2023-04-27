@@ -30,6 +30,7 @@ big
 beyond
 branching
 best
+become
 size
 sexes
 same
@@ -143,6 +144,9 @@ decrease
 designers
 does
 during
+datapaths
+designs
+dependen
 of
 often
 or
@@ -171,6 +175,9 @@ optimize
 outcomes
 overfitting
 outputs
+outcome
+originate
+occur
 the
 to
 timing
@@ -243,6 +250,7 @@ equation
 eviction
 emphasizes
 encodings
+except
 Embedded
 Examples
 Eventually
@@ -282,6 +290,8 @@ wastes
 wisdom
 who
 was
+without
+writing
 peripheral
 peripherals
 processor
@@ -327,6 +337,10 @@ purely
 predicted
 production
 pairs
+primarily
+particular
+pipelines
+previously
 hardware
 hierarchy
 how
@@ -344,6 +358,11 @@ hit
 happens
 higher
 here
+handling
+hazards
+happen
+however
+hazard
 in
 interrupts
 instruction
@@ -383,6 +402,11 @@ inner
 include
 indirect
 immediate
+issued
+issue
+integer
+implementing
+involved
 conjunction
 conversion
 compilers
@@ -459,6 +483,12 @@ cases
 compassion
 conditions
 contiguously
+component
+change
+cannot
+cause
+consider
+covered
 achieve
 allow
 actions
@@ -518,6 +548,7 @@ allocated
 architectures
 accurate
 account
+allowed
 These
 True
 The
@@ -540,6 +571,8 @@ Types
 Terminology
 Training
 Test
+Type
+Thus
 for
 first
 from
@@ -562,6 +595,8 @@ frequent
 formatting
 format
 fit
+few
+fetched
 Common
 Counters
 Computing
@@ -592,6 +627,7 @@ Coherence
 Comes
 Characteristics
 Conditional
+Cannot
 Peripheral
 Parameters
 Predictors
@@ -612,12 +648,15 @@ Principle
 Prioritize
 Programmer
 Primitive
+Predictor
 Hardware
 Heuristics
 Hoist
 Homogeneous
 However
 Higher
+Handling
+Hazards
 methodology
 more
 must
@@ -688,6 +727,8 @@ reduced
 replacing
 redundancy
 representations
+reorder
+reading
 use
 used
 unnecessary
@@ -699,6 +740,8 @@ unit
 us
 using
 upon
+unless
+unpipelined
 Algorithm
 Anti
 Advantages
@@ -729,6 +772,7 @@ Backward
 Bronze
 Basic
 Block
+Brings
 Use
 Unswitching
 Useful
@@ -774,6 +818,7 @@ levels
 local
 learning
 learned
+load
 Output
 Ordering
 ODE
@@ -799,6 +844,7 @@ Status
 System
 SUB
 STORE
+Some
 Figures
 Following
 Forward
@@ -816,6 +862,7 @@ Non
 NP
 No
 Number
+Name
 violate
 very
 variable
@@ -825,6 +872,8 @@ vs
 valid
 validity
 variables
+violated
+vulnerable
 Is
 Idea
 It
@@ -847,6 +896,8 @@ We
 What
 When
 Writes
+Write
+With
 Kinds
 Key
 Disadvantages
@@ -861,6 +912,8 @@ Decomposition
 DM
 Division
 Displacement
+Detection
+Dependency
 Loop
 Live
 Liveness
@@ -884,6 +937,7 @@ needed
 never
 needs
 nature
+notes
 Register
 Range
 RHS
@@ -891,6 +945,10 @@ Reasons
 Repetedly
 Reads
 Regression
+Related
+Relationships
+Read
+RAW
 Major
 Move
 Made
@@ -924,3 +982,4 @@ just
 jumps
 jump
 you
+yet

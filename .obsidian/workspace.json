@@ -11,16 +11,22 @@
             "id": "53b129f2a74c88e1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Graph Coloring Hueristic",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Graph Coloring Hueristic.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "Aliasing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Aliasing.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 }
               ]
@@ -29,8 +35,30 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "2067a25991f4db64",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Hazard.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -59,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Memory Hazard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Memory Hazard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +153,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Memory Hazard.md"
+              }
             }
           }
         ],
@@ -222,11 +254,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53b129f2a74c88e1",
+  "active": "2067a25991f4db64",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Memory Hazard.md",
+    "Dataflow Hazards.md",
+    "Data Dependence.md",
+    "Data Dependencies.md",
+    "Structural Hazard.md",
+    "Race Condition.md",
+    "Hazard.md",
+    "Aliasing.md",
+    "Control Hazards.md",
+    "Branch Prediction.md",
+    "Dynamic Branch prediction.md",
     "Computer Memory.md",
     "Linear Regression.md",
     "Instruction Set Architecture.md",
@@ -243,17 +286,6 @@
     "Cache.md",
     "Cache Miss Penalty.md",
     "Computer Processor.md",
-    "Control Flow Graph.md",
-    "Graph Coloring Hueristic.md",
-    "Register Allocation.md",
-    "Hueristic.md",
-    "Programming/Algorithm.md",
-    "Interference Graph.md",
-    "Liveness Analysis.md",
-    "Ordinary Differential Equation.md",
-    "China.md",
-    "Iterative Dataflow Analysis.md",
-    "Dead Code Elimination.md",
     "obsidian.css"
   ]
 }
