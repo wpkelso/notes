@@ -27,6 +27,7 @@ buffer
 bit
 bytes
 big
+beyond
 size
 sexes
 same
@@ -83,6 +84,7 @@ soon
 sections
 status
 stall
+second
 difference
 different
 deal
@@ -125,6 +127,7 @@ dirty
 depends
 determine
 due
+decrease
 of
 often
 or
@@ -149,6 +152,7 @@ operations
 offset
 occurs
 otherwise
+optimize
 the
 to
 timing
@@ -223,6 +227,7 @@ Existing
 Evaluation
 Entries
 Each
+Exclusion
 work
 with
 will
@@ -280,6 +285,7 @@ present
 parallel
 penalty
 power
+possible
 hardware
 hierarchy
 how
@@ -296,6 +302,7 @@ hueristic
 hit
 happens
 higher
+here
 in
 interrupts
 instruction
@@ -440,6 +447,7 @@ allowing
 associative
 associetive
 associativity
+always
 These
 True
 The
@@ -549,6 +557,8 @@ matches
 modified
 meaning
 misses
+multiple
+mentioned
 ready
 resource
 reach
@@ -583,6 +593,7 @@ replacement
 reduce
 rate
 rule
+reduced
 use
 used
 unnecessary
@@ -592,6 +603,7 @@ under
 unknowns
 unit
 us
+using
 Algorithm
 Anti
 Advantages
@@ -653,6 +665,7 @@ likely
 line
 location
 leads
+levels
 Output
 Ordering
 ODE
@@ -673,6 +686,7 @@ Sitting
 Spatial
 Size
 Status
+System
 Figures
 Following
 Forward
@@ -705,6 +719,7 @@ IPC
 Instruction
 ISA
 Index
+Inclusion
 Will
 We
 What
@@ -739,6 +754,7 @@ nodes
 new
 node
 needed
+never
 Register
 Range
 RHS
@@ -752,8 +768,11 @@ Microarchitecture
 Mapping
 Memory
 Misses
+More
+Multilevel
 quasi
 qualitative
+quite
 zero
 Quantitative
 kept
@@ -761,6 +780,7 @@ known
 kind
 Goal
 Graph
+Generally
 You
 just
 you
