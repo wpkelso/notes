@@ -1,7 +1,7 @@
 .theme-light {
 	--tag-color: var(--background-primary);
 	--tag-color-hover: var(--background-primary);
-	--tag-background: #FF8600;
+	--tag-background: #FF8600AA;
 	--tag-background-hover: #FFCA3A;
 }
 

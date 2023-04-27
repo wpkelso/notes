@@ -29,63 +29,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d1c7bcf1acb23b57",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Cache Optimizations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache Optimizations.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":13},\"to\":{\"line\":13,\"ch\":13}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Caches.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3eff6da4d6e308fb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Cache Optimizations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache Optimizations.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":14},\"to\":{\"line\":7,\"ch\":14}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multi-Level Cache Architecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +59,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Caches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +84,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtual Caches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +123,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Virtual Caches.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -261,7 +202,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -280,13 +222,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1c7bcf1acb23b57",
+  "active": "53b129f2a74c88e1",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Cache Optimizations.md",
+    "Linear Regression.md",
+    "Instruction Set Architecture.md",
+    "Addressing Modes.md",
     "Virtual Caches.md",
+    "Cache Optimizations.md",
     "Zen Buddhism.md",
     "Chan Buddhism.md",
     "Mahayana Buddhism.md",
@@ -309,9 +254,6 @@
     "Iterative Dataflow Analysis.md",
     "Dead Code Elimination.md",
     "obsidian.css",
-    "Loop Unswitching.md",
-    "Sexual Dimorphism.md",
-    "Dynamic Branch prediction.md",
-    "Laplace Expansion.md"
+    "Loop Unswitching.md"
   ]
 }

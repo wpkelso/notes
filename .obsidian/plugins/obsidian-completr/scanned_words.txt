@@ -28,6 +28,8 @@ bit
 bytes
 big
 beyond
+branching
+best
 size
 sexes
 same
@@ -89,6 +91,12 @@ setting
 swap
 schools
 school
+storage
+should
+sequences
+sizes
+seen
+stage
 difference
 different
 deal
@@ -132,6 +140,9 @@ depends
 determine
 due
 decrease
+designers
+does
+during
 of
 often
 or
@@ -157,6 +168,9 @@ offset
 occurs
 otherwise
 optimize
+outcomes
+overfitting
+outputs
 the
 to
 timing
@@ -196,6 +210,10 @@ touch
 too
 thumb
 translation
+transfer
+training
+test
+taking
 embedded
 each
 execute
@@ -224,6 +242,7 @@ entry
 equation
 eviction
 emphasizes
+encodings
 Embedded
 Examples
 Eventually
@@ -236,6 +255,8 @@ Entries
 Each
 Exclusion
 Effect
+Exception
+Essentially
 work
 with
 will
@@ -259,6 +280,8 @@ when
 working
 wastes
 wisdom
+who
+was
 peripheral
 peripherals
 processor
@@ -296,6 +319,14 @@ parallel
 penalty
 power
 possible
+programmable
+programmer
+part
+procedures
+purely
+predicted
+production
+pairs
 hardware
 hierarchy
 how
@@ -349,6 +380,9 @@ invalidated
 invalidate
 increasing
 inner
+include
+indirect
+immediate
 conjunction
 conversion
 compilers
@@ -423,6 +457,8 @@ corresponding
 causes
 cases
 compassion
+conditions
+contiguously
 achieve
 allow
 actions
@@ -472,6 +508,16 @@ advantage
 avoiding
 along
 awakening
+accessing
+answer
+available
+arithmetic
+aggregate
+arrays
+allocated
+architectures
+accurate
+account
 These
 True
 The
@@ -490,6 +536,10 @@ Technology
 Two
 Temporal
 Tag
+Types
+Terminology
+Training
+Test
 for
 first
 from
@@ -509,6 +559,9 @@ fast
 following
 fulley
 frequent
+formatting
+format
+fit
 Common
 Counters
 Computing
@@ -537,6 +590,8 @@ Capacity
 Conflict
 Coherence
 Comes
+Characteristics
+Conditional
 Peripheral
 Parameters
 Predictors
@@ -555,6 +610,8 @@ Path
 Performance
 Principle
 Prioritize
+Programmer
+Primitive
 Hardware
 Heuristics
 Hoist
@@ -591,6 +648,8 @@ mismatch
 maens
 major
 meditation
+machine
+model
 ready
 resource
 reach
@@ -628,6 +687,7 @@ rule
 reduced
 replacing
 redundancy
+representations
 use
 used
 unnecessary
@@ -638,6 +698,7 @@ unknowns
 unit
 us
 using
+upon
 Algorithm
 Anti
 Advantages
@@ -654,6 +715,10 @@ Address
 Average
 Access
 Avoid
+Assembly
+ADD
+Addressing
+Assumption
 Build
 Based
 Branch
@@ -667,6 +732,7 @@ Block
 Use
 Unswitching
 Useful
+Unconditional
 graph
 going
 greater
@@ -677,6 +743,7 @@ goal
 give
 guaranteed
 global
+generate
 linear
 latency
 list
@@ -705,6 +772,8 @@ location
 leads
 levels
 local
+learning
+learned
 Output
 Ordering
 ODE
@@ -714,6 +783,7 @@ OOP
 Observation
 Optimizations
 One
+Organization
 Schedule
 Store
 Solution
@@ -727,6 +797,8 @@ Spatial
 Size
 Status
 System
+SUB
+STORE
 Figures
 Following
 Forward
@@ -735,6 +807,10 @@ First
 Flow
 Follow
 Found
+Forms
+Floating
+Formats
+Format
 Note
 Non
 NP
@@ -748,6 +824,7 @@ values
 vs
 valid
 validity
+variables
 Is
 Idea
 It
@@ -760,12 +837,18 @@ Instruction
 ISA
 Index
 Inclusion
+Includes
+Interface
+Instructions
+Integer
+Immediate
 Will
 We
 What
 When
 Writes
 Kinds
+Key
 Disadvantages
 Definition
 Dataflow
@@ -776,6 +859,8 @@ DRAM
 Deeper
 Decomposition
 DM
+Division
+Displacement
 Loop
 Live
 Liveness
@@ -785,6 +870,8 @@ Law
 Locality
 Line
 Larger
+LOAD
+Learned
 no
 not
 non
@@ -803,6 +890,7 @@ RHS
 Reasons
 Repetedly
 Reads
+Regression
 Major
 Move
 Made
@@ -812,9 +900,15 @@ Memory
 Misses
 More
 Multilevel
+Minimal
+Modes
+Many
+Model
+Models
 quasi
 qualitative
 quite
+question
 zero
 Quantitative
 kept
@@ -824,6 +918,9 @@ key
 Goal
 Graph
 Generally
+Given
 You
 just
+jumps
+jump
 you
