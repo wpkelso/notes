@@ -1,1 +1,3 @@
+#religion 
+
 One of the two major schools of [[Buddhism]], along with

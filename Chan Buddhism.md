@@ -1,1 +1,3 @@
+#religion 
+
 [[China|Chinese]] school of [[Mahayana Buddhism]]
