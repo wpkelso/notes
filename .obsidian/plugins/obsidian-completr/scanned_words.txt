@@ -98,6 +98,8 @@ sequences
 sizes
 seen
 stage
+so
+simply
 difference
 different
 deal
@@ -147,6 +149,7 @@ during
 datapaths
 designs
 dependen
+designed
 of
 often
 or
@@ -221,6 +224,8 @@ transfer
 training
 test
 taking
+tagged
+total
 embedded
 each
 execute
@@ -251,6 +256,7 @@ eviction
 emphasizes
 encodings
 except
+easily
 Embedded
 Examples
 Eventually
@@ -341,6 +347,7 @@ primarily
 particular
 pipelines
 previously
+physically
 hardware
 hierarchy
 how
@@ -407,6 +414,8 @@ issue
 integer
 implementing
 involved
+indexed
+instead
 conjunction
 conversion
 compilers
@@ -729,6 +738,7 @@ redundancy
 representations
 reorder
 reading
+run
 use
 used
 unnecessary
@@ -777,6 +787,7 @@ Use
 Unswitching
 Useful
 Unconditional
+Utilizes
 graph
 going
 greater
@@ -829,6 +840,7 @@ Observation
 Optimizations
 One
 Organization
+Optimal
 Schedule
 Store
 Solution
@@ -845,6 +857,7 @@ System
 SUB
 STORE
 Some
+Scheduling
 Figures
 Following
 Forward
@@ -874,6 +887,7 @@ validity
 variables
 violated
 vulnerable
+virtually
 Is
 Idea
 It
@@ -891,6 +905,7 @@ Interface
 Instructions
 Integer
 Immediate
+Instance
 Will
 We
 What
@@ -949,6 +964,7 @@ Related
 Relationships
 Read
 RAW
+Reorder
 Major
 Move
 Made
@@ -963,6 +979,8 @@ Modes
 Many
 Model
 Models
+Methodologies
+Most
 quasi
 qualitative
 quite

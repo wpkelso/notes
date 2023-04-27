@@ -233,6 +233,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Tomasulo's Algorithm.md",
+    "Instruction Scheduling.md",
+    "Cache Optimizations.md",
     "Memory Hazard.md",
     "Dataflow Hazards.md",
     "Data Dependence.md",
@@ -249,7 +252,6 @@
     "Instruction Set Architecture.md",
     "Addressing Modes.md",
     "Virtual Caches.md",
-    "Cache Optimizations.md",
     "Zen Buddhism.md",
     "Chan Buddhism.md",
     "Mahayana Buddhism.md",
@@ -258,8 +260,6 @@
     "Dirty Block.md",
     "Pasted image 20230426184332.png",
     "Cache.md",
-    "Cache Miss Penalty.md",
-    "Computer Processor.md",
     "obsidian.css"
   ]
 }
