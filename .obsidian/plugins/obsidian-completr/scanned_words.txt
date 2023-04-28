@@ -100,6 +100,7 @@ seen
 stage
 so
 simply
+scenarios
 difference
 different
 deal
@@ -150,6 +151,7 @@ datapaths
 designs
 dependen
 designed
+decent
 of
 often
 or
@@ -257,6 +259,7 @@ emphasizes
 encodings
 except
 easily
+expensive
 Embedded
 Examples
 Eventually
@@ -348,6 +351,8 @@ particular
 pipelines
 previously
 physically
+positions
+position
 hardware
 hierarchy
 how
@@ -498,6 +503,7 @@ cannot
 cause
 consider
 covered
+conflicts
 achieve
 allow
 actions
@@ -558,6 +564,7 @@ architectures
 accurate
 account
 allowed
+asks
 These
 True
 The
@@ -637,6 +644,7 @@ Comes
 Characteristics
 Conditional
 Cannot
+Caches
 Peripheral
 Parameters
 Predictors
@@ -698,6 +706,10 @@ major
 meditation
 machine
 model
+mapped
+maximizes
+minimizes
+making
 ready
 resource
 reach
@@ -752,6 +764,7 @@ using
 upon
 unless
 unpipelined
+unsuited
 Algorithm
 Anti
 Advantages
@@ -772,6 +785,7 @@ Assembly
 ADD
 Addressing
 Assumption
+Associative
 Build
 Based
 Branch
@@ -783,6 +797,7 @@ Bronze
 Basic
 Block
 Brings
+Blocks
 Use
 Unswitching
 Useful
@@ -799,6 +814,7 @@ give
 guaranteed
 global
 generate
+grouped
 linear
 latency
 list
@@ -830,6 +846,7 @@ local
 learning
 learned
 load
+located
 Output
 Ordering
 ODE
@@ -858,6 +875,7 @@ SUB
 STORE
 Some
 Scheduling
+Set
 Figures
 Following
 Forward
@@ -870,6 +888,7 @@ Forms
 Floating
 Formats
 Format
+Fully
 Note
 Non
 NP
@@ -913,6 +932,7 @@ When
 Writes
 Write
 With
+Way
 Kinds
 Key
 Disadvantages
@@ -929,6 +949,7 @@ Division
 Displacement
 Detection
 Dependency
+Direct
 Loop
 Live
 Liveness
@@ -981,6 +1002,7 @@ Model
 Models
 Methodologies
 Most
+Mapped
 quasi
 qualitative
 quite

@@ -5,6 +5,8 @@
   "notificationTimeout": 5,
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
-  "mouseStatistics": {},
+  "mouseStatistics": {
+    "graph:open": 1
+  },
   "keyboardStatistics": {}
 }
