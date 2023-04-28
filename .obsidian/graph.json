@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:circuits",
+      "query": "tag:#circuits",
       "color": {
         "a": 1,
         "rgb": 16745984
@@ -106,7 +106,7 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#design",
       "color": {
         "a": 1,
         "rgb": 12070563
@@ -123,6 +123,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 165,
-  "scale": 0.2292013121492513,
+  "scale": 0.22920131214925132,
   "close": true
 }

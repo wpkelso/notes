@@ -5,25 +5,6 @@
   "notificationTimeout": 5,
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
-  "mouseStatistics": {
-    "various-complements:toggle-complement-automatically": 1,
-    "workspace:undo-close-pane": 13,
-    "obsidian-git:backup-and-close": 13,
-    "pane-relief:ordered-close": 13,
-    "obsidian-completr:completr-close-suggestion-popup": 13,
-    "workspace:close": 13,
-    "workspace:close-window": 13,
-    "workspace:close-others": 13,
-    "graph:open": 2,
-    "backlink:toggle-backlinks-in-document": 1,
-    "graph:open-local": 1,
-    "graph:animate": 1
-  },
-  "keyboardStatistics": {
-    "switcher:open": 12,
-    "editor:toggle-bold": 10,
-    "editor:toggle-italics": 9,
-    "file-explorer:new-file": 2,
-    "editor:save-file": 2
-  }
+  "mouseStatistics": {},
+  "keyboardStatistics": {}
 }
