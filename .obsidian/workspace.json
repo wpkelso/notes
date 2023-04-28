@@ -35,30 +35,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "9bcb6779ac9b905b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cache.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +129,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cache.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -254,11 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bcb6779ac9b905b",
+  "active": "53b129f2a74c88e1",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Cache.md",
     "Tomasulo's Algorithm.md",
     "Instruction Scheduling.md",
     "Cache Optimizations.md",
@@ -285,7 +260,6 @@
     "Multi-Level Cache Architecture.md",
     "Dirty Block.md",
     "Pasted image 20230426184332.png",
-    "Cache.md",
     "obsidian.css"
   ]
 }
