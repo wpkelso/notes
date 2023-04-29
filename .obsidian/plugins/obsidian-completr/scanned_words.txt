@@ -31,6 +31,7 @@ beyond
 branching
 best
 become
+below
 size
 sexes
 same
@@ -101,6 +102,8 @@ stage
 so
 simply
 scenarios
+scanned
+strongly
 difference
 different
 deal
@@ -183,6 +186,8 @@ outputs
 outcome
 originate
 occur
+obsidian
+occurrence
 the
 to
 timing
@@ -228,6 +233,8 @@ test
 taking
 tagged
 total
+txt
+text
 embedded
 each
 execute
@@ -301,6 +308,8 @@ who
 was
 without
 writing
+words
+workspace
 peripheral
 peripherals
 processor
@@ -353,6 +362,7 @@ previously
 physically
 positions
 position
+plugins
 hardware
 hierarchy
 how
@@ -504,6 +514,10 @@ cause
 consider
 covered
 conflicts
+commit
+commands
+completr
+conflicted
 achieve
 allow
 actions
@@ -565,6 +579,8 @@ accurate
 account
 allowed
 asks
+automatically
+above
 These
 True
 The
@@ -613,6 +629,9 @@ format
 fit
 few
 fetched
+followed
+file
+files
 Common
 Counters
 Computing
@@ -645,6 +664,7 @@ Characteristics
 Conditional
 Cannot
 Caches
+Conflicts
 Peripheral
 Parameters
 Predictors
@@ -666,6 +686,7 @@ Prioritize
 Programmer
 Primitive
 Predictor
+Please
 Hardware
 Heuristics
 Hoist
@@ -710,6 +731,7 @@ mapped
 maximizes
 minimizes
 making
+mode
 ready
 resource
 reach
@@ -751,6 +773,9 @@ representations
 reorder
 reading
 run
+resolve
+recommend
+replace
 use
 used
 unnecessary
@@ -786,6 +811,7 @@ ADD
 Addressing
 Assumption
 Associative
+Additional
 Build
 Based
 Branch
@@ -847,6 +873,7 @@ learning
 learned
 load
 located
+listed
 Output
 Ordering
 ODE
@@ -876,6 +903,7 @@ STORE
 Some
 Scheduling
 Set
+Source
 Figures
 Following
 Forward
@@ -895,6 +923,7 @@ NP
 No
 Number
 Name
+Not
 violate
 very
 variable
@@ -907,6 +936,7 @@ variables
 violated
 vulnerable
 virtually
+viewing
 Is
 Idea
 It
@@ -1021,5 +1051,6 @@ You
 just
 jumps
 jump
+json
 you
 yet
