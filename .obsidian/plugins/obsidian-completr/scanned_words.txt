@@ -32,6 +32,7 @@ branching
 best
 become
 below
+became
 size
 sexes
 same
@@ -104,6 +105,11 @@ simply
 scenarios
 scanned
 strongly
+serene
+seminal
+similar
+short
+syllable
 difference
 different
 deal
@@ -155,6 +161,7 @@ designs
 dependen
 designed
 decent
+dominant
 of
 often
 or
@@ -235,6 +242,10 @@ tagged
 total
 txt
 text
+tends
+tradition
+thousand
+tanka
 embedded
 each
 execute
@@ -267,6 +278,11 @@ encodings
 except
 easily
 expensive
+episodic
+extremely
+economical
+eight
+eigth
 Embedded
 Examples
 Eventually
@@ -310,6 +326,8 @@ without
 writing
 words
 workspace
+western
+were
 peripheral
 peripherals
 processor
@@ -363,6 +381,12 @@ physically
 positions
 position
 plugins
+poetry
+place
+perhaps
+poems
+poem
+pattern
 hardware
 hierarchy
 how
@@ -385,6 +409,8 @@ hazards
 happen
 however
 hazard
+holds
+hanka
 in
 interrupts
 instruction
@@ -431,6 +457,8 @@ implementing
 involved
 indexed
 instead
+images
+im
 conjunction
 conversion
 compilers
@@ -518,6 +546,13 @@ commit
 commands
 completr
 conflicted
+contrast
+complex
+collection
+compiled
+century
+consisting
+crystallize
 achieve
 allow
 actions
@@ -581,6 +616,7 @@ allowed
 asks
 automatically
 above
+attatched
 These
 True
 The
@@ -605,6 +641,7 @@ Training
 Test
 Type
 Thus
+Translating
 for
 first
 from
@@ -632,6 +669,10 @@ fetched
 followed
 file
 files
+forms
+famous
+four
+five
 Common
 Counters
 Computing
@@ -665,6 +706,7 @@ Conditional
 Cannot
 Caches
 Conflicts
+Chinese
 Peripheral
 Parameters
 Predictors
@@ -687,6 +729,7 @@ Programmer
 Primitive
 Predictor
 Please
+Poetry
 Hardware
 Heuristics
 Hoist
@@ -776,6 +819,7 @@ run
 resolve
 recommend
 replace
+rhyming
 use
 used
 unnecessary
@@ -841,6 +885,7 @@ guaranteed
 global
 generate
 grouped
+greatest
 linear
 latency
 list
@@ -874,6 +919,9 @@ learned
 load
 located
 listed
+literature
+little
+late
 Output
 Ordering
 ODE
@@ -955,6 +1003,7 @@ Instructions
 Integer
 Immediate
 Instance
+Its
 Will
 We
 What
@@ -1033,6 +1082,7 @@ Models
 Methodologies
 Most
 Mapped
+Manyoshu
 quasi
 qualitative
 quite
@@ -1052,5 +1102,7 @@ just
 jumps
 jump
 json
+japan
 you
 yet
+Japan

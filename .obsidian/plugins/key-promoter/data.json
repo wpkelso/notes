@@ -6,7 +6,15 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "workspace:close-window": 1
+    "workspace:close-window": 4,
+    "workspace:undo-close-pane": 3,
+    "obsidian-git:backup-and-close": 3,
+    "pane-relief:ordered-close": 3,
+    "obsidian-completr:completr-close-suggestion-popup": 3,
+    "workspace:close": 3,
+    "workspace:close-others": 3
   },
-  "keyboardStatistics": {}
+  "keyboardStatistics": {
+    "editor:toggle-italics": 4
+  }
 }
