@@ -31,6 +31,7 @@ beyond
 branching
 best
 become
+both
 size
 sexes
 same
@@ -100,6 +101,8 @@ seen
 stage
 so
 simply
+significantly
+speed
 difference
 different
 deal
@@ -150,6 +153,8 @@ datapaths
 designs
 dependen
 designed
+dictate
+don
 of
 often
 or
@@ -181,6 +186,7 @@ outputs
 outcome
 originate
 occur
+off
 the
 to
 timing
@@ -226,6 +232,10 @@ test
 taking
 tagged
 total
+temporal
+turned
+traffic
+terminating
 embedded
 each
 execute
@@ -257,6 +267,8 @@ emphasizes
 encodings
 except
 easily
+easy
+evictions
 Embedded
 Examples
 Eventually
@@ -271,6 +283,7 @@ Exclusion
 Effect
 Exception
 Essentially
+Evictions
 work
 with
 will
@@ -348,6 +361,8 @@ particular
 pipelines
 previously
 physically
+policies
+policy
 hardware
 hierarchy
 how
@@ -370,6 +385,7 @@ hazards
 happen
 however
 hazard
+handles
 in
 interrupts
 instruction
@@ -416,6 +432,7 @@ implementing
 involved
 indexed
 instead
+implement
 conjunction
 conversion
 compilers
@@ -498,6 +515,10 @@ cannot
 cause
 consider
 covered
+certain
+corollary
+costly
+consistent
 achieve
 allow
 actions
@@ -558,6 +579,10 @@ architectures
 accurate
 account
 allowed
+affect
+approximated
+accessed
+allows
 These
 True
 The
@@ -582,6 +607,7 @@ Training
 Test
 Type
 Thus
+Through
 for
 first
 from
@@ -658,6 +684,8 @@ Prioritize
 Programmer
 Primitive
 Predictor
+Policies
+Psuedo
 Hardware
 Heuristics
 Hoist
@@ -666,6 +694,7 @@ However
 Higher
 Handling
 Hazards
+Hit
 methodology
 more
 must
@@ -739,6 +768,11 @@ representations
 reorder
 reading
 run
+recently
+reset
+random
+require
+requiring
 use
 used
 unnecessary
@@ -752,6 +786,8 @@ using
 upon
 unless
 unpipelined
+updated
+usually
 Algorithm
 Anti
 Advantages
@@ -772,6 +808,7 @@ Assembly
 ADD
 Addressing
 Assumption
+Allocate
 Build
 Based
 Branch
@@ -783,11 +820,13 @@ Bronze
 Basic
 Block
 Brings
+Back
 Use
 Unswitching
 Useful
 Unconditional
 Utilizes
+Used
 graph
 going
 greater
@@ -799,6 +838,7 @@ give
 guaranteed
 global
 generate
+gives
 linear
 latency
 list
@@ -830,6 +870,7 @@ local
 learning
 learned
 load
+locality
 Output
 Ordering
 ODE
@@ -841,6 +882,8 @@ Optimizations
 One
 Organization
 Optimal
+OUT
+On
 Schedule
 Store
 Solution
@@ -870,6 +913,7 @@ Forms
 Floating
 Formats
 Format
+FIFO
 Note
 Non
 NP
@@ -888,6 +932,7 @@ variables
 violated
 vulnerable
 virtually
+view
 Is
 Idea
 It
@@ -906,6 +951,7 @@ Instructions
 Integer
 Immediate
 Instance
+IN
 Will
 We
 What
@@ -940,6 +986,8 @@ Line
 Larger
 LOAD
 Learned
+Least
+LRU
 no
 not
 non
@@ -965,6 +1013,9 @@ Relationships
 Read
 RAW
 Reorder
+Replacement
+Random
+Recently
 Major
 Move
 Made
@@ -981,6 +1032,8 @@ Model
 Models
 Methodologies
 Most
+Miss
+Modify
 quasi
 qualitative
 quite
