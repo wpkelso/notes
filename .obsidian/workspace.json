@@ -221,13 +221,13 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Memory Hazard.md",
     "Cache Associativity.md",
     "Cache.md",
     "conflict-files-obsidian-git.md",
     "Tomasulo's Algorithm.md",
     "Instruction Scheduling.md",
     "Cache Optimizations.md",
-    "Memory Hazard.md",
     "Dataflow Hazards.md",
     "Data Dependence.md",
     "Data Dependencies.md",

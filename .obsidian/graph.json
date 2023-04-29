@@ -6,17 +6,137 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#mathematics",
+      "color": {
+        "a": 1,
+        "rgb": 16734558
+      }
+    },
+    {
+      "query": "tag:#signal_analysis",
+      "color": {
+        "a": 1,
+        "rgb": 16734558
+      }
+    },
+    {
+      "query": "tag:#machine_learning",
+      "color": {
+        "a": 1,
+        "rgb": 16734558
+      }
+    },
+    {
+      "query": "tag:#circuits",
+      "color": {
+        "a": 1,
+        "rgb": 16745984
+      }
+    },
+    {
+      "query": "tag:#literature",
+      "color": {
+        "a": 1,
+        "rgb": 16763450
+      }
+    },
+    {
+      "query": "tag:#biology",
+      "color": {
+        "a": 1,
+        "rgb": 9095462
+      }
+    },
+    {
+      "query": "tag:#physics",
+      "color": {
+        "a": 1,
+        "rgb": 9095462
+      }
+    },
+    {
+      "query": "tag:#compilers",
+      "color": {
+        "a": 1,
+        "rgb": 2477777
+      }
+    },
+    {
+      "query": "tag:#programming",
+      "color": {
+        "a": 1,
+        "rgb": 2477777
+      }
+    },
+    {
+      "query": "tag:#data_structures",
+      "color": {
+        "a": 1,
+        "rgb": 2477777
+      }
+    },
+    {
+      "query": "tag:#computer_hardware",
+      "color": {
+        "a": 1,
+        "rgb": 1671876
+      }
+    },
+    {
+      "query": "tag:#computer_architecture",
+      "color": {
+        "a": 1,
+        "rgb": 1671876
+      }
+    },
+    {
+      "query": "tag:#embedded_systems",
+      "color": {
+        "a": 1,
+        "rgb": 1671876
+      }
+    },
+    {
+      "query": "tag:#religion",
+      "color": {
+        "a": 1,
+        "rgb": 6832543
+      }
+    },
+    {
+      "query": "tag:#philosophy",
+      "color": {
+        "a": 1,
+        "rgb": 6832543
+      }
+    },
+    {
+      "query": "tag:#history",
+      "color": {
+        "a": 1,
+        "rgb": 12070563
+      }
+    },
+    {
+      "query": "tag:#culture",
+      "color": {
+        "a": 1,
+        "rgb": 12070563
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 1.19770482061948,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.551957216073683,
+  "repelStrength": 11.8012330089876,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.10512724593988856,
-  "close": false
+  "linkDistance": 180,
+  "scale": 0.2292013121492513,
+  "close": true
 }
