@@ -23,36 +23,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "f2cf2cfc29dfa4dc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Japanese Traditional Poetry",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Japanese Traditional Poetry.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":272},\"to\":{\"line\":2,\"ch\":272}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manyoshu.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -81,7 +53,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manyoshu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +78,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manyoshu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +117,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Manyoshu.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -248,15 +216,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2cf2cfc29dfa4dc",
+  "active": "303599dececebe62",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Tanka.md",
-    "Manyoshu.md",
-    "Choka.md",
     "Japanese Traditional Poetry.md",
+    "Untitled.md",
+    "Manyoshu.md",
+    "Tanka.md",
+    "Choka.md",
     "Memory Hazard.md",
     "Cache Associativity.md",
     "Cache.md",
@@ -278,7 +247,6 @@
     "Linear Regression.md",
     "Instruction Set Architecture.md",
     "Addressing Modes.md",
-    "Virtual Caches.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]

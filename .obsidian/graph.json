@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#mathematics",
@@ -54,6 +54,13 @@
       "color": {
         "a": 1,
         "rgb": 9095462
+      }
+    },
+    {
+      "query": "tag:#design",
+      "color": {
+        "a": 1,
+        "rgb": 32607
       }
     },
     {
@@ -137,6 +144,6 @@
   "repelStrength": 11.8012330089876,
   "linkStrength": 1,
   "linkDistance": 180,
-  "scale": 1.220656711088505,
+  "scale": 0.25365294812717426,
   "close": true
 }
