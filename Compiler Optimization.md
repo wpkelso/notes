@@ -11,12 +11,15 @@ The same outputs for the same inputs, as well as the failures remaining the same
 ## How can we make a program run faster?
 - Reduce the number of instructions
 - Select or [[Instruction Scheduling|schedule]] instructions so that they execute in fewer cycles on average
-- Co-Design the hardware and the compiler
+- Co-Design the [[Computer Processor|hardware]] and the compiler
 
 A compiler is made of many optimizations working together, with each optimization focusing on a single goal. Ordering is important, but there is no magic ordering and we don’t know what’s optimal, so experimentation is required to achieve good orderings.
 
 ## Typical Flow in an Optimizer
 - Optimizations which enable others come first
+	- These include optimizations such as [[Memory to Register Promotion]], [[Scalr Replacement of Aggregates]]
 - Optimizations which help reduce code size (to reduce runtime of later ones)
+	- [[Global Value Numbering]], [[Global Code Motion]], [[Dead Code Elimination]]. [[Common Sub-Expression Elimination]]
 - Longer running more complex ones come after simpler ones (loop optimizations)
+	- [[Loop Invariant Code Motion]], [[Loop Unswitching]]
 - Repeat important optimizations multiple times

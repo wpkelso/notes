@@ -110,6 +110,9 @@ seminal
 similar
 short
 syllable
+specifically
+single
+simpler
 difference
 different
 deal
@@ -162,6 +165,7 @@ dependen
 designed
 decent
 dominant
+don
 of
 often
 or
@@ -195,6 +199,9 @@ originate
 occur
 obsidian
 occurrence
+ones
+optimized
+orderings
 the
 to
 timing
@@ -246,6 +253,9 @@ tends
 tradition
 thousand
 tanka
+transforming
+true
+times
 embedded
 each
 execute
@@ -283,6 +293,10 @@ extremely
 economical
 eight
 eigth
+exceptions
+existing
+experimentation
+enable
 Embedded
 Examples
 Eventually
@@ -328,6 +342,7 @@ words
 workspace
 western
 were
+what
 peripheral
 peripherals
 processor
@@ -387,6 +402,7 @@ perhaps
 poems
 poem
 pattern
+process
 hardware
 hierarchy
 how
@@ -411,6 +427,10 @@ however
 hazard
 holds
 hanka
+hopes
+hide
+hold
+help
 in
 interrupts
 instruction
@@ -459,6 +479,8 @@ indexed
 instead
 images
 im
+inputs
+introduce
 conjunction
 conversion
 compilers
@@ -553,6 +575,9 @@ compiled
 century
 consisting
 crystallize
+chosen
+constraint
+constitutes
 achieve
 allow
 actions
@@ -617,6 +642,7 @@ asks
 automatically
 above
 attatched
+allows
 These
 True
 The
@@ -642,6 +668,7 @@ Test
 Type
 Thus
 Translating
+Typical
 for
 first
 from
@@ -673,6 +700,9 @@ forms
 famous
 four
 five
+faster
+failures
+focusing
 Common
 Counters
 Computing
@@ -707,6 +737,7 @@ Cannot
 Caches
 Conflicts
 Chinese
+Co
 Peripheral
 Parameters
 Predictors
@@ -738,6 +769,7 @@ However
 Higher
 Handling
 Hazards
+How
 methodology
 more
 must
@@ -775,6 +807,9 @@ maximizes
 minimizes
 making
 mode
+make
+made
+magic
 ready
 resource
 reach
@@ -820,6 +855,10 @@ resolve
 recommend
 replace
 rhyming
+runs
+retains
+removed
+running
 use
 used
 unnecessary
@@ -856,6 +895,7 @@ Addressing
 Assumption
 Associative
 Additional
+Anything
 Build
 Based
 Branch
@@ -886,6 +926,7 @@ global
 generate
 grouped
 greatest
+good
 linear
 latency
 list
@@ -933,6 +974,8 @@ Optimizations
 One
 Organization
 Optimal
+Optimization
+Optimizer
 Schedule
 Store
 Solution
@@ -952,6 +995,7 @@ Some
 Scheduling
 Set
 Source
+Select
 Figures
 Following
 Forward
@@ -1029,6 +1073,7 @@ Displacement
 Detection
 Dependency
 Direct
+Design
 Loop
 Live
 Liveness
@@ -1040,6 +1085,7 @@ Line
 Larger
 LOAD
 Learned
+Longer
 no
 not
 non
@@ -1065,6 +1111,8 @@ Relationships
 Read
 RAW
 Reorder
+Reduce
+Repeat
 Major
 Move
 Made
@@ -1093,10 +1141,12 @@ kept
 known
 kind
 key
+know
 Goal
 Graph
 Generally
 Given
+General
 You
 just
 jumps
