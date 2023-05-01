@@ -5,18 +5,8 @@
   "notificationTimeout": 5,
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
-  "mouseStatistics": {
-    "workspace:close-window": 11,
-    "workspace:undo-close-pane": 10,
-    "obsidian-git:backup-and-close": 10,
-    "pane-relief:ordered-close": 10,
-    "obsidian-completr:completr-close-suggestion-popup": 10,
-    "workspace:close": 10,
-    "workspace:close-others": 10
-  },
+  "mouseStatistics": {},
   "keyboardStatistics": {
-    "editor:toggle-italics": 4,
-    "file-explorer:new-file": 1,
     "switcher:open": 1
   }
 }
