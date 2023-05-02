@@ -256,6 +256,7 @@ tanka
 transforming
 true
 times
+three
 embedded
 each
 execute
@@ -311,6 +312,7 @@ Exclusion
 Effect
 Exception
 Essentially
+Elder
 work
 with
 will
@@ -403,6 +405,8 @@ poems
 poem
 pattern
 process
+philosophy
+philosophies
 hardware
 hierarchy
 how
@@ -578,6 +582,8 @@ crystallize
 chosen
 constraint
 constitutes
+culture
+central
 achieve
 allow
 actions
@@ -770,6 +776,7 @@ Higher
 Handling
 Hazards
 How
+Husband
 methodology
 more
 must
@@ -996,6 +1003,8 @@ Scheduling
 Set
 Source
 Select
+Son
+Sibling
 Figures
 Following
 Forward
@@ -1009,6 +1018,9 @@ Floating
 Formats
 Format
 Fully
+Five
+Father
+Friends
 Note
 Non
 NP
@@ -1056,8 +1068,10 @@ Writes
 Write
 With
 Way
+Wife
 Kinds
 Key
+King
 Disadvantages
 Definition
 Dataflow
@@ -1131,6 +1145,7 @@ Methodologies
 Most
 Mapped
 Manyoshu
+Minister
 quasi
 qualitative
 quite
@@ -1148,6 +1163,7 @@ Generally
 Given
 General
 You
+Younger
 just
 jumps
 jump

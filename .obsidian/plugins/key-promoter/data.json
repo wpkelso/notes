@@ -6,7 +6,5 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {},
-  "keyboardStatistics": {
-    "switcher:open": 1
-  }
+  "keyboardStatistics": {}
 }
