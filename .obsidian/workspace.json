@@ -221,6 +221,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Iterative Modulo Scheduling.md",
+    "Slack.md",
+    "Data Dependence Depth.md",
+    "Data Dependence Height.md",
     "Confucianism.md",
     "Compiler Optimization.md",
     "Iterative Dataflow Analysis.md",
@@ -243,10 +247,6 @@
     "Race Condition.md",
     "Hazard.md",
     "Aliasing.md",
-    "Control Hazards.md",
-    "Branch Prediction.md",
-    "Dynamic Branch prediction.md",
-    "Computer Memory.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]

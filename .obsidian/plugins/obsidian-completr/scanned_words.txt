@@ -113,6 +113,10 @@ syllable
 specifically
 single
 simpler
+slowing
+schedule
+slope
+sum
 difference
 different
 deal
@@ -166,6 +170,8 @@ designed
 decent
 dominant
 don
+down
+determines
 of
 often
 or
@@ -202,6 +208,9 @@ occurrence
 ones
 optimized
 orderings
+operation
+opposite
+obeying
 the
 to
 timing
@@ -257,6 +266,7 @@ transforming
 true
 times
 three
+tree
 embedded
 each
 execute
@@ -298,6 +308,7 @@ exceptions
 existing
 experimentation
 enable
+easiest
 Embedded
 Examples
 Eventually
@@ -345,6 +356,7 @@ workspace
 western
 were
 what
+window
 peripheral
 peripherals
 processor
@@ -407,6 +419,8 @@ pattern
 process
 philosophy
 philosophies
+prioritized
+placed
 hardware
 hierarchy
 how
@@ -435,6 +449,7 @@ hopes
 hide
 hold
 help
+heuristic
 in
 interrupts
 instruction
@@ -485,6 +500,11 @@ images
 im
 inputs
 introduce
+infallible
+includes
+ignores
+iteration
+iterations
 conjunction
 conversion
 compilers
@@ -584,6 +604,8 @@ constraint
 constitutes
 culture
 central
+calculating
+calculate
 achieve
 allow
 actions
@@ -649,6 +671,9 @@ automatically
 above
 attatched
 allows
+assuming
+attach
+according
 These
 True
 The
@@ -675,6 +700,8 @@ Type
 Thus
 Translating
 Typical
+Theoretically
+Try
 for
 first
 from
@@ -709,6 +736,8 @@ five
 faster
 failures
 focusing
+farthest
+figures
 Common
 Counters
 Computing
@@ -744,6 +773,9 @@ Caches
 Conflicts
 Chinese
 Co
+Calculation
+Constraints
+Circular
 Peripheral
 Parameters
 Predictors
@@ -777,6 +809,7 @@ Handling
 Hazards
 How
 Husband
+Height
 methodology
 more
 must
@@ -817,6 +850,8 @@ mode
 make
 made
 magic
+max
+minimum
 ready
 resource
 reach
@@ -866,6 +901,8 @@ runs
 retains
 removed
 running
+resources
+recurrence
 use
 used
 unnecessary
@@ -880,6 +917,7 @@ upon
 unless
 unpipelined
 unsuited
+up
 Algorithm
 Anti
 Advantages
@@ -903,6 +941,7 @@ Assumption
 Associative
 Additional
 Anything
+Approximation
 Build
 Based
 Branch
@@ -920,6 +959,8 @@ Unswitching
 Useful
 Unconditional
 Utilizes
+Unit
+Units
 graph
 going
 greater
@@ -934,6 +975,8 @@ generate
 grouped
 greatest
 good
+generally
+get
 linear
 latency
 list
@@ -970,6 +1013,13 @@ listed
 literature
 little
 late
+latest
+largest
+limitations
+like
+length
+lowest
+latencies
 Output
 Ordering
 ODE
@@ -1005,6 +1055,7 @@ Source
 Select
 Son
 Sibling
+Slack
 Figures
 Following
 Forward
@@ -1021,6 +1072,9 @@ Fully
 Five
 Father
 Friends
+Find
+Finding
+Functional
 Note
 Non
 NP
@@ -1060,6 +1114,10 @@ Integer
 Immediate
 Instance
 Its
+Initiation
+Interval
+II
+Ignore
 Will
 We
 What
@@ -1088,6 +1146,8 @@ Detection
 Dependency
 Direct
 Design
+Depth
+DDG
 Loop
 Live
 Liveness
@@ -1113,6 +1173,7 @@ never
 needs
 nature
 notes
+notion
 Register
 Range
 RHS
@@ -1127,6 +1188,8 @@ RAW
 Reorder
 Reduce
 Repeat
+RecMII
+ResMII
 Major
 Move
 Made
@@ -1146,6 +1209,9 @@ Most
 Mapped
 Manyoshu
 Minister
+Main
+Minimum
+MII
 quasi
 qualitative
 quite
@@ -1162,6 +1228,8 @@ Graph
 Generally
 Given
 General
+Guess
+Guessing
 You
 Younger
 just
