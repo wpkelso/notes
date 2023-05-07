@@ -33,6 +33,8 @@ best
 become
 below
 became
+benefited
+better
 size
 sexes
 same
@@ -117,6 +119,7 @@ slowing
 schedule
 slope
 sum
+stone
 difference
 different
 deal
@@ -172,6 +175,7 @@ dominant
 don
 down
 determines
+disputed
 of
 often
 or
@@ -211,6 +215,7 @@ orderings
 operation
 opposite
 obeying
+origin
 the
 to
 timing
@@ -267,6 +272,7 @@ true
 times
 three
 tree
+tools
 embedded
 each
 execute
@@ -309,6 +315,7 @@ existing
 experimentation
 enable
 easiest
+early
 Embedded
 Examples
 Eventually
@@ -324,6 +331,8 @@ Effect
 Exception
 Essentially
 Elder
+Erectus
+Europe
 work
 with
 will
@@ -357,6 +366,7 @@ western
 were
 what
 window
+walk
 peripheral
 peripherals
 processor
@@ -421,6 +431,7 @@ philosophy
 philosophies
 prioritized
 placed
+predecessor
 hardware
 hierarchy
 how
@@ -450,6 +461,8 @@ hide
 hold
 help
 heuristic
+hunter
+hominid
 in
 interrupts
 instruction
@@ -606,6 +619,7 @@ culture
 central
 calculating
 calculate
+cranial
 achieve
 allow
 actions
@@ -674,6 +688,8 @@ allows
 assuming
 attach
 according
+ago
+about
 These
 True
 The
@@ -738,6 +754,8 @@ failures
 focusing
 farthest
 figures
+fully
+fire
 Common
 Counters
 Computing
@@ -810,6 +828,8 @@ Hazards
 How
 Husband
 Height
+Homo
+Heidelbergensis
 methodology
 more
 must
@@ -852,6 +872,9 @@ made
 magic
 max
 minimum
+million
+migrate
+man
 ready
 resource
 reach
@@ -918,6 +941,8 @@ unless
 unpipelined
 unsuited
 up
+upright
+utilizing
 Algorithm
 Anti
 Advantages
@@ -942,6 +967,10 @@ Associative
 Additional
 Anything
 Approximation
+Additionally
+Asia
+Africa
+Archaic
 Build
 Based
 Branch
@@ -961,6 +990,7 @@ Unconditional
 Utilizes
 Unit
 Units
+Upright
 graph
 going
 greater
@@ -977,6 +1007,7 @@ greatest
 good
 generally
 get
+game
 linear
 latency
 list
@@ -1020,6 +1051,8 @@ like
 length
 lowest
 latencies
+lived
+lbs
 Output
 Ordering
 ODE
@@ -1075,6 +1108,7 @@ Friends
 Find
 Finding
 Functional
+Female
 Note
 Non
 NP
@@ -1160,6 +1194,7 @@ Larger
 LOAD
 Learned
 Longer
+Labelled
 no
 not
 non
@@ -1174,6 +1209,7 @@ needs
 nature
 notes
 notion
+notable
 Register
 Range
 RHS
@@ -1212,6 +1248,9 @@ Minister
 Main
 Minimum
 MII
+Meaning
+Man
+Male
 quasi
 qualitative
 quite
@@ -1239,4 +1278,5 @@ json
 japan
 you
 yet
+years
 Japan

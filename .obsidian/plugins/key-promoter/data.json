@@ -6,13 +6,16 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "workspace:undo-close-pane": 4,
-    "obsidian-git:backup-and-close": 4,
-    "pane-relief:ordered-close": 4,
-    "obsidian-completr:completr-close-suggestion-popup": 4,
-    "workspace:close": 4,
-    "workspace:close-window": 5,
-    "workspace:close-others": 4
+    "workspace:undo-close-pane": 7,
+    "obsidian-git:backup-and-close": 7,
+    "pane-relief:ordered-close": 7,
+    "obsidian-completr:completr-close-suggestion-popup": 7,
+    "workspace:close": 7,
+    "workspace:close-window": 8,
+    "workspace:close-others": 7,
+    "graph:open": 2,
+    "graph:open-local": 1,
+    "graph:animate": 1
   },
   "keyboardStatistics": {
     "switcher:open": 2

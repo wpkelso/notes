@@ -1,5 +1,5 @@
 #history #china 
-Based around the [[Yellow River]] and the [[Yangtze River]] basins.
+Extremely ancient civilization based around the [[Yellow River]] and the [[Yangtze River]] basins in [[Asia]].
 
 [[Pan Ku, The Chinese Creator of the Universe]]
 
