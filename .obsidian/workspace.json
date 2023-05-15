@@ -56,9 +56,28 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "eacd88f0a597c9bc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -157,6 +176,14 @@
                 "file": "Homo Neaderthalis.md"
               }
             }
+          },
+          {
+            "id": "1c75a84768ad2e08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -254,7 +281,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0ef2fb3e3bacb1f",
+  "active": "eacd88f0a597c9bc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
