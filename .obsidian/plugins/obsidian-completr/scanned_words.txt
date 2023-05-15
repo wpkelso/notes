@@ -120,6 +120,7 @@ schedule
 slope
 sum
 stone
+sensitive
 difference
 different
 deal
@@ -367,6 +368,7 @@ were
 what
 window
 walk
+wellposed
 peripheral
 peripherals
 processor
@@ -432,6 +434,7 @@ philosophies
 prioritized
 placed
 predecessor
+posed
 hardware
 hierarchy
 how
@@ -518,6 +521,7 @@ includes
 ignores
 iteration
 iterations
+ill
 conjunction
 conversion
 compilers
@@ -943,6 +947,7 @@ unsuited
 up
 upright
 utilizing
+unique
 Algorithm
 Anti
 Advantages
@@ -1089,6 +1094,7 @@ Select
 Son
 Sibling
 Slack
+Solving
 Figures
 Following
 Forward
@@ -1161,6 +1167,8 @@ Write
 With
 Way
 Wife
+Whether
+Wellposedness
 Kinds
 Key
 King
@@ -1257,6 +1265,7 @@ quite
 question
 zero
 Quantitative
+Quality
 kept
 known
 kind

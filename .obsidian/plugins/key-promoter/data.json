@@ -5,6 +5,18 @@
   "notificationTimeout": 5,
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
-  "mouseStatistics": {},
-  "keyboardStatistics": {}
+  "mouseStatistics": {
+    "workspace:undo-close-pane": 2,
+    "obsidian-git:backup-and-close": 2,
+    "pane-relief:ordered-close": 2,
+    "obsidian-completr:completr-close-suggestion-popup": 2,
+    "workspace:close": 2,
+    "workspace:close-window": 2,
+    "workspace:close-others": 2,
+    "workspace:close-tab-group": 2,
+    "workspace:close-others-tab-group": 2
+  },
+  "keyboardStatistics": {
+    "switcher:open": 1
+  }
 }
