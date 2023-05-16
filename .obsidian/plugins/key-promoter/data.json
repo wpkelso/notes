@@ -6,21 +6,21 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "workspace:undo-close-pane": 6,
-    "obsidian-git:backup-and-close": 6,
-    "pane-relief:ordered-close": 6,
-    "obsidian-completr:completr-close-suggestion-popup": 6,
-    "workspace:close": 6,
-    "workspace:close-window": 6,
-    "workspace:close-others": 6,
-    "workspace:close-tab-group": 6,
-    "workspace:close-others-tab-group": 6,
+    "workspace:undo-close-pane": 7,
+    "obsidian-git:backup-and-close": 7,
+    "pane-relief:ordered-close": 7,
+    "obsidian-completr:completr-close-suggestion-popup": 7,
+    "workspace:close": 7,
+    "workspace:close-window": 7,
+    "workspace:close-others": 7,
+    "workspace:close-tab-group": 7,
+    "workspace:close-others-tab-group": 7,
     "graph:open": 1
   },
   "keyboardStatistics": {
     "switcher:open": 1,
     "obsidian-completr:completr-insert-selected-suggestion": 2,
     "obsidian-completr:completr-select-next-suggestion": 4,
-    "file-explorer:new-file": 1
+    "file-explorer:new-file": 2
   }
 }

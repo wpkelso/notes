@@ -46,13 +46,13 @@
               "type": "markdown",
               "state": {
                 "file": "Neolithic.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "55e99dda56647412",
+            "id": "9ed477f9830d7729",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -60,19 +60,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Neolithic",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Neolithic.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":300},\"to\":{\"line\":2,\"ch\":300}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neolithic Revolution.md",
+                "file": "Natufian Culture.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neolithic Revolution.md",
+                "file": "Natufian Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neolithic Revolution.md",
+                "file": "Natufian Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neolithic Revolution.md"
+                "file": "Natufian Culture.md"
               }
             }
           },
@@ -292,12 +286,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55e99dda56647412",
+  "active": "9ed477f9830d7729",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
     "Neolithic.md",
+    "Natufian Culture.md",
     "Neolithic Revolution.md",
     "Paleolithic.md",
     "Homo Sapiens.md",
@@ -322,7 +317,6 @@
     "conflict-files-obsidian-git.md",
     "Tomasulo's Algorithm.md",
     "Instruction Scheduling.md",
-    "Cache Optimizations.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]
