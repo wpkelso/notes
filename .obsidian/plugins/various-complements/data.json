@@ -286,6 +286,22 @@
           "lastUpdated": 1683484733431
         }
       }
+    },
+    "Homo Sapiens": {
+      "Homo Sapiens": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1684252363576
+        }
+      }
+    },
+    "Homo Neaderthalis": {
+      "Homo Neaderthalis": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684252081109
+        }
+      }
     }
   }
 }
