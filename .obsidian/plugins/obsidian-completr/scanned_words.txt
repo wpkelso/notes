@@ -131,6 +131,9 @@ surviving
 spanning
 started
 settled
+sheep
+still
+source
 difference
 different
 deal
@@ -190,6 +193,8 @@ disputed
 diet
 decline
 discovered
+domesticated
+day
 of
 often
 or
@@ -230,6 +235,7 @@ operation
 opposite
 obeying
 origin
+oasis
 the
 to
 timing
@@ -463,6 +469,7 @@ proto
 potential
 period
 pens
+practicing
 hardware
 hierarchy
 how
@@ -500,6 +507,8 @@ hunters
 high
 human
 harvested
+huts
+harvest
 in
 interrupts
 instruction
@@ -664,6 +673,8 @@ created
 communities
 civilizations
 caves
+consiting
+circular
 achieve
 allow
 actions
@@ -738,6 +749,7 @@ alive
 amounts
 afterlife
 aliases
+agriculture
 These
 True
 The
@@ -804,6 +816,7 @@ farthest
 figures
 fully
 fire
+food
 Common
 Counters
 Computing
@@ -844,6 +857,7 @@ Constraints
 Circular
 Culture
 Carmel
+Chemi
 Peripheral
 Parameters
 Predictors
@@ -867,6 +881,7 @@ Primitive
 Predictor
 Please
 Poetry
+Palestine
 Hardware
 Heuristics
 Hoist
@@ -881,6 +896,7 @@ Height
 Homo
 Heidelbergensis
 Human
+Hunting
 methodology
 more
 must
@@ -930,6 +946,7 @@ modern
 meant
 medical
 measured
+material
 ready
 resource
 reach
@@ -1153,6 +1170,8 @@ Slack
 Solving
 Species
 Stone
+Sites
+Site
 Figures
 Following
 Forward
@@ -1198,6 +1217,8 @@ violated
 vulnerable
 virtually
 viewing
+village
+valley
 Is
 Idea
 It
@@ -1222,6 +1243,8 @@ Interval
 II
 Ignore
 Israel
+Important
+Iraq
 Will
 We
 What
@@ -1233,6 +1256,7 @@ Way
 Wife
 Whether
 Wellposedness
+While
 Kinds
 Key
 King
@@ -1268,6 +1292,7 @@ Learned
 Longer
 Labelled
 Living
+Located
 no
 not
 non
@@ -1357,3 +1382,6 @@ you
 yet
 years
 Japan
+Jericho
+Jordan
+Zawi

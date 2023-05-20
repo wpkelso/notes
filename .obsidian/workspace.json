@@ -50,30 +50,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "9ed477f9830d7729",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Natufian Culture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natufian Culture.md",
+                "file": "Neolithic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natufian Culture.md",
+                "file": "Neolithic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natufian Culture.md"
+                "file": "Neolithic.md"
               }
             }
           },
@@ -286,7 +265,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ed477f9830d7729",
+  "active": "6a550864fba69e7b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
