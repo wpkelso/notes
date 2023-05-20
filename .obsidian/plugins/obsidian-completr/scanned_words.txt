@@ -189,6 +189,7 @@ determines
 disputed
 diet
 decline
+discovered
 of
 often
 or
@@ -336,6 +337,8 @@ eating
 evidence
 encompassing
 eventually
+existed
+eat
 Embedded
 Examples
 Eventually
@@ -389,6 +392,7 @@ what
 window
 walk
 wellposed
+wild
 peripheral
 peripherals
 processor
@@ -458,6 +462,7 @@ posed
 proto
 potential
 period
+pens
 hardware
 hierarchy
 how
@@ -494,6 +499,7 @@ had
 hunters
 high
 human
+harvested
 in
 interrupts
 instruction
@@ -657,6 +663,7 @@ care
 created
 communities
 civilizations
+caves
 achieve
 allow
 actions
@@ -835,6 +842,8 @@ Co
 Calculation
 Constraints
 Circular
+Culture
+Carmel
 Peripheral
 Parameters
 Predictors
@@ -1057,6 +1066,8 @@ good
 generally
 get
 game
+grains
+goats
 linear
 latency
 list
@@ -1173,6 +1184,7 @@ Not
 Neaderthalis
 New
 Neolithic
+Natufians
 violate
 very
 variable
@@ -1209,6 +1221,7 @@ Initiation
 Interval
 II
 Ignore
+Israel
 Will
 We
 What
@@ -1313,6 +1326,7 @@ Meaning
 Man
 Male
 Males
+Mount
 quasi
 qualitative
 quite
