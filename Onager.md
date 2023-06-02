@@ -1,0 +1,1 @@
+A member of the race of the Asian wild ass native to northern Iran

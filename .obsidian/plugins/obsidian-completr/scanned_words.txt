@@ -39,6 +39,7 @@ brain
 believed
 belief
 breeding
+barley
 size
 sexes
 same
@@ -134,6 +135,11 @@ settled
 sheep
 still
 source
+settlement
+shows
+sedentary
+showed
+signs
 difference
 different
 deal
@@ -195,6 +201,9 @@ decline
 discovered
 domesticated
 day
+deforestation
+disappearance
+dogs
 of
 often
 or
@@ -236,6 +245,8 @@ opposite
 obeying
 origin
 oasis
+occupied
+ornaments
 the
 to
 timing
@@ -296,6 +307,9 @@ tools
 thinly
 their
 trauma
+tower
+topsoil
+typical
 embedded
 each
 execute
@@ -345,6 +359,10 @@ encompassing
 eventually
 existed
 eat
+effect
+environment
+erosion
+eventual
 Embedded
 Examples
 Eventually
@@ -399,6 +417,9 @@ window
 walk
 wellposed
 wild
+wall
+wheat
+wildlife
 peripheral
 peripherals
 processor
@@ -470,6 +491,11 @@ potential
 period
 pens
 practicing
+proper
+population
+peaked
+progressive
+pigs
 hardware
 hierarchy
 how
@@ -509,6 +535,8 @@ human
 harvested
 huts
 harvest
+hunting
+horse
 in
 interrupts
 instruction
@@ -675,6 +703,13 @@ civilizations
 caves
 consiting
 circular
+community
+caused
+continued
+cattle
+consistent
+cothing
+camel
 achieve
 allow
 actions
@@ -750,6 +785,9 @@ amounts
 afterlife
 aliases
 agriculture
+abandonment
+acres
+animals
 These
 True
 The
@@ -817,6 +855,10 @@ figures
 fully
 fire
 food
+fortification
+foothills
+fairly
+fertilizer
 Common
 Counters
 Computing
@@ -882,6 +924,7 @@ Predictor
 Please
 Poetry
 Palestine
+Provided
 Hardware
 Heuristics
 Hoist
@@ -947,6 +990,10 @@ meant
 medical
 measured
 material
+massive
+management
+members
+mountains
 ready
 resource
 reach
@@ -1045,6 +1092,8 @@ Additionally
 Asia
 Africa
 Archaic
+Ain
+Animals
 Build
 Based
 Branch
@@ -1085,6 +1134,8 @@ get
 game
 grains
 goats
+goat
+grazing
 linear
 latency
 list
@@ -1131,6 +1182,9 @@ latencies
 lived
 lbs
 lead
+landscape
+led
+lentils
 Output
 Ordering
 ODE
@@ -1144,6 +1198,7 @@ Organization
 Optimal
 Optimization
 Optimizer
+Occupied
 Schedule
 Store
 Solution
@@ -1204,6 +1259,7 @@ Neaderthalis
 New
 Neolithic
 Natufians
+Northeastern
 violate
 very
 variable
@@ -1219,6 +1275,7 @@ virtually
 viewing
 village
 valley
+ve
 Is
 Idea
 It
@@ -1278,6 +1335,7 @@ Direct
 Design
 Depth
 DDG
+Domestication
 Loop
 Live
 Liveness
@@ -1309,6 +1367,7 @@ notes
 notion
 notable
 naturally
+neolithic
 Register
 Range
 RHS
@@ -1371,6 +1430,7 @@ Given
 General
 Guess
 Guessing
+Ghazal
 You
 Younger
 just
@@ -1384,4 +1444,6 @@ years
 Japan
 Jericho
 Jordan
+Jarmo
 Zawi
+Zagros
