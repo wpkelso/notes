@@ -16,12 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Release Notes 1.2.8",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.2.8\"}}",
-                  "eState": "{}"
                 }
               ]
             },
@@ -29,42 +23,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "6a550864fba69e7b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 2,
-              "stack": [
-                {
-                  "title": "Onager",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onager.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":66},\"to\":{\"line\":0,\"ch\":66}},\"scroll\":0}"
-                },
-                {
-                  "title": "Neolithic Villages",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Neolithic Villages.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":358},\"to\":{\"line\":18,\"ch\":358}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neolithic.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +53,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neolithic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +78,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neolithic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +117,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Neolithic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -267,25 +223,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "darlal-switcher-plus:Open in Headings Mode": false,
       "switcher:Open quick switcher": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6a550864fba69e7b",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": false
-  },
+  "active": "7aced461d0b10e48",
   "lastOpenFiles": [
+    "Neolithic.md",
     "Neolithic Villages.md",
     "Onager.md",
     "Sumeria.md",
-    "Neolithic.md",
     "Natufian Culture.md",
     "Neolithic Revolution.md",
     "Paleolithic.md",
