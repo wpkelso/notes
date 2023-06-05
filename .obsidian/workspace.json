@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d7162a851985185",
+        "id": "131cc8d4cff70fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "7aced461d0b10e48",
+            "id": "c4592b7513668c27",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -233,8 +233,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7aced461d0b10e48",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
+    "Dataflow Hazards.md",
     "Neolithic.md",
     "Neolithic Villages.md",
     "Onager.md",
@@ -260,7 +261,6 @@
     "Choka.md",
     "Memory Hazard.md",
     "Cache Associativity.md",
-    "Cache.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]
