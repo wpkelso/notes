@@ -23,30 +23,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "c73caceca74d4a45",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruction Set Architecture.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -75,7 +53,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instruction Set Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +78,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instruction Set Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +117,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Instruction Set Architecture.md"
-              }
+              "state": {}
             }
           },
           {
@@ -259,8 +233,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c73caceca74d4a45",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
+    "Instruction Set Architecture.md",
     "Dataflow Hazards.md",
     "Neolithic.md",
     "Neolithic Villages.md",
@@ -286,7 +261,6 @@
     "Tanka.md",
     "Choka.md",
     "Memory Hazard.md",
-    "Cache Associativity.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]
