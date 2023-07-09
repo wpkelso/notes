@@ -140,6 +140,7 @@ shows
 sedentary
 showed
 signs
+spoken
 difference
 different
 deal
@@ -247,6 +248,7 @@ origin
 oasis
 occupied
 ornaments
+original
 the
 to
 timing
@@ -420,6 +422,7 @@ wild
 wall
 wheat
 wildlife
+works
 peripheral
 peripherals
 processor
@@ -594,6 +597,7 @@ iteration
 iterations
 ill
 inter
+individual
 conjunction
 conversion
 compilers
@@ -710,6 +714,10 @@ cattle
 consistent
 cothing
 camel
+consonant
+combined
+characters
+character
 achieve
 allow
 actions
@@ -788,6 +796,7 @@ agriculture
 abandonment
 acres
 animals
+adapted
 These
 True
 The
@@ -1136,6 +1145,7 @@ grains
 goats
 goat
 grazing
+glyphs
 linear
 latency
 list
@@ -1185,6 +1195,7 @@ lead
 landscape
 led
 lentils
+logosyllabic
 Output
 Ordering
 ODE
@@ -1199,6 +1210,7 @@ Optimal
 Optimization
 Optimizer
 Occupied
+Origins
 Schedule
 Store
 Solution
@@ -1276,6 +1288,7 @@ viewing
 village
 valley
 ve
+vowel
 Is
 Idea
 It
@@ -1317,6 +1330,8 @@ While
 Kinds
 Key
 King
+Korea
+Korean
 Disadvantages
 Definition
 Dataflow

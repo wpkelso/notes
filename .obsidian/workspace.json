@@ -23,8 +23,30 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "4c92f66ed963bb44",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hangul.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -53,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hangul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hangul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +141,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hangul.md"
+              }
             }
           },
           {
@@ -233,8 +259,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c4592b7513668c27",
+  "active": "4c92f66ed963bb44",
   "lastOpenFiles": [
+    "Hangul.md",
     "Instruction Set Architecture.md",
     "Dataflow Hazards.md",
     "Neolithic.md",
@@ -260,7 +287,6 @@
     "Manyoshu.md",
     "Tanka.md",
     "Choka.md",
-    "Memory Hazard.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]
