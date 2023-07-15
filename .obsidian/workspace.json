@@ -46,7 +46,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -75,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hangul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hangul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +138,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hangul.md"
-              }
+              "state": {}
             }
           },
           {
@@ -259,7 +254,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "4c92f66ed963bb44",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
     "Hangul.md",
     "Instruction Set Architecture.md",
