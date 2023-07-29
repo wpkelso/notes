@@ -39,13 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hangul.md",
+                "file": "Hangeul.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -74,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hangeul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hangeul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hangeul.md"
+              }
             }
           },
           {
@@ -254,9 +259,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c4592b7513668c27",
+  "active": "4c92f66ed963bb44",
   "lastOpenFiles": [
-    "Hangul.md",
+    "Hangeul.md",
     "Instruction Set Architecture.md",
     "Dataflow Hazards.md",
     "Neolithic.md",
