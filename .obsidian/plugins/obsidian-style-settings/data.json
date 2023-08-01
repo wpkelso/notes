@@ -7,5 +7,8 @@
   "typomagical-colour@@theme-variant": "obsidian",
   "typomagical-title@@font-title": "Amiri",
   "typomagical-title@@title-weight": 650,
-  "typomagical-title@@title-gradient": "ss-title-solid"
+  "typomagical-title@@title-gradient": "ss-title-solid",
+  "typomagical-text@@font-default": "Source Sans Pro",
+  "typomagical-text@@link-font": "ss-links-sc",
+  "typomagical-text@@callout-quote-style": false
 }
