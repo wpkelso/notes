@@ -19,17 +19,25 @@
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
             "id": "4c92f66ed963bb44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Hunminjeongeum",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hunminjeongeum.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -46,7 +54,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -75,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hangeul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hangeul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +146,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hangeul.md"
-              }
+              "state": {}
             }
           },
           {
@@ -259,9 +262,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "4c92f66ed963bb44",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
     "Hangeul.md",
+    "Hunminjeongeum.md",
     "Instruction Set Architecture.md",
     "Dataflow Hazards.md",
     "Neolithic.md",
@@ -286,7 +290,6 @@
     "Japanese Traditional Poetry.md",
     "Manyoshu.md",
     "Tanka.md",
-    "Choka.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]

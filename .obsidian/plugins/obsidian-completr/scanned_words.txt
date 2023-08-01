@@ -141,6 +141,7 @@ sedentary
 showed
 signs
 spoken
+scribes
 difference
 different
 deal
@@ -249,6 +250,7 @@ oasis
 occupied
 ornaments
 original
+old
 the
 to
 timing
@@ -365,6 +367,7 @@ effect
 environment
 erosion
 eventual
+expansion
 Embedded
 Examples
 Eventually
@@ -499,6 +502,7 @@ population
 peaked
 progressive
 pigs
+people
 hardware
 hierarchy
 how
@@ -598,6 +602,8 @@ iterations
 ill
 inter
 individual
+intention
+initial
 conjunction
 conversion
 compilers
@@ -718,6 +724,9 @@ consonant
 combined
 characters
 character
+commoners
+contained
+creation
 achieve
 allow
 actions
@@ -797,6 +806,7 @@ abandonment
 acres
 animals
 adapted
+achieved
 These
 True
 The
@@ -868,6 +878,9 @@ fortification
 foothills
 fairly
 fertilizer
+fourth
+far
+fallen
 Common
 Counters
 Computing
@@ -949,6 +962,7 @@ Homo
 Heidelbergensis
 Human
 Hunting
+Hangeul
 methodology
 more
 must
@@ -1196,6 +1210,8 @@ landscape
 led
 lentils
 logosyllabic
+literacy
+letters
 Output
 Ordering
 ODE
@@ -1239,6 +1255,7 @@ Species
 Stone
 Sites
 Site
+Since
 Figures
 Following
 Forward
@@ -1383,6 +1400,9 @@ notion
 notable
 naturally
 neolithic
+name
+nobility
+numbers
 Register
 Range
 RHS
@@ -1438,6 +1458,8 @@ known
 kind
 key
 know
+king
+korea
 Goal
 Graph
 Generally
