@@ -1,13 +1,12 @@
 {
   "accentColor": "",
-  "cssTheme": "Typomagical",
+  "cssTheme": "",
   "translucency": false,
   "interfaceFontFamily": "Segoe UI",
   "baseFontSize": 18,
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "smooth_caret",
-    "typomagical-overrides"
+    "smooth_caret"
   ],
   "baseFontSizeAction": true
 }
