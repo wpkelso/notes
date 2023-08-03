@@ -10,5 +10,8 @@
   "typomagical-title@@title-gradient": "ss-title-solid",
   "typomagical-text@@font-default": "Source Sans Pro",
   "typomagical-text@@link-font": "ss-links-sc",
-  "typomagical-text@@callout-quote-style": false
+  "typomagical-text@@callout-quote-style": false,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Components@@tab-title-bar-fixed": true
 }

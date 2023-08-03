@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "",
-  "translucency": false,
+  "cssTheme": "Border",
+  "translucency": true,
   "interfaceFontFamily": "Segoe UI",
   "baseFontSize": 18,
   "theme": "moonstone",
