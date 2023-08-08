@@ -63,11 +63,11 @@
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Origins": {
-      "Origins": {
-        "currentFile": {
+    "korea": {
+      "korea": {
+        "frontMatter": {
           "count": 1,
-          "lastUpdated": 1688722803735
+          "lastUpdated": 1691404836025
         }
       }
     }

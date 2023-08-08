@@ -142,6 +142,8 @@ showed
 signs
 spoken
 scribes
+separate
+since
 difference
 different
 deal
@@ -314,6 +316,8 @@ trauma
 tower
 topsoil
 typical
+trying
+things
 embedded
 each
 execute
@@ -368,6 +372,8 @@ environment
 erosion
 eventual
 expansion
+east
+erase
 Embedded
 Examples
 Eventually
@@ -426,6 +432,8 @@ wall
 wheat
 wildlife
 works
+west
+war
 peripheral
 peripherals
 processor
@@ -503,6 +511,7 @@ peaked
 progressive
 pigs
 people
+peninsula
 hardware
 hierarchy
 how
@@ -727,6 +736,8 @@ character
 commoners
 contained
 creation
+consisted
+couldn
 achieve
 allow
 actions
@@ -807,6 +818,8 @@ acres
 animals
 adapted
 achieved
+aligned
+animosity
 These
 True
 The
@@ -963,6 +976,7 @@ Heidelbergensis
 Human
 Hunting
 Hangeul
+History
 methodology
 more
 must
@@ -1017,6 +1031,7 @@ massive
 management
 members
 mountains
+marked
 ready
 resource
 reach
@@ -1117,6 +1132,7 @@ Africa
 Archaic
 Ain
 Animals
+Ancient
 Build
 Based
 Branch
@@ -1130,6 +1146,7 @@ Block
 Brings
 Blocks
 BCE
+Before
 Use
 Unswitching
 Useful
@@ -1212,6 +1229,7 @@ lentils
 logosyllabic
 literacy
 letters
+lot
 Output
 Ordering
 ODE
@@ -1256,6 +1274,8 @@ Stone
 Sites
 Site
 Since
+South
+See
 Figures
 Following
 Forward
@@ -1289,6 +1309,7 @@ New
 Neolithic
 Natufians
 Northeastern
+North
 violate
 very
 variable
@@ -1482,5 +1503,6 @@ Japan
 Jericho
 Jordan
 Jarmo
+Japanese
 Zawi
 Zagros
