@@ -144,6 +144,14 @@ spoken
 scribes
 separate
 since
+speaker
+sound
+sounds
+str
+sps
+softened
+speakers
+signal
 difference
 different
 deal
@@ -208,6 +216,8 @@ day
 deforestation
 disappearance
 dogs
+drop
+differently
 of
 often
 or
@@ -318,6 +328,7 @@ topsoil
 typical
 trying
 things
+tense
 embedded
 each
 execute
@@ -512,6 +523,12 @@ progressive
 pigs
 people
 peninsula
+put
+producing
+pronunciation
+pronunciations
+pronounced
+plants
 hardware
 hierarchy
 how
@@ -553,6 +570,8 @@ huts
 harvest
 hunting
 horse
+he
+hill
 in
 interrupts
 instruction
@@ -613,6 +632,7 @@ inter
 individual
 intention
 initial
+ike
 conjunction
 conversion
 compilers
@@ -738,6 +758,14 @@ contained
 creation
 consisted
 couldn
+complexity
+cluster
+consonants
+cr
+clusters
+combinations
+country
+combination
 achieve
 allow
 actions
@@ -820,6 +848,10 @@ adapted
 achieved
 aligned
 animosity
+applied
+appear
+area
+ass
 These
 True
 The
@@ -894,6 +926,8 @@ fertilizer
 fourth
 far
 fallen
+full
+follow
 Common
 Counters
 Computing
@@ -935,6 +969,9 @@ Circular
 Culture
 Carmel
 Chemi
+Chart
+Consonant
+Cluster
 Peripheral
 Parameters
 Predictors
@@ -960,6 +997,11 @@ Please
 Poetry
 Palestine
 Provided
+Pronunciation
+Position
+Pronounced
+Population
+Produced
 Hardware
 Heuristics
 Hoist
@@ -1032,6 +1074,10 @@ management
 members
 mountains
 marked
+mouth
+moved
+majority
+member
 ready
 resource
 reach
@@ -1084,6 +1130,10 @@ running
 resources
 recurrence
 records
+released
+relax
+ranged
+race
 use
 used
 unnecessary
@@ -1102,6 +1152,8 @@ up
 upright
 utilizing
 unique
+upland
+unfortified
 Algorithm
 Anti
 Advantages
@@ -1133,6 +1185,7 @@ Archaic
 Ain
 Animals
 Ancient
+Asian
 Build
 Based
 Branch
@@ -1155,6 +1208,7 @@ Utilizes
 Unit
 Units
 Upright
+Usually
 graph
 going
 greater
@@ -1230,6 +1284,9 @@ logosyllabic
 literacy
 letters
 lot
+lost
+lps
+listings
 Output
 Ordering
 ODE
@@ -1276,6 +1333,8 @@ Site
 Since
 South
 See
+Sound
+Shifts
 Figures
 Following
 Forward
@@ -1297,6 +1356,7 @@ Finding
 Functional
 Female
 Females
+Final
 Note
 Non
 NP
@@ -1310,6 +1370,7 @@ Neolithic
 Natufians
 Northeastern
 North
+Nearly
 violate
 very
 variable
@@ -1353,6 +1414,7 @@ Ignore
 Israel
 Important
 Iraq
+Iran
 Will
 We
 What
@@ -1365,6 +1427,7 @@ Wife
 Whether
 Wellposedness
 While
+Written
 Kinds
 Key
 King
@@ -1424,6 +1487,9 @@ neolithic
 name
 nobility
 numbers
+noted
+native
+northern
 Register
 Range
 RHS
@@ -1467,6 +1533,7 @@ Man
 Male
 Males
 Mount
+Modification
 quasi
 qualitative
 quite

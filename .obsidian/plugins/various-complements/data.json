@@ -1,7 +1,7 @@
 {
   "strategy": "default",
   "cedictPath": "./cedict_ts.u8",
-  "matchStrategy": "prefix",
+  "matchStrategy": "partial",
   "fuzzyMatch": true,
   "matchingWithoutEmoji": true,
   "treatAccentDiacriticsAsAlphabeticCharacters": false,
@@ -66,8 +66,40 @@
     "korea": {
       "korea": {
         "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1691488507925
+        }
+      }
+    },
+    "language": {
+      "language": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1691489692578
+        }
+      }
+    },
+    "literature": {
+      "literature": {
+        "frontMatter": {
           "count": 1,
-          "lastUpdated": 1691404836025
+          "lastUpdated": 1691488502891
+        }
+      }
+    },
+    "Pronunciation": {
+      "Pronunciation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1691488949554
+        }
+      }
+    },
+    "grammar": {
+      "grammar": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1691489695629
         }
       }
     }
