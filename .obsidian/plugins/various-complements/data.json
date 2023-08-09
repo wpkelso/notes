@@ -66,16 +66,16 @@
     "korea": {
       "korea": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1691488507925
+          "count": 3,
+          "lastUpdated": 1691577924137
         }
       }
     },
     "language": {
       "language": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1691489692578
+          "count": 3,
+          "lastUpdated": 1691577921605
         }
       }
     },
@@ -98,8 +98,16 @@
     "grammar": {
       "grammar": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1691489695629
+          "count": 2,
+          "lastUpdated": 1691577918947
+        }
+      }
+    },
+    "1001 Nights": {
+      "1001 Nights": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1691577773968
         }
       }
     }

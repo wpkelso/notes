@@ -10,3 +10,20 @@ The original writing system used in Korea was, like in [[Japan]], the [[Chinese 
 
 >[!info] 
 >Since the creation of the initial set of 28 characters, 4 have fallen out of use and so the current set of letters numbers 24.
+
+## Consonant Pronunciations
+While individual pronunciation rules may change based on context, letters will almost always follow the rules laid out in the table below.
+
+| Hangeul | Name | Romanized Name | Pronunciation |
+| ------- | ---- | -------------- | ------------- |
+| ㅂ      | 비읍 | pieub          | b, p          |
+| ㄷ      | 디귿 | dikeut         | d, t          |
+| ㅈ      | 지읒 |                | j             |
+| ㄱ      | 기역 |                | g, k          |
+| ㅅ      | 시옷 |                | s             |
+| ㅁ      | 미음 |                | m             |
+| ㄴ      | 니은 |                | n             |
+| ㅇ      | 이응 | ieung          | silent, ng    |
+| ㄹ      | 리을 | rieul          | r, l          |
+| ㅎ      | 히읗 | hieut          | h             | 
+
