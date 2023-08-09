@@ -152,6 +152,8 @@ sps
 softened
 speakers
 signal
+silent
+speech
 difference
 different
 deal
@@ -264,6 +266,7 @@ occupied
 ornaments
 original
 old
+occurring
 the
 to
 timing
@@ -531,6 +534,8 @@ pronunciations
 pronounced
 plants
 pieub
+phenomenon
+prepended
 hardware
 hierarchy
 how
@@ -1498,6 +1503,7 @@ numbers
 noted
 native
 northern
+ng
 Register
 Range
 RHS

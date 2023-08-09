@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllable-Final Consonants.md",
+                "file": "Re-Syllabification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllable-Final Consonants.md",
+                "file": "Re-Syllabification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllable-Final Consonants.md"
+                "file": "Re-Syllabification.md"
               }
             }
           },
@@ -315,14 +315,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "404591b9f79f92e8",
+  "active": "c7c3409cd69edfb2",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Re-Syllabification.md",
-    "Syllable-Final Consonants.md",
     "Hangeul.md",
+    "Syllable-Final Consonants.md",
+    "Re-Syllabification.md",
     "Untitled.md",
     "Addition of a Constant.md",
     "Onager.md",
