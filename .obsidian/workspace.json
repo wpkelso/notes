@@ -102,7 +102,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -131,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Re-Syllabification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Re-Syllabification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +194,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Re-Syllabification.md"
-              }
+              "state": {}
             }
           },
           {
@@ -315,14 +310,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7c3409cd69edfb2",
+  "active": "c4592b7513668c27",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Hangeul.md",
     "Syllable-Final Consonants.md",
     "Re-Syllabification.md",
+    "Hangeul.md",
     "Untitled.md",
     "Addition of a Constant.md",
     "Onager.md",
