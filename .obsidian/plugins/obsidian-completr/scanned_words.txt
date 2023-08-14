@@ -154,6 +154,9 @@ speakers
 signal
 silent
 speech
+shadowing
+scope
+shadowed
 difference
 different
 deal
@@ -221,6 +224,8 @@ dogs
 drop
 differently
 dikeut
+declared
+declaring
 of
 often
 or
@@ -268,6 +273,7 @@ original
 old
 occurring
 objects
+outside
 the
 to
 timing
@@ -390,6 +396,7 @@ eventual
 expansion
 east
 erase
+either
 Embedded
 Examples
 Eventually
@@ -450,6 +457,7 @@ wildlife
 works
 west
 war
+whereby
 peripheral
 peripherals
 processor
@@ -537,6 +545,10 @@ plants
 pieub
 phenomenon
 prepended
+public
+private
+protect
+previous
 hardware
 hierarchy
 how
@@ -643,6 +655,7 @@ intention
 initial
 ike
 ieung
+itself
 conjunction
 conversion
 compilers
@@ -776,6 +789,9 @@ clusters
 combinations
 country
 combination
+class
+concept
+completed
 achieve
 allow
 actions
@@ -863,6 +879,8 @@ appear
 area
 ass
 almost
+accessible
+action
 These
 True
 The
@@ -939,6 +957,7 @@ far
 fallen
 full
 follow
+fields
 Common
 Counters
 Computing
@@ -1015,6 +1034,8 @@ Pronounced
 Population
 Produced
 Pronunciations
+Public
+Private
 Hardware
 Heuristics
 Hoist
@@ -1091,6 +1112,9 @@ mouth
 moved
 majority
 member
+methods
+modification
+maintains
 ready
 resource
 reach
@@ -1247,6 +1271,7 @@ goats
 goat
 grazing
 glyphs
+goes
 linear
 latency
 list
@@ -1406,6 +1431,7 @@ village
 valley
 ve
 vowel
+value
 Is
 Idea
 It
@@ -1527,6 +1553,7 @@ Repeat
 RecMII
 ResMII
 Romanized
+Rust
 Major
 Move
 Made
@@ -1570,6 +1597,8 @@ key
 know
 king
 korea
+keywords
+keyword
 Goal
 Graph
 Generally
