@@ -40,6 +40,7 @@ believed
 belief
 breeding
 barley
+built
 size
 sexes
 same
@@ -157,6 +158,11 @@ speech
 shadowing
 scope
 shadowed
+sampling
+smaller
+samples
+shorter
+simplest
 difference
 different
 deal
@@ -274,6 +280,7 @@ old
 occurring
 objects
 outside
+obtained
 the
 to
 timing
@@ -458,6 +465,7 @@ works
 west
 war
 whereby
+wave
 peripheral
 peripherals
 processor
@@ -656,6 +664,8 @@ initial
 ike
 ieung
 itself
+integral
+impulses
 conjunction
 conversion
 compilers
@@ -792,6 +802,8 @@ combination
 class
 concept
 completed
+convey
+carrier
 achieve
 allow
 actions
@@ -881,6 +893,8 @@ ass
 almost
 accessible
 action
+addition
+acted
 These
 True
 The
@@ -1003,6 +1017,9 @@ Chart
 Consonant
 Cluster
 Complement
+Can
+Continuous
+CT
 Peripheral
 Parameters
 Predictors
@@ -1115,6 +1132,8 @@ member
 methods
 modification
 maintains
+mathematical
+multiplication
 ready
 resource
 reach
@@ -1173,6 +1192,8 @@ ranged
 race
 rieul
 related
+relative
+resulting
 use
 used
 unnecessary
@@ -1193,6 +1214,7 @@ utilizing
 unique
 upland
 unfortified
+usually
 Algorithm
 Anti
 Advantages
@@ -1225,6 +1247,7 @@ Ain
 Animals
 Ancient
 Asian
+Also
 Build
 Based
 Branch
@@ -1378,6 +1401,7 @@ South
 See
 Sound
 Shifts
+Signals
 Figures
 Following
 Forward
@@ -1432,6 +1456,7 @@ valley
 ve
 vowel
 value
+varies
 Is
 Idea
 It
@@ -1497,6 +1522,8 @@ Design
 Depth
 DDG
 Domestication
+Discrete
+Distortion
 Loop
 Live
 Liveness
@@ -1587,6 +1614,7 @@ quasi
 qualitative
 quite
 question
+quantity
 zero
 Quantitative
 Quality

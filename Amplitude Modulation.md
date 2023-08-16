@@ -1,0 +1,1 @@
+The simplest form of [[Signal|signal]] [[Modulation|modulation]], where a carrier wave is 

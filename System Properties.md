@@ -10,4 +10,4 @@ All properties require the independent variable to be time.
 - [[Stability]]
 
 ### Related
-[[Signals]]
+[[Signal]]

@@ -1,5 +1,5 @@
 #signal_analysis 
-Useful for modelling [[Signals|signals]].
+Useful for modelling [[Signal|signals]].
 
 **Base form:**
 

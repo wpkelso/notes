@@ -1,6 +1,6 @@
 # Unit Step Function
 #signal_analysis 
-Useful in modelling [[Signals]]s.
+Useful in modelling [[Signal]]s.
 
  **Base form:**
 $$

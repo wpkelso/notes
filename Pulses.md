@@ -1,5 +1,5 @@
 #signal_analysis 
-[[Signals]] consisting of a single value over a single period of time
+[[Signal]] consisting of a single value over a single period of time
 $$p(t)=u(t)-u(t-\tau)=
 \begin{cases}
 1 &\text{, }0\le t\le\tau \\
