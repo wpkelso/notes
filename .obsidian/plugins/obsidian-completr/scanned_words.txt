@@ -163,6 +163,11 @@ smaller
 samples
 shorter
 simplest
+shift
+scale
+shifted
+scaled
+stationary
 difference
 different
 deal
@@ -347,6 +352,8 @@ typical
 trying
 things
 tense
+take
+transformed
 embedded
 each
 execute
@@ -557,6 +564,10 @@ public
 private
 protect
 previous
+product
+property
+parentheses
+positive
 hardware
 hierarchy
 how
@@ -666,6 +677,8 @@ ieung
 itself
 integral
 impulses
+impulse
+inside
 conjunction
 conversion
 compilers
@@ -804,6 +817,12 @@ concept
 completed
 convey
 carrier
+containing
+commutative
+convolution
+causality
+constituing
+constituting
 achieve
 allow
 actions
@@ -895,6 +914,9 @@ accessible
 action
 addition
 acted
+applications
+applying
+axis
 These
 True
 The
@@ -1020,6 +1042,8 @@ Complement
 Can
 Continuous
 CT
+Case
+Convolution
 Peripheral
 Parameters
 Predictors
@@ -1053,6 +1077,7 @@ Produced
 Pronunciations
 Public
 Private
+Plug
 Hardware
 Heuristics
 Hoist
@@ -1134,6 +1159,7 @@ modification
 maintains
 mathematical
 multiplication
+modulated
 ready
 resource
 reach
@@ -1248,6 +1274,10 @@ Animals
 Ancient
 Asian
 Also
+Amplitude
+ANYTHING
+Alternate
+After
 Build
 Based
 Branch
@@ -1352,6 +1382,7 @@ lost
 lps
 listings
 laid
+looks
 Output
 Ordering
 ODE
@@ -1402,6 +1433,8 @@ See
 Sound
 Shifts
 Signals
+Shift
+Solve
 Figures
 Following
 Forward
@@ -1457,6 +1490,7 @@ ve
 vowel
 value
 varies
+varying
 Is
 Idea
 It
@@ -1485,6 +1519,8 @@ Important
 Iraq
 Iran
 Intersections
+Integrate
+Integral
 Will
 We
 What
@@ -1524,6 +1560,7 @@ DDG
 Domestication
 Discrete
 Distortion
+Draw
 Loop
 Live
 Liveness
@@ -1581,6 +1618,7 @@ RecMII
 ResMII
 Romanized
 Rust
+Reflect
 Major
 Move
 Made
@@ -1610,6 +1648,8 @@ Males
 Mount
 Modification
 Mathematics
+Modulation
+Multiply
 quasi
 qualitative
 quite

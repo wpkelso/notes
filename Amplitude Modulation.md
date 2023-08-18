@@ -1,1 +1,1 @@
-The simplest form of [[Signal|signal]] [[Modulation|modulation]], where a carrier wave is 
+The simplest form of [[Signal|signal]] [[Modulation|modulation]], where a carrier wave is simply modulated with another [[Sinusoidal Function|sinusoidal wave]].

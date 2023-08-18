@@ -130,8 +130,24 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1692200728414
+        }
+      }
+    },
+    "Sinusoidal Function": {
+      "Sinusoidal Function": {
+        "internalLink": {
           "count": 1,
-          "lastUpdated": 1692197951102
+          "lastUpdated": 1692200317313
+        }
+      }
+    },
+    "signal_analysis": {
+      "signal_analysis": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1692200731688
         }
       }
     }
