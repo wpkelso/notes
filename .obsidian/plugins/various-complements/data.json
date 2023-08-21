@@ -214,6 +214,22 @@
           "lastUpdated": 1692637045635
         }
       }
+    },
+    "programming": {
+      "programming": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1692641260274
+        }
+      }
+    },
+    "computer_architecture": {
+      "computer_architecture": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1692641258018
+        }
+      }
     }
   }
 }

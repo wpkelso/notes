@@ -183,6 +183,9 @@ span
 stability
 speaking
 satisfying
+style
+sharing
+send
 difference
 different
 deal
@@ -377,6 +380,8 @@ take
 transformed
 touching
 theory
+threads
+task
 embedded
 each
 execute
@@ -446,6 +451,7 @@ etcetera
 eigenvectors
 exist
 eigenvector
+explicit
 Embedded
 Examples
 Eventually
@@ -467,6 +473,7 @@ Evidence
 Extensionality
 ECE
 Eigenvectors
+Element
 work
 with
 will
@@ -610,6 +617,7 @@ percentage
 predefined
 properties
 physics
+processing
 hardware
 hierarchy
 how
@@ -726,6 +734,7 @@ iff
 including
 identical
 indication
+implicit
 conjunction
 conversion
 compilers
@@ -879,6 +888,8 @@ counted
 commonly
 childrens
 column
+computing
+communicate
 achieve
 allow
 actions
@@ -1008,6 +1019,7 @@ Typical
 Theoretically
 Try
 Theories
+Thread
 for
 first
 from
@@ -1108,6 +1120,8 @@ Continuous
 CT
 Case
 Convolution
+Components
+Communication
 Peripheral
 Parameters
 Predictors
@@ -1143,6 +1157,9 @@ Public
 Private
 Plug
 Power
+Processing
+Passing
+Process
 Hardware
 Heuristics
 Hoist
@@ -1231,6 +1248,7 @@ much
 matters
 matter
 main
+messages
 ready
 resource
 reach
@@ -1297,6 +1315,7 @@ relation
 returning
 right
 row
+receive
 use
 used
 unnecessary
@@ -1469,6 +1488,7 @@ laid
 looks
 linearly
 left
+logic
 Output
 Ordering
 ODE
@@ -1755,6 +1775,7 @@ Mathematics
 Modulation
 Multiply
 Mathematically
+Message
 quasi
 qualitative
 quite
