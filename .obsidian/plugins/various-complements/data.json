@@ -130,8 +130,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1692365913176
+          "count": 8,
+          "lastUpdated": 1692624182777
         }
       }
     },
@@ -148,6 +148,14 @@
         "frontMatter": {
           "count": 2,
           "lastUpdated": 1692365916024
+        }
+      }
+    },
+    "logic": {
+      "logic": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1692623729107
         }
       }
     }

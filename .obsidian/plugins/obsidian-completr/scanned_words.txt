@@ -169,6 +169,8 @@ shifted
 scaled
 stationary
 schemes
+semantically
+syntactically
 difference
 different
 deal
@@ -356,6 +358,7 @@ tense
 take
 transformed
 touching
+theory
 embedded
 each
 execute
@@ -684,6 +687,7 @@ integral
 impulses
 impulse
 inside
+iff
 conjunction
 conversion
 compilers
@@ -829,6 +833,8 @@ causality
 constituing
 constituting
 comes
+connections
+connected
 achieve
 allow
 actions
@@ -924,6 +930,7 @@ applications
 applying
 axis
 amplitude
+among
 These
 True
 The
