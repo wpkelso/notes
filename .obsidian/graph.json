@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#circuits",
+      "query": "tag:#electronics",
       "color": {
         "a": 1,
         "rgb": 15894029
@@ -151,6 +151,6 @@
   "repelStrength": 11.8012330089876,
   "linkStrength": 1,
   "linkDistance": 180,
-  "scale": 0.5271545796424424,
+  "scale": 0.272765656339469,
   "close": true
 }
