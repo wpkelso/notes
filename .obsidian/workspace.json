@@ -25,57 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "75ed845b9b300e9d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Parallel Computing",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Parallel Computing.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":14},\"to\":{\"line\":8,\"ch\":14}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shared-Memory Model.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9d351105aa589c94",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flynn's Taxonomy.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -104,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flynn's Taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flynn's Taxonomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Flynn's Taxonomy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -287,13 +234,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d351105aa589c94",
+  "active": "c4592b7513668c27",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Shared-Memory Model.md",
     "Flynn's Taxonomy.md",
+    "Shared-Memory Model.md",
     "Parallel Computing.md",
     "Semi-conductor.md",
     "Solid-State Electronics.md",
