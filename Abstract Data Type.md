@@ -11,6 +11,6 @@ List of Common ADTs:
 - [[Queue (Data Structure)]]
 - [[Deque]]
 - [[Bag]]
-- Set (Implemented using a [[binary search tree]] or a [[hash table]])
+- [[Set]] (Implemented using a [[binary search tree]] or a [[hash table]])
 - [[Priority Queue]]
 - [[Dictionary (Map)]]

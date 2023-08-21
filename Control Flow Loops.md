@@ -2,7 +2,7 @@
 ## Natural Loops
 A loop in a well-formed program has the following properties:
 - A definite entrance or header basic block
-- A definite set of [[Back Edge|back edges]]
+- A definite [[Set|set]] of [[Back Edge|back edges]]
 - The body of the loop is all the [[Vertex|nodes]] on a path from A to B without returning to A
 >[!note] 
 >Not all [[Cycle|cycles]] in a [[Control Flow Graph|CFG]] are loops
