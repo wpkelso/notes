@@ -168,6 +168,7 @@ scale
 shifted
 scaled
 stationary
+schemes
 difference
 different
 deal
@@ -354,6 +355,7 @@ things
 tense
 take
 transformed
+touching
 embedded
 each
 execute
@@ -411,6 +413,8 @@ expansion
 east
 erase
 either
+expressed
+envelope
 Embedded
 Examples
 Eventually
@@ -568,6 +572,7 @@ product
 property
 parentheses
 positive
+percentage
 hardware
 hierarchy
 how
@@ -823,6 +828,7 @@ convolution
 causality
 constituing
 constituting
+comes
 achieve
 allow
 actions
@@ -917,6 +923,7 @@ acted
 applications
 applying
 axis
+amplitude
 These
 True
 The
@@ -1160,6 +1167,8 @@ maintains
 mathematical
 multiplication
 modulated
+modulation
+much
 ready
 resource
 reach
@@ -1220,6 +1229,7 @@ rieul
 related
 relative
 resulting
+respectively
 use
 used
 unnecessary
@@ -1241,6 +1251,7 @@ unique
 upland
 unfortified
 usually
+unmodulated
 Algorithm
 Anti
 Advantages
