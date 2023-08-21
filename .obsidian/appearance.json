@@ -2,9 +2,11 @@
   "accentColor": "",
   "cssTheme": "Border",
   "translucency": false,
-  "interfaceFontFamily": "Segoe UI",
+  "interfaceFontFamily": "Segoe UI Variable Display",
   "baseFontSize": 18,
   "theme": "moonstone",
   "enabledCssSnippets": [],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "textFontFamily": "Segoe UI Variable Text",
+  "monospaceFontFamily": "Cascadia Mono"
 }

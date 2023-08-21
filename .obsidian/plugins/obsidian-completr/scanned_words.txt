@@ -171,6 +171,13 @@ stationary
 schemes
 semantically
 syntactically
+symbols
+sentences
+specified
+storing
+showing
+subset
+say
 difference
 different
 deal
@@ -240,6 +247,7 @@ differently
 dikeut
 declared
 declaring
+duplicate
 of
 often
 or
@@ -289,6 +297,8 @@ occurring
 objects
 outside
 obtained
+object
+ordered
 the
 to
 timing
@@ -418,6 +428,10 @@ erase
 either
 expressed
 envelope
+elementary
+elements
+element
+extrapolation
 Embedded
 Examples
 Eventually
@@ -436,6 +450,8 @@ Elder
 Erectus
 Europe
 Evidence
+Extensionality
+ECE
 work
 with
 will
@@ -688,6 +704,8 @@ impulses
 impulse
 inside
 iff
+including
+identical
 conjunction
 conversion
 compilers
@@ -835,6 +853,11 @@ constituting
 comes
 connections
 connected
+constants
+certain
+counted
+commonly
+childrens
 achieve
 allow
 actions
@@ -959,6 +982,7 @@ Translating
 Typical
 Theoretically
 Try
+Theories
 for
 first
 from
@@ -1092,6 +1116,7 @@ Pronunciations
 Public
 Private
 Plug
+Power
 Hardware
 Heuristics
 Hoist
@@ -1109,6 +1134,7 @@ Human
 Hunting
 Hangeul
 History
+Heap
 methodology
 more
 must
@@ -1176,6 +1202,9 @@ multiplication
 modulated
 modulation
 much
+matters
+matter
+main
 ready
 resource
 reach
@@ -1237,6 +1266,8 @@ related
 relative
 resulting
 respectively
+relations
+relation
 use
 used
 unnecessary
@@ -1296,6 +1327,7 @@ Amplitude
 ANYTHING
 Alternate
 After
+ADT
 Build
 Based
 Branch
@@ -1310,6 +1342,7 @@ Brings
 Blocks
 BCE
 Before
+Bag
 Use
 Unswitching
 Useful
@@ -1453,6 +1486,8 @@ Shifts
 Signals
 Shift
 Solve
+Subsets
+Sets
 Figures
 Following
 Forward
@@ -1509,6 +1544,8 @@ vowel
 value
 varies
 varying
+vice
+versa
 Is
 Idea
 It
@@ -1594,6 +1631,7 @@ Longer
 Labelled
 Living
 Located
+Logic
 no
 not
 non
@@ -1618,6 +1656,7 @@ noted
 native
 northern
 ng
+none
 Register
 Range
 RHS
@@ -1685,6 +1724,7 @@ king
 korea
 keywords
 keyword
+keys
 Goal
 Graph
 Generally
