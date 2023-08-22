@@ -186,6 +186,7 @@ satisfying
 style
 sharing
 send
+series
 difference
 different
 deal
@@ -258,6 +259,7 @@ declaring
 duplicate
 dimension
 definite
+discrete
 of
 often
 or
@@ -310,6 +312,7 @@ obtained
 object
 ordered
 oscillations
+occurrences
 the
 to
 timing
@@ -382,6 +385,7 @@ touching
 theory
 threads
 task
+theoretical
 embedded
 each
 execute
@@ -518,6 +522,7 @@ west
 war
 whereby
 wave
+world
 peripheral
 peripherals
 processor
@@ -618,6 +623,8 @@ predefined
 properties
 physics
 processing
+prescriptive
+proposed
 hardware
 hierarchy
 how
@@ -1160,6 +1167,7 @@ Power
 Processing
 Passing
 Process
+Prescriptive
 Hardware
 Heuristics
 Hoist
@@ -1316,6 +1324,7 @@ returning
 right
 row
 receive
+real
 use
 used
 unnecessary
@@ -1565,6 +1574,7 @@ Functional
 Female
 Females
 Final
+Fibonacci
 Note
 Non
 NP
@@ -1678,6 +1688,7 @@ Discrete
 Distortion
 Draw
 Defined
+Descriptive
 Loop
 Live
 Liveness
@@ -1697,6 +1708,7 @@ Logic
 List
 Loops
 Left
+Leonardo
 no
 not
 non
