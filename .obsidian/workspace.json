@@ -170,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "set",
+                "query": "power set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,6 +239,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Set.md",
     "Flynn's Taxonomy.md",
     "Shared-Memory Model.md",
     "Parallel Computing.md",
@@ -249,7 +250,6 @@
     "Control Flow Loops.md",
     "Basis for a Vector Space.md",
     "Abstract Data Type.md",
-    "Set.md",
     "Heap.md",
     "Max-Heap.md",
     "Bag.md",

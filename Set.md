@@ -6,13 +6,21 @@ In mathematics, a set is a collection of any numbers of–including none– obje
 
 ## Properties & Related Theories
 ### Extensionality
-> [!summary] Definition
+> [!note] Definition
 > If $A$ and $B$ are sets, then $A=B$ iff every element of $A$ is also an element of $B$, and vice versa
 
 This allows a way of showing that sets are identical (i.e. $A\equiv B$).
 ### Subsets
-> [!summary] Definition
+> [!note] Definition
 > If every element of $A$ is also an element of $B$, then $A$ can be considered a *subset* of $B$ and can be written as $A \subset B$. If $A \subset B$ but $A \neq B$, then $A$ is a *proper subset* of $B$.
 
 This definition allows extrapolation to say that if $A \subset B$ and $B \subset A$ then $A=B$.
 ### Power Sets
+>[!note] Definition
+>The set $\mathcal{P}(A)$ consisting of all subsets of the set $A$ $$\mathcal{P}(A)={B:B\subset A}$$
+
+## Important Sets
+- $\mathbb{N}=\{ 0,1,2,3,\dots \}$ is the set of natural numbers 
+- $\mathbb{Z}=\{ \dots,-2,-1,0,1,2,\dots \}$ is the set of integers
+- $\mathbb{Q}=\{ \frac{m}{n}:m,n\in \mathbb{Z}\:\text{and}\:n \neq 0\}$ is the set of rational numbers
+- $\mathbb{R}=(-\infty,\infty)$ is the set of all real numbers
