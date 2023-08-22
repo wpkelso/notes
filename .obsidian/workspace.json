@@ -25,33 +25,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "99d10e4d9cb34483",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Fibonacci Series",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fibonacci Series.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":47},\"to\":{\"line\":0,\"ch\":47}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Modelling.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
         "stacked": true
