@@ -202,8 +202,8 @@
     "electronics": {
       "electronics": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1692637035198
+          "count": 2,
+          "lastUpdated": 1692756597883
         }
       }
     },
@@ -244,6 +244,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1692711694297
+        }
+      }
+    },
+    "chemistry": {
+      "chemistry": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1692756593592
         }
       }
     }

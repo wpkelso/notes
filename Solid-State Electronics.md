@@ -1,7 +1,7 @@
 ---
 tags: [electronics, circuits]
 ---
-Subsection of electronics based on the properties of [[Semi-conductor|semi-conductors]].
+Subsection of electronics based on the properties of [[Semiconductor|semi-conductors]].
 
 # Materials
 - **Insulators**

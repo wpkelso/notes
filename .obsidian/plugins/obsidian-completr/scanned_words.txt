@@ -42,6 +42,7 @@ breeding
 barley
 built
 body
+both
 size
 sexes
 same
@@ -188,6 +189,7 @@ sharing
 send
 series
 subsets
+semiconductor
 difference
 different
 deal
@@ -261,6 +263,7 @@ duplicate
 dimension
 definite
 discrete
+density
 of
 often
 or
@@ -387,6 +390,7 @@ theory
 threads
 task
 theoretical
+temperature
 embedded
 each
 execute
@@ -457,6 +461,8 @@ eigenvectors
 exist
 eigenvector
 explicit
+energy
+electrons
 Embedded
 Examples
 Eventually
@@ -744,6 +750,7 @@ identical
 indication
 implicit
 integers
+insulator
 conjunction
 conversion
 compilers
@@ -899,6 +906,7 @@ childrens
 column
 computing
 communicate
+conductor
 achieve
 allow
 actions
@@ -1079,6 +1087,7 @@ full
 follow
 fields
 formed
+free
 Common
 Counters
 Computing
@@ -1131,6 +1140,8 @@ Case
 Convolution
 Components
 Communication
+Carrier
+Concentration
 Peripheral
 Parameters
 Predictors
@@ -1618,6 +1629,7 @@ versa
 vectors
 vector
 vibrating
+various
 Is
 Idea
 It
@@ -1650,6 +1662,7 @@ Integrate
 Integral
 Implemented
 Inner
+Intrinsic
 Will
 We
 What
