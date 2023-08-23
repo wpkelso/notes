@@ -50,6 +50,8 @@ broken
 bond
 boron
 begin
+benefits
+benefitting
 size
 sexes
 same
@@ -207,6 +209,7 @@ step
 separated
 sides
 scanf
+states
 difference
 different
 deal
@@ -346,6 +349,9 @@ oscillations
 occurrences
 opportunity
 operand
+overall
+optimizing
+originally
 the
 to
 timing
@@ -501,6 +507,8 @@ electron
 electric
 elsewhere
 equivalent
+engineering
+expected
 Embedded
 Examples
 Eventually
@@ -572,6 +580,7 @@ war
 whereby
 wave
 world
+whole
 peripheral
 peripherals
 processor
@@ -686,6 +695,7 @@ parameter
 plug
 puts
 prove
+proportion
 hardware
 hierarchy
 how
@@ -820,6 +830,8 @@ involves
 integration
 instance
 importance
+improved
+improvement
 conjunction
 conversion
 compilers
@@ -992,6 +1004,7 @@ concentration
 charge
 currents
 components
+cores
 achieve
 allow
 actions
@@ -1104,6 +1117,7 @@ alloca
 apply
 aren
 areas
+actually
 These
 True
 The
@@ -1192,6 +1206,9 @@ field
 freed
 frequencies
 fundamental
+fixed
+fraction
+factor
 Common
 Counters
 Computing
@@ -1291,6 +1308,7 @@ Process
 Prescriptive
 Partial
 Prerequisites
+Parallel
 Hardware
 Heuristics
 Hoist
@@ -1488,6 +1506,7 @@ user
 underlying
 unknown
 unambiguous
+units
 Algorithm
 Anti
 Advantages
@@ -1529,6 +1548,7 @@ ADT
 ADTs
 At
 Acceptor
+Applying
 Build
 Based
 Branch
@@ -1582,6 +1602,8 @@ glyphs
 goes
 gaps
 goals
+gives
+gained
 linear
 latency
 list
@@ -1709,6 +1731,8 @@ Step
 SOLUTION
 Solutions
 Semiconductors
+Speedup
+Systems
 Figures
 Following
 Forward
@@ -1734,6 +1758,7 @@ Final
 Fibonacci
 Function
 From
+Formula
 Note
 Non
 NP
@@ -1836,6 +1861,7 @@ Wellposedness
 While
 Written
 Where
+Workload
 Kinds
 Key
 King
@@ -1894,6 +1920,7 @@ Loops
 Left
 Leonardo
 LLVM
+Latency
 no
 not
 non
@@ -1982,6 +2009,8 @@ Mathematically
 Message
 Mobility
 Multiple
+Multicore
+Moving
 quasi
 qualitative
 quite
