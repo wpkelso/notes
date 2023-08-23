@@ -1,6 +1,6 @@
 #mathematics #differential_equations 
 ## Definition
-A [[Differential Equation]] where the unknowns consists of one or more functions of one variable, involving the derivatives of those functions.
+A [[Differential Equation]] where the unknowns consists of one or more functions of one [[Variable|variable]], involving the derivatives of those functions.
 >[!note]
 >In general, given an $n$th order, the ODE can be written as $$F(x,y,\frac{dy}{dx},\frac{d^2y}{dx^2},...,\frac{d^ny}{dx^n})=0$$
 >We have to have the $\frac{d^ny}{dx^n}$ term.

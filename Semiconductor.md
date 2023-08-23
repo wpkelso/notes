@@ -22,7 +22,12 @@ In silicon, donor impurities are from column V, with the most commonly used elem
 In silicon, acceptor impurities are from column III, with the primary impurity in use being boron. At room temperature, these impurities create a hole in the lattice, allowing another electron to move into it thereby creating another hole elsewhere.
 
 ## Electron & Hole Concentrations
-The consequences of doping semiconductor materials is that the concentrations of electrons and holes are no longer equal. From this two new definitions arise:
-$$\begin{description}
-\item n>p \,\text{n-type}
-\end{description}$$
+The consequences of doping semiconductor materials is that the concentrations of electrons and holes are no longer equal. From this two new definitions arise based on the carrier concentrations:
+- $n>p$ n-type
+- $p>n$ p-type
+Where $n$ is the electron concentration and $p$ is the hole concentration. An importance of keeping track of these concentrations is that semiconductor materials **must remain charge neutral.**
+
+# Total Current within Semiconductors
+As mentioned earlier, electron drift currents are present within semiconductors. However, these aren’t the only currents present within a semiconductor. A second current flow mechanism called **diffusion current** is present, where free carriers tend to move from areas of high doping concentration to areas of low doping concentration.
+
+Given this, it naturally follows that the total current present within a semiconductor is equivalent to the sum of the corresponding drift and diffusion components.

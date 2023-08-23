@@ -204,6 +204,9 @@ semiconductors
 show
 silicon
 step
+separated
+sides
+scanf
 difference
 different
 deal
@@ -285,6 +288,8 @@ doping
 doped
 donor
 definitions
+dividing
+default
 of
 often
 or
@@ -338,6 +343,8 @@ object
 ordered
 oscillations
 occurrences
+opportunity
+operand
 the
 to
 timing
@@ -413,6 +420,8 @@ task
 theoretical
 temperature
 thereby
+theorem
+though
 embedded
 each
 execute
@@ -513,6 +522,8 @@ Eigenvectors
 Element
 Energy
 Electron
+Equation
+Explicit
 work
 with
 will
@@ -668,6 +679,10 @@ practice
 purposefully
 precise
 phosphorus
+parameter
+plug
+puts
+prove
 hardware
 hierarchy
 how
@@ -715,6 +730,7 @@ hieut
 header
 hole
 holes
+hand
 in
 interrupts
 instruction
@@ -797,6 +813,9 @@ introducing
 impurities
 impurity
 itemized
+involves
+integration
+instance
 conjunction
 conversion
 compilers
@@ -963,6 +982,8 @@ charged
 conduction
 consequences
 concentrations
+calculus
+clear
 achieve
 allow
 actions
@@ -1069,6 +1090,10 @@ antimony
 acceptor
 arise
 add
+arbitrary
+additional
+alloca
+apply
 These
 True
 The
@@ -1155,6 +1180,7 @@ follows
 field
 freed
 frequencies
+fundamental
 Common
 Counters
 Computing
@@ -1212,6 +1238,7 @@ Concentration
 Current
 Contains
 Concentrations
+Create
 Peripheral
 Parameters
 Predictors
@@ -1251,6 +1278,8 @@ Processing
 Passing
 Process
 Prescriptive
+Partial
+Prerequisites
 Hardware
 Heuristics
 Hoist
@@ -1419,6 +1448,7 @@ referred
 response
 resistivity
 room
+require
 use
 used
 unnecessary
@@ -1443,6 +1473,8 @@ usually
 unmodulated
 user
 underlying
+unknown
+unambiguous
 Algorithm
 Anti
 Advantages
@@ -1536,6 +1568,7 @@ grazing
 glyphs
 goes
 gaps
+goals
 linear
 latency
 list
@@ -1599,6 +1632,7 @@ left
 logic
 light
 lattice
+loads
 Output
 Ordering
 ODE
@@ -1616,6 +1650,7 @@ Occupied
 Origins
 Operations
 Origin
+Objects
 Schedule
 Store
 Solution
@@ -1657,6 +1692,8 @@ Sets
 Silicon
 Special
 Step
+SOLUTION
+Solutions
 Figures
 Following
 Forward
@@ -1698,6 +1735,7 @@ North
 Nearly
 Natural
 Naturally
+Notation
 violate
 very
 variable
@@ -1761,6 +1799,10 @@ Intrinsic
 Impurity
 Impurities
 III
+Indefinite
+Implicit
+IR
+Instances
 Will
 We
 What
@@ -1809,6 +1851,7 @@ Dirac
 Delta
 Doping
 Donor
+Differential
 Loop
 Live
 Liveness
@@ -1829,6 +1872,7 @@ List
 Loops
 Left
 Leonardo
+LLVM
 no
 not
 non
@@ -1878,6 +1922,9 @@ Romanized
 Rust
 Reflect
 Right
+Recall
+Replace
+Registers
 Major
 Move
 Made
@@ -1931,6 +1978,7 @@ korea
 keywords
 keyword
 keys
+knowing
 Goal
 Graph
 Generally
@@ -1940,6 +1988,7 @@ Guess
 Guessing
 Ghazal
 Gap
+GENERAL
 You
 Younger
 just
