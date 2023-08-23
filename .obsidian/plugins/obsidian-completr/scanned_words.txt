@@ -43,6 +43,7 @@ barley
 built
 body
 both
+background
 size
 sexes
 same
@@ -190,6 +191,7 @@ send
 series
 subsets
 semiconductor
+study
 difference
 different
 deal
@@ -907,6 +909,7 @@ column
 computing
 communicate
 conductor
+concerns
 achieve
 allow
 actions
@@ -1088,6 +1091,7 @@ follow
 fields
 formed
 free
+foundational
 Common
 Counters
 Computing
@@ -1604,6 +1608,7 @@ Northeastern
 North
 Nearly
 Natural
+Naturally
 violate
 very
 variable

@@ -2,7 +2,7 @@
 tags: [mathematics]
 ---
 # Mathematics 
-In mathematics, a set is a collection of any numbers of–including none– objects (numbers, other sets, etc.) that are related, and considered as a single object. The only thing that matters in relation to a set is what the elements in the set are, not how the set is specified, how the elements are ordered, or how many times the elements in the set are counted.
+In mathematics, a set is a collection of any numbers of–including none–objects (numbers, other sets, etc.) that are related, and considered as a single object. The only thing that matters in relation to a set is what the elements in the set are, not how the set is specified, how the elements are ordered, or how many times the elements in the set are counted.
 
 ## Properties & Related Theories
 ### Extensionality
@@ -19,8 +19,11 @@ This definition allows extrapolation to say that if $A \subset B$ and $B \subset
 >[!note] Definition
 >The set $\mathcal{P}(A)$ consisting of all subsets of the set $A$ $$\mathcal{P}(A)={B:B\subset A}$$
 
+It should be noted that due to the definition of power sets and subsets, it naturally follows that $\mathcal{P}(\emptyset)=\{ \emptyset  \}$.
+
 ## Important Sets
 - $\mathbb{N}=\{ 0,1,2,3,\dots \}$ is the set of natural numbers 
 - $\mathbb{Z}=\{ \dots,-2,-1,0,1,2,\dots \}$ is the set of integers
 - $\mathbb{Q}=\{ \frac{m}{n}:m,n\in \mathbb{Z}\:\text{and}\:n \neq 0\}$ is the set of rational numbers
 - $\mathbb{R}=(-\infty,\infty)$ is the set of all real numbers
+- $\emptyset = \{  \}$ is a set containing no elements, and is a subset of **every** set
