@@ -130,8 +130,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1692711749612
+          "count": 12,
+          "lastUpdated": 1692799516185
         }
       }
     },
@@ -202,8 +202,8 @@
     "electronics": {
       "electronics": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1692756597883
+          "count": 3,
+          "lastUpdated": 1692799523348
         }
       }
     },
@@ -218,8 +218,8 @@
     "programming": {
       "programming": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1692641260274
+          "count": 4,
+          "lastUpdated": 1692797871903
         }
       }
     },
@@ -260,6 +260,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1692796015306
+        }
+      }
+    },
+    "Saturation Arithmetic": {
+      "Saturation Arithmetic": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1692799664279
         }
       }
     }

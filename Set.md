@@ -12,12 +12,12 @@ In mathematics, a set is a collection of any numbers of–including none–objec
 This allows a way of showing that sets are identical (i.e. $A\equiv B$).
 ### Subsets
 > [!note] Definition
-> If every element of $A$ is also an element of $B$, then $A$ can be considered a *subset* of $B$ and can be written as $A \subset B$. If $A \subset B$ but $A \neq B$, then $A$ is a *proper subset* of $B$.
+> If every element of $A$ is also an element of $B$, then $A$ can be considered a *subset* of $B$ and can be written as $A \subseteq B$. If $A \subseteq B$ but $A \neq B$, then $A$ is a *proper subset* of $B$.
 
-This definition allows extrapolation to say that if $A \subset B$ and $B \subset A$ then $A=B$.
+This definition allows extrapolation to say that if $A \subseteq B$ and $B \subseteq A$ then $A=B$.
 ### Power Sets
 >[!note] Definition
->The set $\mathcal{P}(A)$ consisting of all subsets of the set $A$ $$\mathcal{P}(A)={B:B\subset A}$$
+>The set $\mathcal{P}(A)$ consisting of all subsets of the set $A$ $$\mathcal{P}(A)={B:B\subseteq A}$$
 
 It should be noted that due to the definition of power sets and subsets, it naturally follows that $\mathcal{P}(\emptyset)=\{ \emptyset  \}$.
 

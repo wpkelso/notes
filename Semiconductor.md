@@ -11,3 +11,18 @@ The properties of semiconductors show their most prevalence in high-purity, sing
 >**Intrinsic Carrier Concentration:** the density of free electrons in a semiconductor is given by temperature and material properties and is always the same for a given material at a given temperature.
 >**Drift Current:** the current resulting from the movement/drifting of charged particles in response to an applied electric field.
 >**Mobility:** the constant of proportionality between the carrier drift velocity and the electric field.
+
+# Doping
+Impurity doping, or just doping, is the practice of purposefully introducing impurities to the semiconductor material in minute and precise amounts to better control the resistivity of the resulting ‘doped semiconductor’.
+
+## Donor Impurities
+In silicon, donor impurities are from column V, with the most commonly used elements being phosphorus, arsenic, and antimony. At room temperature, these donor atoms have one free electron in their [[Valance Shell|valance shell]] that can be given up for conduction.
+
+## Acceptor Impurities
+In silicon, acceptor impurities are from column III, with the primary impurity in use being boron. At room temperature, these impurities create a hole in the lattice, allowing another electron to move into it thereby creating another hole elsewhere.
+
+## Electron & Hole Concentrations
+The consequences of doping semiconductor materials is that the concentrations of electrons and holes are no longer equal. From this two new definitions arise:
+$$\begin{description}
+\item n>p \,\text{n-type}
+\end{description}$$
