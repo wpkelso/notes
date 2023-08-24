@@ -1005,6 +1005,7 @@ charge
 currents
 components
 cores
+connecting
 achieve
 allow
 actions

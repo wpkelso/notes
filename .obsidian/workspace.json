@@ -25,6 +25,27 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "ab6f67efe23c200e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "stacked": true
@@ -239,6 +260,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Graph.md",
     "Fibonacci Series.md",
     "Geometric Meaning of an ODE.md",
     "Amdhal's Law.md",
@@ -264,7 +286,6 @@
     "Covalent Bond.md",
     "Mathematical Modelling.md",
     "Flynn's Taxonomy.md",
-    "Solid-State Electronics.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]

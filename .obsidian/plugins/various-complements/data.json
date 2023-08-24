@@ -218,8 +218,8 @@
     "programming": {
       "programming": {
         "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1692812298141
+          "count": 6,
+          "lastUpdated": 1692887005683
         }
       }
     },
@@ -268,6 +268,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1692799664279
+        }
+      }
+    },
+    "discrete_mathematics": {
+      "discrete_mathematics": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1692886997479
+        }
+      }
+    },
+    "graph_theory": {
+      "graph_theory": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1692887019120
         }
       }
     }
