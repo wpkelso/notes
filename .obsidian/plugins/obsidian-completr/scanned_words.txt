@@ -1012,6 +1012,7 @@ components
 cores
 connecting
 classification
+combines
 achieve
 allow
 actions
@@ -1338,6 +1339,7 @@ Hangeul
 History
 Heap
 Hole
+Hybrid
 methodology
 more
 must

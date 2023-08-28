@@ -6,15 +6,15 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "workspace:undo-close-pane": 79,
-    "workspace:close": 79,
-    "workspace:close-window": 90,
-    "workspace:close-others": 79,
-    "workspace:close-tab-group": 79,
-    "workspace:close-others-tab-group": 79,
-    "obsidian-git:backup-and-close": 92,
-    "pane-relief:ordered-close": 79,
-    "obsidian-completr:completr-close-suggestion-popup": 79,
+    "workspace:undo-close-pane": 80,
+    "workspace:close": 80,
+    "workspace:close-window": 91,
+    "workspace:close-others": 80,
+    "workspace:close-tab-group": 80,
+    "workspace:close-others-tab-group": 80,
+    "obsidian-git:backup-and-close": 93,
+    "pane-relief:ordered-close": 80,
+    "obsidian-completr:completr-close-suggestion-popup": 80,
     "graph:open": 22,
     "workspace:toggle-pin": 1,
     "graph:open-local": 21,
@@ -59,16 +59,17 @@
     "obsidian-editor-shortcuts:selectAllOccurrences": 1
   },
   "keyboardStatistics": {
-    "file-explorer:new-file": 20,
-    "editor:save-file": 29,
+    "file-explorer:new-file": 21,
+    "editor:save-file": 30,
     "obsidian-completr:completr-insert-selected-suggestion": 54,
     "obsidian-completr:completr-select-next-suggestion": 91,
     "obsidian-completr:completr-select-previous-suggestion": 24,
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 24,
-    "editor:toggle-italics": 5,
-    "switcher:open": 45,
+    "editor:toggle-italics": 6,
+    "switcher:open": 47,
     "workspace:new-tab": 1,
-    "obsidian-completr:completr-blacklist-current-word": 1
+    "obsidian-completr:completr-blacklist-current-word": 1,
+    "app:open-help": 1
   }
 }
