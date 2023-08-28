@@ -202,8 +202,8 @@
     "electronics": {
       "electronics": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1692799523348
+          "count": 4,
+          "lastUpdated": 1693240354896
         }
       }
     },
@@ -250,8 +250,8 @@
     "chemistry": {
       "chemistry": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1692756593592
+          "count": 2,
+          "lastUpdated": 1693240351979
         }
       }
     },
@@ -284,6 +284,14 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1692887019120
+        }
+      }
+    },
+    "Semiconductor": {
+      "Semiconductor": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1693240411175
         }
       }
     }

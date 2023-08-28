@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "737025314e134f56",
+            "id": "ffb5e42167b415d6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set.md",
-                "mode": "preview",
+                "file": "Diode.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set.md",
+                "file": "Diode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set.md",
+                "file": "Diode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set.md"
+                "file": "Diode.md"
               }
             }
           },
@@ -260,11 +260,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "737025314e134f56",
+  "active": "ffb5e42167b415d6",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Diode.md",
+    "diode-diagram.png",
     "Set.md",
     "Graph.md",
     "Directed Cyclic Graph.md",
@@ -289,8 +291,6 @@
     "Impulse.md",
     "Velocity Saturation.md",
     "Tuples.md",
-    "Set Theory.md",
-    "Covalent Bond.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]
