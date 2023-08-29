@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree.md",
+                "file": "Eulerian Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree.md",
+                "file": "Eulerian Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree.md"
+                "file": "Eulerian Path.md"
               }
             }
           },
@@ -323,11 +323,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "189ec2d31e5f447c",
+  "active": "47f66014540ef9ef",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Graph.md",
+    "Tree.md",
     "Directed Acyclic Graph.md",
     "Eulerian Path.md",
     "Hamiltonian Path.md",
@@ -340,7 +342,6 @@
     "Diode.md",
     "diode-diagram.png",
     "Set.md",
-    "Graph.md",
     "Directed Cyclic Graph.md",
     "Fibonacci Series.md",
     "Geometric Meaning of an ODE.md",
@@ -354,7 +355,6 @@
     "Memory to Register Promotion.md",
     "Instruction Set Architecture.md",
     "Differential Equation.md",
-    "Unit Step Function.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]
