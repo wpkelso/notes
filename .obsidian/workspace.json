@@ -27,40 +27,7 @@
             }
           },
           {
-            "id": "809cf467655f1c30",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Shared-Memory Model",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Shared-Memory Model.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Data Dependence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Data Dependence.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Computing.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2c8d390a24b923bf",
+            "id": "47f66014540ef9ef",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -74,14 +41,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Parallelization.md",
+                "file": "Eulerian Path.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "327b6ae45490cb37",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hamiltonian Path.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "09493a960badf3ca",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Directed Acyclic Graph.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "189ec2d31e5f447c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -110,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Parallelization.md",
+                "file": "Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Parallelization.md",
+                "file": "Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Parallelization.md"
+                "file": "Tree.md"
               }
             }
           },
@@ -293,13 +323,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c8d390a24b923bf",
+  "active": "189ec2d31e5f447c",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Parallel Computing.md",
+    "Directed Acyclic Graph.md",
+    "Eulerian Path.md",
+    "Hamiltonian Path.md",
     "Code Parallelization.md",
+    "Parallel Computing.md",
     "Task (OS).md",
     "Loop-Carried Dependency.md",
     "Shared-Memory Model.md",
@@ -309,7 +342,6 @@
     "Set.md",
     "Graph.md",
     "Directed Cyclic Graph.md",
-    "Directed Acyclic Graph.md",
     "Fibonacci Series.md",
     "Geometric Meaning of an ODE.md",
     "Amdhal's Law.md",
@@ -323,8 +355,6 @@
     "Instruction Set Architecture.md",
     "Differential Equation.md",
     "Unit Step Function.md",
-    "Dirac Delta Function.md",
-    "Impulse.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]

@@ -130,8 +130,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 12,
-          "lastUpdated": 1692799516185
+          "count": 16,
+          "lastUpdated": 1693314145020
         }
       }
     },
@@ -218,8 +218,8 @@
     "programming": {
       "programming": {
         "frontMatter": {
-          "count": 8,
-          "lastUpdated": 1693245995436
+          "count": 10,
+          "lastUpdated": 1693314135488
         }
       }
     },
@@ -274,16 +274,16 @@
     "discrete_mathematics": {
       "discrete_mathematics": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1692886997479
+          "count": 5,
+          "lastUpdated": 1693314133174
         }
       }
     },
     "graph_theory": {
       "graph_theory": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1692887019120
+          "count": 5,
+          "lastUpdated": 1693313805371
         }
       }
     },
@@ -300,6 +300,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1693245480384
+        }
+      }
+    },
+    "Directed Acyclic Graph": {
+      "Directed Acyclic Graph": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1693313823626
         }
       }
     }

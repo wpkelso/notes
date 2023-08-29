@@ -3,7 +3,7 @@ aliases: [MST]
 ---
 #programming #data_structures #graph_theory #mathematics 
 
-An instance of a [[Tree (Data Structure)|tree]] that has a minimum weight.
+An instance of a [[Tree|tree]] that has a minimum weight.
 
 >[!note] Formally
 >A subset of the [[Graph|graph's]] edges that connect all [[Vertex|vertices]] in the graph together with the minimum sum of edge weights.
