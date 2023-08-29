@@ -1,9 +1,12 @@
 ---
 tags: [computer_architecture, programming]
 ---
-A style of computing where multiple processing elements communicate and work together to solve a problem.
+# Parallel Computing
 
-# Components
+A style of computing where multiple processing elements communicate and work together to solve a problem through [[Parallelization|parallelization]].
+
+## Components
+
 1. **Processing Element:** logic that can execute instructions
 2. **Communication between processing elements**:
 	1. [[Shared-Memory Model|Shared-memory]]: implicit sharing through read/write operations to shared memory

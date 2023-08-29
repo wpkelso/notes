@@ -13,5 +13,7 @@
   "typomagical-text@@callout-quote-style": false,
   "Appearance-light@@card-layout-open-light": true,
   "Appearance-light@@theme-light-style-select": "theme-light-background-default",
-  "Components@@tab-title-bar-fixed": true
+  "Components@@tab-title-bar-fixed": true,
+  "Editor@@h1-divider-on": false,
+  "Editor@@h1-color-select": "h1-color-default"
 }

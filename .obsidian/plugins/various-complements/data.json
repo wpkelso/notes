@@ -218,16 +218,16 @@
     "programming": {
       "programming": {
         "frontMatter": {
-          "count": 7,
-          "lastUpdated": 1693244689242
+          "count": 8,
+          "lastUpdated": 1693245995436
         }
       }
     },
     "computer_architecture": {
       "computer_architecture": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1693244682540
+          "count": 7,
+          "lastUpdated": 1693245991439
         }
       }
     },
@@ -292,6 +292,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1693240411175
+        }
+      }
+    },
+    "Code Parallelization": {
+      "Code Parallelization": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1693245480384
         }
       }
     }

@@ -30,8 +30,14 @@
             "id": "809cf467655f1c30",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Shared-Memory Model",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Shared-Memory Model.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -294,6 +300,9 @@
   "lastOpenFiles": [
     "Parallel Computing.md",
     "Code Parallelization.md",
+    "Task (OS).md",
+    "Loop-Carried Dependency.md",
+    "Shared-Memory Model.md",
     "Data Dependence.md",
     "Diode.md",
     "diode-diagram.png",
@@ -306,7 +315,6 @@
     "Amdhal's Law.md",
     "Dennard's Scaling.md",
     "Message-Passing Model.md",
-    "Shared-Memory Model.md",
     "Instruction-Level Parallelism.md",
     "Semiconductor.md",
     "Ordinary Differential Equation.md",
@@ -317,8 +325,6 @@
     "Unit Step Function.md",
     "Dirac Delta Function.md",
     "Impulse.md",
-    "Velocity Saturation.md",
-    "Tuples.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]

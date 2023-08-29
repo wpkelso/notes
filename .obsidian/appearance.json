@@ -8,5 +8,6 @@
   "enabledCssSnippets": [],
   "baseFontSizeAction": true,
   "textFontFamily": "Segoe UI Variable Text",
-  "monospaceFontFamily": "Cascadia Mono"
+  "monospaceFontFamily": "Cascadia Mono",
+  "showViewHeader": true
 }

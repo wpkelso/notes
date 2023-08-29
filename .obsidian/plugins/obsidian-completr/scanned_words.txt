@@ -211,6 +211,9 @@ separated
 sides
 scanf
 states
+scheme
+sync
+situation
 difference
 different
 deal
@@ -297,6 +300,9 @@ default
 diffusion
 directed
 depositing
+divided
+dependency
+depending
 of
 often
 or
@@ -355,6 +361,8 @@ operand
 overall
 optimizing
 originally
+once
+operating
 the
 to
 timing
@@ -434,6 +442,8 @@ theorem
 though
 track
 top
+theoretically
+thread
 embedded
 each
 execute
@@ -513,6 +523,7 @@ elsewhere
 equivalent
 engineering
 expected
+executed
 Embedded
 Examples
 Eventually
@@ -701,6 +712,10 @@ puts
 prove
 proportion
 pn
+parallelization
+processes
+parts
+producer
 hardware
 hierarchy
 how
@@ -1013,6 +1028,10 @@ cores
 connecting
 classification
 combines
+carry
+chooses
+consumer
+communication
 achieve
 allow
 actions
@@ -1158,6 +1177,8 @@ Try
 Theories
 Thread
 Total
+Typically
+Task
 for
 first
 from
@@ -1277,6 +1298,7 @@ Contains
 Concentrations
 Create
 Constructed
+Code
 Peripheral
 Parameters
 Predictors
@@ -1320,6 +1342,8 @@ Partial
 Prerequisites
 Parallel
 Perhaps
+Parallelization
+Parallelizing
 Hardware
 Heuristics
 Hoist
@@ -1416,6 +1440,7 @@ movement
 minute
 modelling
 mechanism
+mapping
 ready
 resource
 reach
@@ -1492,6 +1517,9 @@ resistivity
 room
 require
 remain
+result
+root
+requires
 use
 used
 unnecessary
@@ -1916,6 +1944,10 @@ Donor
 Differential
 Dependencies
 Due
+Distributed
+DOALL
+DOACROSS
+DOPIPE
 Loop
 Live
 Liveness
@@ -1968,6 +2000,7 @@ natural
 nearest
 neighbors
 neutral
+notifies
 Register
 Range
 RHS
