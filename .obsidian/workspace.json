@@ -239,6 +239,7 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Code Parallelization.md",
     "Relation.md",
     "Set.md",
     "Eulerian Path.md",
@@ -246,7 +247,6 @@
     "Tree.md",
     "Directed Acyclic Graph.md",
     "Hamiltonian Path.md",
-    "Code Parallelization.md",
     "Parallel Computing.md",
     "Task (OS).md",
     "Loop-Carried Dependency.md",
