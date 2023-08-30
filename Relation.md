@@ -15,6 +15,7 @@ In mathematics a relation is defined on a [[Set|set]] as a subset of ordered pai
 - **Anti-Symmetry:** For any $x,y$ if $\left< x,y \right>\in R,\left< y,x \right>\in R \text{, then}\, x=y$
 - **Asymmetry:** No $x,y \in A$ is in both $\left< x,y \right>,\left< y,x \right>\in R$. Naturally, a relation is asymmetric iff it is anti-symmetric and irreflexive.
 - **Irreflexive:** For any $x \in A,\left< x,x \right> \notin R$
+- **Connectivity:** For any $x \neq y \in A$, either $\left< x,y \right> \in R$ or $\left< y,x \right> \in R$
 
 ### Types of Orders
 
@@ -28,4 +29,12 @@ A relation $R \subseteq A^2$ is considered a partial order iff it is reflexive, 
 
 #### Strict Order
 
-A relation $R \subseteq A^2$ if considered a strict order iff it is irreflexive, asymmetric, and transitive.
+A relation $R \subseteq A^2$[[Time Shifts]]  considered a strict order iff it is irreflexive, asymmetric, and transitive.
+
+#### Linear Order
+
+A relation $R \subseteq A^2$ is considered a linear order iff it is a partial order that is also connected (Reflexive, anti-symmetric, transitive, and connected).
+
+#### Strict Linear Order
+
+As the name suggests, a strict linear order is both strict and connected.

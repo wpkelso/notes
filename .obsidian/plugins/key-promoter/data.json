@@ -8,7 +8,7 @@
   "mouseStatistics": {
     "workspace:undo-close-pane": 92,
     "workspace:close": 92,
-    "workspace:close-window": 105,
+    "workspace:close-window": 106,
     "workspace:close-others": 92,
     "workspace:close-tab-group": 92,
     "workspace:close-others-tab-group": 92,
@@ -65,7 +65,7 @@
     "obsidian-completr:completr-select-next-suggestion": 91,
     "obsidian-completr:completr-select-previous-suggestion": 24,
     "editing-toolbar:fullscreen-focus": 1,
-    "editor:toggle-bold": 30,
+    "editor:toggle-bold": 31,
     "editor:toggle-italics": 6,
     "switcher:open": 54,
     "workspace:new-tab": 1,
