@@ -27,27 +27,6 @@
             }
           },
           {
-            "id": "47f66014540ef9ef",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eulerian Path.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "327b6ae45490cb37",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -111,7 +90,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eulerian Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eulerian Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +182,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Eulerian Path.md"
-              }
+              "state": {}
             }
           },
           {
@@ -323,15 +297,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47f66014540ef9ef",
+  "active": "c4592b7513668c27",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Eulerian Path.md",
     "Graph.md",
     "Tree.md",
     "Directed Acyclic Graph.md",
-    "Eulerian Path.md",
     "Hamiltonian Path.md",
     "Code Parallelization.md",
     "Parallel Computing.md",
