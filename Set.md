@@ -1,27 +1,37 @@
 ---
 tags: [mathematics]
 ---
-# Mathematics 
+# Set
+
+## Mathematics 
+
 In mathematics, a set is a collection of any numbers of–including none–objects (numbers, other sets, etc.) that are related, and considered as a single object. The only thing that matters in relation to a set is what the elements in the set are, not how the set is specified, how the elements are ordered, or how many times the elements in the set are counted.
 
-## Properties & Related Theories
-### Extensionality
+### Properties & Related Theories
+
+#### Extensionality
+
 > [!note] Definition
 > If $A$ and $B$ are sets, then $A=B$ iff every element of $A$ is also an element of $B$, and vice versa
 
 This allows a way of showing that sets are identical (i.e. $A\equiv B$).
-### Subsets
+
+#### Subsets
+
 > [!note] Definition
 > If every element of $A$ is also an element of $B$, then $A$ can be considered a *subset* of $B$ and can be written as $A \subseteq B$. If $A \subseteq B$ but $A \neq B$, then $A$ is a *proper subset* of $B$.
 
 This definition allows extrapolation to say that if $A \subseteq B$ and $B \subseteq A$ then $A=B$.
-### Power Sets
+
+#### Power Sets
+
 >[!note] Definition
 >The set $\mathcal{P}(A)$ consisting of all subsets of the set $A$ $$\mathcal{P}(A)={B:B\subseteq A}$$
 
 It should be noted that due to the definition of power sets and subsets, it naturally follows that $\mathcal{P}(\emptyset)=\{ \emptyset  \}$.
 
-## Important Sets
+### Important Sets
+
 - $\mathbb{N}=\{ 0,1,2,3,\dots \}$ is the set of natural numbers 
 - $\mathbb{Z}=\{ \dots,-2,-1,0,1,2,\dots \}$ is the set of integers
 - $\mathbb{Q}=\{ \frac{m}{n}:m,n\in \mathbb{Z}\:\text{and}\:n \neq 0\}$ is the set of rational numbers

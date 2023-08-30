@@ -130,8 +130,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 16,
-          "lastUpdated": 1693314145020
+          "count": 17,
+          "lastUpdated": 1693401046863
         }
       }
     },
@@ -258,8 +258,8 @@
     "\\emptyset": {
       "\\emptyset": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1692796015306
+          "count": 2,
+          "lastUpdated": 1693399506780
         }
       }
     },
@@ -308,6 +308,46 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1693313823626
+        }
+      }
+    },
+    "\\langle": {
+      "\\langle": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1693400242995
+        }
+      }
+    },
+    "x\\rangle\\in": {
+      "x\\rangle\\in": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693400073889
+        }
+      }
+    },
+    "\\subseteq": {
+      "\\subseteq": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1693402039226
+        }
+      }
+    },
+    "Anti-Symmetry": {
+      "Anti-Symmetry": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693401861214
+        }
+      }
+    },
+    "Asymmetry": {
+      "Asymmetry": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693401890608
         }
       }
     }

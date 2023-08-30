@@ -214,6 +214,9 @@ states
 scheme
 sync
 situation
+subseteq
+symmetric
+strict
 difference
 different
 deal
@@ -444,6 +447,7 @@ track
 top
 theoretically
 thread
+transitive
 embedded
 each
 execute
@@ -525,6 +529,7 @@ engineering
 expected
 executed
 exactly
+equivalence
 Embedded
 Examples
 Eventually
@@ -552,6 +557,7 @@ Electron
 Equation
 Explicit
 Eulerian
+Equivalence
 work
 with
 will
@@ -718,6 +724,7 @@ parallelization
 processes
 parts
 producer
+partial
 hardware
 hierarchy
 how
@@ -854,6 +861,7 @@ instance
 importance
 improved
 improvement
+irreflexive
 conjunction
 conversion
 compilers
@@ -1148,6 +1156,8 @@ aren
 areas
 actually
 array
+asymmetric
+anti
 These
 True
 The
@@ -1181,6 +1191,7 @@ Thread
 Total
 Typically
 Task
+Transitivity
 for
 first
 from
@@ -1522,6 +1533,7 @@ remain
 result
 root
 requires
+reflexive
 use
 used
 unnecessary
@@ -1594,6 +1606,7 @@ ADTs
 At
 Acceptor
 Applying
+Asymmetry
 Build
 Based
 Branch
@@ -1733,6 +1746,7 @@ Origins
 Operations
 Origin
 Objects
+Orders
 Schedule
 Store
 Solution
@@ -1779,6 +1793,8 @@ Solutions
 Semiconductors
 Speedup
 Systems
+Symmetry
+Strict
 Figures
 Following
 Forward
@@ -1894,6 +1910,7 @@ ISNT
 INST
 Input
 ILP
+Irreflexive
 Will
 We
 What
@@ -2027,6 +2044,8 @@ Right
 Recall
 Replace
 Registers
+Relation
+Reflexivity
 Major
 Move
 Made
@@ -2069,6 +2088,7 @@ qualitative
 quite
 question
 quantity
+quality
 zero
 Quantitative
 Quality
