@@ -8,7 +8,7 @@
   "mouseStatistics": {
     "workspace:undo-close-pane": 96,
     "workspace:close": 96,
-    "workspace:close-window": 112,
+    "workspace:close-window": 113,
     "workspace:close-others": 96,
     "workspace:close-tab-group": 96,
     "workspace:close-others-tab-group": 96,
@@ -67,7 +67,7 @@
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 31,
     "editor:toggle-italics": 6,
-    "switcher:open": 55,
+    "switcher:open": 56,
     "workspace:new-tab": 1,
     "obsidian-completr:completr-blacklist-current-word": 1,
     "app:open-help": 1,
