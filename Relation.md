@@ -29,7 +29,7 @@ A relation $R \subseteq A^2$ is considered a partial order iff it is reflexive, 
 
 #### Strict Order
 
-A relation $R \subseteq A^2$[[Time Shifts]]  considered a strict order iff it is irreflexive, asymmetric, and transitive.
+A relation $R \subseteq A^2$ is considered a strict order iff it is irreflexive, asymmetric, and transitive.
 
 #### Linear Order
 

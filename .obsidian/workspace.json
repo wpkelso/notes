@@ -27,6 +27,27 @@
             }
           },
           {
+            "id": "5429f00edb73a30e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relation.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "af3cf1a5a753e1a7",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -48,13 +69,13 @@
               "type": "markdown",
               "state": {
                 "file": "Set.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -271,11 +292,11 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Relation.md",
+    "Set.md",
     "Directed Cyclic Graph.md",
     "Directed Graph.md",
     "Code Parallelization.md",
-    "Relation.md",
-    "Set.md",
     "Eulerian Path.md",
     "Graph.md",
     "Tree.md",
