@@ -307,6 +307,7 @@ depositing
 divided
 dependency
 depending
+direction
 of
 often
 or
@@ -1970,6 +1971,7 @@ Distributed
 DOALL
 DOACROSS
 DOPIPE
+Directed
 Loop
 Live
 Liveness
