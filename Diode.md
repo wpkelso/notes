@@ -1,7 +1,9 @@
 ---
-tags:[chemistry, electronics]
+tags: [chemistry, electronics, circuits]
 ---
-
-Constructed by depositing a p-type [[Semiconductor|semiconductor]] on top of an n-type semiconductor. This creates a **pn junction**.
+# Diode
+Constructed by depositing a p-type [[Semiconductor|semiconductor]] on top of an n-type semiconductor. This creates a **PN junction**.
 
 ![[diode-diagram.png]]
+
+## Biasing
