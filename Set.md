@@ -1,5 +1,10 @@
 ---
-tags: [mathematics]
+tags:
+  - mathematics
+  - programming
+  - data_structures
+  - logic
+  - discrete_mathematics
 ---
 # Set
 
@@ -37,3 +42,5 @@ It should be noted that due to the definition of power sets and subsets, it natu
 - $\mathbb{Q}=\{ \frac{m}{n}:m,n\in \mathbb{Z}\:\text{and}\:n \neq 0\}$ is the set of rational numbers
 - $\mathbb{R}=(-\infty,\infty)$ is the set of all real numbers
 - $\emptyset = \{  \}$ is a set containing no elements, and is a subset of **every** set
+## Programming
+Similarly to in mathematics, a set in programming is an [[Abstract Data Type|abstract data type]] representing a group of objects in which order doesn’t matter but duplicate items are **not** allowed. They will often be implemented with a [[Binary Search Tree|BST]] or a [[Hash Table|hash map]].

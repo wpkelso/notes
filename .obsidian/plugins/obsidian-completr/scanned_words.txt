@@ -368,6 +368,7 @@ optimizing
 originally
 once
 operating
+organizing
 the
 to
 timing
@@ -727,6 +728,8 @@ processes
 parts
 producer
 partial
+performing
+performed
 hardware
 hierarchy
 how
@@ -1315,6 +1318,7 @@ Create
 Constructed
 Code
 Connectivity
+Choosing
 Peripheral
 Parameters
 Predictors
@@ -1360,6 +1364,7 @@ Parallel
 Perhaps
 Parallelization
 Parallelizing
+Programming
 Hardware
 Heuristics
 Hoist
@@ -1457,6 +1462,7 @@ minute
 modelling
 mechanism
 mapping
+might
 ready
 resource
 reach
@@ -1666,6 +1672,7 @@ goals
 gives
 gained
 graphs
+group
 linear
 latency
 list
@@ -1750,6 +1757,7 @@ Operations
 Origin
 Objects
 Orders
+Often
 Schedule
 Store
 Solution
@@ -1798,6 +1806,8 @@ Speedup
 Systems
 Symmetry
 Strict
+Structures
+Similarly
 Figures
 Following
 Forward

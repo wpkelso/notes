@@ -1,5 +1,8 @@
 ---
-tags: [mathematics, set_theory]
+tags:
+  - mathematics
+  - set_theory
+  - logic
 ---
 # Relation
 
