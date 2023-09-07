@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "4164725efc3297ff",
+            "id": "a1485cb17c1387d2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diode.md",
+                "file": "Cache.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diode.md",
+                "file": "Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diode.md",
+                "file": "Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diode.md"
+                "file": "Cache.md"
               }
             }
           },
@@ -260,11 +260,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4164725efc3297ff",
+  "active": "a1485cb17c1387d2",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Diode.md",
     "Set.md",
     "Relation.md",
     "Abstract Data Type.md",
@@ -282,7 +283,6 @@
     "Loop-Carried Dependency.md",
     "Shared-Memory Model.md",
     "Data Dependence.md",
-    "Diode.md",
     "diode-diagram.png",
     "Fibonacci Series.md",
     "Geometric Meaning of an ODE.md",
