@@ -25,51 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "d5413e619b0ff4d6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relation.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a843ac067bd2b90c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -89,7 +46,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +62,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Set.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a843ac067bd2b90c",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
     "Relation.md",
+    "Set.md",
     "Cache.md",
     "Diode.md",
-    "Set.md",
     "Abstract Data Type.md",
     "Data Structure.md",
     "Directed Cyclic Graph.md",
