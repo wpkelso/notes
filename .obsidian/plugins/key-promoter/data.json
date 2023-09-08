@@ -1,5 +1,5 @@
 {
-  "showUnassigned": true,
+  "showUnassigned": false,
   "showAssigned": true,
   "threshold": 0,
   "notificationTimeout": 5,
@@ -60,17 +60,18 @@
   },
   "keyboardStatistics": {
     "file-explorer:new-file": 25,
-    "editor:save-file": 44,
-    "obsidian-completr:completr-insert-selected-suggestion": 56,
+    "editor:save-file": 47,
+    "obsidian-completr:completr-insert-selected-suggestion": 57,
     "obsidian-completr:completr-select-next-suggestion": 91,
     "obsidian-completr:completr-select-previous-suggestion": 24,
     "editing-toolbar:fullscreen-focus": 1,
-    "editor:toggle-bold": 33,
-    "editor:toggle-italics": 6,
-    "switcher:open": 62,
+    "editor:toggle-bold": 36,
+    "editor:toggle-italics": 7,
+    "switcher:open": 63,
     "workspace:new-tab": 1,
     "obsidian-completr:completr-blacklist-current-word": 1,
     "app:open-help": 1,
-    "editor:open-search": 1
+    "editor:open-search": 1,
+    "workspace:goto-tab-8": 1
   }
 }

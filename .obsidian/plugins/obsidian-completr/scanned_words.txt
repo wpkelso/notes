@@ -312,6 +312,10 @@ depending
 direction
 diode
 diodes
+diffuse
+depleted
+depletion
+diffusing
 of
 often
 or
@@ -538,6 +542,7 @@ executed
 exactly
 equivalence
 equilibrium
+emerges
 Embedded
 Examples
 Eventually
@@ -613,6 +618,7 @@ whereby
 wave
 world
 whole
+width
 peripheral
 peripherals
 processor
@@ -736,6 +742,7 @@ producer
 partial
 performing
 performed
+prevents
 hardware
 hierarchy
 how
@@ -1055,6 +1062,7 @@ chooses
 consumer
 communication
 cathode
+charges
 achieve
 allow
 actions
@@ -1172,6 +1180,8 @@ array
 asymmetric
 anti
 anode
+across
+annihilated
 These
 True
 The
@@ -1206,6 +1216,7 @@ Total
 Typically
 Task
 Transitivity
+TODO
 for
 first
 from
@@ -1266,6 +1277,7 @@ fundamental
 fixed
 fraction
 factor
+formation
 Common
 Counters
 Computing
@@ -1473,6 +1485,7 @@ modelling
 mechanism
 mapping
 might
+mobile
 ready
 resource
 reach
@@ -1556,6 +1569,7 @@ reflexive
 region
 regions
 reverse
+recombine
 use
 used
 unnecessary
@@ -1629,6 +1643,7 @@ At
 Acceptor
 Applying
 Asymmetry
+Any
 Build
 Based
 Branch
@@ -2052,6 +2067,7 @@ neighbors
 neutral
 notifies
 negative
+nonzero
 Register
 Range
 RHS
@@ -2155,6 +2171,7 @@ jump
 json
 japan
 junction
+junctions
 you
 yet
 years

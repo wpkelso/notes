@@ -63,54 +63,6 @@
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "korea": {
-      "korea": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1691577924137
-        }
-      }
-    },
-    "language": {
-      "language": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1691577921605
-        }
-      }
-    },
-    "literature": {
-      "literature": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1691488502891
-        }
-      }
-    },
-    "Pronunciation": {
-      "Pronunciation": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1691488949554
-        }
-      }
-    },
-    "grammar": {
-      "grammar": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1691577918947
-        }
-      }
-    },
-    "1001 Nights": {
-      "1001 Nights": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1691577773968
-        }
-      }
-    },
     "Mathematics": {
       "Mathematics": {
         "currentFile": {
@@ -380,6 +332,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1694005889664
+        }
+      }
+    },
+    "\\phi_{j}": {
+      "\\phi_{j}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694205947553
+        }
+      }
+    },
+    "Definition": {
+      "Definition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694206052839
         }
       }
     }

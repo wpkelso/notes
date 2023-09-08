@@ -17,4 +17,10 @@ There are three types of biasing, or operating regions in diodes: equilibrium, r
 
 ### Equilibrium (No Bias)
 
-At zero bias, and $t=0$
+At $t=0$ under zero bias conditions, carriers naturally diffuse across the junction due to the difference in hole and electron concentrations on each side. This creates a region depleted of mobile carriers at $t=t_{1}$. However, the charge density in the depletion region is still nonzero. *Any carriers that diffuse across the junction are annihilated, as they recombine with majority carriers.* 
+
+With the formation of the depletion region, an [[Electric Field]] emerges, going from this positive charges to the negative charges. The width of this depletion region $W_{d0}=x_{n}+x_{p}=\sqrt{ \frac{2\epsilon_{s}}{q}  \left( \frac{1}{N_{A}} + \frac{1}{N_{D}} \right) \phi_{j} }$, where $\phi_{j}$ represents the **built-in potential**.
+
+>[!note] Definition
+> Defined as the negative integral of the electric field created across the junction in equilibrium , the **built-in potential** prevents carriers from diffusing across the junctions.
+> TODO add equations
