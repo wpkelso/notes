@@ -53,6 +53,8 @@ begin
 benefits
 benefitting
 broad
+biasing
+bias
 size
 sexes
 same
@@ -308,6 +310,8 @@ divided
 dependency
 depending
 direction
+diode
+diodes
 of
 often
 or
@@ -533,6 +537,7 @@ expected
 executed
 exactly
 equivalence
+equilibrium
 Embedded
 Examples
 Eventually
@@ -561,6 +566,7 @@ Equation
 Explicit
 Eulerian
 Equivalence
+Equilibrium
 work
 with
 will
@@ -867,6 +873,7 @@ importance
 improved
 improvement
 irreflexive
+interfacing
 conjunction
 conversion
 compilers
@@ -1047,6 +1054,7 @@ carry
 chooses
 consumer
 communication
+cathode
 achieve
 allow
 actions
@@ -1163,6 +1171,7 @@ actually
 array
 asymmetric
 anti
+anode
 These
 True
 The
@@ -1365,6 +1374,7 @@ Perhaps
 Parallelization
 Parallelizing
 Programming
+PN
 Hardware
 Heuristics
 Hoist
@@ -1543,6 +1553,9 @@ result
 root
 requires
 reflexive
+region
+regions
+reverse
 use
 used
 unnecessary
@@ -1633,6 +1646,8 @@ Before
 Bag
 Band
 Base
+Biasing
+Bias
 Use
 Unswitching
 Useful
@@ -1982,6 +1997,7 @@ DOALL
 DOACROSS
 DOPIPE
 Directed
+Diode
 Loop
 Live
 Liveness
@@ -2035,6 +2051,7 @@ nearest
 neighbors
 neutral
 notifies
+negative
 Register
 Range
 RHS
@@ -2146,6 +2163,7 @@ Jericho
 Jordan
 Jarmo
 Japanese
+Junction
 Zawi
 Zagros
 Velocity
