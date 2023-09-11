@@ -220,6 +220,7 @@ subseteq
 symmetric
 strict
 suggests
+surjective
 difference
 different
 deal
@@ -316,6 +317,7 @@ diffuse
 depleted
 depletion
 diffusing
+differ
 of
 often
 or
@@ -543,6 +545,9 @@ exactly
 equivalence
 equilibrium
 emerges
+enumeration
+enumerations
+ex
 Embedded
 Examples
 Eventually
@@ -572,6 +577,8 @@ Explicit
 Eulerian
 Equivalence
 Equilibrium
+Enumeration
+Enumerations
 work
 with
 will
@@ -743,6 +750,7 @@ partial
 performing
 performed
 prevents
+possibly
 hardware
 hierarchy
 how
@@ -881,6 +889,7 @@ improved
 improvement
 irreflexive
 interfacing
+implies
 conjunction
 conversion
 compilers
@@ -1182,6 +1191,7 @@ anti
 anode
 across
 annihilated
+appears
 These
 True
 The
@@ -1278,6 +1288,8 @@ fixed
 fraction
 factor
 formation
+formally
+finite
 Common
 Counters
 Computing
@@ -1768,6 +1780,7 @@ light
 lattice
 loads
 low
+less
 Output
 Ordering
 ODE
@@ -1864,6 +1877,7 @@ Fibonacci
 Function
 From
 Formula
+Further
 Note
 Non
 NP
@@ -1954,6 +1968,7 @@ INST
 Input
 ILP
 Irreflexive
+Implications
 Will
 We
 What
@@ -2013,6 +2028,7 @@ DOACROSS
 DOPIPE
 Directed
 Diode
+Different
 Loop
 Live
 Liveness
@@ -2094,6 +2110,7 @@ Registers
 Relation
 Reflexivity
 Reflexive
+Redundant
 Major
 Move
 Made

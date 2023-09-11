@@ -82,8 +82,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 19,
-          "lastUpdated": 1693920090865
+          "count": 20,
+          "lastUpdated": 1694396371952
         }
       }
     },
@@ -170,8 +170,8 @@
     "programming": {
       "programming": {
         "frontMatter": {
-          "count": 13,
-          "lastUpdated": 1694024706980
+          "count": 14,
+          "lastUpdated": 1694396378756
         }
       }
     },
@@ -226,8 +226,8 @@
     "discrete_mathematics": {
       "discrete_mathematics": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1693920097661
+          "count": 7,
+          "lastUpdated": 1694396376203
         }
       }
     },
@@ -346,8 +346,24 @@
     "Definition": {
       "Definition": {
         "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694396681166
+        }
+      }
+    },
+    "set_theory": {
+      "set_theory": {
+        "frontMatter": {
           "count": 1,
-          "lastUpdated": 1694206052839
+          "lastUpdated": 1694396374611
+        }
+      }
+    },
+    "Set": {
+      "Set": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694396426378
         }
       }
     }

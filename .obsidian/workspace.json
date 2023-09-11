@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "22ea88f335a2a313",
+            "id": "63acfa99c2bcb596",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,14 +41,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relation.md",
-                "mode": "preview",
+                "file": "Enumeration.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -65,10 +64,18 @@
           {
             "id": "f3fcc7337c35d4c8",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,10 +89,18 @@
           {
             "id": "d460156f0b73255c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,6 +109,15 @@
           {
             "id": "559588bdc026b98e",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -105,16 +129,32 @@
           {
             "id": "ab02c92a863624d1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Relation.md"
-              }
+              "state": {}
             }
           },
           {
             "id": "1c75a84768ad2e08",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -139,6 +179,15 @@
           {
             "id": "0be6ccbcf2028a87",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -154,6 +203,15 @@
           {
             "id": "a2b48e04b3018c5f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "starred",
               "state": {}
@@ -162,6 +220,15 @@
           {
             "id": "0ad5a70a43c71201",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -188,10 +255,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22ea88f335a2a313",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
-    "Diode.md",
+    "Enumeration.md",
     "Relation.md",
+    "Diode.md",
     "Set.md",
     "Cache.md",
     "Abstract Data Type.md",
@@ -216,7 +284,6 @@
     "Dennard's Scaling.md",
     "Message-Passing Model.md",
     "Instruction-Level Parallelism.md",
-    "Semiconductor.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]
