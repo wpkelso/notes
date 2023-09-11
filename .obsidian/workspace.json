@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "63acfa99c2bcb596",
+            "id": "383a95ad36aa98af",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration.md",
+                "file": "Bipolar Junction Transistor.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration.md",
+                "file": "Bipolar Junction Transistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enumeration.md",
+                "file": "Bipolar Junction Transistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enumeration.md"
+                "file": "Bipolar Junction Transistor.md"
               }
             }
           },
@@ -260,8 +260,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63acfa99c2bcb596",
+  "active": "383a95ad36aa98af",
   "lastOpenFiles": [
+    "Bipolar Junction Transistor.md",
     "Enumeration.md",
     "Relation.md",
     "Diode.md",
@@ -288,7 +289,6 @@
     "Amdhal's Law.md",
     "Dennard's Scaling.md",
     "Message-Passing Model.md",
-    "Instruction-Level Parallelism.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]
