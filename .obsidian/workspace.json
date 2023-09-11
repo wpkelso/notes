@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "1539589e39555ae0",
+            "id": "22ea88f335a2a313",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diode.md",
-                "mode": "source",
+                "file": "Relation.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diode.md",
+                "file": "Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diode.md",
+                "file": "Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diode.md"
+                "file": "Relation.md"
               }
             }
           },
@@ -188,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1539589e39555ae0",
+  "active": "22ea88f335a2a313",
   "lastOpenFiles": [
     "Diode.md",
     "Relation.md",
