@@ -59,7 +59,7 @@
     "obsidian-editor-shortcuts:selectAllOccurrences": 1
   },
   "keyboardStatistics": {
-    "file-explorer:new-file": 27,
+    "file-explorer:new-file": 28,
     "editor:save-file": 52,
     "obsidian-completr:completr-insert-selected-suggestion": 57,
     "obsidian-completr:completr-select-next-suggestion": 91,
@@ -67,7 +67,7 @@
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 37,
     "editor:toggle-italics": 8,
-    "switcher:open": 65,
+    "switcher:open": 68,
     "workspace:new-tab": 1,
     "obsidian-completr:completr-blacklist-current-word": 1,
     "app:open-help": 1,

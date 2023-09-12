@@ -82,8 +82,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 20,
-          "lastUpdated": 1694396371952
+          "count": 23,
+          "lastUpdated": 1694523771068
         }
       }
     },
@@ -226,8 +226,8 @@
     "discrete_mathematics": {
       "discrete_mathematics": {
         "frontMatter": {
-          "count": 7,
-          "lastUpdated": 1694396376203
+          "count": 10,
+          "lastUpdated": 1694523767892
         }
       }
     },
@@ -372,6 +372,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1694444709385
+        }
+      }
+    },
+    "Function": {
+      "Function": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694524658935
         }
       }
     }

@@ -321,6 +321,7 @@ depletion
 diffusing
 differ
 devices
+domain
 of
 often
 or
@@ -383,6 +384,7 @@ once
 operating
 organizing
 operational
+output
 the
 to
 timing
@@ -466,6 +468,8 @@ theoretically
 thread
 transitive
 transistors
+tray
+totally
 embedded
 each
 execute
@@ -585,6 +589,7 @@ Equivalence
 Equilibrium
 Enumeration
 Enumerations
+Eject
 work
 with
 will
@@ -632,6 +637,7 @@ wave
 world
 whole
 width
+water
 peripheral
 peripherals
 processor
@@ -896,6 +902,7 @@ improvement
 irreflexive
 interfacing
 implies
+ice
 conjunction
 conversion
 compilers
@@ -1299,6 +1306,7 @@ factor
 formation
 formally
 finite
+frozen
 Common
 Counters
 Computing
@@ -1362,6 +1370,7 @@ Code
 Connectivity
 Choosing
 Cutoff
+Chill
 Peripheral
 Parameters
 Predictors
@@ -1430,6 +1439,7 @@ History
 Heap
 Hole
 Hybrid
+Heat
 methodology
 more
 must
@@ -1875,6 +1885,8 @@ Structures
 Similarly
 Simplified
 Saturation
+Sequencing
+Sequence
 Figures
 Following
 Forward
@@ -1902,6 +1914,7 @@ Function
 From
 Formula
 Further
+Fill
 Note
 Non
 NP
@@ -2139,6 +2152,7 @@ Redundant
 Regions
 Region
 Reverse
+Recurrence
 Major
 Move
 Made
