@@ -82,8 +82,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 25,
-          "lastUpdated": 1694527709455
+          "count": 27,
+          "lastUpdated": 1694544283015
         }
       }
     },
@@ -170,8 +170,8 @@
     "programming": {
       "programming": {
         "frontMatter": {
-          "count": 14,
-          "lastUpdated": 1694396378756
+          "count": 15,
+          "lastUpdated": 1694544287385
         }
       }
     },
@@ -226,16 +226,16 @@
     "discrete_mathematics": {
       "discrete_mathematics": {
         "frontMatter": {
-          "count": 12,
-          "lastUpdated": 1694527706456
+          "count": 14,
+          "lastUpdated": 1694544284732
         }
       }
     },
     "graph_theory": {
       "graph_theory": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1693920103775
+          "count": 7,
+          "lastUpdated": 1694544294026
         }
       }
     },
@@ -354,8 +354,8 @@
     "set_theory": {
       "set_theory": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1694527717503
+          "count": 5,
+          "lastUpdated": 1694544666304
         }
       }
     },
@@ -388,6 +388,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1694527839296
+        }
+      }
+    },
+    "Data Structure": {
+      "Data Structure": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694544735184
+        }
+      }
+    },
+    "Isomorphism": {
+      "Isomorphism": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694544305119
+        }
+      }
+    },
+    "Graph": {
+      "Graph": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694544455772
         }
       }
     }
