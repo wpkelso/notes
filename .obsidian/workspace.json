@@ -58,28 +58,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "6b32540dd5240f9f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -310,7 +291,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b32540dd5240f9f",
+  "active": "3e631de1bdb7e55b",
   "lastOpenFiles": [
     "Isomorphism.md",
     "Graph.md",
