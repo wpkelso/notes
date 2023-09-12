@@ -55,6 +55,7 @@ benefitting
 broad
 biasing
 bias
+base
 size
 sexes
 same
@@ -221,6 +222,7 @@ symmetric
 strict
 suggests
 surjective
+simplified
 difference
 different
 deal
@@ -318,6 +320,7 @@ depleted
 depletion
 diffusing
 differ
+devices
 of
 often
 or
@@ -379,6 +382,7 @@ originally
 once
 operating
 organizing
+operational
 the
 to
 timing
@@ -461,6 +465,7 @@ top
 theoretically
 thread
 transitive
+transistors
 embedded
 each
 execute
@@ -548,6 +553,7 @@ emerges
 enumeration
 enumerations
 ex
+emitter
 Embedded
 Examples
 Eventually
@@ -1072,6 +1078,7 @@ consumer
 communication
 cathode
 charges
+collector
 achieve
 allow
 actions
@@ -1192,6 +1199,7 @@ anode
 across
 annihilated
 appears
+alternating
 These
 True
 The
@@ -1227,6 +1235,7 @@ Typically
 Task
 Transitivity
 TODO
+Transistor
 for
 first
 from
@@ -1352,6 +1361,7 @@ Constructed
 Code
 Connectivity
 Choosing
+Cutoff
 Peripheral
 Parameters
 Predictors
@@ -1399,6 +1409,7 @@ Parallelization
 Parallelizing
 Programming
 PN
+PNP
 Hardware
 Heuristics
 Hoist
@@ -1498,6 +1509,7 @@ mechanism
 mapping
 might
 mobile
+matching
 ready
 resource
 reach
@@ -1656,6 +1668,7 @@ Acceptor
 Applying
 Asymmetry
 Any
+Active
 Build
 Based
 Branch
@@ -1675,6 +1688,11 @@ Band
 Base
 Biasing
 Bias
+Bipolar
+BJTs
+BJT
+BE
+BC
 Use
 Unswitching
 Useful
@@ -1781,6 +1799,9 @@ lattice
 loads
 low
 less
+layer
+layers
+layering
 Output
 Ordering
 ODE
@@ -1801,6 +1822,7 @@ Origin
 Objects
 Orders
 Often
+Operation
 Schedule
 Store
 Solution
@@ -1851,6 +1873,8 @@ Symmetry
 Strict
 Structures
 Similarly
+Simplified
+Saturation
 Figures
 Following
 Forward
@@ -1895,6 +1919,7 @@ Nearly
 Natural
 Naturally
 Notation
+NPN
 violate
 very
 variable
@@ -2111,6 +2136,9 @@ Relation
 Reflexivity
 Reflexive
 Redundant
+Regions
+Region
+Reverse
 Major
 Move
 Made
