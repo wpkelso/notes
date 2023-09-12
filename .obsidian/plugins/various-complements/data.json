@@ -82,8 +82,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 23,
-          "lastUpdated": 1694523771068
+          "count": 25,
+          "lastUpdated": 1694527709455
         }
       }
     },
@@ -226,8 +226,8 @@
     "discrete_mathematics": {
       "discrete_mathematics": {
         "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1694523767892
+          "count": 12,
+          "lastUpdated": 1694527706456
         }
       }
     },
@@ -354,8 +354,8 @@
     "set_theory": {
       "set_theory": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1694396374611
+          "count": 3,
+          "lastUpdated": 1694527717503
         }
       }
     },
@@ -380,6 +380,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1694524658935
+        }
+      }
+    },
+    "Definitions": {
+      "Definitions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694527839296
         }
       }
     }

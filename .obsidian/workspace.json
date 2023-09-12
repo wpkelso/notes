@@ -25,84 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "383a95ad36aa98af",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Bipolar Junction Transistor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bipolar Junction Transistor.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":6.112075617283951}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector Space.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "16592c0adfb3b650",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relation.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bbc78a0576988d78",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Recurrence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Recurrence.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sequence.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -131,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sequence.md"
-              }
+              "state": {}
             }
           },
           {
@@ -294,6 +214,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b4a9d896a0af2876",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -314,9 +244,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbc78a0576988d78",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
     "Recurrence.md",
+    "Geometric Sequence.md",
+    "Arithmetic Sequence.md",
     "Sequence.md",
     "Relation.md",
     "Vector Space.md",
@@ -341,8 +273,6 @@
     "Shared-Memory Model.md",
     "Data Dependence.md",
     "diode-diagram.png",
-    "Fibonacci Series.md",
-    "Geometric Meaning of an ODE.md",
     "Pasted image 20230426184332.png",
     "obsidian.css"
   ]

@@ -322,6 +322,9 @@ diffusing
 differ
 devices
 domain
+define
+distinct
+determined
 of
 often
 or
@@ -558,6 +561,8 @@ enumeration
 enumerations
 ex
 emitter
+examples
+entails
 Embedded
 Examples
 Eventually
@@ -1086,6 +1091,9 @@ communication
 cathode
 charges
 collector
+condition
+closed
+characteristic
 achieve
 allow
 actions
@@ -1207,6 +1215,7 @@ across
 annihilated
 appears
 alternating
+assume
 These
 True
 The
@@ -1243,6 +1252,7 @@ Task
 Transitivity
 TODO
 Transistor
+Technique
 for
 first
 from
@@ -1371,6 +1381,9 @@ Connectivity
 Choosing
 Cutoff
 Chill
+Closed
+Characteristic
+Complex
 Peripheral
 Parameters
 Predictors
@@ -1520,6 +1533,7 @@ mapping
 might
 mobile
 matching
+method
 ready
 resource
 reach
@@ -1604,6 +1618,9 @@ region
 regions
 reverse
 recombine
+recursive
+roots
+repeated
 use
 used
 unnecessary
@@ -1915,6 +1932,7 @@ From
 Formula
 Further
 Fill
+Form
 Note
 Non
 NP
@@ -2153,6 +2171,7 @@ Regions
 Region
 Reverse
 Recurrence
+Root
 Major
 Move
 Made

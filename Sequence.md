@@ -10,8 +10,8 @@ In mathematics, a sequence is defined as a  [[Function|function]] , whose domain
 
 ### Types of Sequences
 
-- Arithmetic Sequences
-- Geometric Sequences
+- [[Arithmetic Sequence|Arithmetic Sequences]]
+- [[Geometric Sequence|Geometric Sequences]]
 
 ## Embedded Computing
 
