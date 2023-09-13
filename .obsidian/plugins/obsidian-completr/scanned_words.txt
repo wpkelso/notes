@@ -1391,6 +1391,7 @@ Characteristic
 Complex
 Comparing
 Circuit
+Coherency
 Peripheral
 Parameters
 Predictors

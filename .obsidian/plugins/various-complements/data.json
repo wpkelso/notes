@@ -71,14 +71,6 @@
         }
       }
     },
-    "Keyword Modifiers": {
-      "Keyword Modifiers": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1691961413904
-        }
-      }
-    },
     "mathematics": {
       "mathematics": {
         "frontMatter": {
@@ -154,8 +146,8 @@
     "electronics": {
       "electronics": {
         "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1694444217717
+          "count": 6,
+          "lastUpdated": 1694626336203
         }
       }
     },
@@ -178,8 +170,8 @@
     "computer_architecture": {
       "computer_architecture": {
         "frontMatter": {
-          "count": 8,
-          "lastUpdated": 1694024701415
+          "count": 9,
+          "lastUpdated": 1694626326012
         }
       }
     },
@@ -250,8 +242,8 @@
     "Code Parallelization": {
       "Code Parallelization": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1693245480384
+          "count": 2,
+          "lastUpdated": 1694626490440
         }
       }
     },

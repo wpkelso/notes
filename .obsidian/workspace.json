@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "4710c0710b2182a6",
+            "id": "f3b6b3666cb1612e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,35 +41,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bipolar Junction Transistor.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "97b6eb6716287838",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set.md",
-                "mode": "preview",
+                "file": "Cache Coherency.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -98,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +140,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Set.md"
-              }
+              "state": {}
             }
           },
           {
@@ -300,8 +274,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b6eb6716287838",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
+    "Cache Coherency.md",
+    "Diode.md",
     "Bipolar Junction Transistor.md",
     "Set.md",
     "npnbjt.png",
@@ -316,7 +292,6 @@
     "Relation.md",
     "Vector Space.md",
     "Enumeration.md",
-    "Diode.md",
     "Cache.md",
     "Abstract Data Type.md",
     "Data Structure.md",
