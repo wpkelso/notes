@@ -223,6 +223,7 @@ strict
 suggests
 surjective
 simplified
+significant
 difference
 different
 deal
@@ -768,6 +769,8 @@ performing
 performed
 prevents
 possibly
+png
+pnpbjt
 hardware
 hierarchy
 how
@@ -1254,6 +1257,7 @@ Transitivity
 TODO
 Transistor
 Technique
+Transistors
 for
 first
 from
@@ -1385,6 +1389,8 @@ Chill
 Closed
 Characteristic
 Complex
+Comparing
+Circuit
 Peripheral
 Parameters
 Predictors
@@ -1906,6 +1912,7 @@ Simplified
 Saturation
 Sequencing
 Sequence
+Symbol
 Figures
 Following
 Forward
@@ -1953,6 +1960,7 @@ Natural
 Naturally
 Notation
 NPN
+Notes
 violate
 very
 variable
@@ -2049,6 +2057,8 @@ King
 Korea
 Korean
 Kelvin
+KVL
+KCL
 Disadvantages
 Definition
 Dataflow
@@ -2143,6 +2153,7 @@ neutral
 notifies
 negative
 nonzero
+npnbjt
 Register
 Range
 RHS
