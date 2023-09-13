@@ -25,42 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "3e631de1bdb7e55b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Isomorphism",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Isomorphism.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":69},\"to\":{\"line\":9,\"ch\":69}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Mathematical Induction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mathematical Induction.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":109},\"to\":{\"line\":17,\"ch\":109}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Graph.md"
-              }
+              "state": {}
             }
           },
           {
@@ -291,10 +253,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e631de1bdb7e55b",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
-    "Isomorphism.md",
     "Graph.md",
+    "Isomorphism.md",
     "Mathematical Induction.md",
     "Recurrence.md",
     "Geometric Sequence.md",
