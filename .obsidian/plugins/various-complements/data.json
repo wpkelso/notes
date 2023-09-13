@@ -79,22 +79,6 @@
         }
       }
     },
-    "literature": {
-      "literature": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1691488502891
-        }
-      }
-    },
-    "Pronunciation": {
-      "Pronunciation": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1691488949554
-        }
-      }
-    },
     "grammar": {
       "grammar": {
         "frontMatter": {
@@ -130,8 +114,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 19,
-          "lastUpdated": 1693920090865
+          "count": 20,
+          "lastUpdated": 1694097213460
         }
       }
     },
@@ -274,8 +258,8 @@
     "discrete_mathematics": {
       "discrete_mathematics": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1693920097661
+          "count": 7,
+          "lastUpdated": 1694097210568
         }
       }
     },
@@ -380,6 +364,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1694005889664
+        }
+      }
+    },
+    "set_theory": {
+      "set_theory": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1694097226126
         }
       }
     }

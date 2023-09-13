@@ -2061,6 +2061,7 @@ Registers
 Relation
 Reflexivity
 Reflexive
+Recurrence
 Major
 Move
 Made
