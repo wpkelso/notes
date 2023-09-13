@@ -224,6 +224,7 @@ suggests
 surjective
 simplified
 significant
+somewhere
 difference
 different
 deal
@@ -389,6 +390,7 @@ operating
 organizing
 operational
 output
+own
 the
 to
 timing
@@ -564,6 +566,7 @@ ex
 emitter
 examples
 entails
+else
 Embedded
 Examples
 Eventually
@@ -771,6 +774,7 @@ prevents
 possibly
 png
 pnpbjt
+protocol
 hardware
 hierarchy
 how
@@ -1098,6 +1102,8 @@ collector
 condition
 closed
 characteristic
+contain
+copies
 achieve
 allow
 actions
@@ -1440,6 +1446,7 @@ Parallelizing
 Programming
 PN
 PNP
+Protocols
 Hardware
 Heuristics
 Hoist
@@ -1660,6 +1667,8 @@ units
 uses
 undirected
 un
+update
+updated
 Algorithm
 Anti
 Advantages
@@ -1740,6 +1749,7 @@ Upright
 Usually
 Union
 Used
+Update
 graph
 going
 greater

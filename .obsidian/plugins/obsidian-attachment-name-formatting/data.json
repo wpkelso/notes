@@ -48,7 +48,7 @@
   "pdf": "pdf",
   "oneInMany": "Default",
   "enableAuto": true,
-  "enableTime": false,
+  "enableTime": true,
   "enableExcludeFileName": false,
   "excludedFolders": [],
   "subfolders": [

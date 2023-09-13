@@ -1,7 +1,7 @@
 {
   "strategy": "default",
   "cedictPath": "./cedict_ts.u8",
-  "matchStrategy": "partial",
+  "matchStrategy": "prefix",
   "fuzzyMatch": true,
   "matchingWithoutEmoji": true,
   "treatAccentDiacriticsAsAlphabeticCharacters": false,
@@ -19,15 +19,15 @@
     "^~~~.*",
     "^```.*"
   ],
-  "showMatchStrategy": true,
-  "showComplementAutomatically": true,
-  "showIndexingStatus": true,
+  "showMatchStrategy": false,
+  "showComplementAutomatically": false,
+  "showIndexingStatus": false,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Enter",
+  "selectSuggestionKeys": "None",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "None",
-  "propagateEsc": false,
+  "propagateEsc": true,
   "enableCurrentFileComplement": true,
   "currentFileMinNumberOfCharacters": 0,
   "onlyComplementEnglishOnCurrentFileComplement": false,
@@ -404,6 +404,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1694544455772
+        }
+      }
+    },
+    "invalidation-based": {
+      "invalidation-based": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694629083802
         }
       }
     }
