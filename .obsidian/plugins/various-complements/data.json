@@ -146,16 +146,16 @@
     "electronics": {
       "electronics": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1694626336203
+          "count": 7,
+          "lastUpdated": 1694633791774
         }
       }
     },
     "circuits": {
       "circuits": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1694015591678
+          "count": 3,
+          "lastUpdated": 1694633799228
         }
       }
     },
@@ -412,6 +412,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1694629083802
+        }
+      }
+    },
+    "equivalent": {
+      "equivalent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694634557589
         }
       }
     }
