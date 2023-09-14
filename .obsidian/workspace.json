@@ -35,13 +35,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Thevenin's Theorem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Thevenin's Theorem.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":2},\"to\":{\"line\":8,\"ch\":2}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thevenin's Theorem.md",
+                "file": "Tree.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thevenin's Theorem.md",
+                "file": "Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thevenin's Theorem.md",
+                "file": "Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thevenin's Theorem.md"
+                "file": "Tree.md"
               }
             }
           },

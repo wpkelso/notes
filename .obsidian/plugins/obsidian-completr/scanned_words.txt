@@ -485,6 +485,7 @@ tray
 totally
 traffic
 terminals
+terminology
 embedded
 each
 execute
@@ -1289,6 +1290,7 @@ Technique
 Transistors
 Thevenin
 Theorem
+Tree
 for
 first
 from
@@ -1878,6 +1880,7 @@ less
 layer
 layers
 layering
+leaves
 Output
 Ordering
 ODE
@@ -2035,6 +2038,7 @@ velocity
 vast
 vertices
 voltage
+vertexes
 Is
 Idea
 It
