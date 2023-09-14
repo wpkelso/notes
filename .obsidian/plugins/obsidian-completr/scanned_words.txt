@@ -228,6 +228,8 @@ simplified
 significant
 somewhere
 subsequent
+sources
+shorts
 difference
 different
 deal
@@ -395,6 +397,7 @@ operational
 output
 own
 odified
+open
 the
 to
 timing
@@ -481,6 +484,7 @@ transistors
 tray
 totally
 traffic
+terminals
 embedded
 each
 execute
@@ -784,6 +788,7 @@ pnpbjt
 protocol
 poor
 produce
+port
 hardware
 hierarchy
 how
@@ -928,6 +933,7 @@ implies
 ice
 isomorphic
 invalidation
+impedance
 conjunction
 conversion
 compilers
@@ -1120,6 +1126,7 @@ constantly
 copy
 complicated
 coherence
+circuit
 achieve
 allow
 actions
@@ -1280,6 +1287,8 @@ TODO
 Transistor
 Technique
 Transistors
+Thevenin
+Theorem
 for
 first
 from
@@ -1655,6 +1664,9 @@ roots
 repeated
 represent
 request
+resistances
+replaced
+resistance
 use
 used
 unnecessary
@@ -1887,6 +1899,7 @@ Objects
 Orders
 Often
 Operation
+Obtain
 Schedule
 Store
 Solution
@@ -1942,6 +1955,8 @@ Saturation
 Sequencing
 Sequence
 Symbol
+Steps
+Sources
 Figures
 Following
 Forward
@@ -2019,6 +2034,7 @@ various
 velocity
 vast
 vertices
+voltage
 Is
 Idea
 It
@@ -2066,6 +2082,7 @@ ILP
 Irreflexive
 Implications
 Invalidation
+Independent
 Will
 We
 What
@@ -2185,6 +2202,7 @@ negative
 nonzero
 npnbjt
 nvalid
+network
 Register
 Range
 RHS
@@ -2217,6 +2235,7 @@ Region
 Reverse
 Recurrence
 Root
+Redraw
 Major
 Move
 Made
