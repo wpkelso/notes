@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "ff296687fd9aa7c5",
+            "id": "ad681607e090afea",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -37,17 +37,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Thevenin's Theorem",
+                  "title": "Code Parallelization",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Thevenin's Theorem.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":2},\"to\":{\"line\":8,\"ch\":2}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Code Parallelization.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":16.727272727272727}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree.md",
+                "file": "Amdhal's Law.md",
                 "mode": "preview",
                 "source": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree.md",
+                "file": "Amdhal's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree.md",
+                "file": "Amdhal's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree.md"
+                "file": "Amdhal's Law.md"
               }
             }
           },
@@ -285,8 +285,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff296687fd9aa7c5",
+  "active": "ad681607e090afea",
   "lastOpenFiles": [
+    "Amdhal's Law.md",
+    "Code Parallelization.md",
+    "Parallel Computing.md",
+    "Tree.md",
+    "Data Dependence.md",
     "Thevenin's Theorem.md",
     "Cache Coherency.md",
     "Diode.md",
@@ -309,12 +314,7 @@
     "Data Structure.md",
     "Directed Cyclic Graph.md",
     "Directed Graph.md",
-    "Code Parallelization.md",
     "Eulerian Path.md",
-    "Tree.md",
-    "Directed Acyclic Graph.md",
-    "Hamiltonian Path.md",
-    "Parallel Computing.md",
     "diode-diagram.png",
     "Pasted image 20230426184332.png",
     "obsidian.css"

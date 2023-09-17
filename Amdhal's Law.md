@@ -16,6 +16,6 @@ $$S_{\text{latency}}(s)=\frac{1}{(1-p_1-p_2)+\frac{p_1}{s_1}+\frac{p_2}{s_2}}$$
 # Applying to Parallel Units
 $$S_{\text{latency}}(s)=\frac{1}{(1-p)+\frac{p}{N}}$$
 where
-$S_{\text{latency}}$ is the theoretical speed up of the whole task
-$N$ is the number of parallel units
-$p$ is the proportion of execution time that the part benefitting from resources originally occupied
+- $S_{\text{latency}}$ is the theoretical speed up of the whole task
+- $N$ is the number of parallel units
+- $p$ is the proportion of execution time that the part benefitting from resources originally occupied
