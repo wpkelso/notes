@@ -332,6 +332,7 @@ domain
 define
 distinct
 determined
+designated
 of
 often
 or
@@ -1291,6 +1292,7 @@ Transistors
 Thevenin
 Theorem
 Tree
+Trees
 for
 first
 from
@@ -1903,6 +1905,7 @@ Orders
 Often
 Operation
 Obtain
+Once
 Schedule
 Store
 Solution
@@ -2039,6 +2042,7 @@ vast
 vertices
 voltage
 vertexes
+vertex
 Is
 Idea
 It
@@ -2240,6 +2244,7 @@ Reverse
 Recurrence
 Root
 Redraw
+Rooted
 Major
 Move
 Made
