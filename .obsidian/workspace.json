@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "387e86cfd1180a75",
+            "id": "8e21b951927e026f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,9 +39,11 @@
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "First-Order Language.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -75,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "First-Order Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "First-Order Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +143,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "First-Order Language.md"
+              }
             }
           },
           {
@@ -273,7 +279,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "387e86cfd1180a75",
+  "active": "8e21b951927e026f",
   "lastOpenFiles": [
     "Amdhal's Law.md",
     "Code Parallelization.md",

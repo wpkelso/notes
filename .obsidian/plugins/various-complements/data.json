@@ -79,22 +79,6 @@
         }
       }
     },
-    "Sinusoidal Function": {
-      "Sinusoidal Function": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1692200317313
-        }
-      }
-    },
-    "signal_analysis": {
-      "signal_analysis": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1692365916024
-        }
-      }
-    },
     "logic": {
       "logic": {
         "frontMatter": {
@@ -420,6 +404,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1694634557589
+        }
+      }
+    },
+    "First-Order": {
+      "First-Order": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695041095750
+        }
+      }
+    },
+    "language": {
+      "language": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1695041603087
         }
       }
     }
