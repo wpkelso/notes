@@ -25,36 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "ad681607e090afea",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Code Parallelization",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Code Parallelization.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":16.727272727272727}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amdhal's Law.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amdhal's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amdhal's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Amdhal's Law.md"
-              }
+              "state": {}
             }
           },
           {
@@ -285,7 +253,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad681607e090afea",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
     "Amdhal's Law.md",
     "Code Parallelization.md",
