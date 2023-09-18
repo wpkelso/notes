@@ -36,3 +36,6 @@ A simplified model for a BJT exists, consisting of two [[Diode|diodes]] placed b
 ### Cutoff
 
 ### Saturation
+
+## Biasing
+

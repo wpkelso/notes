@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "8e21b951927e026f",
+            "id": "90cc0059c2098c12",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Bipolar Junction Transistor.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Bipolar Junction Transistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Bipolar Junction Transistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First-Order Language.md"
+                "file": "Bipolar Junction Transistor.md"
               }
             }
           },
@@ -279,8 +279,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e21b951927e026f",
+  "active": "90cc0059c2098c12",
   "lastOpenFiles": [
+    "First-Order Language.md",
     "Amdhal's Law.md",
     "Code Parallelization.md",
     "Parallel Computing.md",
@@ -308,7 +309,6 @@
     "Data Structure.md",
     "Directed Cyclic Graph.md",
     "Directed Graph.md",
-    "Eulerian Path.md",
     "diode-diagram.png",
     "Pasted image 20230426184332.png",
     "obsidian.css"
