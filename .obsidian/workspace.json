@@ -25,72 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "d5413e619b0ff4d6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relation.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8ce1e4c133840c06",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recurrence Relation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a843ac067bd2b90c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -119,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recurrence Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recurrence Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Recurrence Relation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -282,6 +214,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d4cc73ea3b359003",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -302,14 +244,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ce1e4c133840c06",
+  "active": "c4592b7513668c27",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Relation.md",
     "Recurrence Relation.md",
     "Set.md",
+    "Relation.md",
     "Cache.md",
     "Diode.md",
     "Abstract Data Type.md",
