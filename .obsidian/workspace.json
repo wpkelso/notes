@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "90cc0059c2098c12",
+            "id": "984785e53aa28117",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -35,26 +35,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Bipolar Junction Transistor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bipolar Junction Transistor.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5423728813559322}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First-Order Language.md",
-                "mode": "source",
+                "file": "Bipolar Junction Transistor.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First-Order Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First-Order Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +140,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "First-Order Language.md"
-              }
+              "state": {}
             }
           },
           {
@@ -285,11 +274,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90cc0059c2098c12",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
     "Bipolar Junction Transistor.md",
-    "Recurrence Relation.md",
     "First-Order Language.md",
+    "Recurrence Relation.md",
     "Amdhal's Law.md",
     "Code Parallelization.md",
     "Parallel Computing.md",
