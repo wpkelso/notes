@@ -333,6 +333,7 @@ define
 distinct
 determined
 designated
+disjunction
 of
 often
 or
@@ -938,6 +939,8 @@ ice
 isomorphic
 invalidation
 impedance
+included
+implication
 conjunction
 conversion
 compilers
@@ -1131,6 +1134,7 @@ copy
 complicated
 coherence
 circuit
+connectives
 achieve
 allow
 actions
@@ -1886,6 +1890,7 @@ layer
 layers
 layering
 leaves
+languages
 Output
 Ordering
 ODE
@@ -1966,6 +1971,7 @@ Sequence
 Symbol
 Steps
 Sources
+Symbols
 Figures
 Following
 Forward
@@ -2178,6 +2184,9 @@ Left
 Leonardo
 LLVM
 Latency
+Language
+Like
+Logical
 no
 not
 non
@@ -2214,6 +2223,7 @@ nonzero
 npnbjt
 nvalid
 network
+negation
 Register
 Range
 RHS
@@ -2240,9 +2250,6 @@ Registers
 Relation
 Reflexivity
 Reflexive
-<<<<<<< HEAD
-Recurrence
-=======
 Redundant
 Regions
 Region
@@ -2251,7 +2258,6 @@ Recurrence
 Root
 Redraw
 Rooted
->>>>>>> 1cc34f9ae7a4c1deb1e581d6d507cb9a7a14b912
 Major
 Move
 Made
@@ -2299,6 +2305,7 @@ quality
 zero
 Quantitative
 Quality
+Quantifiers
 kept
 known
 kind
@@ -2322,6 +2329,7 @@ Ghazal
 Gap
 GENERAL
 Graphs
+Group
 You
 Younger
 just
@@ -2343,3 +2351,4 @@ Junction
 Zawi
 Zagros
 Velocity
+Vocabulary

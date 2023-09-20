@@ -22,7 +22,7 @@ Like any language, first-order languages have both an [[Alphabet|alphabet]] and 
 | $\implies$ | implication         | 
 
 #### Quantifiers
-| Symbol    | Meaning |
-| --------- | ------- |
-| $\forall$ |         |
-| $\foreach$          |         |
+| Symbol    | Meaning               |
+| --------- | --------------------- |
+| $\forall$ | for all               |
+| $\exists$ | for each/there exists | 
