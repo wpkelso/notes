@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "984785e53aa28117",
+            "id": "7a6186ca2e37692f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bipolar Junction Transistor.md",
+                "file": "Function.md",
                 "mode": "preview",
                 "source": true
               }
@@ -276,6 +276,8 @@
   },
   "active": "c4592b7513668c27",
   "lastOpenFiles": [
+    "Function.md",
+    "Equinumerosity.md",
     "Bipolar Junction Transistor.md",
     "First-Order Language.md",
     "Recurrence Relation.md",
@@ -302,8 +304,6 @@
     "Enumeration.md",
     "Cache.md",
     "Abstract Data Type.md",
-    "Data Structure.md",
-    "Directed Cyclic Graph.md",
     "diode-diagram.png",
     "Pasted image 20230426184332.png",
     "obsidian.css"

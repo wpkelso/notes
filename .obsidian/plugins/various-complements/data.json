@@ -19,15 +19,15 @@
     "^~~~.*",
     "^```.*"
   ],
-  "showMatchStrategy": false,
-  "showComplementAutomatically": false,
-  "showIndexingStatus": false,
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "None",
+  "selectSuggestionKeys": "Enter",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "None",
-  "propagateEsc": true,
+  "propagateEsc": false,
   "enableCurrentFileComplement": true,
   "currentFileMinNumberOfCharacters": 0,
   "onlyComplementEnglishOnCurrentFileComplement": false,
@@ -63,327 +63,43 @@
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-<<<<<<< HEAD
-    "korea": {
-      "korea": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1691577924137
-        }
-      }
-    },
-    "language": {
-      "language": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1691577921605
-        }
-      }
-    },
-    "grammar": {
-      "grammar": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1691577918947
-        }
-      }
-    },
-    "1001 Nights": {
-      "1001 Nights": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1691577773968
-        }
-      }
-    },
-=======
->>>>>>> 1cc34f9ae7a4c1deb1e581d6d507cb9a7a14b912
-    "Mathematics": {
-      "Mathematics": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1692887533550
-        }
-      }
-    },
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-<<<<<<< HEAD
-          "count": 20,
-          "lastUpdated": 1694097213460
-        }
-      }
-    },
-    "Sinusoidal Function": {
-      "Sinusoidal Function": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1692200317313
-        }
-      }
-    },
-    "signal_analysis": {
-      "signal_analysis": {
-        "frontMatter": {
           "count": 2,
-          "lastUpdated": 1692365916024
-=======
-          "count": 27,
-          "lastUpdated": 1694544283015
->>>>>>> 1cc34f9ae7a4c1deb1e581d6d507cb9a7a14b912
+          "lastUpdated": 1695410699179
         }
       }
     },
     "logic": {
       "logic": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1692623729107
-        }
-      }
-    },
-    "\\subset": {
-      "\\subset": {
-        "currentFile": {
           "count": 2,
-          "lastUpdated": 1692629677198
+          "lastUpdated": 1695410703658
         }
       }
     },
-    "Insulators": {
-      "Insulators": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1692636285254
-        }
-      }
-    },
-    "Resistivity": {
-      "Resistivity": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1692636373633
-        }
-      }
-    },
-    "10^{-3}": {
-      "10^{-3}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1692636437432
-        }
-      }
-    },
-    "\\text{-cm}": {
-      "\\text{-cm}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1692636671762
-        }
-      }
-    },
-    "electronics": {
-      "electronics": {
+    "set_theory": {
+      "set_theory": {
         "frontMatter": {
-          "count": 7,
-          "lastUpdated": 1694633791774
+          "count": 1,
+          "lastUpdated": 1695410254514
         }
       }
     },
-    "circuits": {
-      "circuits": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1694633799228
+    "Equinumerosity": {
+      "Equinumerosity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695410309308
         }
       }
     },
     "programming": {
       "programming": {
         "frontMatter": {
-          "count": 15,
-          "lastUpdated": 1694544287385
-        }
-      }
-    },
-    "computer_architecture": {
-      "computer_architecture": {
-        "frontMatter": {
-          "count": 9,
-          "lastUpdated": 1694626326012
-        }
-      }
-    },
-    "Subsets": {
-      "Subsets": {
-        "currentFile": {
           "count": 1,
-          "lastUpdated": 1692651053102
-        }
-      }
-    },
-    "occurrences": {
-      "occurrences": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1692711694297
-        }
-      }
-    },
-    "chemistry": {
-      "chemistry": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1694444227455
-        }
-      }
-    },
-    "\\emptyset": {
-      "\\emptyset": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1693399506780
-        }
-      }
-    },
-    "Saturation Arithmetic": {
-      "Saturation Arithmetic": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1692799664279
-        }
-      }
-    },
-    "discrete_mathematics": {
-      "discrete_mathematics": {
-        "frontMatter": {
-<<<<<<< HEAD
-          "count": 7,
-          "lastUpdated": 1694097210568
-=======
-          "count": 14,
-          "lastUpdated": 1694544284732
->>>>>>> 1cc34f9ae7a4c1deb1e581d6d507cb9a7a14b912
-        }
-      }
-    },
-    "graph_theory": {
-      "graph_theory": {
-        "frontMatter": {
-          "count": 7,
-          "lastUpdated": 1694544294026
-        }
-      }
-    },
-    "Semiconductor": {
-      "Semiconductor": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1693240411175
-        }
-      }
-    },
-    "Code Parallelization": {
-      "Code Parallelization": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1694626490440
-        }
-      }
-    },
-    "Directed Acyclic Graph": {
-      "Directed Acyclic Graph": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1693313823626
-        }
-      }
-    },
-    "\\langle": {
-      "\\langle": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1693400242995
-        }
-      }
-    },
-    "x\\rangle\\in": {
-      "x\\rangle\\in": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1693400073889
-        }
-      }
-    },
-    "\\subseteq": {
-      "\\subseteq": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1693402900489
-        }
-      }
-    },
-    "Anti-Symmetry": {
-      "Anti-Symmetry": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1693401861214
-        }
-      }
-    },
-    "Asymmetry": {
-      "Asymmetry": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1693401890608
-        }
-      }
-    },
-    "anti-symmetric": {
-      "anti-symmetric": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1693402962378
-        }
-      }
-    },
-    "Time Shifts": {
-      "Time Shifts": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1693402982027
-        }
-      }
-    },
-    "Programming": {
-      "Programming": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1694005694171
-        }
-      }
-    },
-    "Hash Table": {
-      "Hash Table": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1694005889664
-        }
-      }
-    },
-<<<<<<< HEAD
-    "set_theory": {
-      "set_theory": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1694097226126
-=======
-    "\\phi_{j}": {
-      "\\phi_{j}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1694205947553
+          "lastUpdated": 1695410700769
         }
       }
     },
@@ -391,104 +107,7 @@
       "Definition": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1694396681166
-        }
-      }
-    },
-    "set_theory": {
-      "set_theory": {
-        "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1694544666304
-        }
-      }
-    },
-    "Set": {
-      "Set": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1694396426378
-        }
-      }
-    },
-    "Pan Ku, The Chinese Creator of the Universe": {
-      "Pan Ku, The Chinese Creator of the Universe": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1694444709385
-        }
-      }
-    },
-    "Function": {
-      "Function": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1694524658935
-        }
-      }
-    },
-    "Definitions": {
-      "Definitions": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1694527839296
-        }
-      }
-    },
-    "Data Structure": {
-      "Data Structure": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1694544735184
-        }
-      }
-    },
-    "Isomorphism": {
-      "Isomorphism": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1694544305119
-        }
-      }
-    },
-    "Graph": {
-      "Graph": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1694544455772
-        }
-      }
-    },
-    "invalidation-based": {
-      "invalidation-based": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1694629083802
-        }
-      }
-    },
-    "equivalent": {
-      "equivalent": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1694634557589
-        }
-      }
-    },
-    "First-Order": {
-      "First-Order": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1695041095750
-        }
-      }
-    },
-    "language": {
-      "language": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1695041603087
->>>>>>> 1cc34f9ae7a4c1deb1e581d6d507cb9a7a14b912
+          "lastUpdated": 1695410971377
         }
       }
     }

@@ -58,6 +58,8 @@ bias
 base
 bandwidth
 bus
+bijection
+bijective
 size
 sexes
 same
@@ -614,6 +616,7 @@ Equilibrium
 Enumeration
 Enumerations
 Eject
+Equinumerosity
 work
 with
 will
@@ -941,6 +944,8 @@ invalidation
 impedance
 included
 implication
+injective
+injection
 conjunction
 conversion
 compilers
@@ -1135,6 +1140,7 @@ complicated
 coherence
 circuit
 connectives
+codomain
 achieve
 allow
 actions
@@ -1779,6 +1785,7 @@ BJTs
 BJT
 BE
 BC
+Bijective
 Use
 Unswitching
 Useful
@@ -1972,6 +1979,7 @@ Symbol
 Steps
 Sources
 Symbols
+Surjective
 Figures
 Following
 Forward
@@ -2001,6 +2009,7 @@ Formula
 Further
 Fill
 Form
+Formally
 Note
 Non
 NP
@@ -2100,6 +2109,7 @@ Irreflexive
 Implications
 Invalidation
 Independent
+Injective
 Will
 We
 What
