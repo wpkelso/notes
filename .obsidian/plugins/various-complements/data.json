@@ -66,8 +66,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1695410699179
+          "count": 7,
+          "lastUpdated": 1695583413362
         }
       }
     },
@@ -108,6 +108,38 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1695410971377
+        }
+      }
+    },
+    "graph_theory": {
+      "graph_theory": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1695583415626
+        }
+      }
+    },
+    "discrete_mathematics": {
+      "discrete_mathematics": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1695583408923
+        }
+      }
+    },
+    "circuits": {
+      "circuits": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1695582324401
+        }
+      }
+    },
+    "electronics": {
+      "electronics": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1695582326200
         }
       }
     }
