@@ -25,6 +25,27 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "96a15d04c76f78e9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formula.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "stacked": true
@@ -255,6 +276,7 @@
   },
   "active": "c4592b7513668c27",
   "lastOpenFiles": [
+    "Formula.md",
     "Eulerian Circuit.md",
     "Eulerian Path & Circuit.md",
     "Strong Component.md",
@@ -282,7 +304,6 @@
     "Mathematical Induction.md",
     "Recurrence.md",
     "Geometric Sequence.md",
-    "Arithmetic Sequence.md",
     "diode-diagram.png",
     "Pasted image 20230426184332.png",
     "obsidian.css"

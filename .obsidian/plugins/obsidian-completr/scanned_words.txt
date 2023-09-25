@@ -1987,6 +1987,7 @@ Steps
 Sources
 Symbols
 Surjective
+Subformulas
 Figures
 Following
 Forward
