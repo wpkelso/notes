@@ -25,57 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "255b1e2fdb0602f1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Path",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Path.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Circuit.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3f99f0c128e14de2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strong Component.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -104,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strong Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strong Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Strong Component.md"
-              }
+              "state": {}
             }
           },
           {
@@ -306,10 +253,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f99f0c128e14de2",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
-    "Circuit.md",
+    "Eulerian Circuit.md",
+    "Eulerian Path & Circuit.md",
     "Strong Component.md",
+    "Circuit.md",
     "Multigraph.md",
     "Path.md",
     "Function.md",
@@ -334,8 +283,6 @@
     "Recurrence.md",
     "Geometric Sequence.md",
     "Arithmetic Sequence.md",
-    "Sequence.md",
-    "Relation.md",
     "diode-diagram.png",
     "Pasted image 20230426184332.png",
     "obsidian.css"
