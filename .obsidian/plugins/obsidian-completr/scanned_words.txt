@@ -336,6 +336,8 @@ distinct
 determined
 designated
 disjunction
+decibels
+dB
 of
 often
 or
@@ -619,6 +621,7 @@ Enumeration
 Enumerations
 Eject
 Equinumerosity
+Equations
 work
 with
 will
@@ -799,6 +802,9 @@ poor
 produce
 port
 privatization
+proportional
+proportionally
+phase
 hardware
 hierarchy
 how
@@ -948,6 +954,7 @@ included
 implication
 injective
 injection
+increased
 conjunction
 conversion
 compilers
@@ -1266,6 +1273,7 @@ appears
 alternating
 assume
 adjacent
+amplifier
 These
 True
 The
@@ -1373,6 +1381,7 @@ formally
 finite
 frozen
 further
+frequency
 Common
 Counters
 Computing
@@ -1597,6 +1606,7 @@ matching
 method
 multigraph
 multigraphs
+magnitude
 ready
 resource
 reach
@@ -1768,6 +1778,8 @@ Applying
 Asymmetry
 Any
 Active
+Amplification
+Amplified
 Build
 Based
 Branch
@@ -1834,6 +1846,7 @@ gives
 gained
 graphs
 group
+gain
 linear
 latency
 list
@@ -1905,6 +1918,7 @@ layers
 layering
 leaves
 languages
+logarithmically
 Output
 Ordering
 ODE
@@ -2349,6 +2363,7 @@ Gap
 GENERAL
 Graphs
 Group
+Gain
 You
 Younger
 just
