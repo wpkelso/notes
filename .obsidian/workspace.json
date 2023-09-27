@@ -25,8 +25,51 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "b06fff066a943ca3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amplification.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dab8d68c7b12decd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field Effect Transistor.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -55,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Field Effect Transistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Field Effect Transistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +164,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Field Effect Transistor.md"
+              }
             }
           },
           {
@@ -253,9 +300,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4592b7513668c27",
+  "active": "dab8d68c7b12decd",
   "lastOpenFiles": [
     "Amplification.md",
+    "Field Effect Transistor.md",
     "Formula.md",
     "Eulerian Circuit.md",
     "Eulerian Path & Circuit.md",
@@ -282,7 +330,6 @@
     "Graph.md",
     "Isomorphism.md",
     "Mathematical Induction.md",
-    "Recurrence.md",
     "diode-diagram.png",
     "Pasted image 20230426184332.png",
     "obsidian.css"
