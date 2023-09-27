@@ -232,6 +232,7 @@ somewhere
 subsequent
 sources
 shorts
+scaling
 difference
 different
 deal
@@ -1150,6 +1151,7 @@ coherence
 circuit
 connectives
 codomain
+consumption
 achieve
 allow
 actions
@@ -1274,6 +1276,7 @@ alternating
 assume
 adjacent
 amplifier
+argues
 These
 True
 The
@@ -1701,6 +1704,7 @@ replaced
 resistance
 reordering
 refer
+regardless
 use
 used
 unnecessary
@@ -1942,6 +1946,7 @@ Often
 Operation
 Obtain
 Once
+Oxide
 Schedule
 Store
 Solution
@@ -2032,6 +2037,7 @@ Further
 Fill
 Form
 Formally
+Field
 Note
 Non
 NP
@@ -2194,6 +2200,7 @@ DOPIPE
 Directed
 Diode
 Different
+Dennard
 Loop
 Live
 Liveness
@@ -2329,6 +2336,9 @@ Multicore
 Moving
 MSI
 Multigraph
+MOSFET
+MOS
+Metal
 quasi
 qualitative
 quite

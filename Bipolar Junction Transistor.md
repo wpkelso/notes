@@ -4,7 +4,7 @@ tags: [electronics, microelectronics, chemistry, physics]
 
 # Bipolar Junction Transistor
 
-Bipolar junction transistors are three-layer devices consisting of alternating layers of n- and p-type [[Semiconductor|semiconductors]], called the emitter (E), the base (B), and the collector (C).
+Bipolar junction [[Transistor|transistors]] are three-layer devices consisting of alternating layers of n- and p-type [[Semiconductor|semiconductors]], called the emitter (E), the base (B), and the collector (C).
 
 Given this, there are two basic types of BJTs: NPN and PNP, matching their layering.
 

@@ -130,16 +130,16 @@
     "circuits": {
       "circuits": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1695833240657
+          "count": 4,
+          "lastUpdated": 1695833886107
         }
       }
     },
     "electronics": {
       "electronics": {
         "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1695833238666
+          "count": 5,
+          "lastUpdated": 1695833883657
         }
       }
     },
@@ -154,8 +154,8 @@
     "microelectronics": {
       "microelectronics": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1695833242903
+          "count": 3,
+          "lastUpdated": 1695833879805
         }
       }
     },
@@ -164,6 +164,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1695651703668
+        }
+      }
+    },
+    "Semiconductor": {
+      "Semiconductor": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1695833410859
         }
       }
     }
