@@ -27,26 +27,7 @@
             }
           },
           {
-            "id": "0c3fbd354d0e8ceb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "5c1e547e1f4768e8",
+            "id": "9951533d2e3ab4b1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -60,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amplification.md",
+                "file": "Strong Component.md",
                 "mode": "preview",
                 "source": true
               }
@@ -96,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Strong Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Strong Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +143,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Strong Component.md"
+              }
             }
           },
           {
@@ -294,7 +279,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c3fbd354d0e8ceb",
+  "active": "9951533d2e3ab4b1",
   "lastOpenFiles": [
     "Amplification.md",
     "Dennard's Scaling.md",

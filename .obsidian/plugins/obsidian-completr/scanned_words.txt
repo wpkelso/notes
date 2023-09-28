@@ -233,6 +233,7 @@ subsequent
 sources
 shorts
 scaling
+strong
 difference
 different
 deal
@@ -1455,6 +1456,7 @@ Complex
 Comparing
 Circuit
 Coherency
+Component
 Peripheral
 Parameters
 Predictors
@@ -1705,6 +1707,7 @@ resistance
 reordering
 refer
 regardless
+repeatable
 use
 used
 unnecessary
@@ -2007,6 +2010,8 @@ Sources
 Symbols
 Surjective
 Subformulas
+Strong
+Should
 Figures
 Following
 Forward
