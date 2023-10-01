@@ -27,7 +27,40 @@
             }
           },
           {
-            "id": "9951533d2e3ab4b1",
+            "id": "87c60b0a348bb36c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Cache Coherence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache Coherence.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":348},\"to\":{\"line\":6,\"ch\":348}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Cache Coherence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache Coherence.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":362},\"to\":{\"line\":29,\"ch\":362}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSI Protocol.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0e60da364e003f43",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,14 +74,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strong Component.md",
-                "mode": "preview",
+                "file": "MESI Protocol.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -77,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strong Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strong Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +173,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Strong Component.md"
-              }
+              "state": {}
             }
           },
           {
@@ -279,8 +307,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9951533d2e3ab4b1",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
+    "MESI Protocol.md",
+    "MSI Protocol.md",
+    "Cache Coherence.md",
+    "Pasted image 20231001161151.png",
+    "Strong Component.md",
     "Amplification.md",
     "Dennard's Scaling.md",
     "Bipolar Junction Transistor.md",
@@ -288,7 +321,6 @@
     "Formula.md",
     "Eulerian Circuit.md",
     "Eulerian Path & Circuit.md",
-    "Strong Component.md",
     "Circuit.md",
     "Multigraph.md",
     "Path.md",
@@ -302,13 +334,10 @@
     "Tree.md",
     "Data Dependence.md",
     "Thevenin's Theorem.md",
-    "Cache Coherency.md",
     "Diode.md",
     "Set.md",
     "npnbjt.png",
     "pnpbjt.png",
-    "Graph.md",
-    "Isomorphism.md",
     "diode-diagram.png",
     "Pasted image 20230426184332.png",
     "obsidian.css"

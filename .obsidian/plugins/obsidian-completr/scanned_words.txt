@@ -807,6 +807,7 @@ privatization
 proportional
 proportionally
 phase
+protocols
 hardware
 hierarchy
 how
@@ -2012,6 +2013,8 @@ Surjective
 Subformulas
 Strong
 Should
+Shared
+State
 Figures
 Following
 Forward
@@ -2143,6 +2146,7 @@ Implications
 Invalidation
 Independent
 Injective
+Invalid
 Will
 We
 What
@@ -2344,6 +2348,7 @@ Multigraph
 MOSFET
 MOS
 Metal
+Modified
 quasi
 qualitative
 quite
