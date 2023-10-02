@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MESI Protocol.md",
+                "file": "MOESI Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MESI Protocol.md",
+                "file": "MOESI Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MESI Protocol.md"
+                "file": "MOESI Protocol.md"
               }
             }
           },
@@ -333,10 +333,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e60da364e003f43",
+  "active": "9bf4e398dbe737e9",
   "lastOpenFiles": [
-    "MSI Protocol.md",
     "MESI Protocol.md",
+    "MSI Protocol.md",
     "MOESI Protocol.md",
     "Pasted image 20231001164139.png",
     "Pasted image 20231001164129.png",
