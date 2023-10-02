@@ -25,84 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "87c60b0a348bb36c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Cache Coherence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache Coherence.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":348},\"to\":{\"line\":6,\"ch\":348}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Cache Coherence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache Coherence.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":362},\"to\":{\"line\":29,\"ch\":362}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSI Protocol.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0e60da364e003f43",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MESI Protocol.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9bf4e398dbe737e9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOESI Protocol.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -131,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOESI Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOESI Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MOESI Protocol.md"
-              }
+              "state": {}
             }
           },
           {
@@ -333,11 +253,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bf4e398dbe737e9",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
     "MESI Protocol.md",
-    "MSI Protocol.md",
     "MOESI Protocol.md",
+    "MSI Protocol.md",
     "Pasted image 20231001164139.png",
     "Pasted image 20231001164129.png",
     "Pasted image 20231001163505.png",
