@@ -234,6 +234,7 @@ sources
 shorts
 scaling
 strong
+state
 difference
 different
 deal
@@ -406,6 +407,7 @@ output
 own
 odified
 open
+outdated
 the
 to
 timing
@@ -590,6 +592,8 @@ explicitly
 extra
 evaluated
 expanded
+extension
+extending
 Embedded
 Examples
 Eventually
@@ -624,6 +628,7 @@ Enumerations
 Eject
 Equinumerosity
 Equations
+Exclusive
 work
 with
 will
@@ -1154,6 +1159,7 @@ circuit
 connectives
 codomain
 consumption
+clean
 achieve
 allow
 actions
@@ -1279,6 +1285,8 @@ assume
 adjacent
 amplifier
 argues
+adding
+adds
 These
 True
 The
@@ -1458,6 +1466,7 @@ Comparing
 Circuit
 Coherency
 Component
+Core
 Peripheral
 Parameters
 Predictors
@@ -1741,6 +1750,7 @@ undirected
 un
 update
 updated
+unmodified
 Algorithm
 Anti
 Advantages
@@ -1855,6 +1865,7 @@ gained
 graphs
 group
 gain
+go
 linear
 latency
 list
@@ -1951,6 +1962,7 @@ Operation
 Obtain
 Once
 Oxide
+Owner
 Schedule
 Store
 Solution
@@ -2306,6 +2318,8 @@ Recurrence
 Root
 Redraw
 Rooted
+Requesting
+Receiving
 Major
 Move
 Made
@@ -2349,6 +2363,8 @@ MOSFET
 MOS
 Metal
 Modified
+MESI
+MOESI
 quasi
 qualitative
 quite
