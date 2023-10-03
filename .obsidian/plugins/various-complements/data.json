@@ -130,16 +130,16 @@
     "circuits": {
       "circuits": {
         "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1695833886107
+          "count": 8,
+          "lastUpdated": 1696364930221
         }
       }
     },
     "electronics": {
       "electronics": {
         "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1695833883657
+          "count": 9,
+          "lastUpdated": 1696364927577
         }
       }
     },
@@ -220,6 +220,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1696191456657
+        }
+      }
+    },
+    "Laws of Manu": {
+      "Laws of Manu": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1696364328098
+        }
+      }
+    },
+    "Kirchoff’s": {
+      "Kirchoff’s": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1696364481066
+        }
+      }
+    },
+    "Thevenin's Theorem": {
+      "Thevenin's Theorem": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1696364950574
         }
       }
     }

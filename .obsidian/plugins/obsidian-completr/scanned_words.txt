@@ -629,6 +629,7 @@ Eject
 Equinumerosity
 Equations
 Exclusive
+Equivalent
 work
 with
 will
@@ -1718,6 +1719,7 @@ reordering
 refer
 regardless
 repeatable
+resistor
 use
 used
 unnecessary
@@ -2077,6 +2079,7 @@ Naturally
 Notation
 NPN
 Notes
+Norton
 violate
 very
 variable
@@ -2182,6 +2185,7 @@ Korean
 Kelvin
 KVL
 KCL
+Kirchoff
 Disadvantages
 Definition
 Dataflow
@@ -2247,6 +2251,7 @@ Latency
 Language
 Like
 Logical
+Laws
 no
 not
 non
@@ -2422,3 +2427,4 @@ Zawi
 Zagros
 Velocity
 Vocabulary
+Voltage

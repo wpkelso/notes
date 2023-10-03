@@ -27,40 +27,70 @@
             }
           },
           {
-            "id": "d12a0ea9b9e15d1b",
+            "id": "0fc828eaead96cdd",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Cache",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":40.30239520958084}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Amdhal's Law",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Amdhal's Law.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MESI Protocol.md",
+                "file": "Kirchoff's Laws.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9c2fa18ecdc6d784",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thevenin's Theorem.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "99f8fb71fb373116",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Norton Equivalent Circuit.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -89,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MESI Protocol.md",
+                "file": "Norton Equivalent Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MESI Protocol.md",
+                "file": "Norton Equivalent Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MESI Protocol.md"
+                "file": "Norton Equivalent Circuit.md"
               }
             }
           },
@@ -291,10 +321,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12a0ea9b9e15d1b",
+  "active": "99f8fb71fb373116",
   "lastOpenFiles": [
-    "Cache.md",
+    "Thevenin's Theorem.md",
+    "Norton Equivalent Circuit.md",
+    "Kirchoff's Laws.md",
+    "Ohm's Law.md",
     "MESI Protocol.md",
+    "Cache.md",
     "Amdhal's Law.md",
     "MOESI Protocol.md",
     "MSI Protocol.md",
@@ -323,10 +357,6 @@
     "First-Order Language.md",
     "Recurrence Relation.md",
     "Code Parallelization.md",
-    "Parallel Computing.md",
-    "Tree.md",
-    "Data Dependence.md",
-    "Thevenin's Theorem.md",
     "npnbjt.png",
     "pnpbjt.png",
     "obsidian.css"
