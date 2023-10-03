@@ -30,18 +30,30 @@
             "id": "d12a0ea9b9e15d1b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Cache",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":40.30239520958084}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Amdhal's Law",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Amdhal's Law.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amdhal's Law.md",
+                "file": "MESI Protocol.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amdhal's Law.md",
+                "file": "MESI Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amdhal's Law.md",
+                "file": "MESI Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amdhal's Law.md"
+                "file": "MESI Protocol.md"
               }
             }
           },
@@ -281,7 +293,9 @@
   },
   "active": "d12a0ea9b9e15d1b",
   "lastOpenFiles": [
+    "Cache.md",
     "MESI Protocol.md",
+    "Amdhal's Law.md",
     "MOESI Protocol.md",
     "MSI Protocol.md",
     "Pasted image 20231001164139.png",
@@ -308,7 +322,6 @@
     "Equinumerosity.md",
     "First-Order Language.md",
     "Recurrence Relation.md",
-    "Amdhal's Law.md",
     "Code Parallelization.md",
     "Parallel Computing.md",
     "Tree.md",
