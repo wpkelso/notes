@@ -25,141 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "0fc828eaead96cdd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kirchoff's Laws.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9c2fa18ecdc6d784",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thevenin's Theorem.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "99f8fb71fb373116",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norton Equivalent Circuit.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0cf87da68da97602",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Computing.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "512d105e6fc03fca",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amdhal's Law.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fe3fc1d871920137",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Code Parallelization",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Code Parallelization.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Dependence.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -188,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amdhal's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amdhal's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Amdhal's Law.md"
-              }
+              "state": {}
             }
           },
           {
@@ -390,8 +253,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "512d105e6fc03fca",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
+    "Amdhal's Law.md",
     "Parallel Computing.md",
     "Data Dependence.md",
     "Code Parallelization.md",
@@ -402,7 +266,6 @@
     "Ohm's Law.md",
     "MESI Protocol.md",
     "Cache.md",
-    "Amdhal's Law.md",
     "MOESI Protocol.md",
     "MSI Protocol.md",
     "Pasted image 20231001164139.png",
