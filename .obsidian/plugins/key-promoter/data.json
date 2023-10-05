@@ -60,10 +60,10 @@
     "obsidian-functionplot:insert-functionplot": 1
   },
   "keyboardStatistics": {
-    "file-explorer:new-file": 43,
+    "file-explorer:new-file": 44,
     "editor:save-file": 53,
-    "obsidian-completr:completr-insert-selected-suggestion": 68,
-    "obsidian-completr:completr-select-next-suggestion": 139,
+    "obsidian-completr:completr-insert-selected-suggestion": 70,
+    "obsidian-completr:completr-select-next-suggestion": 141,
     "obsidian-completr:completr-select-previous-suggestion": 24,
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 55,
