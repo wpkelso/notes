@@ -408,6 +408,8 @@ own
 odified
 open
 outdated
+operators
+operands
 the
 to
 timing
@@ -630,6 +632,7 @@ Equinumerosity
 Equations
 Exclusive
 Equivalent
+Example
 work
 with
 will
@@ -1518,6 +1521,7 @@ PN
 PNP
 Protocols
 Protocol
+Postfix
 Hardware
 Heuristics
 Hoist
@@ -2289,6 +2293,7 @@ npnbjt
 nvalid
 network
 negation
+notation
 Register
 Range
 RHS
