@@ -5,9 +5,7 @@
   "interfaceFontFamily": "Segoe UI Variable Display,Inter",
   "baseFontSize": 18,
   "theme": "moonstone",
-  "enabledCssSnippets": [
-    "smooth_caret"
-  ],
+  "enabledCssSnippets": [],
   "baseFontSizeAction": true,
   "textFontFamily": "Segoe UI Variable Text,Open Sans",
   "monospaceFontFamily": "Cascadia Mono,Roboto Mono",

@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "e2729e9654e5f35c",
+            "id": "b32f4e577f94e690",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postfix Notation.md",
+                "file": "Matrix Multiplication.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postfix Notation.md",
+                "file": "Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postfix Notation.md",
+                "file": "Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postfix Notation.md"
+                "file": "Matrix Multiplication.md"
               }
             }
           },
@@ -279,8 +279,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2729e9654e5f35c",
+  "active": "b32f4e577f94e690",
   "lastOpenFiles": [
+    "Pasted image 20231008175516.png",
+    "Matrix Multiplication.md",
+    "Matrix.md",
     "Postfix Notation.md",
     "Amdhal's Law.md",
     "Parallel Computing.md",
@@ -312,9 +315,6 @@
     "Formula.md",
     "Eulerian Circuit.md",
     "Eulerian Path & Circuit.md",
-    "Circuit.md",
-    "Multigraph.md",
-    "Path.md",
     "npnbjt.png",
     "pnpbjt.png",
     "obsidian.css"
