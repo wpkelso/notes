@@ -68,13 +68,13 @@
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 55,
     "editor:toggle-italics": 15,
-    "switcher:open": 116,
+    "switcher:open": 118,
     "workspace:new-tab": 2,
     "obsidian-completr:completr-blacklist-current-word": 1,
     "app:open-help": 1,
     "editor:open-search": 1,
     "workspace:goto-tab-8": 1,
     "editor:open-link-in-new-leaf": 1,
-    "workspace:close": 3
+    "workspace:close": 4
   }
 }
