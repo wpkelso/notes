@@ -60,6 +60,7 @@ bandwidth
 bus
 bijection
 bijective
+binary
 size
 sexes
 same
@@ -235,6 +236,7 @@ shorts
 scaling
 strong
 state
+shown
 difference
 different
 deal
@@ -1164,6 +1166,7 @@ connectives
 codomain
 consumption
 clean
+columns
 achieve
 allow
 actions
@@ -1627,6 +1630,8 @@ method
 multigraph
 multigraphs
 magnitude
+matrices
+matrix
 ready
 resource
 reach
@@ -1724,6 +1729,8 @@ refer
 regardless
 repeatable
 resistor
+resultant
+rows
 use
 used
 unnecessary
@@ -2375,6 +2382,8 @@ Metal
 Modified
 MESI
 MOESI
+Matrix
+Multiplication
 quasi
 qualitative
 quite
