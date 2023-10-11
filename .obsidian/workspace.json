@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "3bb31868cdc7573e",
+            "id": "610a821bc051b8f3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,35 +41,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field Effect Transistor.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bd38a43441ccd9f0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Channel-length Modulation.md",
+                "file": "Distributed Shared Memory Systems.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -98,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Channel-length Modulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Channel-length Modulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +140,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Channel-length Modulation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -300,10 +274,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd38a43441ccd9f0",
+  "active": "c4592b7513668c27",
   "lastOpenFiles": [
-    "Field Effect Transistor.md",
+    "Distributed Shared Memory Systems.md",
     "Channel-length Modulation.md",
+    "Field Effect Transistor.md",
     "Equinumerosity.md",
     "Matrix Multiplication.md",
     "Pasted image 20231008175516.png",
@@ -336,7 +311,6 @@
     "Dennard's Scaling.md",
     "Bipolar Junction Transistor.md",
     "Formula.md",
-    "Eulerian Circuit.md",
     "npnbjt.png",
     "obsidian.css"
   ]

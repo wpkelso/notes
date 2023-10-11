@@ -1632,6 +1632,7 @@ multigraphs
 magnitude
 matrices
 matrix
+memories
 ready
 resource
 reach
@@ -1731,6 +1732,7 @@ repeatable
 resistor
 resultant
 rows
+remote
 use
 used
 unnecessary
@@ -2237,6 +2239,7 @@ Directed
 Diode
 Different
 Dennard
+DSM
 Loop
 Live
 Liveness
