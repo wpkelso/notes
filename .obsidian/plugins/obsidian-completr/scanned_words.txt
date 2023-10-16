@@ -237,6 +237,9 @@ scaling
 strong
 state
 shown
+switch
+stands
+stabilizes
 difference
 different
 deal
@@ -343,6 +346,7 @@ designated
 disjunction
 decibels
 dB
+device
 of
 often
 or
@@ -598,6 +602,7 @@ evaluated
 expanded
 extension
 extending
+electronically
 Embedded
 Examples
 Eventually
@@ -1167,6 +1172,7 @@ codomain
 consumption
 clean
 columns
+circuits
 achieve
 allow
 actions
@@ -1294,6 +1300,8 @@ amplifier
 argues
 adding
 adds
+acting
+assumptions
 These
 True
 The
@@ -1402,6 +1410,7 @@ finite
 frozen
 further
 frequency
+feedback
 Common
 Counters
 Computing
@@ -1525,6 +1534,7 @@ PNP
 Protocols
 Protocol
 Postfix
+Point
 Hardware
 Heuristics
 Hoist
@@ -1813,6 +1823,8 @@ Any
 Active
 Amplification
 Amplified
+Analysis
+Assume
 Build
 Based
 Branch
@@ -2073,6 +2085,9 @@ Fill
 Form
 Formally
 Field
+FETs
+FET
+Four
 Note
 Non
 NP
@@ -2093,6 +2108,7 @@ Notation
 NPN
 Notes
 Norton
+Network
 violate
 very
 variable
@@ -2125,6 +2141,7 @@ vertices
 voltage
 vertexes
 vertex
+variations
 Is
 Idea
 It
@@ -2340,6 +2357,7 @@ Redraw
 Rooted
 Requesting
 Receiving
+Resistor
 Major
 Move
 Made

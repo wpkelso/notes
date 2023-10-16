@@ -254,6 +254,30 @@
           "lastUpdated": 1697045588233
         }
       }
+    },
+    "Biasing": {
+      "Biasing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697471317632
+        }
+      }
+    },
+    "V_{GS}": {
+      "V_{GS}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697471377979
+        }
+      }
+    },
+    "V_{DS}": {
+      "V_{DS}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697471539637
+        }
+      }
     }
   }
 }
