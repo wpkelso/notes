@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "6510ffeb77b293d9",
+            "id": "c84b89f8ebfa5421",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field Effect Transistor.md",
-                "mode": "source",
+                "file": "Cache Coherence.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Field Effect Transistor.md",
+                "file": "Cache Coherence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Field Effect Transistor.md",
+                "file": "Cache Coherence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Field Effect Transistor.md"
+                "file": "Cache Coherence.md"
               }
             }
           },
@@ -279,7 +279,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6510ffeb77b293d9",
+  "active": "c84b89f8ebfa5421",
   "lastOpenFiles": [
     "Field Effect Transistor.md",
     "Semiconductor.md",

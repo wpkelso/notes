@@ -61,6 +61,7 @@ bus
 bijection
 bijective
 binary
+broadcast
 size
 sexes
 same
@@ -240,6 +241,7 @@ shown
 switch
 stands
 stabilizes
+sent
 difference
 different
 deal
@@ -347,6 +349,8 @@ disjunction
 decibels
 dB
 device
+directory
+distributed
 of
 often
 or
@@ -603,6 +607,7 @@ expanded
 extension
 extending
 electronically
+easier
 Embedded
 Examples
 Eventually
@@ -1173,6 +1178,7 @@ consumption
 clean
 columns
 circuits
+coherency
 achieve
 allow
 actions
@@ -1643,6 +1649,8 @@ magnitude
 matrices
 matrix
 memories
+maintain
+managing
 ready
 resource
 reach
@@ -1776,6 +1784,7 @@ un
 update
 updated
 unmodified
+utilize
 Algorithm
 Anti
 Advantages
@@ -1850,6 +1859,7 @@ BJT
 BE
 BC
 Bijective
+Broadcast
 Use
 Unswitching
 Useful
@@ -2054,6 +2064,7 @@ Strong
 Should
 Shared
 State
+Snooping
 Figures
 Following
 Forward
@@ -2257,6 +2268,7 @@ Diode
 Different
 Dennard
 DSM
+Directory
 Loop
 Live
 Liveness
