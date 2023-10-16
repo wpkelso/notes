@@ -5,7 +5,7 @@ tags: [electronics, circuits, microelectronics]
 
 # Field Effect [[Transistor]]
 
-
+![[Pasted image 20231015162527.png]]
 
 ## MOSFET
 

@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "610a821bc051b8f3",
+            "id": "c807c9b3c3578b63",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,15 +39,14 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Distributed Shared Memory Systems.md",
-                "mode": "source",
-                "source": true
+                "currentVersion": "1.4.16"
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -274,11 +273,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4592b7513668c27",
+  "active": "c807c9b3c3578b63",
   "lastOpenFiles": [
+    "Field Effect Transistor.md",
+    "Pasted image 20231015162527.png",
     "Distributed Shared Memory Systems.md",
     "Channel-length Modulation.md",
-    "Field Effect Transistor.md",
     "Equinumerosity.md",
     "Matrix Multiplication.md",
     "Pasted image 20231008175516.png",
@@ -310,8 +310,6 @@
     "Amplification.md",
     "Dennard's Scaling.md",
     "Bipolar Junction Transistor.md",
-    "Formula.md",
-    "npnbjt.png",
     "obsidian.css"
   ]
 }
