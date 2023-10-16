@@ -17,7 +17,7 @@ The general idea with an update based protocol is that every time a cache block 
 Each time you update a local copy in a cache, invalidate all other possible copies in other caches. This causes caches to miss and explicitly request for a new copy. This creates a situation where subsequent write hits are local, so there is no extra bus traffic. However, this is complicated and poor for a produce-consumer pattern as it creates many misses at the consumer side.
 
 >[!info] 
->Most modern processors use invalidation-based coherence rather than update-based.
+>Most modern processors use an invalidation-based coherence architecture rather than an update-based coherence architecture.
 
 Examples of bus-based invalidation protocols include [[MSI Protocol|MSI]], [[MESI Protocol|MESI]], [[MOESI Protocol|MOESI]], and [[MESIF Protocol|MESIF]], among others.
 
