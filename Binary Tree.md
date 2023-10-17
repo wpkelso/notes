@@ -1,3 +1,19 @@
-#data_structures #programming 
+---
+tags: [programming, data_structures, discrete_mathematics, mathematics, graph_theory]
+---
 
-**Definition:** [[Data Structure]] in which each node stores data and has up to two children, known as a left child and a right child
+# Binary Tree
+
+A binary tree is a directed graph in which every parent [[Vertex|node]] has a maximum of two child nodes. From a [[Set Theory|set theory]] point of view, this means that the set of children for a parent node can consist of either the empty set, a singleton, or of two elements.
+
+>[!note] 
+>In [[Graph Theory|graph theory]],  a binary tree is often called an [[Arborescence|arborescence]].
+
+The exact definition of a binary tree can change between authors, but generally the above is the base definition.
+
+>[!Help] Further reading
+>Further reading can be done on Wikipedia at [this](https://en.wikipedia.org/wiki/Binary_tree) link.
+
+## Uses in Computing
+
+Binary trees hold many uses in computing and programming, commonly as a way of storing data that is bifurcating. It is also the underlying [[Data Structure|structure]] for many other data structures, in particular [[Binary Search Tree|binary search trees]].

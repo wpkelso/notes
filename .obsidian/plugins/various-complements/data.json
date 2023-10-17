@@ -66,8 +66,8 @@
     "mathematics": {
       "mathematics": {
         "frontMatter": {
-          "count": 12,
-          "lastUpdated": 1696801195761
+          "count": 15,
+          "lastUpdated": 1697576493082
         }
       }
     },
@@ -82,8 +82,8 @@
     "set_theory": {
       "set_theory": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1695410254514
+          "count": 2,
+          "lastUpdated": 1697576571630
         }
       }
     },
@@ -98,8 +98,8 @@
     "programming": {
       "programming": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1697556351078
+          "count": 6,
+          "lastUpdated": 1697576479338
         }
       }
     },
@@ -114,16 +114,16 @@
     "graph_theory": {
       "graph_theory": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1697556344170
+          "count": 9,
+          "lastUpdated": 1697576477199
         }
       }
     },
     "discrete_mathematics": {
       "discrete_mathematics": {
         "frontMatter": {
-          "count": 7,
-          "lastUpdated": 1696801213989
+          "count": 10,
+          "lastUpdated": 1697576475070
         }
       }
     },
@@ -276,6 +276,54 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1697471539637
+        }
+      }
+    },
+    "data_structures": {
+      "data_structures": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1697574632111
+        }
+      }
+    },
+    "Graph Theory": {
+      "Graph Theory": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1697574977676
+        }
+      }
+    },
+    "Binary Search Tree": {
+      "Binary Search Tree": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1697575444174
+        }
+      }
+    },
+    "Tree": {
+      "Tree": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1697575715760
+        }
+      }
+    },
+    "Binary Tree": {
+      "Binary Tree": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1697575749061
+        }
+      }
+    },
+    "closure": {
+      "closure": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1697576590632
         }
       }
     }

@@ -62,6 +62,7 @@ bijection
 bijective
 binary
 broadcast
+bifurcating
 size
 sexes
 same
@@ -242,6 +243,9 @@ switch
 stands
 stabilizes
 sent
+singleton
+smallest
+starting
 difference
 different
 deal
@@ -510,6 +514,7 @@ traffic
 terminals
 terminology
 terminal
+trees
 embedded
 each
 execute
@@ -610,6 +615,9 @@ extending
 electronically
 easier
 effort
+expression
+expressions
+exact
 Embedded
 Examples
 Eventually
@@ -647,6 +655,7 @@ Equations
 Exclusive
 Equivalent
 Example
+Expression
 work
 with
 will
@@ -831,6 +840,7 @@ proportional
 proportionally
 phase
 protocols
+parent
 hardware
 hierarchy
 how
@@ -1182,6 +1192,10 @@ columns
 circuits
 coherency
 coarser
+children
+child
+consist
+closure
 achieve
 allow
 actions
@@ -1311,6 +1325,8 @@ adding
 adds
 acting
 assumptions
+authors
+application
 These
 True
 The
@@ -1354,6 +1370,7 @@ Theorem
 Tree
 Trees
 Tuning
+Transitive
 for
 first
 from
@@ -1495,6 +1512,8 @@ Coherency
 Component
 Core
 Carried
+Closure
+Commonly
 Peripheral
 Parameters
 Predictors
@@ -1757,6 +1776,7 @@ resistor
 resultant
 rows
 remote
+reachability
 use
 used
 unnecessary
@@ -1791,6 +1811,7 @@ update
 updated
 unmodified
 utilize
+unreachable
 Algorithm
 Anti
 Advantages
@@ -1867,6 +1888,8 @@ BE
 BC
 Bijective
 Broadcast
+Binary
+Below
 Use
 Unswitching
 Useful
@@ -1879,6 +1902,7 @@ Usually
 Union
 Used
 Update
+Uses
 graph
 going
 greater
@@ -1982,6 +2006,7 @@ layering
 leaves
 languages
 logarithmically
+link
 Output
 Ordering
 ODE
@@ -2164,6 +2189,7 @@ vertexes
 vertex
 variations
 via
+view
 Is
 Idea
 It
@@ -2229,6 +2255,7 @@ While
 Written
 Where
 Workload
+Wikipedia
 Kinds
 Key
 King
@@ -2384,6 +2411,7 @@ Rooted
 Requesting
 Receiving
 Resistor
+Representation
 Major
 Move
 Made
@@ -2437,6 +2465,7 @@ quite
 question
 quantity
 quality
+questions
 zero
 Quantitative
 Quality

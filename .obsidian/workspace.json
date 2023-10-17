@@ -25,8 +25,51 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a55d7e260f50b9f5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary Tree.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1de52ef124122c19",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transitive Closure.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -55,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Transitive Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Transitive Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +164,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Transitive Closure.md"
+              }
             }
           },
           {
@@ -253,8 +300,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4592b7513668c27",
+  "active": "1de52ef124122c19",
   "lastOpenFiles": [
+    "Binary Tree.md",
+    "Transitive Closure.md",
+    "Pasted image 20231017170838.png",
+    "Binary Expression Tree.md",
     "Cache Coherence.md",
     "Parallel Computing.md",
     "Loop-Carried Dependence Graph.md",
@@ -280,8 +331,6 @@
     "Ohm's Law.md",
     "MESI Protocol.md",
     "Cache.md",
-    "MOESI Protocol.md",
-    "MSI Protocol.md",
     "Pasted image 20231001164139.png",
     "Pasted image 20231001164129.png",
     "Pasted image 20231001163505.png",
@@ -289,9 +338,6 @@
     "Pasted image 20231001163427.png",
     "Pasted image 20231001163419.png",
     "Pasted image 20231001163417.png",
-    "Pasted image 20231001161151.png",
-    "Strong Component.md",
-    "Amplification.md",
     "obsidian.css"
   ]
 }
