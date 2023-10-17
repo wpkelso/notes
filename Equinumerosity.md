@@ -7,7 +7,6 @@ tags: [mathematics, logic, set_theory]
 Equinumerosity is an equivalence [[Relation|relation]] defined between two sets if there is a bijection between those two sets. Formally, this is written as $A\approx B$, iff there is a [[Function|bijection]] $f:A\to B$.
 
 ## Related Size Relations
++ $A$ is no larger than $B$ ($A \preceq B$) iff there is an injection $f : A \to B$.
++ $B$ is smaller than $B$ ($A \prec B$) iff there is an injection $f : A \to B$.
 
-### No Large Than
-
-$A$ is no larger than $B$ ($A \preceq B$)
