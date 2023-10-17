@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "a55d7e260f50b9f5",
+            "id": "39d6cbe4040459ce",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,14 +41,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Tree.md",
+                "file": "Enumeration.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a5a3f968c56f16e1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reduction.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1de52ef124122c19",
+            "id": "3e926b736220ca5b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -62,14 +83,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transitive Closure.md",
-                "mode": "source",
+                "file": "Equinumerosity.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9120c7e074858111",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Function.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -98,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transitive Closure.md",
+                "file": "Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transitive Closure.md",
+                "file": "Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transitive Closure.md"
+                "file": "Function.md"
               }
             }
           },
@@ -300,10 +342,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1de52ef124122c19",
+  "active": "9120c7e074858111",
   "lastOpenFiles": [
+    "Equinumerosity.md",
+    "Reduction.md",
+    "Function.md",
+    "Enumeration.md",
     "Binary Tree.md",
     "Transitive Closure.md",
+    "Strong Component.md",
+    "Transitiv.md",
     "Pasted image 20231017170838.png",
     "Binary Expression Tree.md",
     "Cache Coherence.md",
@@ -317,7 +365,6 @@
     "Pasted image 20231015162527.png",
     "Distributed Shared Memory Systems.md",
     "Channel-length Modulation.md",
-    "Equinumerosity.md",
     "Matrix Multiplication.md",
     "Pasted image 20231008175516.png",
     "Matrix.md",
@@ -327,10 +374,6 @@
     "Norton Equivalent Circuit.md",
     "Parallelization.md",
     "Thevenin's Theorem.md",
-    "Kirchoff's Laws.md",
-    "Ohm's Law.md",
-    "MESI Protocol.md",
-    "Cache.md",
     "Pasted image 20231001164139.png",
     "Pasted image 20231001164129.png",
     "Pasted image 20231001163505.png",

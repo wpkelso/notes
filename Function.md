@@ -21,4 +21,8 @@ A function is injective iff for each $y\in B$ there is at most one $x\in A$ such
 
 ### Bijective Function
 
-A function is bijective iff it is both surjective and injective.
+A function is bijective iff it is both surjective and injective. As such, bijections pair elements in a one-to-one correspondence. 
+
+### Graphs of Functions
+
+The [[Graph|graph]] of a function is defined for $f:A \to B$ as the relation $R_{f} \subseteq A \times B$ defined by $R_{f}= \{ \langle x,y \rangle : f(x) = y \}$.

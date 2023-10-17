@@ -63,6 +63,7 @@ bijective
 binary
 broadcast
 bifurcating
+bijections
 size
 sexes
 same
@@ -841,6 +842,8 @@ proportionally
 phase
 protocols
 parent
+pair
+proof
 hardware
 hierarchy
 how
@@ -1196,6 +1199,7 @@ children
 child
 consist
 closure
+correspondence
 achieve
 allow
 actions
@@ -2134,6 +2138,7 @@ Field
 FETs
 FET
 Four
+Functions
 Note
 Non
 NP
@@ -2412,6 +2417,7 @@ Requesting
 Receiving
 Resistor
 Representation
+Reduction
 Major
 Move
 Made
