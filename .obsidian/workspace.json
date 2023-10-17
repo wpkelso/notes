@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cache Coherence.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -277,6 +277,7 @@
   "active": "c4592b7513668c27",
   "lastOpenFiles": [
     "Cache Coherence.md",
+    "theme.css",
     "Field Effect Transistor.md",
     "Semiconductor.md",
     "Pasted image 20231015162527.png",
@@ -311,7 +312,6 @@
     "Strong Component.md",
     "Amplification.md",
     "Dennard's Scaling.md",
-    "Bipolar Junction Transistor.md",
     "obsidian.css"
   ]
 }
