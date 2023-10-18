@@ -17,7 +17,15 @@ The MOSFET is one of the most common types of FETs, often acting as an electroni
 
 #### Accumulation
 
-In accumulation, a hole accumulation layer forms in the body substrate.
+![[Pasted image 20231018110448.png]]
+
+#### Depletion
+
+![[Pasted image 20231018110554.png]]
+
+#### Inversion (Channel formation)
+
+![[Pasted image 20231018110628.png]]
 
 ### Bias Analysis
 

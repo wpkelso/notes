@@ -48,6 +48,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Field Effect Transistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Field Effect Transistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +143,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Field Effect Transistor.md"
+              }
             }
           },
           {
@@ -276,9 +281,12 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "0880d2522b34966b",
+  "active": "6a4eef2747f71e3e",
   "lastOpenFiles": [
     "Field Effect Transistor.md",
+    "Pasted image 20231018110628.png",
+    "Pasted image 20231018110554.png",
+    "Pasted image 20231018110448.png",
     "Grammar.md",
     "/Attachment Name Formatting Log.md",
     "Attachment Name Formatting Log.md",
@@ -306,15 +314,11 @@
     "Pasted image 20231015162527.png",
     "Distributed Shared Memory Systems.md",
     "Channel-length Modulation.md",
-    "Matrix Multiplication.md",
     "Pasted image 20231008175516.png",
     "Pasted image 20231001164139.png",
     "Pasted image 20231001164129.png",
     "Pasted image 20231001163505.png",
     "Pasted image 20231001163457.png",
-    "Pasted image 20231001163427.png",
-    "Pasted image 20231001163419.png",
-    "Pasted image 20231001163417.png",
     "obsidian.css"
   ]
 }

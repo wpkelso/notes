@@ -1537,6 +1537,7 @@ Commonly
 Context
 Compilers
 Conditions
+Channel
 Peripheral
 Parameters
 Predictors
@@ -1890,6 +1891,7 @@ Assume
 Aspects
 Arabia
 Ambiguous
+Accumulation
 Build
 Based
 Branch
@@ -2276,6 +2278,7 @@ Invalidation
 Independent
 Injective
 Invalid
+Inversion
 Will
 We
 What
@@ -2345,6 +2348,7 @@ DSM
 Directory
 Development
 Dependence
+Depletion
 Loop
 Live
 Liveness
