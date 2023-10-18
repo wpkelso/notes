@@ -25,72 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "6a4eef2747f71e3e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Field Effect Transistor.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "02517db616197132",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amplification.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "76b6021b8851ba60",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amplifier.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -119,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amplifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Amplifier.md"
-              }
+              "state": {}
             }
           },
           {
@@ -323,8 +255,9 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "76b6021b8851ba60",
+  "active": "0880d2522b34966b",
   "lastOpenFiles": [
+    "LC-3 Architecture.md",
     "Amplification.md",
     "Amplifier.md",
     "Field Effect Transistor.md",
@@ -356,7 +289,6 @@
     "theme.css",
     "Semiconductor.md",
     "Pasted image 20231015162527.png",
-    "Distributed Shared Memory Systems.md",
     "Pasted image 20231008175516.png",
     "Pasted image 20231001164139.png",
     "Pasted image 20231001164129.png",

@@ -362,6 +362,7 @@ directory
 distributed
 displaying
 designation
+drain
 of
 often
 or
@@ -431,6 +432,7 @@ open
 outdated
 operators
 operands
+op
 the
 to
 timing
@@ -856,6 +858,8 @@ parsers
 productions
 parse
 parser
+performs
+provide
 hardware
 hierarchy
 how
@@ -1006,6 +1010,8 @@ implication
 injective
 injection
 increased
+inversion
+inverting
 conjunction
 conversion
 compilers
@@ -1214,6 +1220,10 @@ closure
 correspondence
 converted
 couple
+channel
+construct
+classes
+configurations
 achieve
 allow
 actions
@@ -1346,6 +1356,8 @@ assumptions
 authors
 application
 ambiguous
+amplifiers
+amp
 These
 True
 The
@@ -1391,6 +1403,7 @@ Trees
 Tuning
 Transitive
 Than
+Triode
 for
 first
 from
@@ -1459,6 +1472,7 @@ further
 frequency
 feedback
 finer
+follower
 Common
 Counters
 Computing
@@ -1804,6 +1818,7 @@ resultant
 rows
 remote
 reachability
+results
 use
 used
 unnecessary
@@ -1892,6 +1907,7 @@ Aspects
 Arabia
 Ambiguous
 Accumulation
+Amplifier
 Build
 Based
 Branch
@@ -1920,6 +1936,7 @@ Bijective
 Broadcast
 Binary
 Below
+Broadly
 Use
 Unswitching
 Useful
@@ -1967,6 +1984,7 @@ go
 generated
 grammar
 grammars
+gate
 linear
 latency
 list
@@ -2065,6 +2083,8 @@ Obtain
 Once
 Oxide
 Owner
+Occurs
+Ohmic
 Schedule
 Store
 Solution
@@ -2171,6 +2191,7 @@ FET
 Four
 Functions
 Free
+Followers
 Note
 Non
 NP
@@ -2279,6 +2300,7 @@ Independent
 Injective
 Invalid
 Inversion
+Inverting
 Will
 We
 What
@@ -2415,6 +2437,7 @@ nvalid
 network
 negation
 notation
+nearly
 Register
 Range
 RHS
