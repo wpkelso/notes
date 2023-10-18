@@ -657,6 +657,7 @@ Exclusive
 Equivalent
 Example
 Expression
+East
 work
 with
 will
@@ -1571,6 +1572,7 @@ Protocols
 Protocol
 Postfix
 Point
+Persia
 Hardware
 Heuristics
 Hoist
@@ -1867,6 +1869,7 @@ Amplified
 Analysis
 Assume
 Aspects
+Arabia
 Build
 Based
 Branch
@@ -2105,6 +2108,7 @@ Snooping
 ST
 Synchronization
 Support
+Sumeria
 Figures
 Following
 Forward
@@ -2468,6 +2472,7 @@ MESI
 MOESI
 Matrix
 Multiplication
+Middle
 quasi
 qualitative
 quite
