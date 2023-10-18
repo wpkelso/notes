@@ -1,5 +1,5 @@
 #computer_architecture #computer_hardware 
-Primary control unit within a computer. Performs all [[Instruction Set Architecture|instructions]], reads and writes to [[Computer Memory|memory]], etc.
+Primary control unit within a computer. Performs all [[Instruction Set Architecture|instructions]], reads and writes to [[Memory|memory]], etc.
 
 ### Data Path
 A simple processor data path will have a [[Register File|register file]] to store data, memory (DRAM & disk) and a primary path of instruction fetch -> decode -> execute -> memory -> write back.

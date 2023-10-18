@@ -2,7 +2,7 @@
 Essentially asks, “In how many different positions in the [[Cache|cache]] can a memory block be located?”
 
 ## One-Way Caches/Direct Mapped Caches
-Each [[Computer Memory|memory]] block can be mapped to one & only one cache block. This maximizes conflicts in the cache.
+Each [[Memory|memory]] block can be mapped to one & only one cache block. This maximizes conflicts in the cache.
 >[!note] 
 >Cache Block = Memory Block Number$\mod{\text{Number of blocks in the cache}}$ 
 

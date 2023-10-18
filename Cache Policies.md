@@ -10,7 +10,7 @@
 
 ## Write Policies
 ### On Write-Hit
-- **Write Through:** write both in cache and in [[Computer Memory|memory]]. This gives a consistent view of memory, is easy to implement, and does not require special handling for evictions; it does however create more memory traffic
+- **Write Through:** write both in cache and in [[Memory|memory]]. This gives a consistent view of memory, is easy to implement, and does not require special handling for evictions; it does however create more memory traffic
 - **Write Back:** write only in the cache (requiring a dirty bit). This allows writing at the speed of the cache, with multiple writes terminating in cache and memory being updated only on eviction of a dirty block.
 
 ### On Write-Miss

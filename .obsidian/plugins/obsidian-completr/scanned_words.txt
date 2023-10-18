@@ -247,6 +247,7 @@ sent
 singleton
 smallest
 starting
+siot
 difference
 different
 deal
@@ -1594,6 +1595,8 @@ Heap
 Hole
 Hybrid
 Heat
+Hangul
+Hunminjeongeum
 methodology
 more
 must
@@ -2519,6 +2522,7 @@ json
 japan
 junction
 junctions
+jiot
 you
 yet
 years

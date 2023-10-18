@@ -34,3 +34,4 @@ While individual pronunciation rules may change based on context, letters will a
 | ㄹ      | 리을 | rieul          | r, l          |
 | ㅎ      | 히읗 | hieut          | h             |
 
+ㅑ versus $\models$

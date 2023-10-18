@@ -34,5 +34,5 @@ There are two methods for generating code in SSA form:
 	2. Put phi-nodes into the program anywhere its required to merge definitions of registers
 2. Approach 2
 	1. Let the parser generate inefficient code that conforms trivially to SSA-form
-	2. For C code this looks like putting all variables in [[Computer Memory|memory]] and generating loads and stores at all definitions; this will never require a phi-node
+	2. For C code this looks like putting all variables in [[Memory|memory]] and generating loads and stores at all definitions; this will never require a phi-node
 	3. Later optimization passes will move variables into registers for performance; SSA form must be obeyed when this is done

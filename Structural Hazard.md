@@ -4,6 +4,6 @@ A type of [[Hazard|hazard]] that occurs when two or more instructions want to us
 
 ### Examples of locations where they could occur
 - [[Register File]]
-- [[Computer Memory|Memory]]
+- [[Memory|Memory]]
 - [[Reservation Station|Reservation Stations or Load/Store Buffers]]
 - [[Reorder Buffer]]

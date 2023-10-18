@@ -4,7 +4,7 @@
 LOAD R1 4(R2)
 LW {Load Word}
 ```
-These instructions load a value from a [[Computer Memory|memory]] address into the destination [[Register|register]]
+These instructions load a value from a [[Memory|memory]] address into the destination [[Register|register]]
 
 ```asm
 STORE
