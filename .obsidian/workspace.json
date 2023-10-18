@@ -27,27 +27,6 @@
             }
           },
           {
-            "id": "b011b98338e3c904",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Computing.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "5dbbcd7894a5f0ed",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -72,6 +51,33 @@
             "id": "f4bcf36e6598ec31",
             "type": "leaf",
             "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Amplification",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Amplification.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field Effect Transistor.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5b42cb326bb4d442",
+            "type": "leaf",
+            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
@@ -83,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field Effect Transistor.md",
+                "file": "Amplifier.md",
                 "mode": "preview",
                 "source": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Field Effect Transistor.md",
+                "file": "Amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Field Effect Transistor.md",
+                "file": "Amplifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Field Effect Transistor.md"
+                "file": "Amplifier.md"
               }
             }
           },
@@ -323,14 +329,14 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "f4bcf36e6598ec31",
+  "active": "5b42cb326bb4d442",
   "lastOpenFiles": [
-    "Load Line.md",
-    "Parallel Computing.md",
-    "LC-3 Architecture.md",
-    "Amplification.md",
-    "Amplifier.md",
     "Field Effect Transistor.md",
+    "Amplification.md",
+    "Parallel Computing.md",
+    "Load Line.md",
+    "LC-3 Architecture.md",
+    "Amplifier.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
