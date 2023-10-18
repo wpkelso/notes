@@ -74,8 +74,8 @@
     "logic": {
       "logic": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1697580068288
+          "count": 4,
+          "lastUpdated": 1697635200361
         }
       }
     },
@@ -98,8 +98,8 @@
     "programming": {
       "programming": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1697576479338
+          "count": 7,
+          "lastUpdated": 1697635194378
         }
       }
     },
@@ -324,6 +324,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1697576590632
+        }
+      }
+    },
+    "compilers": {
+      "compilers": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1697635191278
+        }
+      }
+    },
+    "language": {
+      "language": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1697635202422
         }
       }
     }

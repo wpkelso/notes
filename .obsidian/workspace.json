@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4592b7513668c27",
+            "id": "0880d2522b34966b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -24,6 +24,27 @@
               "type": "graph",
               "state": {},
               "pinned": true
+            }
+          },
+          {
+            "id": "6a4eef2747f71e3e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field Effect Transistor.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -250,11 +271,18 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-attachment-name-formatting:Export Attachments": false,
+      "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "c4592b7513668c27",
+  "active": "0880d2522b34966b",
   "lastOpenFiles": [
+    "Field Effect Transistor.md",
+    "Grammar.md",
+    "/Attachment Name Formatting Log.md",
+    "Attachment Name Formatting Log.md",
+    "First-Order Language.md",
     "Hangeul.md",
     "Memory.md",
     "Non-Western Literature.md",
@@ -274,17 +302,12 @@
     "data.md",
     "Code Parallelization.md",
     "theme.css",
-    "Field Effect Transistor.md",
     "Semiconductor.md",
     "Pasted image 20231015162527.png",
     "Distributed Shared Memory Systems.md",
     "Channel-length Modulation.md",
     "Matrix Multiplication.md",
     "Pasted image 20231008175516.png",
-    "Matrix.md",
-    "Postfix Notation.md",
-    "Amdhal's Law.md",
-    "Data Dependence.md",
     "Pasted image 20231001164139.png",
     "Pasted image 20231001164129.png",
     "Pasted image 20231001163505.png",

@@ -3,7 +3,7 @@ aliases: [FET]
 tags: [electronics, circuits, microelectronics]
 ---
 
-# Field Effect [[Transistor]]
+# Field Effect Transistor
 
 ## MOSFET
 
@@ -12,6 +12,12 @@ tags: [electronics, circuits, microelectronics]
 The MOSFET is one of the most common types of FETs, often acting as an electronically controlled switch. The MOS in MOSFET stands for  Metal Oxide [[Semiconductor]], usually using Silicon Oxide as the semiconductor material.
 
 ## Biasing 
+
+### Substrate Conditions
+
+#### Accumulation
+
+In accumulation, a hole accumulation layer forms in the body substrate.
 
 ### Bias Analysis
 
@@ -26,4 +32,4 @@ The [[Quiescent Point]] for a FET is found in a similar way to BJTs, but the Q-P
 
 ### Four-Resistor Bias Network
 
-A four-resistor bias network is used for biasing transistors in discrete circuits, as it stabilizes the bias point with respect to device parameter and temperature variations using negative feedback. Generally, it is used to bias transistors in saturation region.
+A four-resistor bias network is used for biasing [[Transistor|transistors]] in discrete circuits, as it stabilizes the bias point with respect to device parameter and temperature variations using negative feedback. Generally, it is used to bias transistors in saturation region.

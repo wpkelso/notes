@@ -46,7 +46,7 @@
     true
   ],
   "pdf": "pdf",
-  "oneInMany": "Default",
+  "oneInMany": "NoChange",
   "enableAuto": true,
   "enableTime": true,
   "enableExcludeFileName": false,
@@ -57,12 +57,12 @@
     "",
     ""
   ],
-  "exportCurrentRiboon": false,
-  "exportUnusedRiboon": false,
+  "exportCurrentRiboon": true,
+  "exportUnusedRiboon": true,
   "exportCurrentDeletion": false,
   "exportUnusedDeletion": false,
   "copyPath": false,
   "copyPathMode": "Relative",
-  "usingLog": false,
+  "usingLog": true,
   "logPath": "/"
 }

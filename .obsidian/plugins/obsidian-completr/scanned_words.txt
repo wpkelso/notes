@@ -248,6 +248,9 @@ singleton
 smallest
 starting
 siot
+syntactic
+specification
+symbol
 difference
 different
 deal
@@ -358,6 +361,7 @@ device
 directory
 distributed
 displaying
+designation
 of
 often
 or
@@ -517,6 +521,8 @@ terminals
 terminology
 terminal
 trees
+tokens
+topics
 embedded
 each
 execute
@@ -846,6 +852,10 @@ protocols
 parent
 pair
 proof
+parsers
+productions
+parse
+parser
 hardware
 hierarchy
 how
@@ -1202,6 +1212,8 @@ child
 consist
 closure
 correspondence
+converted
+couple
 achieve
 allow
 actions
@@ -1333,6 +1345,7 @@ acting
 assumptions
 authors
 application
+ambiguous
 These
 True
 The
@@ -1521,6 +1534,9 @@ Core
 Carried
 Closure
 Commonly
+Context
+Compilers
+Conditions
 Peripheral
 Parameters
 Predictors
@@ -1873,6 +1889,7 @@ Analysis
 Assume
 Aspects
 Arabia
+Ambiguous
 Build
 Based
 Branch
@@ -1945,6 +1962,9 @@ graphs
 group
 gain
 go
+generated
+grammar
+grammars
 linear
 latency
 list
@@ -2112,6 +2132,7 @@ ST
 Synchronization
 Support
 Sumeria
+Substrate
 Figures
 Following
 Forward
@@ -2147,6 +2168,7 @@ FETs
 FET
 Four
 Functions
+Free
 Note
 Non
 NP
@@ -2203,6 +2225,7 @@ vertex
 variations
 via
 view
+versus
 Is
 Idea
 It
@@ -2513,6 +2536,9 @@ Graphs
 Group
 Gain
 Granularity
+Gives
+Grammars
+Grammar
 You
 Younger
 just
