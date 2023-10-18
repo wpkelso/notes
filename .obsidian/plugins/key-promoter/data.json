@@ -82,7 +82,7 @@
     "app:toggle-default-new-pane-mode": 1
   },
   "keyboardStatistics": {
-    "file-explorer:new-file": 50,
+    "file-explorer:new-file": 51,
     "editor:save-file": 53,
     "obsidian-completr:completr-insert-selected-suggestion": 71,
     "obsidian-completr:completr-select-next-suggestion": 142,
@@ -90,7 +90,7 @@
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 55,
     "editor:toggle-italics": 16,
-    "switcher:open": 136,
+    "switcher:open": 137,
     "workspace:new-tab": 2,
     "obsidian-completr:completr-blacklist-current-word": 1,
     "app:open-help": 1,

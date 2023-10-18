@@ -11,6 +11,16 @@ tags: [electronics, circuits, microelectronics]
 
 The MOSFET is one of the most common types of FETs, often acting as an electronically controlled switch. The MOS in MOSFET stands for  Metal Oxide [[Semiconductor]], usually using Silicon Oxide as the semiconductor material.
 
+## Operation Regions
+
+### Cutoff
+
+Occurs when $V_{GS} < V_{T}$. In this region, no inversion layer is formed, and drain and source are separated by a depleted channel. This results in $I_{DS} \approx 0$
+
+### Linear (Triode/Ohmic)
+
+### Saturation
+
 ## Biasing 
 
 ### Substrate Conditions

@@ -16,5 +16,6 @@
   "Components@@tab-title-bar-fixed": true,
   "Editor@@h1-divider-on": false,
   "Editor@@h1-color-select": "h1-color-default",
-  "typomagical-text@@alignment": "align-justified"
+  "typomagical-text@@alignment": "align-justified",
+  "typomagical-text@@ordered-lists": "circled-ol"
 }
