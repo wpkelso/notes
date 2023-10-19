@@ -27,27 +27,6 @@
             }
           },
           {
-            "id": "5dbbcd7894a5f0ed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Load Line.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f4bcf36e6598ec31",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -96,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
