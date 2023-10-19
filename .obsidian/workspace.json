@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amplifier.md",
+                "file": "Field Effect Transistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amplifier.md",
+                "file": "Field Effect Transistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amplifier.md"
+                "file": "Field Effect Transistor.md"
               }
             }
           },
@@ -329,10 +329,10 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "5b42cb326bb4d442",
+  "active": "f4bcf36e6598ec31",
   "lastOpenFiles": [
-    "Field Effect Transistor.md",
     "Amplifier.md",
+    "Field Effect Transistor.md",
     "Amplification.md",
     "Parallel Computing.md",
     "Load Line.md",
