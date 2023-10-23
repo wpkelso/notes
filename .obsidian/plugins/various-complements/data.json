@@ -87,27 +87,11 @@
         }
       }
     },
-    "Equinumerosity": {
-      "Equinumerosity": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1695410309308
-        }
-      }
-    },
     "programming": {
       "programming": {
         "frontMatter": {
           "count": 7,
           "lastUpdated": 1697635194378
-        }
-      }
-    },
-    "Definition": {
-      "Definition": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1695410971377
         }
       }
     },
@@ -178,16 +162,16 @@
     "parallel_computing": {
       "parallel_computing": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1697556348840
+          "count": 7,
+          "lastUpdated": 1698084125608
         }
       }
     },
     "computer_architecture": {
       "computer_architecture": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1696192730436
+          "count": 4,
+          "lastUpdated": 1698084128341
         }
       }
     },

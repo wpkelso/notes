@@ -64,6 +64,8 @@ binary
 broadcast
 bifurcating
 bijections
+buffers
+buffered
 size
 sexes
 same
@@ -433,6 +435,7 @@ outdated
 operators
 operands
 op
+older
 the
 to
 timing
@@ -715,6 +718,7 @@ world
 whole
 width
 water
+wait
 peripheral
 peripherals
 processor
@@ -1012,6 +1016,7 @@ injection
 increased
 inversion
 inverting
+intended
 conjunction
 conversion
 compilers
@@ -1224,6 +1229,7 @@ channel
 construct
 classes
 configurations
+consistency
 achieve
 allow
 actions
@@ -1552,6 +1558,7 @@ Context
 Compilers
 Conditions
 Channel
+Consistency
 Peripheral
 Parameters
 Predictors
@@ -1605,6 +1612,7 @@ Protocol
 Postfix
 Point
 Persia
+Processor
 Hardware
 Heuristics
 Hoist
@@ -1819,6 +1827,7 @@ rows
 remote
 reachability
 results
+relaxing
 use
 used
 unnecessary
@@ -1985,6 +1994,7 @@ generated
 grammar
 grammars
 gate
+globally
 linear
 latency
 list
@@ -2580,6 +2590,7 @@ jiot
 you
 yet
 years
+younger
 Japan
 Jericho
 Jordan

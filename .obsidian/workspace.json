@@ -25,6 +25,27 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "faf18a885a6d2382",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processor Consistency.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "stacked": true
@@ -257,7 +278,7 @@
   },
   "active": "0880d2522b34966b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Processor Consistency.md",
     "Field Effect Transistor.md",
     "Amplifier.md",
     "Amplification.md",
