@@ -5,11 +5,13 @@ tags: [electronics, circuits, microelectronics]
 
 # Field Effect Transistor
 
-## MOSFET
+## JFET (Junction FET)
+
+## MOSFET (Metal Oxide Semiconductor FET)
 
 ![[Pasted image 20231015162527.png]]
 
-The MOSFET is one of the most common types of FETs, often acting as an electronically controlled switch. The MOS in MOSFET stands for  Metal Oxide [[Semiconductor]], usually using Silicon Oxide as the semiconductor material.
+The MOSFET is one of the most common types of FETs, often acting as an electronically controlled switch. The MOS in MOSFET stands for Metal Oxide [[Semiconductor]], usually using Silicon Oxide as the semiconductor material.
 
 ## Operation Regions
 
