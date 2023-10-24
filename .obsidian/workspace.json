@@ -46,8 +46,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "05a98b29761598e6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weak Ordering.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -76,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Weak Ordering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Weak Ordering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +164,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Weak Ordering.md"
+              }
             }
           },
           {
@@ -276,9 +302,10 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "0880d2522b34966b",
+  "active": "05a98b29761598e6",
   "lastOpenFiles": [
     "Processor Consistency.md",
+    "Weak Ordering.md",
     "Field Effect Transistor.md",
     "Amplifier.md",
     "Amplification.md",
@@ -307,7 +334,6 @@
     "Binary Expression Tree.md",
     "Cache Coherence.md",
     "Loop-Carried Dependence Graph.md",
-    "data.md",
     "theme.css",
     "Pasted image 20231015162527.png",
     "Pasted image 20231008175516.png",

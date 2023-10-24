@@ -253,6 +253,8 @@ siot
 syntactic
 specification
 symbol
+synchronized
+synchronization
 difference
 different
 deal
@@ -528,6 +530,7 @@ terminal
 trees
 tokens
 topics
+tell
 embedded
 each
 execute
@@ -864,6 +867,7 @@ parse
 parser
 performs
 provide
+programmers
 hardware
 hierarchy
 how
@@ -1017,6 +1021,8 @@ increased
 inversion
 inverting
 intended
+interactions
+internally
 conjunction
 conversion
 compilers
@@ -1230,6 +1236,7 @@ construct
 classes
 configurations
 consistency
+committed
 achieve
 allow
 actions
@@ -1364,6 +1371,7 @@ application
 ambiguous
 amplifiers
 amp
+assumption
 These
 True
 The
@@ -1828,6 +1836,8 @@ remote
 reachability
 results
 relaxing
+rest
+reordered
 use
 used
 unnecessary
@@ -2202,6 +2212,7 @@ Four
 Functions
 Free
 Followers
+FIFO
 Note
 Non
 NP
@@ -2327,6 +2338,7 @@ Written
 Where
 Workload
 Wikipedia
+Weak
 Kinds
 Key
 King
@@ -2410,6 +2422,7 @@ Laws
 LD
 Large
 Load
+Local
 no
 not
 non
