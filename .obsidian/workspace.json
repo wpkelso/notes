@@ -27,34 +27,7 @@
             }
           },
           {
-            "id": "272bd466d6eeb355",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Formula",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formula.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First-Order Language.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eeaf0d80c346417e",
+            "id": "a419db388423cb81",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -68,14 +41,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbound Variable.md",
+                "file": "Amplifier.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8864179f86831295",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-Inverting Amplifiers.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -104,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Non-Inverting Amplifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Non-Inverting Amplifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First-Order Language.md"
+                "file": "Non-Inverting Amplifiers.md"
               }
             }
           },
@@ -308,16 +302,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "272bd466d6eeb355",
+  "active": "8864179f86831295",
   "lastOpenFiles": [
-    "Unbound Variable.md",
+    "Amplifier.md",
+    "Non-Inverting Amplifiers.md",
+    "Trusted Execution Environment.md",
+    "Intel Software Guard Extension.md",
     "First-Order Language.md",
+    "Unbound Variable.md",
     "Formula.md",
     "Predicate Logic.md",
     "Field Effect Transistor.md",
     "Processor Consistency.md",
     "Weak Ordering.md",
-    "Amplifier.md",
     "Amplification.md",
     "Parallel Computing.md",
     "Load Line.md",
@@ -336,9 +333,6 @@
     "Function.md",
     "Enumeration.md",
     "Binary Tree.md",
-    "Transitive Closure.md",
-    "Strong Component.md",
-    "Transitiv.md",
     "Pasted image 20231017170838.png",
     "theme.css",
     "Pasted image 20231015162527.png",

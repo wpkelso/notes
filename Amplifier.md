@@ -10,5 +10,5 @@ An amplifier is a construct that takes some input signal and performs [[Amplific
 	- Common-emitter, common-source configurations
 2. Followers: provide nearly [[Unity Gain|unity gain]] similar to the op-amp voltage follower
 	- Common-collector, common-drain configurations
-3. Non-inverting: provide high voltage gain with no phase shift
+3. [[Non-Inverting Amplifiers|Non-inverting]]: provide high voltage gain with no phase shift
 	- Common-base, common-gate configurations
