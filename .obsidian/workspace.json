@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "a419db388423cb81",
+            "id": "3423a8a8504c5ab0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -35,20 +35,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Sequential Consistency",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sequential Consistency.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":260},\"to\":{\"line\":6,\"ch\":260}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amplifier.md",
-                "mode": "source",
+                "file": "Processor Consistency.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "8864179f86831295",
+            "id": "9035b37644e6c4a0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -62,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Inverting Amplifiers.md",
+                "file": "Release Consistency.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Inverting Amplifiers.md",
+                "file": "Release Consistency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Inverting Amplifiers.md",
+                "file": "Release Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Non-Inverting Amplifiers.md"
+                "file": "Release Consistency.md"
               }
             }
           },
@@ -302,10 +308,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "8864179f86831295",
+  "active": "9035b37644e6c4a0",
   "lastOpenFiles": [
-    "Amplifier.md",
+    "Processor Consistency.md",
+    "Release Consistency.md",
+    "Weak Ordering.md",
+    "Sequential Consistency.md",
     "Non-Inverting Amplifiers.md",
+    "Amplifier.md",
     "Trusted Execution Environment.md",
     "Intel Software Guard Extension.md",
     "First-Order Language.md",
@@ -313,8 +323,6 @@
     "Formula.md",
     "Predicate Logic.md",
     "Field Effect Transistor.md",
-    "Processor Consistency.md",
-    "Weak Ordering.md",
     "Amplification.md",
     "Parallel Computing.md",
     "Load Line.md",
@@ -331,8 +339,6 @@
     "Equinumerosity.md",
     "Reduction.md",
     "Function.md",
-    "Enumeration.md",
-    "Binary Tree.md",
     "Pasted image 20231017170838.png",
     "theme.css",
     "Pasted image 20231015162527.png",

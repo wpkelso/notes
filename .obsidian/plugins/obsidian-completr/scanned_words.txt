@@ -259,6 +259,8 @@ synchronization
 specify
 satisfy
 security
+strictly
+serializes
 difference
 different
 deal
@@ -443,6 +445,7 @@ operators
 operands
 op
 older
+overheads
 the
 to
 timing
@@ -737,6 +740,7 @@ whole
 width
 water
 wait
+wherein
 peripheral
 peripherals
 processor
@@ -887,6 +891,8 @@ protected
 prevention
 protection
 partitioning
+propagated
+proceed
 hardware
 hierarchy
 how
@@ -1259,6 +1265,7 @@ consistency
 committed
 confidentiality
 confidential
+completely
 achieve
 allow
 actions
@@ -2212,6 +2219,7 @@ Synchronization
 Support
 Sumeria
 Substrate
+Sequential
 Figures
 Following
 Forward
