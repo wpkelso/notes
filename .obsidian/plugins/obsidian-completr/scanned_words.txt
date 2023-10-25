@@ -67,6 +67,7 @@ bijections
 buffers
 buffered
 bound
+builds
 size
 sexes
 same
@@ -261,6 +262,7 @@ satisfy
 security
 strictly
 serializes
+slip
 difference
 different
 deal
@@ -374,6 +376,7 @@ displaying
 designation
 drain
 decrypted
+differentiating
 of
 often
 or
@@ -893,6 +896,7 @@ protection
 partitioning
 propagated
 proceed
+propagation
 hardware
 hierarchy
 how
@@ -1049,6 +1053,7 @@ intended
 interactions
 internally
 immutable
+improve
 conjunction
 conversion
 compilers
@@ -1266,6 +1271,7 @@ committed
 confidentiality
 confidential
 completely
+completion
 achieve
 allow
 actions
@@ -1770,6 +1776,7 @@ maintain
 managing
 modifying
 microelectronics
+message
 ready
 resource
 reach
@@ -1875,6 +1882,7 @@ results
 relaxing
 rest
 reordered
+release
 use
 used
 unnecessary
@@ -1912,6 +1920,7 @@ utilize
 unreachable
 unbound
 unauthorized
+usage
 Algorithm
 Anti
 Advantages
@@ -2122,6 +2131,7 @@ languages
 logarithmically
 link
 loaded
+lazy
 Output
 Ordering
 ODE
@@ -2439,6 +2449,7 @@ Directory
 Development
 Dependence
 Depletion
+During
 Loop
 Live
 Liveness
@@ -2469,6 +2480,7 @@ LD
 Large
 Load
 Local
+Lazy
 no
 not
 non
@@ -2548,6 +2560,7 @@ Resistor
 Representation
 Reduction
 Relations
+Release
 Major
 Move
 Made
