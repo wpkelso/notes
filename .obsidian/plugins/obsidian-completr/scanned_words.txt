@@ -66,6 +66,7 @@ bifurcating
 bijections
 buffers
 buffered
+bound
 size
 sexes
 same
@@ -255,6 +256,8 @@ specification
 symbol
 synchronized
 synchronization
+specify
+satisfy
 difference
 different
 deal
@@ -1873,6 +1876,7 @@ updated
 unmodified
 utilize
 unreachable
+unbound
 Algorithm
 Anti
 Advantages
@@ -1969,6 +1973,7 @@ Union
 Used
 Update
 Uses
+Unbound
 graph
 going
 greater
@@ -2557,6 +2562,7 @@ question
 quantity
 quality
 questions
+quantifier
 zero
 Quantitative
 Quality
@@ -2615,3 +2621,4 @@ Zagros
 Velocity
 Vocabulary
 Voltage
+Variable

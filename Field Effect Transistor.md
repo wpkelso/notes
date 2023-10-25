@@ -13,6 +13,14 @@ tags: [electronics, circuits, microelectronics]
 
 The MOSFET is one of the most common types of FETs, often acting as an electronically controlled switch. The MOS in MOSFET stands for Metal Oxide [[Semiconductor]], usually using Silicon Oxide as the semiconductor material.
 
+There are a couple different types of MOSFETS:
+- n-channel (NMOS)
+- p-channel (PMOS)
+- Complementary-symmetry (CMOS)
+	- This is a combination of n-channel and p-channel devices on the same IC
+
+Additionally, MOSFETS can either be *depletion-type* or *enhancement-type*. NMOS and PMOS devices parallel each other in their characteristics; however, PMOS has it’s polarity reversed with respect to NMOS devices. Thus, all voltages and currents are reversed.
+
 ## Operation Regions
 
 ### Cutoff
@@ -20,6 +28,8 @@ The MOSFET is one of the most common types of FETs, often acting as an electroni
 Occurs when $V_{GS} < V_{T}$. In this region, no inversion layer is formed, and drain and source are separated by a depleted channel. This results in $I_{DS} \approx 0$
 
 ### Linear (Triode/Ohmic)
+
+The Triode region can additionally be considered as the *voltage-controlled resistance* region
 
 ### Saturation
 

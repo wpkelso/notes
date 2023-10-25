@@ -26,3 +26,7 @@ Like any language, first-order languages have both an [[Alphabet|alphabet]] and 
 | --------- | --------------------- |
 | $\forall$ | for all               |
 | $\exists$ | for each/there exists | 
+
+## Structures
+
+First-order languages specify [[Sentence|sentences]] as [[Formula|formulas]] without [[Unbound Variable|unbound variables]]. Additionally, we can have structures called [[Model|models]] that satisfy a set of sentences.

@@ -4,4 +4,3 @@ tags:[mathematics]
 
 # Formula
 
-## Subformulas
