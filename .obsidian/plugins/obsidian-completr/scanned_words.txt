@@ -263,6 +263,7 @@ security
 strictly
 serializes
 slip
+symmetry
 difference
 different
 deal
@@ -651,6 +652,7 @@ enabled
 encryption
 enclaves
 electronics
+enhancement
 Embedded
 Examples
 Eventually
@@ -897,6 +899,7 @@ partitioning
 propagated
 proceed
 propagation
+polarity
 hardware
 hierarchy
 how
@@ -1410,6 +1413,7 @@ assumption
 altering
 architectural
 achieves
+additionally
 These
 True
 The
@@ -1608,6 +1612,8 @@ Compilers
 Conditions
 Channel
 Consistency
+Complementary
+CMOS
 Peripheral
 Parameters
 Predictors
@@ -1662,6 +1668,7 @@ Postfix
 Point
 Persia
 Processor
+PMOS
 Hardware
 Heuristics
 Hoist
@@ -1883,6 +1890,7 @@ relaxing
 rest
 reordered
 release
+reversed
 use
 used
 unnecessary
@@ -2230,6 +2238,7 @@ Support
 Sumeria
 Substrate
 Sequential
+Semiconductor
 Figures
 Following
 Forward
@@ -2289,6 +2298,7 @@ NPN
 Notes
 Norton
 Network
+NMOS
 violate
 very
 variable
@@ -2325,6 +2335,7 @@ variations
 via
 view
 versus
+voltages
 Is
 Idea
 It
@@ -2378,6 +2389,7 @@ Invalid
 Inversion
 Inverting
 Intel
+IC
 Will
 We
 What
@@ -2609,6 +2621,7 @@ MOESI
 Matrix
 Multiplication
 Middle
+MOSFETS
 quasi
 qualitative
 quite
@@ -2672,6 +2685,7 @@ Jordan
 Jarmo
 Japanese
 Junction
+JFET
 Zawi
 Zagros
 Velocity
