@@ -264,6 +264,7 @@ strictly
 serializes
 slip
 symmetry
+server
 difference
 different
 deal
@@ -544,6 +545,9 @@ tokens
 topics
 tell
 trusted
+technology
+thought
+technologies
 embedded
 each
 execute
@@ -653,6 +657,7 @@ encryption
 enclaves
 electronics
 enhancement
+entity
 Embedded
 Examples
 Eventually
@@ -900,6 +905,11 @@ propagated
 proceed
 propagation
 polarity
+paradigm
+push
+particularly
+platforms
+platform
 hardware
 hierarchy
 how
@@ -1057,6 +1067,7 @@ interactions
 internally
 immutable
 improve
+isolation
 conjunction
 conversion
 compilers
@@ -1275,6 +1286,8 @@ confidentiality
 confidential
 completely
 completion
+client
+controller
 achieve
 allow
 actions
@@ -1414,6 +1427,7 @@ altering
 architectural
 achieves
 additionally
+away
 These
 True
 The
@@ -1462,6 +1476,7 @@ Than
 Triode
 TEE
 Trusted
+Trust
 for
 first
 from
@@ -1532,6 +1547,8 @@ feedback
 finer
 follower
 fly
+focus
+forwarded
 Common
 Counters
 Computing
@@ -1614,6 +1631,7 @@ Channel
 Consistency
 Complementary
 CMOS
+Confidential
 Peripheral
 Parameters
 Predictors
@@ -1669,6 +1687,7 @@ Point
 Persia
 Processor
 PMOS
+PCs
 Hardware
 Heuristics
 Hoist
@@ -2239,6 +2258,7 @@ Sumeria
 Substrate
 Sequential
 Semiconductor
+SGX
 Figures
 Following
 Forward
@@ -2463,6 +2483,7 @@ Development
 Dependence
 Depletion
 During
+Domain
 Loop
 Live
 Liveness

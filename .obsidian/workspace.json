@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "da3e508246ad29b4",
+            "id": "3b095c21c71338af",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -35,25 +35,68 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Lindenmeyer System",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lindenmeyer System.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":135},\"to\":{\"line\":7,\"ch\":135}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fractal.md",
+                "file": "Intel Software Guard Extension.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "14c74b987bbd9803",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Confidential Computing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Confidential Computing.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intel Trust Domain Extension.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4625d36b87d77182",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confidential Computing.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -82,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Confidential Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Confidential Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +191,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Confidential Computing.md"
+              }
             }
           },
           {
@@ -282,8 +329,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0880d2522b34966b",
+  "active": "4625d36b87d77182",
   "lastOpenFiles": [
+    "Intel Trust Domain Extension.md",
+    "Intel Software Guard Extension.md",
+    "Confidential Computing.md",
     "Fractal.md",
     "Lindenmeyer System.md",
     "Field Effect Transistor.md",
@@ -295,7 +345,6 @@
     "Non-Inverting Amplifiers.md",
     "Amplifier.md",
     "Trusted Execution Environment.md",
-    "Intel Software Guard Extension.md",
     "First-Order Language.md",
     "Unbound Variable.md",
     "Formula.md",
@@ -311,8 +360,6 @@
     "/Attachment Name Formatting Log.md",
     "Attachment Name Formatting Log.md",
     "Hangeul.md",
-    "Memory.md",
-    "Non-Western Literature.md",
     "Pasted image 20231017170838.png",
     "theme.css",
     "Pasted image 20231015162527.png",

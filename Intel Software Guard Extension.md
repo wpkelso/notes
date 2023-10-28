@@ -8,3 +8,5 @@ Intel Software Guard Extensions are a hardware based [[Memory|memory]] encryptio
 
 >[!Help] 
 >Further information can be found here: [Wikipedia](https://en.wikipedia.org/wiki/Software_Guard_Extensions)
+
+As of 2021-2022, Intel has shifted their focus away from SGX on consumer/client PCs, but the technology is still available and a focus on their [[Intel Xeon|Xeon]] platforms.
