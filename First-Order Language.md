@@ -47,6 +47,9 @@ Like any language, first-order languages have both an [[Alphabet|alphabet]] and 
 	- As with predicates, functions also have an arity, denoting how many inputs the function takes
 	- *Ex.* $+$, a binary function in the language of arithmetic
 
+>[!info] Definition
+> The set of these non-logical symbols is referred to as the *signature* of the language.
+
 ## Structures
 
 First-order languages specify [[Sentence|sentences]] as [[Formula|formulas]] without [[Unbound Variable|unbound variables]]. Additionally, we can have structures called [[Model|models]] that satisfy a set of sentences.

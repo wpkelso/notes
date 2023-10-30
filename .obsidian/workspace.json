@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "2bfd376dcbfade90",
+            "id": "adb7cc51ad4b5a53",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -35,65 +35,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Inner Product of Vectors",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inner Product of Vectors.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Object",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Object.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Server Computing Classification",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Server Computing Classification.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":26},\"to\":{\"line\":1,\"ch\":26}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finite Automata.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5ac75d8399869bff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Predicate",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Predicate.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First-Order Language.md",
+                "file": "Amplifier Frequency Response.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "085bbe4204926e9c",
+            "id": "c7f822899462bea3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -107,14 +62,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formula.md",
-                "mode": "preview",
+                "file": "Amplifier.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "78051b25adc93e21",
+            "id": "cdc07e6ddb21a85e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -128,14 +83,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbound Variable.md",
-                "mode": "preview",
+                "file": "Multi-Stage Amplifier.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -164,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Multi-Stage Amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Multi-Stage Amplifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First-Order Language.md"
+                "file": "Multi-Stage Amplifier.md"
               }
             }
           },
@@ -369,19 +324,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5ac75d8399869bff",
+  "active": "cdc07e6ddb21a85e",
   "lastOpenFiles": [
+    "Amplifier Frequency Response.md",
+    "Multi-Stage Amplifier.md",
+    "Amplifier.md",
+    "Finite Automata.md",
+    "Formula.md",
     "First-Order Language.md",
     "Predicate.md",
-    "Finite Automata.md",
     "Unbound Variable.md",
-    "Formula.md",
-    "Untitled.md",
     "Inner Product of Vectors.md",
     "Object.md",
     "Server Computing Classification.md",
     "Amplification.md",
-    "Amplifier.md",
     "Field Effect Transistor.md",
     "Confidential Computing.md",
     "Intel Software Guard Extension.md",
@@ -396,7 +352,6 @@
     "Non-Inverting Amplifiers.md",
     "Trusted Execution Environment.md",
     "Predicate Logic.md",
-    "Parallel Computing.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",

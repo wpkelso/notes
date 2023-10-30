@@ -267,6 +267,7 @@ symmetry
 server
 specialized
 servers
+setup
 difference
 different
 deal
@@ -922,6 +923,7 @@ platforms
 platform
 propositional
 predicate
+preserves
 hardware
 hierarchy
 how
@@ -1304,6 +1306,9 @@ controller
 concern
 cosine
 countably
+chained
+coupling
+capacitors
 achieve
 allow
 actions
@@ -1447,6 +1452,7 @@ away
 angle
 accepting
 active
+ac
 These
 True
 The
@@ -1830,6 +1836,7 @@ modifying
 microelectronics
 message
 multiplied
+meet
 ready
 resource
 reach
@@ -1937,6 +1944,8 @@ rest
 reordered
 release
 reversed
+requirements
+respective
 use
 used
 unnecessary
@@ -2290,6 +2299,7 @@ Substrate
 Sequential
 Semiconductor
 SGX
+Stage
 Figures
 Following
 Forward
@@ -2330,6 +2340,7 @@ Followers
 FIFO
 Fractal
 Finite
+Frequency
 Note
 Non
 NP
@@ -2631,6 +2642,7 @@ Representation
 Reduction
 Relations
 Release
+Response
 Major
 Move
 Made
@@ -2680,6 +2692,7 @@ Matrix
 Multiplication
 Middle
 MOSFETS
+Multi
 quasi
 qualitative
 quite
