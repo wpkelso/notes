@@ -64,9 +64,72 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5ac75d8399869bff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First-Order Language.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "085bbe4204926e9c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formula.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "78051b25adc93e21",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unbound Variable.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -95,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finite Automata.md",
+                "file": "Unbound Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finite Automata.md",
+                "file": "Unbound Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finite Automata.md"
+                "file": "Unbound Variable.md"
               }
             }
           },
@@ -300,8 +363,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2bfd376dcbfade90",
+  "active": "78051b25adc93e21",
   "lastOpenFiles": [
+    "Formula.md",
+    "Unbound Variable.md",
+    "First-Order Language.md",
+    "Finite Automata.md",
+    "Untitled.md",
     "Inner Product of Vectors.md",
     "Object.md",
     "Server Computing Classification.md",
@@ -320,17 +388,12 @@
     "Sequential Consistency.md",
     "Non-Inverting Amplifiers.md",
     "Trusted Execution Environment.md",
-    "First-Order Language.md",
-    "Unbound Variable.md",
-    "Formula.md",
     "Predicate Logic.md",
     "Parallel Computing.md",
     "Load Line.md",
-    "LC-3 Architecture.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
-    "Grammar.md",
     "Pasted image 20231017170838.png",
     "theme.css",
     "Pasted image 20231015162527.png",

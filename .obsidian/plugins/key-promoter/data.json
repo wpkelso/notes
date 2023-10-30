@@ -15,10 +15,10 @@
     "obsidian-git:backup-and-close": 221,
     "pane-relief:ordered-close": 204,
     "obsidian-completr:completr-close-suggestion-popup": 204,
-    "graph:open": 42,
+    "graph:open": 44,
     "workspace:toggle-pin": 2,
-    "graph:open-local": 40,
-    "graph:animate": 40,
+    "graph:open-local": 42,
+    "graph:animate": 42,
     "obsidian-git:push": 17,
     "obsidian-git:commit-push-specified-message": 17,
     "editing-toolbar:change-background-color": 17,
@@ -91,10 +91,11 @@
     "daily-notes:goto-next": 1,
     "note-composer:merge-file": 1,
     "note-composer:split-file": 1,
-    "note-composer:extract-heading": 1
+    "note-composer:extract-heading": 1,
+    "table-editor-obsidian:evaluate-formulas": 1
   },
   "keyboardStatistics": {
-    "file-explorer:new-file": 66,
+    "file-explorer:new-file": 67,
     "editor:save-file": 54,
     "obsidian-completr:completr-insert-selected-suggestion": 75,
     "obsidian-completr:completr-select-next-suggestion": 200,
@@ -102,7 +103,7 @@
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 55,
     "editor:toggle-italics": 19,
-    "switcher:open": 152,
+    "switcher:open": 155,
     "workspace:new-tab": 2,
     "obsidian-completr:completr-blacklist-current-word": 1,
     "app:open-help": 2,
@@ -112,7 +113,7 @@
     "workspace:close": 6,
     "obsidian-completr:completr-close-suggestion-popup": 3,
     "app:open-settings": 1,
-    "vim-toggle:toggle-vim": 8,
+    "vim-toggle:toggle-vim": 9,
     "obsidian-editor-shortcuts:selectLine": 1,
     "obsidian-editor-shortcuts:joinLines": 1
   }
