@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multi-Stage Amplifier.md",
+                "file": "Amplifier Frequency Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multi-Stage Amplifier.md",
+                "file": "Amplifier Frequency Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multi-Stage Amplifier.md"
+                "file": "Amplifier Frequency Response.md"
               }
             }
           },
@@ -324,10 +324,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "cdc07e6ddb21a85e",
+  "active": "adb7cc51ad4b5a53",
   "lastOpenFiles": [
-    "Amplifier Frequency Response.md",
     "Multi-Stage Amplifier.md",
+    "Amplifier Frequency Response.md",
     "Amplifier.md",
     "Finite Automata.md",
     "Formula.md",
