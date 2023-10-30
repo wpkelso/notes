@@ -920,6 +920,8 @@ push
 particularly
 platforms
 platform
+propositional
+predicate
 hardware
 hierarchy
 how
@@ -1078,6 +1080,7 @@ internally
 immutable
 improve
 isolation
+identity
 conjunction
 conversion
 compilers
@@ -1300,6 +1303,7 @@ client
 controller
 concern
 cosine
+countably
 achieve
 allow
 actions
@@ -1566,6 +1570,7 @@ fly
 focus
 forwarded
 force
+falsity
 Common
 Counters
 Computing
@@ -1651,6 +1656,7 @@ CMOS
 Confidential
 Computers
 Conversion
+Constants
 Peripheral
 Parameters
 Predictors
@@ -1707,6 +1713,7 @@ Persia
 Processor
 PMOS
 PCs
+Punctuation
 Hardware
 Heuristics
 Hoist
@@ -2182,6 +2189,7 @@ logarithmically
 link
 loaded
 lazy
+logical
 Output
 Ordering
 ODE
