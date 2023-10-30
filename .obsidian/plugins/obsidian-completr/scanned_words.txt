@@ -265,6 +265,8 @@ serializes
 slip
 symmetry
 server
+specialized
+servers
 difference
 different
 deal
@@ -379,6 +381,7 @@ designation
 drain
 decrypted
 differentiating
+discover
 of
 often
 or
@@ -451,6 +454,8 @@ operands
 op
 older
 overheads
+off
+orthagonal
 the
 to
 timing
@@ -548,6 +553,8 @@ trusted
 technology
 thought
 technologies
+trade
+transitions
 embedded
 each
 execute
@@ -658,6 +665,8 @@ enclaves
 electronics
 enhancement
 entity
+expense
+exploration
 Embedded
 Examples
 Eventually
@@ -701,6 +710,7 @@ Execution
 Environment
 Extension
 Extensions
+Edges
 work
 with
 will
@@ -1288,6 +1298,8 @@ completely
 completion
 client
 controller
+concern
+cosine
 achieve
 allow
 actions
@@ -1428,6 +1440,9 @@ architectural
 achieves
 additionally
 away
+angle
+accepting
+active
 These
 True
 The
@@ -1477,6 +1492,7 @@ Triode
 TEE
 Trusted
 Trust
+Transpose
 for
 first
 from
@@ -1549,6 +1565,7 @@ follower
 fly
 focus
 forwarded
+force
 Common
 Counters
 Computing
@@ -1632,6 +1649,8 @@ Consistency
 Complementary
 CMOS
 Confidential
+Computers
+Conversion
 Peripheral
 Parameters
 Predictors
@@ -1803,6 +1822,7 @@ managing
 modifying
 microelectronics
 message
+multiplied
 ready
 resource
 reach
@@ -1948,6 +1968,7 @@ unreachable
 unbound
 unauthorized
 usage
+union
 Algorithm
 Anti
 Advantages
@@ -2003,6 +2024,7 @@ Ambiguous
 Accumulation
 Amplifier
 Amplifiers
+Automata
 Build
 Based
 Branch
@@ -2032,6 +2054,7 @@ Broadcast
 Binary
 Below
 Broadly
+Brute
 Use
 Unswitching
 Useful
@@ -2298,6 +2321,7 @@ Free
 Followers
 FIFO
 Fractal
+Finite
 Note
 Non
 NP
@@ -2320,6 +2344,7 @@ Notes
 Norton
 Network
 NMOS
+NFA
 violate
 very
 variable
@@ -2484,6 +2509,7 @@ Dependence
 Depletion
 During
 Domain
+DFA
 Loop
 Live
 Liveness
@@ -2554,6 +2580,8 @@ network
 negation
 notation
 nearly
+normal
+next
 Register
 Range
 RHS
