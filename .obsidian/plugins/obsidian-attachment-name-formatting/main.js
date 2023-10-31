@@ -3167,7 +3167,7 @@ var ANFSettingTab = class extends import_obsidian2.PluginSettingTab {
         yield this.plugin.saveSettings();
       }));
     });
-    new import_obsidian2.Setting(containerEl).setName("Automic formatting").setDesc("Automic formatting the attachments' name when changing note content").addToggle((toggle) => {
+    new import_obsidian2.Setting(containerEl).setName("Automatic formatting").setDesc("Automatic formatting the attachments' name when changing note content").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.enableAuto).onChange((value) => __async(this, null, function* () {
         this.plugin.settings.enableAuto = value;
         yield this.plugin.saveSettings();
@@ -3255,7 +3255,7 @@ var ANFSettingTab = class extends import_obsidian2.PluginSettingTab {
       });
     }
     containerEl.createEl("h2", { text: "Log Setting" });
-    new import_obsidian2.Setting(containerEl).setName("Logging Attahment Name Changes").setDesc("Logging the attachmnet name changes into file.").addToggle((toggle) => toggle.setValue(this.plugin.settings.usingLog).onChange((value) => __async(this, null, function* () {
+    new import_obsidian2.Setting(containerEl).setName("Logging Attachment Name Changes").setDesc("Logging the attachmnet name changes into file.").addToggle((toggle) => toggle.setValue(this.plugin.settings.usingLog).onChange((value) => __async(this, null, function* () {
       this.plugin.settings.usingLog = value;
       yield this.plugin.saveSettings();
       this.display();
@@ -3375,7 +3375,8 @@ var AttachmentNameFormatting = class extends import_obsidian3.Plugin {
         name: "Scan Files in the Folder",
         callback: () => {
           new FolderScanModal(this.app, this, (folder) => {
-            console.log(folder);
+            console.log(`Will scan the foler: ${folder}`);
+            this.handleLog(`Will scan the foler: ${folder}`);
             new FolderRenameWarningModal(this.app, (result) => __async(this, null, function* () {
               if (result) {
                 const fileList = this.app.vault.getFiles().filter((file) => file.path.includes(folder));
@@ -3414,6 +3415,13 @@ var AttachmentNameFormatting = class extends import_obsidian3.Plugin {
       }
     }
   }
+  getVaultAttachmentFolderPath() {
+    return __async(this, null, function* () {
+      yield this.app.vault.adapter.read(this.app.vault.configDir + "/app.json").then((config) => {
+        this.vaultAttachmentFolderPath = JSON.parse(config).attachmentFolderPath;
+      });
+    });
+  }
   handleAttachmentNameFormatting(file, check = false) {
     return __async(this, null, function* () {
       if (this.app.workspace.getActiveFile() !== file && !check || this.renaming) {
@@ -3421,6 +3429,7 @@ var AttachmentNameFormatting = class extends import_obsidian3.Plugin {
       }
       this.renaming = true;
       timeInterval = new Date();
+      yield this.getVaultAttachmentFolderPath();
       console.log("Formatting attachments...");
       const attachments = this.app.metadataCache.getFileCache(file);
       console.log("Getting attachments list...");
@@ -3472,7 +3481,7 @@ var AttachmentNameFormatting = class extends import_obsidian3.Plugin {
           let num = 1;
           for (const attachmentFile of attachmentFiles) {
             if (attachmentFile instanceof import_obsidian3.TFile) {
-              let parent_path = this.app.vault.config.attachmentFolderPath;
+              let parent_path = this.vaultAttachmentFolderPath;
               if (parent_path.startsWith("./")) {
                 parent_path = path.join(file.parent.path, parent_path);
               }

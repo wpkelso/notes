@@ -1,6 +1,11 @@
 ---
-aliases: [Modulation Index]
-tags: [mathematics, signal_analysis ]
+aliases:
+  - Modulation Index
+tags:
+  - mathematics
+  - signal_analysis
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 The modulation depth of a [[Modulation|modulation scheme]] describes by how much the modulated carrier wave varies around its unmodulated level.
 

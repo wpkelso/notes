@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #mathematics 
 A special case of [[Euler's Formula]] evaluated at $x=\pi$.
 

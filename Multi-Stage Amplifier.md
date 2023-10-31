@@ -1,5 +1,7 @@
 ---
 tags: microelectronics, signal_analysis, circuits
+created: 2023-10-30T11:52
+updated: 2023-10-30T11:55
 ---
 
 # Multi-Stage Amplifier

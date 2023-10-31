@@ -5,6 +5,8 @@ tags:
   - data_structures
   - logic
   - discrete_mathematics
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 # Set
 

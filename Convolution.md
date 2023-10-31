@@ -1,5 +1,9 @@
 ---
-tags: [mathematics, signal_analysis]
+tags:
+  - mathematics
+  - signal_analysis
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 A mathematical operation constituting the combination of two time-varying functions ([[Signal|Signals]]). Convolution can be accomplished using the [[Convolution Integral]]. The roles of the signals involved in convolution can be reversed, as convolution is a commutative operation.
 

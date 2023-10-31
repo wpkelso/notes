@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 # Digital Signals
 #signal_analysis 
 Exist in a discrete space, so there is no continuous signal

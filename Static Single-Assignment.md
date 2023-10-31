@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-10-18T08:42
+---
 #compilers 
 A form of organization for an [[Intermediate Representation|IR]] where all [[Register|registers]] are defined only once and never re-defined.
 

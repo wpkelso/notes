@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #literature #hinduism #religion 
 A 700-verse [[Hinduism|Hindu]] scripture that is a part of the epic of [[Mahabharata]], and follows a framework of dialogue between prince Arjuna and his guide and charioteer Krishna.
 

@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 # Unit Step Function
 #signal_analysis 
 Useful in modelling [[Signal]]s.

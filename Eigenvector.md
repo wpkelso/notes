@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #mathematics #differential_equations 
 Eigenvectors are a special [[Set|set]] of [[Vector (Math)|vectors]] associated with linear systems of equations. They are very commonly used in [[Differential Equation|differential equation]] problem solving in fields such as stability physics, small oscillations of vibrating systems, etcetera.
 

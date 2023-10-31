@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-10-18T08:42
+---
 #OOP #programming  
 
 **Definition:** A specific syntactic construct for describing a kind of [[Object]]. No [[Memory|memory]] is reserved, only a structure for the object is declared.

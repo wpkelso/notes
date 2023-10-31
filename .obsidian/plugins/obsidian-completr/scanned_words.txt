@@ -268,6 +268,8 @@ server
 specialized
 servers
 setup
+signature
+symbolic
 difference
 different
 deal
@@ -383,6 +385,8 @@ drain
 decrypted
 differentiating
 discover
+denotes
+denoting
 of
 often
 or
@@ -668,6 +672,8 @@ enhancement
 entity
 expense
 exploration
+expressing
+ease
 Embedded
 Examples
 Eventually
@@ -712,6 +718,7 @@ Environment
 Extension
 Extensions
 Edges
+Every
 work
 with
 will
@@ -924,6 +931,7 @@ platform
 propositional
 predicate
 preserves
+predicates
 hardware
 hierarchy
 how
@@ -1083,6 +1091,7 @@ immutable
 improve
 isolation
 identity
+inductively
 conjunction
 conversion
 compilers
@@ -1309,6 +1318,7 @@ countably
 chained
 coupling
 capacitors
+concise
 achieve
 allow
 actions
@@ -1453,6 +1463,8 @@ angle
 accepting
 active
 ac
+arity
+atomic
 These
 True
 The
@@ -1503,6 +1515,7 @@ TEE
 Trusted
 Trust
 Transpose
+Terms
 for
 first
 from
@@ -1577,6 +1590,7 @@ focus
 forwarded
 force
 falsity
+formulas
 Common
 Counters
 Computing
@@ -2364,6 +2378,7 @@ Norton
 Network
 NMOS
 NFA
+Nothing
 violate
 very
 variable

@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers 
 A [[Instruction Scheduling|instruction scheduling]] methodology in which the ‘ready cycle’ (clock cycle in which each instruction is becomes ready to execute) is computed for each instruction, subject to [[Data Dependence|dependence]] and [[Computer Processor|resource]] constraints. These resource constraints are dealt with on a first-come-first-serve basis; if more than one instruction is ready to use the same resource at the same time, a priority hierarchy must be established.
 

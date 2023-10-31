@@ -8,6 +8,8 @@ tags:
   - literature
   - culture
   - korea
+created: 2023-09-08T14:31
+updated: 2023-10-18T09:17
 ---
 ## How it works
 The [[Korea|Korean]] writing system is an [[Alphabet|alphabetic]] system of writing, where consonant and vowel glyphs are combined into sets of 2, 3, or 4 to form the individual characters, with each character representing a syllable.

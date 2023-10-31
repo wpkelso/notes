@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #computer_architecture 
 Type of [[Hazard|hazard]] present in processor datapaths where [[Data Dependence|data dependencies]] are violated by [[Race Condition|race conditions]].
 

@@ -1,5 +1,9 @@
 ---
-tags: [electronics, circuits]
+tags:
+  - electronics
+  - circuits
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 Subsection of electronics based on the properties of [[Semiconductor|semi-conductors]].
 

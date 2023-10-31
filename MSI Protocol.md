@@ -1,5 +1,9 @@
 ---
-tags: [parallel_computing, computer_architecture]
+tags:
+  - parallel_computing
+  - computer_architecture
+created: 2023-10-01T15:42
+updated: 2023-10-01T16:37
 ---
 
 # MSI Protocol

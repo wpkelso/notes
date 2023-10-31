@@ -1,5 +1,7 @@
 ---
 tags: parallel_computing, computer_architecture, programming
+created: 2023-10-28T17:15
+updated: 2023-10-28T17:40
 ---
 
 # Intel Trust Domain Extension

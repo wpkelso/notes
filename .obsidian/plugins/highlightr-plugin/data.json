@@ -1,0 +1,28 @@
+{
+  "highlighterStyle": "floating",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Red": "#D14D41",
+    "Orange": "#DA702C",
+    "Yellow": "#D0A215",
+    "Green": "#879A39",
+    "Cyan": "#3AA99F",
+    "Blue": "#4385BE",
+    "Purple": "#8B7EC8",
+    "Magenta": "#CE5D97",
+    "Grey": "#B7B5AC",
+    "White": "#FFFCF0"
+  },
+  "highlighterOrder": [
+    "Red",
+    "Orange",
+    "Yellow",
+    "Green",
+    "Cyan",
+    "Blue",
+    "Purple",
+    "Magenta",
+    "Grey",
+    "White"
+  ]
+}

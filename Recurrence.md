@@ -1,5 +1,9 @@
 ---
-tags: [mathematics, discrete_mathematics]
+tags:
+  - mathematics
+  - discrete_mathematics
+created: 2023-09-12T08:45
+updated: 2023-09-12T10:31
 ---
 
 # Recurrence

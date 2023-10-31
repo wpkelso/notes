@@ -1,5 +1,7 @@
 ---
 tags: parallel_computing, computer_architecture, compilers, programming
+created: 2023-10-25T11:01
+updated: 2023-10-28T17:20
 ---
 
 # Intel Software Guard Extension

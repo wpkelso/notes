@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #computer_science #hueristics #mathematics 
 
 Based on the classic problem of coloring countries on a map a different color, this [[Hueristic|hueristic]] models the countries as [[Vertex|nodes]] on the [[Graph|graph]], with [[Edge|edges]] representing a shared border. The goal, of course, is to give countries with a shared border a different color.

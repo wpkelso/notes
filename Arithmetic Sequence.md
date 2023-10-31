@@ -1,5 +1,10 @@
 ---
-tags: [mathematics, discrete_mathematics, set_theory]
+tags:
+  - mathematics
+  - discrete_mathematics
+  - set_theory
+created: 2023-09-12T09:38
+updated: 2023-09-12T09:46
 ---
 
 # Arithmetic Sequence

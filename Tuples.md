@@ -1,5 +1,6 @@
 ---
-tags:[mathematics, programming]
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 # Mathematics
 In mathematics, a tuple refers to an ordered [[Set|set]] of $n$ elements. It is an extension of the definition of an ordered pair, and as both are defined under the same definition for ease of writing.

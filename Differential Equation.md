@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #mathematics 
 ## Definition
 An equation that involves an unknown, where the unknown consists of a function and its derivative(s)

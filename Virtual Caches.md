@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #computer_architecture 
 
 In a virtual [[Cache|cache]], blocks are stored based on virtual addresses. This has the advantage of no memory translation requirement prior to cache access. However, this approach has problems, namely:

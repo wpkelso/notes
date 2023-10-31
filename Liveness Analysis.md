@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers #compiler_optimizations 
 Useful in the context of [[Dead Code Elimination]], [[Instruction Scheduling]], and [[Register Allocation]]; it is also an example of [[Iterative Dataflow Analysis|iterative dataflow analysis]]. 
 

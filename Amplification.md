@@ -1,5 +1,12 @@
 ---
-tags: [mathematics, signal_analysis, circuits, microelectronics, electronics]
+tags:
+  - mathematics
+  - signal_analysis
+  - circuits
+  - microelectronics
+  - electronics
+created: 2023-09-25T10:14
+updated: 2023-09-25T10:51
 ---
 
 # Amplification

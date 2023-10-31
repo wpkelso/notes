@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #signal_analysis 
 Used to analyze signals in the [[Frequency Domain]].
 Goes from time domain to frequency domain. To go back you would need to use the [[Inverse Fourier Transform]].

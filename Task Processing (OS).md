@@ -1,5 +1,8 @@
 ---
-aliases: [task processing (OS)]
+aliases:
+  - task processing (OS)
+created: 2023-09-08T14:31
+updated: 2023-09-12T09:03
 ---
 #programming #operating_systems #embedded_systems  #ECE460 
 

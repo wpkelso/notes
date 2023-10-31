@@ -1,5 +1,7 @@
 ---
 tags: programming, parallel_computing, computer_architecture
+created: 2023-10-25T14:23
+updated: 2023-10-25T14:39
 ---
 
 # Release Consistency

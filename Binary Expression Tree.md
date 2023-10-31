@@ -1,5 +1,10 @@
 ---
-tags: [graph_theory, discrete_mathematics, mathematics]
+tags:
+  - graph_theory
+  - discrete_mathematics
+  - mathematics
+created: 2023-10-17T16:47
+updated: 2023-10-17T16:57
 ---
 
 # Binary Expression Tree

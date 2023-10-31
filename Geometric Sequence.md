@@ -1,5 +1,10 @@
 ---
-tags: [discrete_mathematics, mathematics, set_theory]
+tags:
+  - discrete_mathematics
+  - mathematics
+  - set_theory
+created: 2023-09-12T10:08
+updated: 2023-09-12T10:15
 ---
 
 # Geometric Sequence

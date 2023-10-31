@@ -1,5 +1,11 @@
 ---
-tags: [electronics, microelectronics, chemistry, physics]
+tags:
+  - electronics
+  - microelectronics
+  - chemistry
+  - physics
+created: 2023-09-11T10:56
+updated: 2023-09-27T12:56
 ---
 
 # Bipolar Junction Transistor

@@ -1,5 +1,9 @@
 ---
-tags: [electronics, circuits]
+tags:
+  - electronics
+  - circuits
+created: 2023-10-03T16:28
+updated: 2023-10-03T21:06
 ---
 
 # Norton Equivalent Circuit

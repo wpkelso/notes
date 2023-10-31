@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers #programming 
 "Deriving the syntactic structure of the program." In other words, parsing figures out of the words of the program are in a valid structure. This is done using a [[Grammar|grammar]].
 

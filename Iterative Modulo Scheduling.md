@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers #computer_architecture #programming 
 An [[Instruction Scheduling|instruction scheduling]] methodology in which instructions are placed into a scheduling window, obeying [[Data Dependence|dependences]] and [[Computer Processor|resource constraints]].
 

@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #central_america #culture 
 Mayan time keeping consists of 2 different types: The Venus rond system, consisting of the tzolkin, haab, and the Venus cycle; and the long count.
 ## Venus Cycle

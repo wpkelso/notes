@@ -1,5 +1,9 @@
 ---
-tags: [parallel_computing, computer_architecture]
+tags:
+  - parallel_computing
+  - computer_architecture
+created: 2023-10-01T16:38
+updated: 2023-10-01T16:41
 ---
 
 # MOESI Protocol

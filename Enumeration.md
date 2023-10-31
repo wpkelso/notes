@@ -1,5 +1,11 @@
 ---
-tags: [mathematics, set_theory, discrete_mathematics, programming]
+tags:
+  - mathematics
+  - set_theory
+  - discrete_mathematics
+  - programming
+created: 2023-09-10T21:39
+updated: 2023-09-10T21:50
 ---
 
 # Enumeration

@@ -1,5 +1,10 @@
 ---
-tags: [electronics, chemistry, circuits]
+tags:
+  - electronics
+  - chemistry
+  - circuits
+created: 2023-09-08T14:31
+updated: 2023-10-16T12:26
 ---
 
 # Semiconductor

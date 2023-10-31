@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #signal_analysis #mathematics #differential_equations 
 Integral transform that converts a function of a real variable (usually $t$ in the time domain) to a function of a complex variable $s$ (in the [[Complex Domain|complex/frequency domain]]).
 

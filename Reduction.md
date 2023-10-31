@@ -1,5 +1,9 @@
 ---
-tags: [logic, mathematics]
+tags:
+  - logic
+  - mathematics
+created: 2023-10-17T18:00
+updated: 2023-10-17T18:03
 ---
 
 # Reduction

@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #mathematics 
 Quality of an [[Initial Value Problem]] with 3 conditions:
 1. Whether the solution exists

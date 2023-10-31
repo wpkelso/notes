@@ -1,5 +1,7 @@
 ---
-aliases: "Scanning"
+aliases: Scanning
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 #compilers 
 The part of the [[Compiler Design|compiler]] that figures out the keywords, whitespace, identifiers, and punctuation. **i.e.** convert input into a string of tokens that represent keywords, identifiers, and punctuation (comments and whitespace are discarded in *most* languages and never become tokens)

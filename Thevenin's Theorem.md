@@ -1,5 +1,9 @@
 ---
-tags: [electronics, circuits]
+tags:
+  - electronics
+  - circuits
+created: 2023-09-13T15:35
+updated: 2023-10-03T21:08
 ---
 
 # Thevenin’s Theorem

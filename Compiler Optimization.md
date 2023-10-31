@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers #programming 
 >[!summary] General Idea
 >The process of transforming code from one form to another in the hopes it runs faster and with the constraint that it retains the same meaning.

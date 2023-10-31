@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #history 
 
 Also known as "Lucy" after a famous fossil was named such, Australopithecus Afarensis is an ancestor of [[Homo Sapiens|modern humans]] that lived around 4-1 million years ago ([[Pliocene]]) in what is now Ethiopia. They were primarily vegetarian, with an ape-like skull and face, as well as a bipedal but stooped posture.

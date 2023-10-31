@@ -1,5 +1,10 @@
 ---
-tags: [mathematics, programming, logic]
+tags:
+  - mathematics
+  - programming
+  - logic
+created: 2023-09-22T15:24
+updated: 2023-10-17T17:48
 ---
 
 # Function

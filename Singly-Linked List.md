@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #data_structures 
 A singly-linked list is a data structure for implementing a list [[Abstract Data Type]], where each node has data and a pointer to the next node. The first node is called the head, and the last node is called the tail. It is a type of positional list, where elements contain pointers to the next and/or previous elements in the list.
 

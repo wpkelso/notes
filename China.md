@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #history #china 
 Extremely ancient civilization based around the [[Yellow River]] and the [[Yangtze River]] basins in [[Asia]].
 

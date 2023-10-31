@@ -1,5 +1,12 @@
 ---
-tags: [graph_theory, mathematics, discrete_mathematics, circuits, electronics]
+tags:
+  - graph_theory
+  - mathematics
+  - discrete_mathematics
+  - circuits
+  - electronics
+created: 2023-09-24T15:05
+updated: 2023-09-24T15:13
 ---
 
 # Circuit

@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #computer_hardware #compilers 
 ## [[Static Branch Prediction]]
 Branch prediction done by primarily by the [[Compiler Design|compiler]]

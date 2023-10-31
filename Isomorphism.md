@@ -1,5 +1,12 @@
 ---
-tags: [mathematics, discrete_mathematics, programming, set_theory, graph_theory]
+tags:
+  - mathematics
+  - discrete_mathematics
+  - programming
+  - set_theory
+  - graph_theory
+created: 2023-09-12T14:44
+updated: 2023-09-12T14:50
 ---
 
 # Isomorphism

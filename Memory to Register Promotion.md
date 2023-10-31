@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-10-18T08:42
+---
 #compilers #programming 
 [[Compiler Optimization|Compiler optimization]] with the following goals:
 - Create more opportunity to optimize

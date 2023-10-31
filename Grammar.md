@@ -1,5 +1,11 @@
 ---
-tags: [compilers, programming, logic, language]
+tags:
+  - compilers
+  - programming
+  - logic
+  - language
+created: 2023-09-08T14:31
+updated: 2023-10-18T09:22
 ---
 
 # Grammar

@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers 
 The IR is an assembly or assembly-type language designed to generically represent a wide variety of [[Instruction Set Architecture|ISAs]] agnostically.
 

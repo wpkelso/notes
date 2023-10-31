@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-10-18T08:42
+---
 #computer_architecture #computer_hardware 
 Primary control unit within a computer. Performs all [[Instruction Set Architecture|instructions]], reads and writes to [[Memory|memory]], etc.
 

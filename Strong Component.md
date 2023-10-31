@@ -1,5 +1,10 @@
 ---
-tags: [discrete_mathematics, mathematics, graph_theory]
+tags:
+  - discrete_mathematics
+  - mathematics
+  - graph_theory
+created: 2023-09-24T15:23
+updated: 2023-10-17T17:32
 ---
 
 # Strong Component

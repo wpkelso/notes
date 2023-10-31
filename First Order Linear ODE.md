@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #mathematics
 
 Classified as a 1st order, linear, variable coefficient [[Ordinary Differential Equation]]

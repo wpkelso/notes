@@ -1,4 +1,7 @@
 ---
-aliases: [DAC]
+aliases:
+  - DAC
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 #embedded_systems #ECE460 

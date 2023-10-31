@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #mathematics #differential_equations 
 Represented using the Greek letter $\lambda$, an eigenvalue is the factor by which a corresponding [[Eigenvector|eigenvector]] is scaled. They become particularly important in solving [[Partial Differential Equation|partial differential equations]] using the method of [[Separation of Variables Method|separation of variables]]
 

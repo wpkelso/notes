@@ -1,5 +1,8 @@
 ---
-aliases: ["Pre-History"]
+aliases:
+  - Pre-History
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 #history 
 A period encompassing 99+% of all of human history, before any surviving written records were created. 

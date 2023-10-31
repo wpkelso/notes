@@ -1,5 +1,8 @@
 ---
-aliases: ["Syntax Directed Analysis"]
+aliases:
+  - Syntax Directed Analysis
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 #compilers 
 To figure out if the program has valid meaning:

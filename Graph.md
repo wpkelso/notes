@@ -1,5 +1,6 @@
 ---
-tags:[discrete_mathematics, data_structures, programming, mathematics, graph_theory, set_theory]
+created: 2023-09-08T14:31
+updated: 2023-09-12T14:53
 ---
 
 # Graph

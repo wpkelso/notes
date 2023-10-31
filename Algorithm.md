@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #programming #OOP #data_structures
 
 An algorithm describes a sequence of steps to solve a computational problem or perform a calculation. They can be described and implemented in a large amount of ways, be it plain English, pseudo-code, directly in a programming language, in hardware, etc.

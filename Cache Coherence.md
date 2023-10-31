@@ -1,5 +1,10 @@
 ---
-tags: [computer_architecture, parallel_computing, electronics]
+tags:
+  - computer_architecture
+  - parallel_computing
+  - electronics
+created: 2023-09-13T13:31
+updated: 2023-10-18T08:42
 ---
 
 # Cache Coherence

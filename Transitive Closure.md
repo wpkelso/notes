@@ -1,5 +1,12 @@
 ---
-tags: [discrete_mathematics, graph_theory, programming, mathematics, set_theory]
+tags:
+  - discrete_mathematics
+  - graph_theory
+  - programming
+  - mathematics
+  - set_theory
+created: 2023-10-17T17:01
+updated: 2023-10-17T17:19
 ---
 
 # Transitive Closure

@@ -1,5 +1,9 @@
 ---
-tags: [electronics, circuits]
+tags:
+  - electronics
+  - circuits
+created: 2023-10-03T16:17
+updated: 2023-10-03T16:21
 ---
 
 # Kirchoff’s Laws

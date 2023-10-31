@@ -1,5 +1,10 @@
 ---
-tags: [mathematics, logic, set_theory]
+tags:
+  - mathematics
+  - logic
+  - set_theory
+created: 2023-09-22T15:16
+updated: 2023-10-17T18:32
 ---
 
 # Equinumerosity

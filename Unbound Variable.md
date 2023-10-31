@@ -1,6 +1,8 @@
 ---
 aliases: Free Variable
 tags: discrete_mathematics, logic, mathematics
+created: 2023-10-24T17:36
+updated: 2023-10-30T08:57
 ---
 
 # Unbound Variable

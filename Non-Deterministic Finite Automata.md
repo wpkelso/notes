@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers #automata 
 An example of a [[Finite Automata|finite automata]] where multiple edges with the same symbols are allowed to leave a state. Generally, these are bad for computers because they would have to guess which way to go on a transition. However, they are helpful for representing a large class of regular expressions.
 

@@ -1,5 +1,12 @@
 ---
-tags: [programming, data_structures, discrete_mathematics, mathematics, graph_theory]
+tags:
+  - programming
+  - data_structures
+  - discrete_mathematics
+  - mathematics
+  - graph_theory
+created: 2023-09-08T14:31
+updated: 2023-10-17T16:45
 ---
 
 # Binary Tree

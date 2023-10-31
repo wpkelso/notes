@@ -1,5 +1,6 @@
 ---
-tags:[discrete_mathematics, programming, data_structures, mathematics]
+created: 2023-09-08T14:31
+updated: 2023-09-14T08:56
 ---
 # Tree
 

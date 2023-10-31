@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-10-18T08:42
+---
 #computer_architecture 
 Essentially asks, “In how many different positions in the [[Cache|cache]] can a memory block be located?”
 

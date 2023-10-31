@@ -1,6 +1,8 @@
 ---
 aliases: L-System
 tags: mathematics, discrete_mathematics
+created: 2023-10-26T08:36
+updated: 2023-10-26T08:46
 ---
 
 # Lindenmeyer System

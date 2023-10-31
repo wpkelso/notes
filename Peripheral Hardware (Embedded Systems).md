@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-10-18T08:42
+---
 #embedded_systems
 
 Embedded systems often work with peripheral hardware in conjunction with software to achieve [[Task (OS)|tasks ]]. These peripherals will allow for actions such as timing, interrupts, bypassing the processor to deal with [[Memory|memory]] or conversion between digital and analog signals.

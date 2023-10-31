@@ -1,5 +1,7 @@
 ---
 tags: language, grammar, mathematics, logic
+created: 2023-10-30T10:21
+updated: 2023-10-30T10:25
 ---
 
 # Predicate

@@ -1,5 +1,7 @@
 ---
 tags: parallel_computing, computer_architecture, programming
+created: 2023-10-25T13:58
+updated: 2023-10-25T14:09
 ---
 
 # Sequential Consistency

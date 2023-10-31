@@ -27,11 +27,17 @@
             }
           },
           {
-            "id": "adb7cc51ad4b5a53",
+            "id": "fd04630d851ee37f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Formula",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formula.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":96},\"to\":{\"line\":23,\"ch\":96}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -41,14 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amplifier Frequency Response.md",
+                "file": "First-Order Language.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c7f822899462bea3",
+            "id": "c5607ea39a8044a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -62,35 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amplifier.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cdc07e6ddb21a85e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multi-Stage Amplifier.md",
+                "file": "Term.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -119,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amplifier Frequency Response.md",
+                "file": "Term.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amplifier Frequency Response.md",
+                "file": "Term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amplifier Frequency Response.md"
+                "file": "Term.md"
               }
             }
           },
@@ -317,21 +302,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-attachment-name-formatting:Export Attachments": false,
-      "obsidian-attachment-name-formatting:Export Unused Attachments": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-attachment-name-formatting:Export Attachments": false,
+      "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "adb7cc51ad4b5a53",
+  "active": "c5607ea39a8044a3",
   "lastOpenFiles": [
-    "Multi-Stage Amplifier.md",
+    "First-Order Language.md",
+    "Term.md",
+    "Formula.md",
     "Amplifier Frequency Response.md",
+    "Multi-Stage Amplifier.md",
     "Amplifier.md",
     "Finite Automata.md",
-    "Formula.md",
-    "First-Order Language.md",
     "Predicate.md",
     "Unbound Variable.md",
     "Inner Product of Vectors.md",
@@ -351,7 +337,6 @@
     "Sequential Consistency.md",
     "Non-Inverting Amplifiers.md",
     "Trusted Execution Environment.md",
-    "Predicate Logic.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",

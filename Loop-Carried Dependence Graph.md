@@ -1,5 +1,10 @@
 ---
-tags: [graph_theory, parallel_computing, programming]
+tags:
+  - graph_theory
+  - parallel_computing
+  - programming
+created: 2023-10-17T11:25
+updated: 2023-10-17T11:30
 ---
 
 # Loop-Carried Dependence Graph

@@ -1,5 +1,10 @@
 ---
-tags: [microelectronics, electronics, circuits]
+tags:
+  - microelectronics
+  - electronics
+  - circuits
+created: 2023-10-18T12:36
+updated: 2023-10-30T11:52
 ---
 
 # Amplifier

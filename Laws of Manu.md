@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #literature #religion #hinduism
 
 One of the many legal texts and and constitution among the many [[Dharmasatras]] of [[Hinduism]]. They were set up to be "omniscient," and described precisely the [[Dharma|dharma]] a person must follow.

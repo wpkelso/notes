@@ -23,5 +23,8 @@
   "quick-latex",
   "obsidian-attachment-name-formatting",
   "improved-vimcursor",
-  "vim-toggle"
+  "vim-toggle",
+  "update-time-on-edit",
+  "typewriter-mode",
+  "highlightr-plugin"
 ]

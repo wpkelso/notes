@@ -1,5 +1,10 @@
 ---
-tags: [graph_theory, mathematics, discrete_mathematics]
+tags:
+  - graph_theory
+  - mathematics
+  - discrete_mathematics
+created: 2023-09-24T14:46
+updated: 2023-09-24T14:53
 ---
 
 # Multigraph

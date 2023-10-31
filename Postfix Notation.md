@@ -1,6 +1,13 @@
 ---
-aliases: [Reverse Polish Notation, Polish Postfix Notation]
-tags: [mathematics, discrete_mathematics, programming]
+aliases:
+  - Reverse Polish Notation
+  - Polish Postfix Notation
+tags:
+  - mathematics
+  - discrete_mathematics
+  - programming
+created: 2023-10-05T08:57
+updated: 2023-10-05T09:07
 ---
 
 # Postfix Notation

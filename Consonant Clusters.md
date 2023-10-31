@@ -1,5 +1,9 @@
 ---
-tags: [language, grammar]
+tags:
+  - language
+  - grammar
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 A consonant cluster occurs when two or more consonants appear in succession without any vowel sounds between them.
 

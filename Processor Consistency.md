@@ -1,5 +1,7 @@
 ---
 tags: parallel_computing, computer_architecture
+created: 2023-10-23T14:01
+updated: 2023-10-24T16:16
 ---
 
 # Processor Consistency

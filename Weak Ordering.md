@@ -1,5 +1,7 @@
 ---
 tags: computer_architecture, parallel_computing
+created: 2023-10-23T14:17
+updated: 2023-10-23T14:21
 ---
 
 # Weak Ordering

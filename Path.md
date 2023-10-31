@@ -1,5 +1,11 @@
 ---
-tags: [discrete_mathematics, mathematics, compilers, graph_theory]
+tags:
+  - discrete_mathematics
+  - mathematics
+  - compilers
+  - graph_theory
+created: 2023-09-08T14:31
+updated: 2023-09-24T15:03
 ---
 
 # Path

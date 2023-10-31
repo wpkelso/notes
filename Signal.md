@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #signal_analysis 
 A physical quantity that varies with some independent variable that can be used to convey information.
 

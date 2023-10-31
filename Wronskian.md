@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #mathematics #differential_equations 
 A [[Determinant|determinant]] often used in the study of [[Differential Equation|differential equations]], often used to show [[Linear Independence|linear independence]] in a set of solutions.
 

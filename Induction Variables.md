@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers #programming 
 An **induction variable** is a variable that gets increased or decreased by a fixed amount on every iteration of a loop, or that is a linear function of another induction variable. [[Induction Variable Analysis]] is used to find these induction variables, and [[Strength Reduction]] is used to simplify them.
 

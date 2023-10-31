@@ -1,5 +1,10 @@
 ---
-tags: [graph_theory, discrete_mathematics, mathematics]
+tags:
+  - graph_theory
+  - discrete_mathematics
+  - mathematics
+created: 2023-09-24T16:31
+updated: 2023-09-24T16:31
 ---
 
 # Eulerian Circuit

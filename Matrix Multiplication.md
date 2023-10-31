@@ -1,5 +1,11 @@
 ---
-tags: [mathematics, discrete_mathematics, linear_algebra, programming]
+tags:
+  - mathematics
+  - discrete_mathematics
+  - linear_algebra
+  - programming
+created: 2023-10-08T17:39
+updated: 2023-10-08T17:55
 ---
 
 # Matrix Multiplication

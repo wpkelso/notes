@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #machine_learning #mathematics  
 Let $C_1,...,C_K$ be a set of observations
 **Assumptions**:

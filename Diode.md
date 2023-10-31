@@ -1,5 +1,10 @@
 ---
-tags: [chemistry, electronics, circuits]
+tags:
+  - chemistry
+  - electronics
+  - circuits
+created: 2023-09-08T14:31
+updated: 2023-09-08T16:58
 ---
 # Diode
 Constructed by depositing a p-type [[Semiconductor|semiconductor]] on top of an n-type semiconductor.

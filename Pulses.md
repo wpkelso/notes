@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #signal_analysis 
 [[Signal]] consisting of a single value over a single period of time
 $$p(t)=u(t)-u(t-\tau)=

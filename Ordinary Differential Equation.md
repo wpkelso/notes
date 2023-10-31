@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #mathematics #differential_equations 
 ## Definition
 A [[Differential Equation]] where the unknowns consists of one or more functions of one [[Variable|variable]], involving the derivatives of those functions.

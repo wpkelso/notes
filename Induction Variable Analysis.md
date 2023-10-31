@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers #programming 
 Induction variable analysis is the [[Algorithm|algorithm]] by which [[Induction Variables|induction variables]] are found within a program in [[Static Single-Assignment|SSA form]]. A major limit of this algorithm however is that it can only detect linear induction variables.
 

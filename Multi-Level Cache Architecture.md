@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #computer_hardware #computer_architecture 
 
 System using multiple levels of [[Cache|caches]] to try and optimize the cache more. Generally, the first level is quite small, allowing for a reduced hit time, while the second level is larger, creating a decrease in the miss-rate. *More levels are possible beyond the two mentioned here.*

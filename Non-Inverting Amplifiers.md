@@ -1,5 +1,7 @@
 ---
 tags: microelectronics, electronics, circuits
+created: 2023-10-25T11:48
+updated: 2023-10-25T11:50
 ---
 
 # Non-Inverting Amplifiers

@@ -1,5 +1,10 @@
 ---
-tags: [circuits, electronics, microelectronics]
+tags:
+  - circuits
+  - electronics
+  - microelectronics
+created: 2023-10-18T15:42
+updated: 2023-10-18T15:43
 ---
 
 # Load Line

@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #history 
 ## Important or Key Characteristics
 - Most located in the upland hill country of the [[Fertile Crescent]]

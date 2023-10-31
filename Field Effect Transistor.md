@@ -1,6 +1,12 @@
 ---
-aliases: [FET]
-tags: [electronics, circuits, microelectronics]
+aliases:
+  - FET
+tags:
+  - electronics
+  - circuits
+  - microelectronics
+created: 2023-09-27T12:46
+updated: 2023-10-24T17:26
 ---
 
 # Field Effect Transistor

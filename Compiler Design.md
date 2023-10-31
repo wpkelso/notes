@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers 
 ## Key Goals
 - **Produce very high quality code:** Compilers contain a large set of optimizations and analyses that are meant to make the code faster and/or smaller

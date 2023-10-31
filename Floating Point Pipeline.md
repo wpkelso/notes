@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #computer_architecture 
 A [[Pipelining|pipelined]] data-path that supports [[IEEE Floating-Point Representation|floating-point]] operations, through the use of floating-point [[Register|registers]] and floating-point [[Instruction Set Architecture|instructions]]. Of these instructions, there are 2 types: single precision (32-bit, .S) and double precision (64-bit, .D)
 

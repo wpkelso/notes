@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-10-18T08:42
+---
 #computer_hardware #computer_architecture 
 [[Cache]] policies are a set of rules and [[Algorithm|algorithms]] that dictate how a cache handles certain operations such as writes as well as replacement of blocks when needed.
 

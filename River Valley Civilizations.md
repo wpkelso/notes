@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #history
 Primarily agrarian civilizations that grew up around the banks of a major river in ancient times. The river gave the inhabitants a reliable source of drinking water in addition to fertile land with which to grow crops, allowing civilizations to begin and flourish.
 

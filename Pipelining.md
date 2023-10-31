@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #computer_architecture 
 A case of [[Instruction-Level Parallelism|instruction-level parallelism]] where different [[Instruction Set Architecture|instructions]] use the [[Computer Processor|processor]] at the same time.
 

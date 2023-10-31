@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-10-18T08:42
+---
 [[Hazard|Hazards]] that originate from memory dependencies, where [[Memory Instructions|Load/Store instructions]] access the same [[Memory|memory locations]]. To generate a hazard, the involved load/store instructions should access the memory [[Out-Of-Order Execution|out-of-order]].
 
 ## Types

@@ -1,5 +1,8 @@
 ---
-aliases: ["Orbits Equation"]
+aliases:
+  - Orbits Equation
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
 ---
 #mathematics 
 **Definition:** If a first order [[Ordinary Differential Equation|ODE]] is a [[Total Differentiation|total differentiation]] of $u(x,y)$, then it is an exact equation and $u(x,y)=C$ is a solution.

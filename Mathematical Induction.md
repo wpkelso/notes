@@ -1,5 +1,9 @@
 ---
-tags: [mathematics, discrete_mathematics]
+tags:
+  - mathematics
+  - discrete_mathematics
+created: 2023-09-12T13:58
+updated: 2023-09-12T14:18
 ---
 
 # Mathematical Induction

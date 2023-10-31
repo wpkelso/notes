@@ -1,5 +1,7 @@
 ---
 tags: parallel_computing, computer_architecture, compilers, programming
+created: 2023-10-25T10:54
+updated: 2023-10-25T11:11
 ---
 
 # Trusted Execution Environment

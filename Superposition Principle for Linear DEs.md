@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #differential_equations #mathematics 
 >[!info] Theorem
 >If $y_{1}$ is a solution to the [[Ordinary Differential Equation|differential equation]] $$ay''+by'+cy=f_1(t)$$

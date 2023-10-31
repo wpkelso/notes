@@ -1,5 +1,9 @@
 ---
-tags: [circuits, electronics]
+tags:
+  - circuits
+  - electronics
+created: 2023-10-03T16:19
+updated: 2023-10-03T16:20
 ---
 
 # Ohm’s Law

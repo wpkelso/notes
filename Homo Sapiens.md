@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #history #early_man 
 
 The “Modern” human species, [[Homo Sapiens]] succeeded in part due ot their ability to exploit a large range of environments. They gathered plants and hunted animals, created the first recorded art (not believed to be intended for decoration), and used improved weapons including missiles and projectiles.

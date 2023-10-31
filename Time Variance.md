@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #signal_analysis 
 A system is time invariant if it behaves in the same way regardless of the current time
 

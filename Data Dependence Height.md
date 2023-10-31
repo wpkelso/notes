@@ -1,3 +1,7 @@
+---
+created: 2023-09-08T14:31
+updated: 2023-09-08T14:31
+---
 #compilers 
 A [[Heuristic|heuristic]] measure of how many dependences must be traversed to reach the end of the [[Data Dependence Graph|data dependence graph]]. This includes a notion of execution latency, [[Data Dependence|data dependence]], ignores the limitations of the [[Computer Processor|processor]], and means that earlier instructions have a greater height than later ones.
 

@@ -1,5 +1,10 @@
 ---
-tags: [discrete_mathematics, mathematics, machine_learning]
+tags:
+  - discrete_mathematics
+  - mathematics
+  - machine_learning
+created: 2023-09-08T14:31
+updated: 2023-09-12T08:44
 ---
 
 # Vector Space
