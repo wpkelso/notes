@@ -26,5 +26,7 @@
   "vim-toggle",
   "update-time-on-edit",
   "typewriter-mode",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-auto-hide",
+  "maximise-active-pane-obsidian"
 ]

@@ -6,8 +6,8 @@
   "baseFontSize": 18,
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "typomagical-overrides",
-    "flexoki"
+    "flexoki",
+    "typomagical-overrides"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "Segoe UI Variable Text,Open Sans",

@@ -3,12 +3,11 @@
   "pane-relief@@pane-relief-pane-numbering": true,
   "typomagical-text@@body-ligatures": true,
   "typomagical-text@@blockquote": "blockquote-plain",
-  "typomagical-text@@callout-style": "callout-default",
+  "typomagical-text@@callout-style": "callout-icon-only",
   "typomagical-colour@@theme-variant": "obsidian",
-  "typomagical-title@@font-title": "Bitter",
+  "typomagical-title@@font-title": "Amiri",
   "typomagical-title@@title-weight": 650,
   "typomagical-title@@title-gradient": "ss-title-solid",
-  "typomagical-text@@font-default": "Alegreya Sans",
   "typomagical-text@@link-font": "ss-links-sans",
   "typomagical-text@@callout-quote-style": false,
   "Appearance-light@@card-layout-open-light": true,
@@ -17,5 +16,6 @@
   "Editor@@h1-divider-on": false,
   "Editor@@h1-color-select": "h1-color-default",
   "typomagical-text@@alignment": "align-justified",
-  "typomagical-text@@ordered-lists": "circled-ol"
+  "typomagical-text@@ordered-lists": "circled-ol",
+  "typomagical-text@@font-default": "Alegreya Sans"
 }

@@ -40,69 +40,42 @@
                   "title": "First-Order Language",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"First-Order Language.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":224},\"to\":{\"line\":11,\"ch\":224}},\"scroll\":11.125715594229447}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":173},\"to\":{\"line\":59,\"ch\":173}},\"scroll\":44.069806560134566}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formula.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6b723d86d1a4932a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unbound Variable.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c5607ea39a8044a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Term",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Term.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":12.330618892508143}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Induction.md",
+                "file": "Model.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8f1b5de8e157a1ac",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field Effect Transistor.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -131,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Induction.md",
+                "file": "Field Effect Transistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Induction.md",
+                "file": "Field Effect Transistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Induction.md"
+                "file": "Field Effect Transistor.md"
               }
             }
           },
@@ -336,12 +309,16 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "c5607ea39a8044a3",
+  "active": "8f1b5de8e157a1ac",
   "lastOpenFiles": [
-    "Term.md",
-    "Unbound Variable.md",
-    "Formula.md",
+    "Field Effect Transistor.md",
+    "Model.md",
+    "Mathematical Induction.md",
     "First-Order Language.md",
+    "Syntax.md",
+    "Formula.md",
+    "Unbound Variable.md",
+    "Term.md",
     "Amplifier Frequency Response.md",
     "Multi-Stage Amplifier.md",
     "Amplifier.md",
@@ -351,7 +328,6 @@
     "Object.md",
     "Server Computing Classification.md",
     "Amplification.md",
-    "Field Effect Transistor.md",
     "Confidential Computing.md",
     "Intel Software Guard Extension.md",
     "Intel Trust Domain Extension.md",
@@ -361,9 +337,6 @@
     "Processor Consistency.md",
     "Release Consistency.md",
     "Weak Ordering.md",
-    "Sequential Consistency.md",
-    "Non-Inverting Amplifiers.md",
-    "Trusted Execution Environment.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",

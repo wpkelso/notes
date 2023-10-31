@@ -164,7 +164,7 @@
     "Max-Heap.md": "9c4bf305ba86f1f2147ae823e017cd69bfdb9deb18953b3148970e0f66a1169e",
     "Matrix Multiplication.md": "7a990ab66e32e7da8b8f1a87bfc6964aeb51295c1d3c0880c6e72401d7efbeba",
     "Mathematical Modelling.md": "cdbc7a8f74a8f126a2cf49b10e14283447b011a30315c7b16f7e83e178ed362a",
-    "Mathematical Induction.md": "271476f668b760cc3e9bd5eeca141241ed4c136f6711fc076d5a60aa5faf5470",
+    "Mathematical Induction.md": "77961dbf2abb232c43a09588842b326700d290721bff1cc4a65f262dcc453d53",
     "Manyoshu.md": "491f4a28ecdd8eee1305c233cbce5efff2e5e80bb186c2070c90b155ea0bb3ff",
     "Mahayana Buddhism.md": "c3b66350efd9193b18bb732f801dab42a17662faa67d5d35f0ad753606ed0cd0",
     "Machine Learning.md": "eb2098d906956e7ffe2742bf05d88769052346d835423282ada37bcb473a4606",
@@ -259,7 +259,7 @@
     "First-Order Language.md": "8e41315f6ae95d44718e39efd9c8776113bab2f400341afafcab591626f36029",
     "First Order Linear ODE.md": "b88fe6dc958b1b4ea3eba1ef00520c6be6cb966f28a1919b80589908a3401e04",
     "Finite Automata.md": "8a3069768816b0dd1376884822dd9e67dad96013c4f9b883701651b8caf8c252",
-    "Field Effect Transistor.md": "fc293439d8335b7bcdf59f6cb608c52db0b9d93debec2c3abe93be6758f5eef1",
+    "Field Effect Transistor.md": "bbd413745bde16c59777b77ccd75338e22b3182563f4f23b080dfde3312ab321",
     "Fibonacci Series.md": "f2124458553eafcbbd896305936d4cb43c419378181a7e8fea25de734e2a2f86",
     "Fair Scheduling (OS).md": "eb7b25899efe3668ed83f65aeb84c5483ad0eda943eaf6cdc29f507fa6275d20",
     "Exponential Function.md": "a999dce6efca797571863b7628ae106e7b12fab78b3afd4177a000f8a28d8848",
@@ -386,6 +386,8 @@
     "Abstract Data Type.md": "45a4cd28f8fbab229f0ab36faad4a2fb7a2c543f21c40aa8b0dca1b6a30c7709",
     "Abrahamic Faith.md": "574e59bd577da7a336a27854043c9155d9eb8db77d2bca87012e61c337669f4c",
     "1001 Nights.md": "f69464312250ac58ec743fcc4143fad09bc90a0bb897f00b2f179eaa89f5e3ec",
-    "Term.md": "b007b6b16f890861a90f96c08f4e8fdd5675a4bf2d8c3a5bedf65e18909443ff"
+    "Term.md": "b007b6b16f890861a90f96c08f4e8fdd5675a4bf2d8c3a5bedf65e18909443ff",
+    "Syntax.md": "b3fe66991c35dfa476e7e4be6f464522cfb43ce609fe028ef96200c856205ef0",
+    "Model.md": "eab3325ebc8dd55edb3a67ead532abc6c5c9a304c5e8f63284c8293938aebade"
   }
 }

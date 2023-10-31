@@ -941,6 +941,7 @@ preserves
 predicates
 proofs
 principle
+plainer
 hardware
 hierarchy
 how
@@ -1478,6 +1479,7 @@ active
 ac
 arity
 atomic
+already
 These
 True
 The
@@ -1607,6 +1609,7 @@ force
 falsity
 formulas
 formal
+formulae
 Common
 Counters
 Computing
@@ -1774,6 +1777,7 @@ Hybrid
 Heat
 Hangul
 Hunminjeongeum
+Hypothesis
 methodology
 more
 must
@@ -2103,6 +2107,7 @@ Binary
 Below
 Broadly
 Brute
+Basis
 Use
 Unswitching
 Useful
@@ -2334,6 +2339,7 @@ SGX
 Stage
 Subformula
 Structure
+Structural
 Figures
 Following
 Forward

@@ -6,7 +6,7 @@ tags:
   - circuits
   - microelectronics
 created: 2023-09-27T12:46
-updated: 2023-10-24T17:26
+updated: 2023-10-31T14:02
 ---
 
 # Field Effect Transistor
@@ -31,7 +31,7 @@ Additionally, MOSFETS can either be *depletion-type* or *enhancement-type*. NMOS
 
 ### Cutoff
 
-Occurs when $V_{GS} < V_{T}$. In this region, no inversion layer is formed, and drain and source are separated by a depleted channel. This results in $I_{DS} \approx 0$
+Occurs when $V_{GS} < V_{T}$. In this region, no inversion layer is formed, and drain and source are separated by a depleted channel. This results in $I_{DS} \approx 0$, as well as $i_{B}=i_{G}=0$.
 
 ### Linear (Triode/Ohmic)
 
