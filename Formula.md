@@ -1,7 +1,7 @@
 ---
 tags: mathematics, logic, discrete_mathematics, programming
 created: 2023-09-25T09:07
-updated: 2023-10-31T12:13
+updated: 2023-10-31T12:44
 ---
 
 # Formula
@@ -22,3 +22,11 @@ The set of formulas for a [[First-Order Language|first-order language]] is defin
 
 >[!info] 
 >For ease, rule 2 and rule 3 are often written as $t_{1} R t_{2}$ and $t_{1}=t_{2}$ respectively
+
+### Subformula
+
+The subformula of a formula can be defined inductively with the following:
+1. If $A$ is atomic, then the only subformula of $A$ is $A$ itself
+2. If $A$ is of the form $\lnot B$, then the subformulae of $A$ are $A$ itself and all of the subformulae of $B$
+3. If $A$ is of the form $B * C$, where $*$ is any of $(\land, \lor, \to)$, then the subformulae of $A$ are $A$ itself, all subformulae of $B$, and all subformula of $C$
+4. If $A$ is of the form $\forall v B$ or $\exists v B$, then its subformulae consists of $A$ itself, and all subformulae of $B$

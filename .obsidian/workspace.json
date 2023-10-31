@@ -30,31 +30,31 @@
             "id": "fd04630d851ee37f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Formula",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formula.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":96},\"to\":{\"line\":23,\"ch\":96}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "First-Order Language",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"First-Order Language.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":224},\"to\":{\"line\":11,\"ch\":224}},\"scroll\":11.125715594229447}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First-Order Language.md",
-                "mode": "source",
+                "file": "Formula.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "c5607ea39a8044a3",
+            "id": "6b723d86d1a4932a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -68,14 +68,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Term.md",
+                "file": "Unbound Variable.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c5607ea39a8044a3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Term",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Term.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":12.330618892508143}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Induction.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -104,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Term.md",
+                "file": "Mathematical Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Term.md",
+                "file": "Mathematical Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Term.md"
+                "file": "Mathematical Induction.md"
               }
             }
           },
@@ -311,15 +338,15 @@
   },
   "active": "c5607ea39a8044a3",
   "lastOpenFiles": [
-    "First-Order Language.md",
     "Term.md",
+    "Unbound Variable.md",
     "Formula.md",
+    "First-Order Language.md",
     "Amplifier Frequency Response.md",
     "Multi-Stage Amplifier.md",
     "Amplifier.md",
     "Finite Automata.md",
     "Predicate.md",
-    "Unbound Variable.md",
     "Inner Product of Vectors.md",
     "Object.md",
     "Server Computing Classification.md",

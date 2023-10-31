@@ -1,9 +1,8 @@
 ---
-tags:
-  - mathematics
-  - discrete_mathematics
+aliases: Structural Induction
+tags: mathematics, discrete_mathematics, logic
 created: 2023-09-12T13:58
-updated: 2023-09-12T14:18
+updated: 2023-10-31T13:17
 ---
 
 # Mathematical Induction
@@ -20,3 +19,7 @@ Like any formal proof, proofs by induction follow a certain structure.
 >2. Inductive Case: Prove that for any $k \geq 0$ if $P(k)$ is true, then $P(k+1)$ is true as well. (As this is an inductive hypothesis, assume $P(k)$ is true).
 >Assuming both parts are successful, the conclusion can be “Therefore by the principle of mathematical induction, the statement $P(n)$ is true for all $n\geq 0$.”
 *It should be noted that 0 can be replaced with another number should the bounds of the statement be nonzero.*
+
+>[!summary] In plainer English…
+>Inductive Basis: Prove it for the simpler terms/formulae
+>Inductive Step: Prove it for the complex term/formulae by assuming it’s already true for the simpler terms/formulae used to build them (what’s known as the Inductive Hypothesis)
