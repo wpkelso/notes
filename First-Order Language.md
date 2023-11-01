@@ -1,10 +1,7 @@
 ---
-tags:
-  - mathematics
-  - logic
-  - language
+tags: mathematics, logic, language
 created: 2023-09-08T14:31
-updated: 2023-10-31T12:14
+updated: 2023-11-01T09:09
 ---
 
 # First-Order Language
@@ -24,9 +21,10 @@ Like any language, first-order languages have both an [[Alphabet|alphabet]] and 
 | $\neg$  | negation (“not”)         |
 | $\land$ | conjunction (“and”)      |
 | $\lor$  | disjunction (“or”)       |
-| $\to$   | conditional (“if, then”) | 
+| $\to$   | conditional (“if, then”) |
 
 #### Quantifiers
+
 | Symbol    | Meaning               |
 | --------- | --------------------- |
 | $\forall$ | for all               |
@@ -46,14 +44,14 @@ Like any language, first-order languages have both an [[Alphabet|alphabet]] and 
 
 1. Constants: $c_{0}, c_{1}, c_{2}, \dots$
 2. [[Predicate|Predicates]]: $R_{0}, R_{1}, R_{2}, \dots$
-	- The *arity* ($R^{n}$ where n is a positive integer) denotes the number of operators the predicate holds/involves
-	- *Ex.* $<$ in the language of arithmetic
-1. [[Function|Functions]]: $f_{0}, f_{1}, f_{2}, \dots$
-	- As with predicates, functions also have an arity, denoting how many inputs the function takes
-	- *Ex.* $+$, a binary function in the language of arithmetic
+    - The _arity_ ($R^{n}$ where n is a positive integer) denotes the number of operators the predicate holds/involves
+    - _Ex._ $<$ in the language of arithmetic
+3. [[Function|Functions]]: $f_{0}, f_{1}, f_{2}, \dots$
+    - As with predicates, functions also have an arity, denoting how many inputs the function takes
+    - _Ex._ $+$, a binary function in the language of arithmetic
 
->[!info] Definition
-> The set of these non-logical symbols is referred to as the *signature* of the language.
+> [!info] Definition
+> The set of these non-logical symbols is referred to as the _signature_ of the language.
 
 ## Structures
 

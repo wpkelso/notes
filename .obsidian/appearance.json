@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Typomagical",
   "translucency": false,
-  "interfaceFontFamily": "Segoe UI Variable Display,Inter",
+  "interfaceFontFamily": "Inter",
   "baseFontSize": 18,
   "theme": "moonstone",
   "enabledCssSnippets": [
@@ -10,7 +10,7 @@
     "typomagical-overrides"
   ],
   "baseFontSizeAction": true,
-  "textFontFamily": "Segoe UI Variable Text,Open Sans",
-  "monospaceFontFamily": "Cascadia Mono,Roboto Mono",
+  "textFontFamily": "",
+  "monospaceFontFamily": "Cousine",
   "showViewHeader": true
 }

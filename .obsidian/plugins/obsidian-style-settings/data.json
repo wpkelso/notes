@@ -8,7 +8,7 @@
   "typomagical-title@@font-title": "Amiri",
   "typomagical-title@@title-weight": 650,
   "typomagical-title@@title-gradient": "ss-title-solid",
-  "typomagical-text@@link-font": "ss-links-sans",
+  "typomagical-text@@link-font": "ss-links-sc",
   "typomagical-text@@callout-quote-style": false,
   "Appearance-light@@card-layout-open-light": true,
   "Appearance-light@@theme-light-style-select": "theme-light-background-default",
@@ -17,5 +17,5 @@
   "Editor@@h1-color-select": "h1-color-default",
   "typomagical-text@@alignment": "align-justified",
   "typomagical-text@@ordered-lists": "circled-ol",
-  "typomagical-text@@font-default": "Alegreya Sans"
+  "typomagical-text@@font-default": "Spectral"
 }

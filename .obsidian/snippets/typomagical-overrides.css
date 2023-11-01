@@ -10,6 +10,11 @@
 	--link-unresolved-color: var(--text-normal);
 }
 
-.tag {
-	font-size: 0.8em;
+.multi-select-pill-content {
+  font-family: var(--font-monospace-override);
+}
+
+.metadata-container {
+  font-size: 12pt;
+  font-family: var(--font-monospace-override);
 }

@@ -73,6 +73,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "24c9cc9b46325dfc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiomatic Derivation System.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 2,
@@ -311,10 +332,11 @@
   },
   "active": "3eb1948ff5f862a8",
   "lastOpenFiles": [
+    "Axiomatic Derivation System.md",
+    "First-Order Language.md",
     "Model.md",
     "Field Effect Transistor.md",
     "Mathematical Induction.md",
-    "First-Order Language.md",
     "Syntax.md",
     "Formula.md",
     "Unbound Variable.md",
@@ -336,7 +358,6 @@
     "README.md",
     "Processor Consistency.md",
     "Release Consistency.md",
-    "Weak Ordering.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",

@@ -37,5 +37,21 @@
       ],
       "key": "-"
     }
+  ],
+  "obsidian-plugin-prettier:format-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-plugin-prettier:format-selection": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

@@ -28,5 +28,6 @@
   "typewriter-mode",
   "highlightr-plugin",
   "obsidian-auto-hide",
-  "maximise-active-pane-obsidian"
+  "maximise-active-pane-obsidian",
+  "obsidian-plugin-prettier"
 ]
