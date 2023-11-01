@@ -6,15 +6,15 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "workspace:undo-close-pane": 214,
-    "workspace:close": 214,
-    "workspace:close-window": 235,
-    "workspace:close-others": 214,
-    "workspace:close-tab-group": 214,
-    "workspace:close-others-tab-group": 214,
-    "obsidian-git:backup-and-close": 236,
-    "pane-relief:ordered-close": 214,
-    "obsidian-completr:completr-close-suggestion-popup": 214,
+    "workspace:undo-close-pane": 215,
+    "workspace:close": 215,
+    "workspace:close-window": 236,
+    "workspace:close-others": 215,
+    "workspace:close-tab-group": 215,
+    "workspace:close-others-tab-group": 215,
+    "obsidian-git:backup-and-close": 237,
+    "pane-relief:ordered-close": 215,
+    "obsidian-completr:completr-close-suggestion-popup": 215,
     "graph:open": 45,
     "workspace:toggle-pin": 2,
     "graph:open-local": 43,
@@ -118,7 +118,7 @@
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 57,
     "editor:toggle-italics": 24,
-    "switcher:open": 163,
+    "switcher:open": 164,
     "workspace:new-tab": 2,
     "obsidian-completr:completr-blacklist-current-word": 1,
     "app:open-help": 2,
@@ -137,6 +137,6 @@
     "highlightr-plugin:Yellow": 1,
     "markdown:toggle-preview": 15,
     "obsidian-editor-shortcuts:selectAllOccurrences": 1,
-    "maximise-active-pane-obsidian:maximise-active-pane": 5
+    "maximise-active-pane-obsidian:maximise-active-pane": 7
   }
 }
