@@ -27,34 +27,7 @@
             }
           },
           {
-            "id": "fd04630d851ee37f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "First-Order Language",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"First-Order Language.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":173},\"to\":{\"line\":59,\"ch\":173}},\"scroll\":44.069806560134566}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Model.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3eb1948ff5f862a8",
+            "id": "9892f2246477bf43",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -68,14 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Intel Software Guard Extension.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "24c9cc9b46325dfc",
+            "id": "9e28ad294c1049b0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -89,8 +62,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiomatic Derivation System.md",
-                "mode": "source",
+                "file": "Intel Trust Domain Extension.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a6163182f29ec83b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trusted Execution Environment.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -125,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Intel Trust Domain Extension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First-Order Language.md",
+                "file": "Intel Trust Domain Extension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First-Order Language.md"
+                "file": "Intel Trust Domain Extension.md"
               }
             }
           },
@@ -330,11 +324,14 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "3eb1948ff5f862a8",
+  "active": "9e28ad294c1049b0",
   "lastOpenFiles": [
+    "Trusted Execution Environment.md",
+    "Intel Software Guard Extension.md",
+    "Intel Trust Domain Extension.md",
     "Axiomatic Derivation System.md",
-    "First-Order Language.md",
     "Model.md",
+    "First-Order Language.md",
     "Field Effect Transistor.md",
     "Mathematical Induction.md",
     "Syntax.md",
@@ -351,13 +348,10 @@
     "Server Computing Classification.md",
     "Amplification.md",
     "Confidential Computing.md",
-    "Intel Software Guard Extension.md",
-    "Intel Trust Domain Extension.md",
     "Fractal.md",
     "Lindenmeyer System.md",
     "README.md",
     "Processor Consistency.md",
-    "Release Consistency.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
