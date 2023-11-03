@@ -25,72 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "c10cb86281bb8ead",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steiner Tree.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0264f70153afa513",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planar Graph.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bcfffc5710d5d3ab",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julia Set.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -119,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planar Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planar Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Planar Graph.md"
-              }
+              "state": {}
             }
           },
           {
@@ -324,11 +256,11 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "0264f70153afa513",
+  "active": "0880d2522b34966b",
   "lastOpenFiles": [
-    "Steiner Tree.md",
-    "Planar Graph.md",
     "Julia Set.md",
+    "Planar Graph.md",
+    "Steiner Tree.md",
     "Intel Software Guard Extension.md",
     "Trusted Execution Environment.md",
     "Intel Trust Domain Extension.md",

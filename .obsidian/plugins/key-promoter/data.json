@@ -125,7 +125,7 @@
     "editor:open-search": 1,
     "workspace:goto-tab-8": 1,
     "editor:open-link-in-new-leaf": 5,
-    "workspace:close": 8,
+    "workspace:close": 11,
     "obsidian-completr:completr-close-suggestion-popup": 7,
     "app:open-settings": 1,
     "vim-toggle:toggle-vim": 17,
