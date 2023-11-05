@@ -276,6 +276,9 @@ subformulae
 strategy
 situations
 statement
+substitute
+substituting
+substitution
 difference
 different
 deal
@@ -943,6 +946,7 @@ predicates
 proofs
 principle
 plainer
+presence
 hardware
 hierarchy
 how
@@ -1335,6 +1339,7 @@ capacitors
 concise
 conclusion
 crossing
+careful
 achieve
 allow
 actions
@@ -2345,6 +2350,7 @@ Subformula
 Structure
 Structural
 Steiner
+Substitution
 Figures
 Following
 Forward
@@ -2745,6 +2751,7 @@ Middle
 MOSFETS
 Multi
 Mathematical
+Much
 quasi
 qualitative
 quite
@@ -2753,6 +2760,7 @@ quantity
 quality
 questions
 quantifier
+quantifiers
 zero
 Quantitative
 Quality
