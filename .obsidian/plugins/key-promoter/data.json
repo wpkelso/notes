@@ -118,7 +118,7 @@
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 57,
     "editor:toggle-italics": 29,
-    "switcher:open": 172,
+    "switcher:open": 174,
     "workspace:new-tab": 2,
     "obsidian-completr:completr-blacklist-current-word": 1,
     "app:open-help": 2,
@@ -138,7 +138,7 @@
     "markdown:toggle-preview": 31,
     "obsidian-editor-shortcuts:selectAllOccurrences": 1,
     "maximise-active-pane-obsidian:maximise-active-pane": 8,
-    "obsidian-plugin-prettier:format-note": 10,
+    "obsidian-plugin-prettier:format-note": 11,
     "obsidian-plugin-prettier:format-selection": 1,
     "pane-relief:go-4th": 1
   }
