@@ -69,6 +69,7 @@ buffered
 bound
 builds
 bounds
+bypass
 size
 sexes
 same
@@ -573,6 +574,7 @@ thought
 technologies
 trade
 transitions
+therefore
 embedded
 each
 execute
@@ -688,6 +690,7 @@ exploration
 expressing
 ease
 easy
+estimate
 Embedded
 Examples
 Eventually
@@ -951,6 +954,7 @@ proofs
 principle
 plainer
 presence
+produces
 hardware
 hierarchy
 how
@@ -1118,6 +1122,7 @@ interface
 interacting
 influenced
 interpretations
+interpretation
 conjunction
 conversion
 compilers
@@ -1349,6 +1354,8 @@ conclusion
 crossing
 careful
 coast
+capacitor
+cutoff
 achieve
 allow
 actions
@@ -1497,6 +1504,8 @@ arity
 atomic
 already
 asia
+ary
+assignment
 These
 True
 The
@@ -2368,6 +2377,8 @@ Structure
 Structural
 Steiner
 Substitution
+Short
+SCTC
 Figures
 Following
 Forward
@@ -2776,6 +2787,7 @@ MOSFETS
 Multi
 Mathematical
 Much
+Method
 quasi
 qualitative
 quite
