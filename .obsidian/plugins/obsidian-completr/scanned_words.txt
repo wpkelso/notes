@@ -399,6 +399,7 @@ denoting
 drawn
 developed
 defining
+defines
 of
 often
 or
@@ -1116,6 +1117,7 @@ inductive
 interface
 interacting
 influenced
+interpretations
 conjunction
 conversion
 compilers
@@ -2527,6 +2529,7 @@ IC
 Induction
 Inductive
 Island
+Interpretation
 Will
 We
 What

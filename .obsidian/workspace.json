@@ -25,6 +25,27 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a04d866a3556e963",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Model.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "stacked": true
@@ -258,6 +279,7 @@
   },
   "active": "0880d2522b34966b",
   "lastOpenFiles": [
+    "Model.md",
     "Korea.md",
     "Japan.md",
     "Hangeul.md",
@@ -272,7 +294,6 @@
     "Trusted Execution Environment.md",
     "Intel Trust Domain Extension.md",
     "Axiomatic Derivation System.md",
-    "Model.md",
     "First-Order Language.md",
     "Field Effect Transistor.md",
     "Mathematical Induction.md",

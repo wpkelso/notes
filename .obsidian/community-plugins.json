@@ -6,7 +6,6 @@
   "tag-wrangler",
   "various-complements",
   "editing-toolbar",
-  "pane-relief",
   "obsidian-latex-suite",
   "obsidian-smart-typography",
   "settings-search",
@@ -29,5 +28,6 @@
   "highlightr-plugin",
   "obsidian-auto-hide",
   "maximise-active-pane-obsidian",
-  "obsidian-plugin-prettier"
+  "obsidian-plugin-prettier",
+  "pane-relief"
 ]
