@@ -1115,6 +1115,7 @@ induction
 inductive
 interface
 interacting
+influenced
 conjunction
 conversion
 compilers
@@ -1345,6 +1346,7 @@ concise
 conclusion
 crossing
 careful
+coast
 achieve
 allow
 actions
@@ -1492,6 +1494,7 @@ ac
 arity
 atomic
 already
+asia
 These
 True
 The
@@ -1545,6 +1548,7 @@ Transpose
 Terms
 Term
 Then
+Timeline
 for
 first
 from
@@ -1768,6 +1772,7 @@ PCs
 Punctuation
 Prove
 Planar
+Political
 Hardware
 Heuristics
 Hoist
@@ -1886,6 +1891,7 @@ microelectronics
 message
 multiplied
 meet
+mieum
 ready
 resource
 reach
@@ -2177,6 +2183,7 @@ gate
 globally
 guarantee
 guarantees
+giyeok
 linear
 latency
 list
@@ -2519,6 +2526,7 @@ Intel
 IC
 Induction
 Inductive
+Island
 Will
 We
 What
@@ -2626,6 +2634,7 @@ Load
 Local
 Lazy
 Let
+Literature
 no
 not
 non
@@ -2667,6 +2676,8 @@ notation
 nearly
 normal
 next
+nieun
+nation
 Register
 Range
 RHS
@@ -2709,6 +2720,7 @@ Reduction
 Relations
 Release
 Response
+Religion
 Major
 Move
 Made
@@ -2827,6 +2839,7 @@ Japanese
 Junction
 JFET
 Julia
+Joseon
 Zawi
 Zagros
 Velocity

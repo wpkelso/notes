@@ -1,8 +1,8 @@
 ---
 aliases: UEFI
-tags: computer_architecture. programming
+tags: computer_architecture, programming
 created: 2023-11-05T22:50
-updated: 2023-11-05T22:54
+updated: 2023-11-06T08:33
 ---
 
 # Unified Extensible Firmware Interface

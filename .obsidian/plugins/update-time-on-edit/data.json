@@ -187,7 +187,7 @@
     "Leibniz Formula.md": "721915fd5da4963d19487dcc5a80913db5b2d9c1ad4bac572cdb6c338304ae9f",
     "Laws of Manu.md": "cb52e0d28c299941023e934188e28148ec2924bccd8a8c674f4080411ce4dd30",
     "Laplace Transform.md": "ea095d85f3d75d73b0dabdab74e6ccc8e9376c69a5a8b745803420f0414a82e5",
-    "Korea.md": "71d5b7b4b4d1ae41f9a0a4dc3a5a3016426e198270185deb0747a2b276e94f41",
+    "Korea.md": "7813d068b7129cb5b8966005b92cd358b2a5878379fbbe988bac99d3b2ab07ce",
     "Kirchoff's Laws.md": "8d545dad6557ad56030c3f9cd40f78262ef0725790deb58f02053b7cffac65cd",
     "Keyword Modifiers.md": "a8b58159131ee48b4dbeef02452f1d1f9f060fb154a468b00b11d8b32da4b174",
     "Kamo no Chomei.md": "ccc51d23da0cb4f892f09e4827ed18585a23d371a94187361c3edbad0d4b2f28",
@@ -198,7 +198,7 @@
     "Japanese Traditional Poetry.md": "d5723fca4d5f3e2ccfc836612d3724885da6ecdf660778e8eae668bb016f4415",
     "Japanese Origin Myths.md": "34206836cc2bba71dda90dcc6ba33a458c7daec4f5e459146edbee93adaa8edb",
     "Japanese Literature.md": "34b1de4cb9f37b9fb5a0310b49ef85e6be2ee0dcbab4ab21c27194981f945e65",
-    "Japan.md": "7b9215c6d6051e8fbb13c3c7c3c577796191e8c5aabeacfbb7c4b561e4acef45",
+    "Japan.md": "7d484bb2548c3ccfc60cfd043f930169d277f3b085a902ca1b92b7e72d28b995",
     "Iterative Modulo Scheduling.md": "ea69a2b25d9a66d0b120a0e5fad0555fa41679383227c86654266bc8c25db76f",
     "Iterative Dataflow Analysis.md": "c9db7b4f250acd1d87fb373aa392f977492cb728ea5a8fed20466c116b06c5e0",
     "Isomorphism.md": "bef82139b2114b727a311f5e7199ad0b9848815bead27e59cf3c4c54e6bab3b5",
@@ -236,7 +236,7 @@
     "Heian Period.md": "9e4d1a708ac63710a74e30534549eacf28d7560eed202e5b4e8b9c0fd7f2d357",
     "Heap.md": "c83e28f4fc78069a3045542d8ea90917472576c85006c3967d1047ad5850105c",
     "Hash Table.md": "5ae3188fbc394f0a4799fb6590294fc8fb9b5aaa4d08c887711d58a0a5d41532",
-    "Hangeul.md": "c33f9e0c58c67d0208e1c3a7cac03691e47bf38b65b50fb1457e05ede642baf6",
+    "Hangeul.md": "bce343177dabca4701862837200fcb68d90121a6319a8607753f46e2a4ed0bec",
     "Han Dynasty.md": "2d256904fd481cf0bff9b267d4527b20e03550b911153993715e3a45636f2069",
     "Hamiltonian Path.md": "a5fe8b3d09fc9dfa0940dab55be7421c646e71b46953f731eb726250ef329e8d",
     "Graphical Intermediate Representation.md": "46cae7c6c70b24b86ff9c14fed23bbae586d986bd9aa14892e6998b7e0ec6774",
@@ -393,6 +393,6 @@
     "Steiner Tree.md": "4468306340fc712a3eec24f761641d1d7aed674686ec0fb43eae541ab54626d2",
     "Julia Set.md": "a2bae85426ead46a7f59caee2b2182276704126646a9d253e104a7a26ee62d7e",
     "Planar Graph.md": "c4183859ca9d311222e338dbd7db1d8e6738e2463c84ba294f635faf2d6d3e27",
-    "Unified Extensible Firmware Interface.md": "b7948bb86527be21812a56ea08626b78c3fd61517c42bde78777c1f85835b41a"
+    "Unified Extensible Firmware Interface.md": "d9aeb9f1abe2a50fda9453578c8040a2d5fee27e3aa2282dfa4f6f6531755920"
   }
 }
