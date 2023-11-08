@@ -67,6 +67,48 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "61f8601a92a04ab7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Release Consistency.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b7591beb9f81c038",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weak Ordering.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 2,
@@ -305,8 +347,10 @@
   },
   "active": "ebb2b62723d0db00",
   "lastOpenFiles": [
-    "Amplifier Frequency Response.md",
+    "Weak Ordering.md",
+    "Release Consistency.md",
     "Processor Consistency.md",
+    "Amplifier Frequency Response.md",
     "Sequential Consistency.md",
     "First-Order Language.md",
     "Model.md",
@@ -329,8 +373,6 @@
     "Syntax.md",
     "Multi-Stage Amplifier.md",
     "Amplifier.md",
-    "Finite Automata.md",
-    "Predicate.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
