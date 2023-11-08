@@ -46,6 +46,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ebb2b62723d0db00",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processor Consistency.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1,
@@ -284,6 +305,8 @@
   },
   "active": "d1bc3ab61e5ec3ef",
   "lastOpenFiles": [
+    "Processor Consistency.md",
+    "Sequential Consistency.md",
     "First-Order Language.md",
     "Model.md",
     "Amplifier Frequency Response.md",
@@ -308,8 +331,6 @@
     "Amplifier.md",
     "Finite Automata.md",
     "Predicate.md",
-    "Inner Product of Vectors.md",
-    "Object.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
