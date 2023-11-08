@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequential Consistency.md",
+                "file": "Processor Consistency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequential Consistency.md",
+                "file": "Processor Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequential Consistency.md"
+                "file": "Processor Consistency.md"
               }
             }
           },
@@ -303,13 +303,13 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "d1bc3ab61e5ec3ef",
+  "active": "ebb2b62723d0db00",
   "lastOpenFiles": [
+    "Amplifier Frequency Response.md",
     "Processor Consistency.md",
     "Sequential Consistency.md",
     "First-Order Language.md",
     "Model.md",
-    "Amplifier Frequency Response.md",
     "Korea.md",
     "Japan.md",
     "Hangeul.md",
