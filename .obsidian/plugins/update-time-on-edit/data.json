@@ -259,7 +259,7 @@
     "First-Order Language.md": "49cf9a8376746561bd6958c649ff6d9fe90e1c357f20497f1dfae8d4fd984bf5",
     "First Order Linear ODE.md": "b88fe6dc958b1b4ea3eba1ef00520c6be6cb966f28a1919b80589908a3401e04",
     "Finite Automata.md": "8a3069768816b0dd1376884822dd9e67dad96013c4f9b883701651b8caf8c252",
-    "Field Effect Transistor.md": "bbd413745bde16c59777b77ccd75338e22b3182563f4f23b080dfde3312ab321",
+    "Field Effect Transistor.md": "3e42f0ee2971474b657dec177548454507b946a7b83f9e26f431f2d14b8029d9",
     "Fibonacci Series.md": "f2124458553eafcbbd896305936d4cb43c419378181a7e8fea25de734e2a2f86",
     "Fair Scheduling (OS).md": "eb7b25899efe3668ed83f65aeb84c5483ad0eda943eaf6cdc29f507fa6275d20",
     "Exponential Function.md": "a999dce6efca797571863b7628ae106e7b12fab78b3afd4177a000f8a28d8848",
@@ -289,7 +289,7 @@
     "Dirac Delta Function.md": "524a1c648bdcec35646be9ca4203782e776e783015456cd4cfcc8ecb48b7fe63",
     "Diode.md": "11a4234c30c2109dbf4e9af714f4c44703e31620db064261b3a2ec3f587cb5f1",
     "Digital-to-Analog Converters.md": "72337610b4998e56aee94a87164d5bc37df8d8476f9f1b3c1618aab8ea2ad2d5",
-    "Digital Signals.md": "9618daa4a06e0db05b5cd14bc1920415eba0bb0a08deba36857c2f7e5e14af13",
+    "Digital Signals.md": "b2bbf38785cca427dbff9623db523dc3bbb5f000c0442fedd4a2696735d8f4ae",
     "Differential Equation.md": "7f964eb30c67a8b0c2d1f38a796dc75b192ec9c05d7f1c98f6d4e4ca6528309d",
     "Dictionary (Map).md": "ea35a4184ed1bccca18e7df514cd8cd70d16735d706d7b73ddf7973dec17147b",
     "Dharmasutras.md": "81754a5e373eeb316d19268f32c82d12d864bd338ec6d50998b89607fdaceed2",
@@ -395,6 +395,7 @@
     "Planar Graph.md": "c4183859ca9d311222e338dbd7db1d8e6738e2463c84ba294f635faf2d6d3e27",
     "Unified Extensible Firmware Interface.md": "d9aeb9f1abe2a50fda9453578c8040a2d5fee27e3aa2282dfa4f6f6531755920",
     "Communism.md": "5d359b71699b0fb6b29de2354debb3599cd0427f24f743fa97be5f07fa74dd40",
-    "Complete Set.md": "ced457e0942718a33c02bb5e6701fb260cbb71b29f8e9818560a4afe113cf219"
+    "Complete Set.md": "ced457e0942718a33c02bb5e6701fb260cbb71b29f8e9818560a4afe113cf219",
+    "Digital Logic.md": "3d84209daded2181e55537bd19f45e655e11f19e570d5f26fc2a6c36edbd5545"
   }
 }

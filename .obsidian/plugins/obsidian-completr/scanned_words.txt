@@ -741,6 +741,8 @@ Extensions
 Edges
 Every
 Extensible
+Exist
+Exists
 work
 with
 will
@@ -961,6 +963,7 @@ plainer
 presence
 produces
 politics
+piecewise
 hardware
 hierarchy
 how
@@ -1362,6 +1365,7 @@ careful
 coast
 capacitor
 cutoff
+continuous
 achieve
 allow
 actions
@@ -2386,6 +2390,7 @@ Steiner
 Substitution
 Short
 SCTC
+Similar
 Figures
 Following
 Forward
@@ -2548,6 +2553,7 @@ Induction
 Inductive
 Island
 Interpretation
+Impulse
 Will
 We
 What
@@ -2574,6 +2580,7 @@ Kelvin
 KVL
 KCL
 Kirchoff
+Kronecker
 Disadvantages
 Definition
 Dataflow
@@ -2623,6 +2630,7 @@ During
 Domain
 DFA
 Derivation
+Digital
 Loop
 Live
 Liveness

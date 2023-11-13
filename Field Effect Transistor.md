@@ -6,7 +6,7 @@ tags:
   - circuits
   - microelectronics
 created: 2023-09-27T12:46
-updated: 2023-10-31T14:02
+updated: 2023-11-13T11:57
 ---
 
 # Field Effect Transistor
