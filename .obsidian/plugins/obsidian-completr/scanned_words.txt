@@ -70,6 +70,7 @@ bound
 builds
 bounds
 bypass
+bring
 size
 sexes
 same
@@ -280,6 +281,8 @@ statement
 substitute
 substituting
 substitution
+sub
+sect
 difference
 different
 deal
@@ -691,6 +694,7 @@ expressing
 ease
 easy
 estimate
+economics
 Embedded
 Examples
 Eventually
@@ -787,6 +791,7 @@ width
 water
 wait
 wherein
+wing
 peripheral
 peripherals
 processor
@@ -955,6 +960,7 @@ principle
 plainer
 presence
 produces
+politics
 hardware
 hierarchy
 how
@@ -1724,6 +1730,7 @@ Confidential
 Computers
 Conversion
 Constants
+Communism
 Peripheral
 Parameters
 Predictors

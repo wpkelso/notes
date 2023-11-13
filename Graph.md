@@ -1,6 +1,7 @@
 ---
+tags: mathematics, discrete_mathematics, graph_theory
 created: 2023-09-08T14:31
-updated: 2023-09-12T14:53
+updated: 2023-11-10T18:05
 ---
 
 # Graph

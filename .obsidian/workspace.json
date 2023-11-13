@@ -25,6 +25,33 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "e8bf342f70f36315",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Graph",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Graph.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communism.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "stacked": true
@@ -258,6 +285,8 @@
   },
   "active": "0880d2522b34966b",
   "lastOpenFiles": [
+    "Communism.md",
+    "Graph.md",
     "Graph Coloring Hueristic.md",
     "Processor Consistency.md",
     "Weak Ordering.md",
@@ -282,8 +311,6 @@
     "Axiomatic Derivation System.md",
     "Field Effect Transistor.md",
     "Mathematical Induction.md",
-    "Syntax.md",
-    "Multi-Stage Amplifier.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
