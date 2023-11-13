@@ -405,6 +405,7 @@ drawn
 developed
 defining
 defines
+detection
 of
 often
 or
@@ -1576,6 +1577,7 @@ Terms
 Term
 Then
 Timeline
+Transactional
 for
 first
 from
@@ -2158,6 +2160,7 @@ Below
 Broadly
 Brute
 Basis
+Builds
 Use
 Unswitching
 Useful
@@ -2503,6 +2506,7 @@ via
 view
 versus
 voltages
+versioning
 Is
 Idea
 It

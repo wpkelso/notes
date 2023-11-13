@@ -3375,8 +3375,8 @@ var AttachmentNameFormatting = class extends import_obsidian3.Plugin {
         name: "Scan Files in the Folder",
         callback: () => {
           new FolderScanModal(this.app, this, (folder) => {
-            console.log(`Will scan the foler: ${folder}`);
-            this.handleLog(`Will scan the foler: ${folder}`);
+            console.log(`Will scan the folder: ${folder}`);
+            this.handleLog(`Will scan the folder: ${folder}`);
             new FolderRenameWarningModal(this.app, (result) => __async(this, null, function* () {
               if (result) {
                 const fileList = this.app.vault.getFiles().filter((file) => file.path.includes(folder));
@@ -3517,7 +3517,10 @@ var AttachmentNameFormatting = class extends import_obsidian3.Plugin {
                   yield this.app.vault.createFolder(path.join(parent_path, subfolder));
                 }
               }));
-              const fullName = path.join(parent_path, subfolder, newName).replaceAll("\\", "/");
+              let fullName = path.join(parent_path, subfolder, newName).replaceAll("\\", "/");
+              if (fullName.startsWith("/")) {
+                fullName = fullName.slice(1);
+              }
               const destinationFile = this.app.vault.getAbstractFileByPath(fullName);
               if (destinationFile && destinationFile !== attachmentFile) {
                 const destinationFile_path = destinationFile.path.substring(0, destinationFile.path.length - destinationFile.name.length);
