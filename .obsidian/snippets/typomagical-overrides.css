@@ -1,12 +1,4 @@
 .theme-light {
-	--tag-color: var(--background-primary);
-	--tag-color-hover: var(--background-primary);
-	--tag-background: var(--color-orange);
-	--tag-background-hover: var(--color-yellow);
-}
-
-.theme-light {
-	--link-color-hover: var(--color-blue);
 	--link-unresolved-color: var(--text-normal);
 }
 

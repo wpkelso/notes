@@ -27,27 +27,6 @@
             }
           },
           {
-            "id": "a517bc505ee6cfac",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Field Effect Transistor.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "fe9d3a086bc5614b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -63,34 +42,12 @@
               "type": "markdown",
               "state": {
                 "file": "Digital Logic.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "943ebfee45e94093",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital Signals.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -119,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +140,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Digital Logic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -324,11 +277,12 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "fe9d3a086bc5614b",
+  "active": "0880d2522b34966b",
   "lastOpenFiles": [
-    "Digital Signals.md",
-    "Digital Logic.md",
     "Field Effect Transistor.md",
+    "Digital Logic.md",
+    "Pasted image 20231113120803.png",
+    "Digital Signals.md",
     "Complete Set.md",
     "Communism.md",
     "Graph.md",
@@ -351,7 +305,6 @@
     "Planar Graph.md",
     "Steiner Tree.md",
     "Intel Software Guard Extension.md",
-    "Trusted Execution Environment.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
@@ -362,7 +315,6 @@
     "Pasted image 20231001164139.png",
     "Pasted image 20231001164129.png",
     "Pasted image 20231001163505.png",
-    "Pasted image 20231001163457.png",
     "obsidian.css"
   ]
 }
