@@ -484,6 +484,7 @@ older
 overheads
 off
 orthagonal
+options
 the
 to
 timing
@@ -707,6 +708,8 @@ economics
 erroneous
 events
 eager
+exclusive
+exhaustive
 Embedded
 Examples
 Eventually
@@ -1761,6 +1764,7 @@ Computers
 Conversion
 Constants
 Communism
+Calculus
 Peripheral
 Parameters
 Predictors
@@ -1821,6 +1825,7 @@ Punctuation
 Prove
 Planar
 Political
+Propositional
 Hardware
 Heuristics
 Hoist
@@ -1941,6 +1946,7 @@ multiplied
 meet
 mieum
 margins
+mutually
 ready
 resource
 reach
@@ -2152,6 +2158,7 @@ Amplifiers
 Automata
 Assuming
 Axiomatic
+Arithmetic
 Build
 Based
 Branch
@@ -2184,6 +2191,7 @@ Broadly
 Brute
 Basis
 Builds
+Boolean
 Use
 Unswitching
 Useful
@@ -2591,6 +2599,7 @@ Inductive
 Island
 Interpretation
 Impulse
+Implication
 Will
 We
 What
