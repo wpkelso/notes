@@ -284,6 +284,7 @@ substitution
 sub
 sect
 six
+successfully
 difference
 different
 deal
@@ -406,6 +407,9 @@ developed
 defining
 defines
 detection
+discarded
+databases
+durability
 of
 often
 or
@@ -580,6 +584,9 @@ technologies
 trade
 transitions
 therefore
+transaction
+transactional
+transactions
 embedded
 each
 execute
@@ -698,6 +705,8 @@ easy
 estimate
 economics
 erroneous
+events
+eager
 Embedded
 Examples
 Eventually
@@ -746,6 +755,8 @@ Every
 Extensible
 Exist
 Exists
+Eager
+Everything
 work
 with
 will
@@ -1372,6 +1383,9 @@ capacitor
 cutoff
 continuous
 corresponds
+concepts
+catastrophic
+commits
 achieve
 allow
 actions
@@ -1523,6 +1537,8 @@ asia
 ary
 assignment
 anything
+atomicity
+aborting
 These
 True
 The
@@ -1578,6 +1594,7 @@ Term
 Then
 Timeline
 Transactional
+Transaction
 for
 first
 from
@@ -1656,6 +1673,7 @@ formulas
 formal
 formulae
 firmware
+fails
 Common
 Counters
 Computing
@@ -2032,6 +2050,10 @@ release
 reversed
 requirements
 respective
+retained
+rollback
+recover
+recovery
 use
 used
 unnecessary
@@ -2071,6 +2093,7 @@ unbound
 unauthorized
 usage
 union
+updates
 Algorithm
 Anti
 Advantages
@@ -2319,6 +2342,7 @@ Oxide
 Owner
 Occurs
 Ohmic
+Opposite
 Schedule
 Store
 Solution
@@ -2507,6 +2531,7 @@ view
 versus
 voltages
 versioning
+visible
 Is
 Idea
 It
@@ -2827,6 +2852,7 @@ quality
 questions
 quantifier
 quantifiers
+qualities
 zero
 Quantitative
 Quality
@@ -2891,3 +2917,4 @@ Velocity
 Vocabulary
 Voltage
 Variable
+Versioning
