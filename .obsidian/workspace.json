@@ -25,72 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "25c8938605adf95e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transactional Memory.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ea10bb7ca449abda",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boolean.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "41da22bdc0182d1c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boolean Arithmetic.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -119,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Boolean Arithmetic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -324,12 +256,16 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "41da22bdc0182d1c",
+  "active": "0880d2522b34966b",
   "lastOpenFiles": [
-    "Boolean.md",
-    "Boolean Arithmetic.md",
-    "Transactional Memory.md",
+    "Syntactic Derivability.md",
+    "Semantic Entailment.md",
+    "Soundness and Completeness Theorem.md",
     "Digital Logic.md",
+    "[Field Effect Transistor.md",
+    "Transactional Memory.md",
+    "Boolean Arithmetic.md",
+    "Boolean.md",
     "Field Effect Transistor.md",
     "Pasted image 20231113120803.png",
     "Digital Signals.md",
@@ -349,10 +285,6 @@
     "Hangeul.md",
     "Unified Extensible Firmware Interface.md",
     "Formula.md",
-    "Term.md",
-    "Unbound Variable.md",
-    "Julia Set.md",
-    "Planar Graph.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",

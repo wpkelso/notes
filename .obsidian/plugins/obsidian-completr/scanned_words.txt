@@ -710,6 +710,7 @@ events
 eager
 exclusive
 exhaustive
+entailment
 Embedded
 Examples
 Eventually
@@ -760,6 +761,7 @@ Exist
 Exists
 Eager
 Everything
+Entailment
 work
 with
 will
@@ -1765,6 +1767,7 @@ Conversion
 Constants
 Communism
 Calculus
+Completeness
 Peripheral
 Parameters
 Predictors
@@ -2433,6 +2436,9 @@ Substitution
 Short
 SCTC
 Similar
+Semantic
+Syntactic
+Soundness
 Figures
 Following
 Forward
@@ -2677,6 +2683,7 @@ Domain
 DFA
 Derivation
 Digital
+Derivability
 Loop
 Live
 Liveness

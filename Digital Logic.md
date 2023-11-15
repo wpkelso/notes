@@ -1,12 +1,12 @@
 ---
 tags: logic, digital_logic, microelectronics, circuits
 created: 2023-11-13T11:57
-updated: 2023-11-13T12:30
+updated: 2023-11-15T08:32
 ---
 
 # Digital Logic
 
-Digital logic is a binary system, mapping regions of high and low voltage in the output of a CMOS [[[Field Effect Transistor|FET]] to digital values of `1` and `0` respectively.
+Digital logic is a binary system, mapping regions of high and low voltage in the output of a CMOS [[Field Effect Transistor|FET]] to digital values of `1` and `0` respectively.
 
 ## Logic Levels
 
