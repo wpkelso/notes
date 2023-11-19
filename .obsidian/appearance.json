@@ -12,5 +12,6 @@
   "baseFontSizeAction": true,
   "textFontFamily": "",
   "monospaceFontFamily": "Monaspace Neon Var,Cousine",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "nativeMenus": true
 }

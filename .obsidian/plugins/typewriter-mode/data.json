@@ -13,7 +13,7 @@
   "dimmedParagraphsOpacity": 0.25,
   "isPauseDimUnfocusedParagraphsWhileScrollingEnabled": true,
   "isPauseDimUnfocusedParagraphsWhileSelectingEnabled": true,
-  "isHighlightCurrentLineEnabled": true,
+  "isHighlightCurrentLineEnabled": false,
   "isHighlightCurrentLineOnlyInFocusedEditorEnabled": false,
   "currentLineHighlightStyle": "box",
   "currentLineHighlightUnderlineThickness": 1,
