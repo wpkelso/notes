@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "3586852eceef5db0",
+            "id": "c78f69a0f5dac9f8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soundness and Completeness Theorem.md",
-                "mode": "source",
+                "file": "Digital Logic.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soundness and Completeness Theorem.md",
+                "file": "Digital Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soundness and Completeness Theorem.md",
+                "file": "Digital Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soundness and Completeness Theorem.md"
+                "file": "Digital Logic.md"
               }
             }
           },
@@ -282,10 +282,11 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "3586852eceef5db0",
+  "active": "c78f69a0f5dac9f8",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Inverter.md",
     "Soundness and Completeness Theorem.md",
+    "Untitled.md",
     "Syntactic Derivability.md",
     "Semantic Entailment.md",
     "Digital Logic.md",
@@ -310,7 +311,6 @@
     "Korea.md",
     "Japan.md",
     "Hangeul.md",
-    "Unified Extensible Firmware Interface.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
