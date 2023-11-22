@@ -71,6 +71,7 @@ builds
 bounds
 bypass
 bring
+boolean
 size
 sexes
 same
@@ -762,6 +763,7 @@ Exists
 Eager
 Everything
 Entailment
+Expansion
 work
 with
 will
@@ -1768,6 +1770,7 @@ Constants
 Communism
 Calculus
 Completeness
+Conjunctive
 Peripheral
 Parameters
 Predictors
@@ -2195,6 +2198,7 @@ Brute
 Basis
 Builds
 Boolean
+Boole
 Use
 Unswitching
 Useful
@@ -2439,6 +2443,7 @@ Similar
 Semantic
 Syntactic
 Soundness
+Shannon
 Figures
 Following
 Forward
@@ -2507,6 +2512,7 @@ NMOS
 NFA
 Nothing
 Noise
+Normal
 violate
 very
 variable
@@ -2633,6 +2639,7 @@ KVL
 KCL
 Kirchoff
 Kronecker
+Karnaugh
 Disadvantages
 Definition
 Dataflow
@@ -2859,6 +2866,7 @@ Mathematical
 Much
 Method
 Margins
+Map
 quasi
 qualitative
 quite

@@ -399,9 +399,11 @@
     "Digital Logic.md": "27d4e6b803906b13736f6d06a6d0981850e7940f71972f5df803287170a712f0",
     "Transactional Memory.md": "96b30dd30ff6e903ca3b9c2718621932f1046e839a83f536870ccdc70ec28e66",
     "Boolean.md": "163bf0d716929e155ee21b7bd5d09dee446728de2a08571cfd7a2e3f67a68c58",
-    "Boolean Arithmetic.md": "9eef3e3990be9cdf5a4e447c68d8fcb93ce02019f5dca8299eae378c4d188db0",
+    "Boolean Arithmetic.md": "2b6b4c6219686a86a1ca4b5f73b4f9ff7494075c41190b76561ba2c7aa80f548",
     "Semantic Entailment.md": "7c7261ad418c0f6e1d39ab0f3ca7b1ddde1547543095eb42d6ead4b84a48b9a9",
     "Syntactic Derivability.md": "89354c1cf7eac12dbda17a90deda6780c1bf0ffd1c817fa3f861246912d404de",
-    "Soundness and Completeness Theorem.md": "dbb4fd9379087c3ed5375da9b337a08d6cb5ba851dbf48017136196492a2e20d"
+    "Soundness and Completeness Theorem.md": "dbb4fd9379087c3ed5375da9b337a08d6cb5ba851dbf48017136196492a2e20d",
+    "Conjunctive Normal Form.md": "3f6610c67b752c4f578ac2d74c558710a9561abbd55d64f26dbab7cb376a4335",
+    "Karnaugh Map.md": "3809b7a015315c94e67ed14afb494a7767fb140d8ba1e76251b61944928cb7ae"
   }
 }
