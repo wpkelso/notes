@@ -30,8 +30,14 @@
             "id": "e0dd6853d4559a65",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Memory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Memory.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -284,6 +290,8 @@
   },
   "active": "e0dd6853d4559a65",
   "lastOpenFiles": [
+    "Memory.md",
+    "Cache Coherence.md",
     "Karnaugh Map.md",
     "Conjunctive Normal Form.md",
     "Boolean Arithmetic.md",
@@ -309,8 +317,6 @@
     "Sequential Consistency.md",
     "First-Order Language.md",
     "Model.md",
-    "Korea.md",
-    "Japan.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
