@@ -10,7 +10,3 @@
   font-size: 12pt;
   font-family: var(--font-monospace-override);
 }
-
-.cm-gutter {
-  font-family: var(--font-monospace-override);
-}
