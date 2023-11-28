@@ -7,7 +7,9 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "typomagical-overrides",
-    "flexoki"
+    "flexoki",
+    "monospace-editor-gutter",
+    "monospace-metadata"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",
