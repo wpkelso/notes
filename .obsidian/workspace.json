@@ -27,39 +27,6 @@
             }
           },
           {
-            "id": "bc1a93acc489dfed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Shared-Memory Model",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Shared-Memory Model.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Parallel Computing",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Parallel Computing.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":7.161290322580645}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Parallelization.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d9bdf67e81346314",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -68,47 +35,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synchronization Primitive.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e0dd6853d4559a65",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Memory",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Memory.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Synchronization Primitive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Synchronization Primitive.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":39},\"to\":{\"line\":14,\"ch\":39}},\"scroll\":6.007156798959011}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache Coherence.md",
-                "mode": "preview",
+                "file": "Lock.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -137,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synchronization Primitive.md",
+                "file": "Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synchronization Primitive.md",
+                "file": "Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synchronization Primitive.md"
+                "file": "Lock.md"
               }
             }
           },
@@ -344,10 +290,11 @@
   },
   "active": "d9bdf67e81346314",
   "lastOpenFiles": [
-    "Code Parallelization.md",
+    "Lock.md",
     "Synchronization Primitive.md",
-    "Shared-Memory Model.md",
     "Cache Coherence.md",
+    "Code Parallelization.md",
+    "Shared-Memory Model.md",
     "Parallel Computing.md",
     "Parallelization.md",
     "MSI Protocol.md",
@@ -370,7 +317,6 @@
     "Complete Set.md",
     "Communism.md",
     "Graph.md",
-    "Graph Coloring Hueristic.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",

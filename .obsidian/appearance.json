@@ -9,7 +9,8 @@
     "typomagical-overrides",
     "flexoki",
     "monospace-editor-gutter",
-    "monospace-metadata"
+    "monospace-metadata",
+    "rendered-indentation-guide-fix"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",

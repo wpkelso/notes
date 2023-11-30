@@ -405,6 +405,7 @@
     "Soundness and Completeness Theorem.md": "dbb4fd9379087c3ed5375da9b337a08d6cb5ba851dbf48017136196492a2e20d",
     "Conjunctive Normal Form.md": "3f6610c67b752c4f578ac2d74c558710a9561abbd55d64f26dbab7cb376a4335",
     "Karnaugh Map.md": "3809b7a015315c94e67ed14afb494a7767fb140d8ba1e76251b61944928cb7ae",
-    "Synchronization Primitive.md": "246c614f27d0d300e0d7439335ab62ae3acd5e93e80362064b2396ee857a3ee5"
+    "Synchronization Primitive.md": "00d71f80d486408b34d8fc4d77060c6de9f1c597bd331a358b7adc006bcfa2c9",
+    "Lock.md": "21bdff9bbed46972bbd4f7ed169226127cb21f6c15d9a3f134f27534a3e6c73d"
   }
 }

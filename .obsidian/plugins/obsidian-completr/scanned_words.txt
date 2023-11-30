@@ -714,6 +714,7 @@ exclusive
 exhaustive
 entailment
 ensure
+evaluate
 Embedded
 Examples
 Eventually
@@ -1159,6 +1160,7 @@ interacting
 influenced
 interpretations
 interpretation
+implementations
 conjunction
 conversion
 compilers
@@ -1397,6 +1399,9 @@ corresponds
 concepts
 catastrophic
 commits
+criteria
+contention
+contend
 achieve
 allow
 actions
@@ -1550,6 +1555,8 @@ assignment
 anything
 atomicity
 aborting
+acquisition
+acquire
 These
 True
 The
@@ -1606,6 +1613,7 @@ Then
 Timeline
 Transactional
 Transaction
+Traffic
 for
 first
 from
@@ -2219,6 +2227,7 @@ Uses
 Unbound
 UEFI
 Unified
+Uncontended
 graph
 going
 greater
@@ -2334,6 +2343,8 @@ link
 loaded
 lazy
 logical
+locks
+lock
 Output
 Ordering
 ODE
@@ -2616,6 +2627,7 @@ Island
 Interpretation
 Impulse
 Implication
+Implementations
 Will
 We
 What
@@ -2729,6 +2741,7 @@ Lazy
 Let
 Literature
 Levels
+Lock
 no
 not
 non
