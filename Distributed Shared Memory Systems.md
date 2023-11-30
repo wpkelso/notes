@@ -1,6 +1,7 @@
 ---
+tags: parallel_computing, computer_architecture
 created: 2023-10-11T13:32
-updated: 2023-10-11T14:04
+updated: 2023-11-30T16:17
 ---
 
 # Distributed Shared Memory Systems

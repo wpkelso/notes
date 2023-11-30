@@ -1,7 +1,9 @@
 ---
+tags: parallel_computing, computer_architecture, programming, software
 created: 2023-09-08T14:31
-updated: 2023-09-08T14:31
+updated: 2023-11-30T16:32
 ---
+
 # Code Parallelization
 
 Typically, there are 4 major steps to any [[Parallelization|parallelization]] scheme:

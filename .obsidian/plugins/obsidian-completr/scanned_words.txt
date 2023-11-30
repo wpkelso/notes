@@ -286,6 +286,7 @@ sub
 sect
 six
 successfully
+suggest
 difference
 different
 deal
@@ -712,6 +713,7 @@ eager
 exclusive
 exhaustive
 entailment
+ensure
 Embedded
 Examples
 Eventually
@@ -987,6 +989,8 @@ politics
 piecewise
 plots
 prevent
+primitive
+primitives
 hardware
 hierarchy
 how

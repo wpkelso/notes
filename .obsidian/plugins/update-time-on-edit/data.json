@@ -3,10 +3,10 @@
   "enableCreateTime": true,
   "headerUpdated": "updated",
   "headerCreated": "created",
-  "minMinutesBetweenSaves": 1,
+  "minMinutesBetweenSaves": 5,
   "ignoreGlobalFolder": [],
   "ignoreCreatedFolder": [],
-  "enableExperimentalHash": false,
+  "enableExperimentalHash": true,
   "fileHashMap": {
     "Zhou Dynasty.md": "75386c113e1a288aa13b422292bbf461b8e181efc8bc23097107e625a13f6e31",
     "Zen Buddhism.md": "345985796169e2a57b96bdd2ee34f0629ea06b546afa4c00bcb3538b0857a603",
@@ -71,7 +71,7 @@
     "Signal Reconstruction.md": "daf081f664e865b9ae671096e17e17f994d4474934b2cf1a7623c146bf03850c",
     "Sifting Property.md": "a6ff87e70b91c5878adc3a5f2177b9f191ed432663db7ed835bf2d8e14d70878",
     "Shintoism.md": "b2b6c85ebc333859139e018d2ea8f7f873200cc5e54437b316acc9eb7d86d4e2",
-    "Shared-Memory Model.md": "e93029b95c37e33e7b133a1658e602697e9b890658367773a9bb416247702a1c",
+    "Shared-Memory Model.md": "155252c07cd540cb456a40b814b2b97a48ab3105b56ef170e09b0ab472ef34dc",
     "Shang Dynasty.md": "0ad62d172487630f4f96a3c5d27894e775777ccd0b97858b340f70d82cdff65c",
     "Sexual Dimorphism.md": "2da837180679a1e333a00f66be4b847c77e2f85facf4ac006a2f47ee95dc5bfc",
     "Set.md": "1d2e1af4938a7956666a7f516f6c60c068b12f21ad9ae2e6f6e75a542dd99408",
@@ -281,7 +281,7 @@
     "Dynamic Branch prediction.md": "616f2ed16c517be7eeaa19a53c0d4bddca6062f120f3a9ae62554b05bc20a653",
     "Dynamic Array.md": "077e95bb7d4904134571fba7a83c3fbc5ea8d5afa76a7c74af4a0833d1fb8f3b",
     "Dominator Tree.md": "472e4a8b403f121be74ffb8115f37c0e1836224830baa961314ee70e0e4d08f2",
-    "Distributed Shared Memory Systems.md": "0873b7bed89918f99c8defd516a911a7017e5c6dd235fc77e12d352789a9e7d3",
+    "Distributed Shared Memory Systems.md": "a6983b705ae6d13d1765044ff8a795826dd9b82ae606f460cceea06ac71f2361",
     "Dirty Block.md": "dae50002d96f8340cf8f492ff539018b106c1f2fdee1aa23e4930ed7d49ea8fa",
     "Directional Field.md": "77f227cb35e7fdcae8d29699d3c55645e81e306038586713bc080d5321e9c30d",
     "Directed Graph.md": "1a2645bdfff080da0034364b25ab661508c8d2dd5b444a5e7b11fce66c532fa3",
@@ -332,7 +332,7 @@
     "Compiler Optimization.md": "6fbb9514793b6feb677a703edec7bff69521b508500131f875099c1469f95324",
     "Compiler Front End.md": "b48859a82022d96fe5bc1fc063aed5564940f6aa4b9ad52cd7462f3f20bcf3b3",
     "Compiler Design.md": "8c5acece126f3023569c25620abd0f359e781b4a2a0fa717d4db477c4037a44c",
-    "Code Parallelization.md": "247fc5a5ceb24717066e23868cb922f6293ca9c7e6900db001b1043fc4b2b06b",
+    "Code Parallelization.md": "cefab1570479a17c4a5345de356c239b40522f89c3b152d56487cbc6a8efea7d",
     "Clustering.md": "9ef9ee57b190b3a707a7cda66606eb0d3c5adfdab01dad4544a674b65cbccd45",
     "Classes of Computer Systems.md": "ad5b6ca7f3f46f980dca2ddf735041021c500c1c57d0f8b6577d9ec912ee0bf0",
     "Class.md": "48bcf2c84b4049d4f17a2eb11ca7b535afaa03234864a14c4995859e07920d5e",
@@ -404,6 +404,7 @@
     "Syntactic Derivability.md": "89354c1cf7eac12dbda17a90deda6780c1bf0ffd1c817fa3f861246912d404de",
     "Soundness and Completeness Theorem.md": "dbb4fd9379087c3ed5375da9b337a08d6cb5ba851dbf48017136196492a2e20d",
     "Conjunctive Normal Form.md": "3f6610c67b752c4f578ac2d74c558710a9561abbd55d64f26dbab7cb376a4335",
-    "Karnaugh Map.md": "3809b7a015315c94e67ed14afb494a7767fb140d8ba1e76251b61944928cb7ae"
+    "Karnaugh Map.md": "3809b7a015315c94e67ed14afb494a7767fb140d8ba1e76251b61944928cb7ae",
+    "Synchronization Primitive.md": "246c614f27d0d300e0d7439335ab62ae3acd5e93e80362064b2396ee857a3ee5"
   }
 }
