@@ -37,6 +37,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Lock",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lock.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":14.043668122270743}"
+                },
+                {
                   "title": "Synchronization Primitive",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Synchronization Primitive.md\",\"mode\":\"source\",\"source\":true}}",
@@ -47,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lock.md",
+                "file": "MSI Protocol.md",
                 "mode": "preview",
                 "source": true
               }
@@ -83,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lock.md",
+                "file": "MSI Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lock.md",
+                "file": "MSI Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lock.md"
+                "file": "MSI Protocol.md"
               }
             }
           },
@@ -290,6 +296,8 @@
   },
   "active": "d9bdf67e81346314",
   "lastOpenFiles": [
+    "MESI Protocol.md",
+    "MSI Protocol.md",
     "Lock.md",
     "Synchronization Primitive.md",
     "Cache Coherence.md",
@@ -297,7 +305,6 @@
     "Shared-Memory Model.md",
     "Parallel Computing.md",
     "Parallelization.md",
-    "MSI Protocol.md",
     "Distributed Shared Memory Systems.md",
     "Memory.md",
     "Karnaugh Map.md",
@@ -316,7 +323,6 @@
     "Digital Signals.md",
     "Complete Set.md",
     "Communism.md",
-    "Graph.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",
