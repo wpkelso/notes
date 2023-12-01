@@ -287,6 +287,7 @@ sect
 six
 successfully
 suggest
+starved
 difference
 different
 deal
@@ -2118,6 +2119,7 @@ unauthorized
 usage
 union
 updates
+unable
 Algorithm
 Anti
 Advantages
@@ -2459,6 +2461,7 @@ Semantic
 Syntactic
 Soundness
 Shannon
+Storage
 Figures
 Following
 Forward
@@ -2502,6 +2505,7 @@ Finite
 Frequency
 Formal
 Firmware
+Fairness
 Note
 Non
 NP
