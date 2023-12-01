@@ -60,7 +60,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSI Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSI Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +152,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MSI Protocol.md"
-              }
+              "state": {}
             }
           },
           {
@@ -294,10 +289,10 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "d9bdf67e81346314",
+  "active": "d7eed56a48764a9a",
   "lastOpenFiles": [
-    "MESI Protocol.md",
     "MSI Protocol.md",
+    "MESI Protocol.md",
     "Lock.md",
     "Synchronization Primitive.md",
     "Cache Coherence.md",
