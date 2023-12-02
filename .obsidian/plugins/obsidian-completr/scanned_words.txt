@@ -288,6 +288,7 @@ six
 successfully
 suggest
 starved
+stolen
 difference
 different
 deal
@@ -413,6 +414,8 @@ detection
 discarded
 databases
 durability
+derived
+detected
 of
 often
 or
@@ -716,6 +719,7 @@ exhaustive
 entailment
 ensure
 evaluate
+executes
 Embedded
 Examples
 Eventually
@@ -1162,6 +1166,7 @@ influenced
 interpretations
 interpretation
 implementations
+illusion
 conjunction
 conversion
 compilers
@@ -1403,6 +1408,7 @@ commits
 criteria
 contention
 contend
+conditionally
 achieve
 allow
 actions
@@ -1966,6 +1972,8 @@ meet
 mieum
 margins
 mutually
+maintaining
+monitored
 ready
 resource
 reach
@@ -2462,6 +2470,7 @@ Syntactic
 Soundness
 Shannon
 Storage
+SC
 Figures
 Following
 Forward
@@ -2747,6 +2756,8 @@ Literature
 Levels
 Lock
 Linked
+LL
+Locked
 no
 not
 non
