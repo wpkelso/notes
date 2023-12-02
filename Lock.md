@@ -1,7 +1,7 @@
 ---
 tags: parallel_computing, computer_architecture, programming, software
 created: 2023-11-30T16:47
-updated: 2023-12-01T12:31
+updated: 2023-12-02T14:07
 ---
 
 # Lock
@@ -21,6 +21,12 @@ lock:   t&s R1, &lockvar // R1 = lockvar
 unlock: st &lockvar, #0  // lockvar = 0
         ret              // return to caller
 ```
+
+### Load Linked and Store Conditional
+
+An LL/SC lock is derived from an approach that maintains the illusion of [[Atomicity|atomicity]] within a series of operations, rather than actually maintaining atomicity. As such, a couple of things need to happen:
+1.  A load instruction needs to occur that requires a block address to be monitored from being *stolen*, or invalidated (This is known as a *Load Linked* or *Load Locked* instruction)
+2. A store instruction that executes conditionally when events are detected that would break the i
 
 ## Performance Evaluation of Implementations
 

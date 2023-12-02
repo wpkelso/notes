@@ -3,6 +3,7 @@
   "cedictPath": "./cedict_ts.u8",
   "matchStrategy": "prefix",
   "fuzzyMatch": true,
+  "minFuzzyMatchScore": 0.5,
   "matchingWithoutEmoji": true,
   "treatAccentDiacriticsAsAlphabeticCharacters": false,
   "maxNumberOfSuggestions": 5,
@@ -14,20 +15,49 @@
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": true,
   "firstCharactersDisableSuggestions": ":/^",
-  "useCommonPrefixCompletionOfSuggestion": false,
   "patternsToSuppressTrigger": [
     "^~~~.*",
     "^```.*"
   ],
+  "phrasePatternsToSuppressTrigger": [],
+  "noAutoFocusUntilCycle": false,
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Enter",
-  "additionalCycleThroughSuggestionsKeys": "None",
-  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
-  "openSourceFileKey": "None",
-  "propagateEsc": false,
+  "hotkeys": {
+    "select": [
+      {
+        "modifiers": [],
+        "key": "Enter"
+      }
+    ],
+    "up": [
+      {
+        "modifiers": [],
+        "key": "ArrowUp"
+      }
+    ],
+    "down": [
+      {
+        "modifiers": [],
+        "key": "ArrowDown"
+      }
+    ],
+    "select 1st": [],
+    "select 2nd": [],
+    "select 3rd": [],
+    "select 4th": [],
+    "select 5th": [],
+    "select 6th": [],
+    "select 7th": [],
+    "select 8th": [],
+    "select 9th": [],
+    "open": [],
+    "completion": [],
+    "insert as text": []
+  },
+  "propagateEsc": true,
   "enableCurrentFileComplement": true,
   "currentFileMinNumberOfCharacters": 0,
   "onlyComplementEnglishOnCurrentFileComplement": false,
@@ -53,279 +83,22 @@
     "beforeRegExp": "",
     "after": ""
   },
+  "frontMatterKeyForExclusionInternalLink": "",
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
   "intelligentSuggestionPrioritization": {
+    "enabled": true,
+    "historyFilePath": "",
     "maxDaysToKeepHistory": 30,
     "maxNumberOfHistoryToKeep": 0
   },
-  "disableOnMobile": false,
+  "disableOnMobile": true,
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {
-    "mathematics": {
-      "mathematics": {
-        "frontMatter": {
-          "count": 16,
-          "lastUpdated": 1697580069871
-        }
-      }
-    },
-    "logic": {
-      "logic": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1697635200361
-        }
-      }
-    },
-    "set_theory": {
-      "set_theory": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1697576571630
-        }
-      }
-    },
-    "programming": {
-      "programming": {
-        "frontMatter": {
-          "count": 7,
-          "lastUpdated": 1697635194378
-        }
-      }
-    },
-    "graph_theory": {
-      "graph_theory": {
-        "frontMatter": {
-          "count": 9,
-          "lastUpdated": 1697576477199
-        }
-      }
-    },
-    "discrete_mathematics": {
-      "discrete_mathematics": {
-        "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1697576475070
-        }
-      }
-    },
-    "circuits": {
-      "circuits": {
-        "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1697658141038
-        }
-      }
-    },
-    "electronics": {
-      "electronics": {
-        "frontMatter": {
-          "count": 12,
-          "lastUpdated": 1697658142659
-        }
-      }
-    },
-    "signal_analysis": {
-      "signal_analysis": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1695651268472
-        }
-      }
-    },
-    "microelectronics": {
-      "microelectronics": {
-        "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1697658144081
-        }
-      }
-    },
-    "Sinusoidal Function": {
-      "Sinusoidal Function": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1695651703668
-        }
-      }
-    },
-    "Semiconductor": {
-      "Semiconductor": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1695833410859
-        }
-      }
-    },
-    "parallel_computing": {
-      "parallel_computing": {
-        "frontMatter": {
-          "count": 8,
-          "lastUpdated": 1698085051317
-        }
-      }
-    },
-    "computer_architecture": {
-      "computer_architecture": {
-        "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1698085048831
-        }
-      }
-    },
-    "Memory Block": {
-      "Memory Block": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1696191073285
-        }
-      }
-    },
-    "Protocols": {
-      "Protocols": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1696191346854
-        }
-      }
-    },
-    "directory-based": {
-      "directory-based": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1696191442329
-        }
-      }
-    },
-    "broadcast-based": {
-      "broadcast-based": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1696191456657
-        }
-      }
-    },
-    "Laws of Manu": {
-      "Laws of Manu": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1696364328098
-        }
-      }
-    },
-    "Kirchoff’s": {
-      "Kirchoff’s": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1696364481066
-        }
-      }
-    },
-    "Thevenin's Theorem": {
-      "Thevenin's Theorem": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1696364950574
-        }
-      }
-    },
-    "Systems": {
-      "Systems": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1697045588233
-        }
-      }
-    },
-    "Biasing": {
-      "Biasing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1697471317632
-        }
-      }
-    },
-    "V_{GS}": {
-      "V_{GS}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1697471377979
-        }
-      }
-    },
-    "V_{DS}": {
-      "V_{DS}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1697471539637
-        }
-      }
-    },
-    "data_structures": {
-      "data_structures": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1697574632111
-        }
-      }
-    },
-    "Graph Theory": {
-      "Graph Theory": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1697574977676
-        }
-      }
-    },
-    "Binary Search Tree": {
-      "Binary Search Tree": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1697575444174
-        }
-      }
-    },
-    "Tree": {
-      "Tree": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1697575715760
-        }
-      }
-    },
-    "Binary Tree": {
-      "Binary Tree": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1697575749061
-        }
-      }
-    },
-    "closure": {
-      "closure": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1697576590632
-        }
-      }
-    },
-    "compilers": {
-      "compilers": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1697635191278
-        }
-      }
-    },
-    "language": {
-      "language": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1697635202422
-        }
-      }
-    }
-  }
+  "selectionHistoryTree": {},
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None"
 }

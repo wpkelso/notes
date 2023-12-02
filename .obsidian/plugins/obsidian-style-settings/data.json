@@ -3,7 +3,7 @@
   "pane-relief@@pane-relief-pane-numbering": true,
   "typomagical-text@@body-ligatures": true,
   "typomagical-text@@blockquote": "blockquote-plain",
-  "typomagical-text@@callout-style": "callout-icon-only",
+  "typomagical-text@@callout-style": "callout-default",
   "typomagical-colour@@theme-variant": "obsidian",
   "typomagical-title@@font-title": "Amiri",
   "typomagical-title@@title-weight": 650,

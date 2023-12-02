@@ -6,11 +6,11 @@
   "baseFontSize": 18,
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "typomagical-overrides",
     "flexoki",
+    "rendered-indentation-guide-fix",
     "monospace-editor-gutter",
     "monospace-metadata",
-    "rendered-indentation-guide-fix"
+    "typomagical-overrides"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",

@@ -168,7 +168,7 @@
     "Manyoshu.md": "491f4a28ecdd8eee1305c233cbce5efff2e5e80bb186c2070c90b155ea0bb3ff",
     "Mahayana Buddhism.md": "c3b66350efd9193b18bb732f801dab42a17662faa67d5d35f0ad753606ed0cd0",
     "Machine Learning.md": "eb2098d906956e7ffe2742bf05d88769052346d835423282ada37bcb473a4606",
-    "MSI Protocol.md": "1102ae7bf4ff543df67d3397a34efae88079fbdc480a72ae3557e52363eb1e6a",
+    "MSI Protocol.md": "870fe6f2a82d09971891612b8048d98cbc82758b4c41593961a7f8dcadad3bb8",
     "MOESI Protocol.md": "d12de605f55234bacb3ed6127c2a1c59227a7cabfbad5b99579a1058a9a89d2d",
     "MESI Protocol.md": "c23a50a81cab5fcfb9b72076c7d4a93c2c4cd7ac4d060010e434dc8e109ebc34",
     "Loop-Carried Dependency.md": "447e0dace3b7eca7ab21f178eb0183dc360d66af7fc9050bcb218ab3b94b2dcf",
@@ -406,6 +406,6 @@
     "Conjunctive Normal Form.md": "3f6610c67b752c4f578ac2d74c558710a9561abbd55d64f26dbab7cb376a4335",
     "Karnaugh Map.md": "3809b7a015315c94e67ed14afb494a7767fb140d8ba1e76251b61944928cb7ae",
     "Synchronization Primitive.md": "00d71f80d486408b34d8fc4d77060c6de9f1c597bd331a358b7adc006bcfa2c9",
-    "Lock.md": "6a1252114b7b37a58176e22a053cc78d54008b7d08d0ad5634cd9646f739badc"
+    "Lock.md": "a11354e3dca3749b4e89157b40571baf12ad546dd4f2f89e00b32a388d6de4a6"
   }
 }

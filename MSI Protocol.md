@@ -3,12 +3,12 @@ tags:
   - parallel_computing
   - computer_architecture
 created: 2023-10-01T15:42
-updated: 2023-11-28T12:15
+updated: 2023-12-02T14:06
 ---
 
 # MSI Protocol
 
-The MSI protocol is an example of an invalidation-based [[Cache Coherence]] protocol. In it, cache block must be in one of the following states at any point in time:
+The MSI protocol is an example of an invalidation-based [[Cache Coherence]] protocol. In it, a cache block must be in one of the following states at any point in time:
 
 - **M**odified
 - **S**hared
