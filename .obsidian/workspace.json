@@ -25,36 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "25364a50ec4aba13",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Neolithic Revolution",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Neolithic Revolution.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5753569539925966}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neolithic.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neolithic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neolithic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Neolithic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -288,11 +256,17 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "25364a50ec4aba13",
+  "active": "d7eed56a48764a9a",
   "lastOpenFiles": [
+    "README.md",
+    "Quran.md",
+    "Semitic Languages.md",
+    "Early Arabic Poetry.md",
+    "1001 Nights.md",
+    "Neolithic.md",
+    "Indo-European Languages.md",
     "Neolithic Revolution.md",
     "Neolithic Villages.md",
-    "Neolithic.md",
     "Borda Count.md",
     "Digital Logic.md",
     "Lock.md",
@@ -310,12 +284,6 @@
     "Conjunctive Normal Form.md",
     "Boolean Arithmetic.md",
     "Boolean.md",
-    "Inverter.md",
-    "Soundness and Completeness Theorem.md",
-    "Syntactic Derivability.md",
-    "Semantic Entailment.md",
-    "[Field Effect Transistor.md",
-    "Transactional Memory.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
