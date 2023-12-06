@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "c69dc2ed1cd9cced",
+            "id": "25364a50ec4aba13",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -35,19 +35,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Neolithic Revolution",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Neolithic Revolution.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5753569539925966}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borda Count.md",
+                "file": "Neolithic.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Neolithic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Neolithic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +149,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Neolithic.md"
+              }
             }
           },
           {
@@ -277,8 +288,11 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "d7eed56a48764a9a",
+  "active": "25364a50ec4aba13",
   "lastOpenFiles": [
+    "Neolithic Revolution.md",
+    "Neolithic Villages.md",
+    "Neolithic.md",
     "Borda Count.md",
     "Digital Logic.md",
     "Lock.md",
@@ -302,10 +316,7 @@
     "Semantic Entailment.md",
     "[Field Effect Transistor.md",
     "Transactional Memory.md",
-    "Field Effect Transistor.md",
     "Pasted image 20231113120803.png",
-    "Digital Signals.md",
-    "Complete Set.md",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
     "Pasted image 20231018110448.png",

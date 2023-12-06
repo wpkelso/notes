@@ -73,6 +73,7 @@ bypass
 bring
 boolean
 ballot
+broadly
 size
 sexes
 same
@@ -290,6 +291,9 @@ successfully
 suggest
 starved
 stolen
+saw
+shifts
+sustained
 difference
 different
 deal
@@ -417,6 +421,8 @@ databases
 durability
 derived
 detected
+dramatic
+dramatically
 of
 often
 or
@@ -492,6 +498,8 @@ overheads
 off
 orthagonal
 options
+option
+onagers
 the
 to
 timing
@@ -595,6 +603,7 @@ therefore
 transaction
 transactional
 transactions
+throughout
 embedded
 each
 execute
@@ -721,6 +730,9 @@ entailment
 ensure
 evaluate
 executes
+elect
+economy
+entire
 Embedded
 Examples
 Eventually
@@ -773,6 +785,7 @@ Eager
 Everything
 Entailment
 Expansion
+Early
 work
 with
 will
@@ -998,6 +1011,11 @@ plots
 prevent
 primitive
 primitives
+preference
+progressions
+pre
+progression
+permanent
 hardware
 hierarchy
 how
@@ -1168,6 +1186,7 @@ interpretations
 interpretation
 implementations
 illusion
+introduction
 conjunction
 conversion
 compilers
@@ -1412,6 +1431,13 @@ contend
 conditionally
 candidate
 coresponding
+candidates
+count
+consensus
+civilization
+climate
+classifying
+clothing
 achieve
 allow
 actions
@@ -1567,6 +1593,7 @@ atomicity
 aborting
 acquisition
 acquire
+acceptable
 These
 True
 The
@@ -2091,6 +2118,8 @@ retained
 rollback
 recover
 recovery
+ranked
+refinement
 use
 used
 unnecessary
@@ -2283,6 +2312,7 @@ guarantee
 guarantees
 giyeok
 gets
+gatherer
 linear
 latency
 list
@@ -2477,6 +2507,7 @@ Soundness
 Shannon
 Storage
 SC
+Settlements
 Figures
 Following
 Forward
@@ -2586,6 +2617,7 @@ versus
 voltages
 versioning
 visible
+voting
 Is
 Idea
 It
@@ -2851,6 +2883,7 @@ Relations
 Release
 Response
 Religion
+Revolution
 Major
 Move
 Made
