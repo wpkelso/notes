@@ -77,6 +77,9 @@ broadly
 bronze
 began
 beginnings
+banks
+barely
+barrier
 size
 sexes
 same
@@ -312,6 +315,10 @@ support
 syntax
 supported
 sanitized
+situated
+silt
+semi
+seasons
 difference
 different
 deal
@@ -450,6 +457,9 @@ drawbacks
 decreased
 diets
 diseases
+drinking
+dates
+difficult
 of
 often
 or
@@ -530,6 +540,7 @@ onagers
 our
 occupation
 oral
+obtain
 the
 to
 timing
@@ -829,6 +840,7 @@ Expansion
 Early
 Egyptian
 Elegy
+Euphrates
 work
 with
 will
@@ -881,6 +893,7 @@ wait
 wherein
 wing
 wheel
+wood
 peripheral
 peripherals
 processor
@@ -1240,6 +1253,9 @@ interpretation
 implementations
 illusion
 introduction
+inhabitants
+imported
+invasion
 conjunction
 conversion
 compilers
@@ -1501,6 +1517,8 @@ camp
 confined
 copyrighted
 content
+crops
+crucial
 achieve
 allow
 actions
@@ -1661,6 +1679,9 @@ alloy
 archaeological
 achievements
 availability
+agrarian
+ancient
+arid
 These
 True
 The
@@ -1719,6 +1740,7 @@ Transactional
 Transaction
 Traffic
 Travel
+Tigris
 for
 first
 from
@@ -1801,6 +1823,10 @@ fails
 family
 fruits
 foodstuffs
+fertile
+flourish
+flooded
+figs
 Common
 Counters
 Computing
@@ -1894,6 +1920,9 @@ Conjunctive
 Circa
 Canaanite
 Collection
+Cradles
+Civilization
+Civilizations
 Peripheral
 Parameters
 Predictors
@@ -1957,6 +1986,7 @@ Political
 Propositional
 Plants
 Pottery
+Primarily
 Hardware
 Heuristics
 Hoist
@@ -2087,6 +2117,9 @@ marking
 my
 markdown
 missing
+mostly
+mesopotamia
+metal
 ready
 resource
 reach
@@ -2206,6 +2239,10 @@ regular
 religion
 repo
 re
+river
+reliable
+rivers
+regularly
 use
 used
 unnecessary
@@ -2415,6 +2452,9 @@ greatly
 great
 goods
 grain
+grew
+gave
+grow
 linear
 latency
 list
@@ -2497,6 +2537,9 @@ legumes
 land
 lifestyle
 letting
+labor
+lacked
+lacks
 Output
 Ordering
 ODE
@@ -2877,6 +2920,7 @@ Digital
 Derivability
 Developments
 Deserted
+Domesticated
 Loop
 Live
 Liveness
@@ -3007,6 +3051,8 @@ Release
 Response
 Religion
 Revolution
+River
+Resources
 Major
 Move
 Made
@@ -3062,6 +3108,7 @@ Much
 Method
 Margins
 Map
+Mesopotamia
 quasi
 qualitative
 quite
@@ -3138,3 +3185,4 @@ Vocabulary
 Voltage
 Variable
 Versioning
+Valley

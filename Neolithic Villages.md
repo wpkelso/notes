@@ -1,14 +1,14 @@
 ---
 tags: history, culture
 created: 2023-09-08T14:31
-updated: 2023-12-06T11:16
+updated: 2023-12-06T12:55
 ---
 
 # Neolithic Villages
 
 ## Important or Key Characteristics
 
-- Most located in the upland hill country of the [[Fertile Crescent]]
+- Most located in the upland hill country of the [[Mesopotamia]]
 - Nearly all unfortified
 - Usually ranged from about 5 to 40 acres of area
 - Population ranged from around 100 to 2000
@@ -18,7 +18,7 @@ updated: 2023-12-06T11:16
 
 ### Zawi Chemi
 
-Site in Iraq in the [[Fertile Crescent]] consiting of a village with circular stone huts.. While not practicing agriculture, they harvest wild grains and domesticated sheep. Hunting was still an important source of food and material however.
+Site in Iraq in the [[Mesopotamia]] consiting of a village with circular stone huts.. While not practicing agriculture, they harvest wild grains and domesticated sheep. Hunting was still an important source of food and material however.
 
 ### Neolithic Jericho
 

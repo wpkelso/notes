@@ -10,7 +10,8 @@
     "rendered-indentation-guide-fix",
     "monospace-editor-gutter",
     "monospace-metadata",
-    "typomagical-overrides"
+    "typomagical-overrides",
+    "dangling-link-normal-text-color"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",
