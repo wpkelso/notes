@@ -2243,6 +2243,7 @@ river
 reliable
 rivers
 regularly
+rope
 use
 used
 unnecessary
@@ -2662,6 +2663,7 @@ Settlements
 Small
 Semitic
 Sakhr
+Search
 Figures
 Following
 Forward
@@ -3053,6 +3055,8 @@ Religion
 Revolution
 River
 Resources
+Rope
+Represents
 Major
 Move
 Made
