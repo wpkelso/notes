@@ -6,8 +6,6 @@
   "baseFontSize": 18,
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "flexoki",
-    "rendered-indentation-guide-fix",
     "monospace-editor-gutter",
     "monospace-metadata",
     "typomagical-overrides",

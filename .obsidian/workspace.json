@@ -48,13 +48,12 @@
               "type": "markdown",
               "state": {
                 "file": "Mesopotamia.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mesopotamia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mesopotamia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +146,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mesopotamia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -288,15 +283,15 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "e22b65a47af44443",
+  "active": "38c384b3a989fbca",
   "lastOpenFiles": [
+    "Mesopotamia.md",
     "Sumeria.md",
     "City-State.md",
     "Rope.md",
     "Vertex.md",
     "Search Tree.md",
     "Model.md",
-    "Mesopotamia.md",
     "River Valley Civilizations.md",
     "README.md",
     "Quran.md",
