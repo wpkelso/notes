@@ -80,6 +80,8 @@ beginnings
 banks
 barely
 barrier
+bureaucracy
+barriers
 size
 sexes
 same
@@ -322,6 +324,7 @@ seasons
 string
 strings
 shouldn
+sumeria
 difference
 different
 deal
@@ -544,6 +547,7 @@ our
 occupation
 oral
 obtain
+oldest
 the
 to
 timing
@@ -655,6 +659,8 @@ technological
 trading
 transition
 textual
+temple
+tenant
 embedded
 each
 execute
@@ -1083,6 +1089,7 @@ places
 paraphrased
 practices
 publicly
+priesthood
 hardware
 hierarchy
 how
@@ -1136,6 +1143,9 @@ hared
 hypothesis
 home
 holy
+heavily
+heart
+holders
 in
 interrupts
 instruction
@@ -1522,6 +1532,7 @@ copyrighted
 content
 crops
 crucial
+city
 achieve
 allow
 actions
@@ -1831,6 +1842,9 @@ fertile
 flourish
 flooded
 figs
+fortified
+forming
+farmers
 Common
 Counters
 Computing
@@ -1928,6 +1942,8 @@ Cradles
 Civilization
 Civilizations
 Concatenation
+Considered
+City
 Peripheral
 Parameters
 Predictors
@@ -1992,6 +2008,7 @@ Propositional
 Plants
 Pottery
 Primarily
+Peasant
 Hardware
 Heuristics
 Hoist
@@ -2126,6 +2143,7 @@ mostly
 mesopotamia
 metal
 mono
+merchants
 ready
 resource
 reach
@@ -2250,6 +2268,8 @@ reliable
 rivers
 regularly
 rope
+religious
+royal
 use
 used
 unnecessary
@@ -2357,6 +2377,7 @@ Around
 Akkadian
 Aramic
 Arabic
+Artisans
 Build
 Based
 Branch
@@ -2548,6 +2569,7 @@ labor
 lacked
 lacks
 leaf
+least
 Output
 Ordering
 ODE
@@ -2672,6 +2694,9 @@ Semitic
 Sakhr
 Search
 Substring
+Sumerian
+Soldiers
+Slaves
 Figures
 Following
 Forward
@@ -3195,6 +3220,7 @@ Julia
 Joseon
 Zawi
 Zagros
+Zigguraut
 Velocity
 Vocabulary
 Voltage
