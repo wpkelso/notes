@@ -319,6 +319,9 @@ situated
 silt
 semi
 seasons
+string
+strings
+shouldn
 difference
 different
 deal
@@ -1682,6 +1685,7 @@ availability
 agrarian
 ancient
 arid
+aetcetera
 These
 True
 The
@@ -1923,6 +1927,7 @@ Collection
 Cradles
 Civilization
 Civilizations
+Concatenation
 Peripheral
 Parameters
 Predictors
@@ -2120,6 +2125,7 @@ missing
 mostly
 mesopotamia
 metal
+mono
 ready
 resource
 reach
@@ -2541,6 +2547,7 @@ letting
 labor
 lacked
 lacks
+leaf
 Output
 Ordering
 ODE
@@ -2664,6 +2671,7 @@ Small
 Semitic
 Sakhr
 Search
+Substring
 Figures
 Following
 Forward
@@ -2735,6 +2743,7 @@ NFA
 Nothing
 Noise
 Normal
+Nodes
 violate
 very
 variable
@@ -2962,6 +2971,7 @@ Linked
 LL
 Locked
 Languages
+Leaf
 no
 not
 non
@@ -3057,6 +3067,7 @@ River
 Resources
 Rope
 Represents
+Rebalance
 Major
 Move
 Made
