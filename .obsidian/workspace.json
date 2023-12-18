@@ -25,33 +25,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "e22b65a47af44443",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Sumeria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sumeria.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5753569539925966}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mesopotamia.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
         "stacked": true
@@ -286,6 +259,7 @@
   "active": "38c384b3a989fbca",
   "lastOpenFiles": [
     "Mesopotamia.md",
+    "Babylon.md",
     "Sumeria.md",
     "City-State.md",
     "Rope.md",
@@ -310,7 +284,6 @@
     "Synchronization Primitive.md",
     "Cache Coherence.md",
     "Code Parallelization.md",
-    "Shared-Memory Model.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",

@@ -1114,6 +1114,7 @@ prostitution
 patron
 pantheon
 personalities
+political
 hardware
 hierarchy
 how
@@ -1564,6 +1565,7 @@ cultures
 cultic
 chief
 consort
+collapse
 achieve
 allow
 actions
@@ -1884,6 +1886,7 @@ forces
 farming
 fertility
 father
+forced
 Common
 Counters
 Computing
@@ -2358,6 +2361,7 @@ useful
 ubiquity
 unsure
 understanding
+unification
 Algorithm
 Anti
 Advantages
@@ -2462,6 +2466,7 @@ Borda
 Babylonian
 Brother
 Boasting
+Babylon
 Use
 Unswitching
 Useful
