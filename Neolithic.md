@@ -1,12 +1,12 @@
 ---
 tags: history, culture
 created: 2023-09-08T14:31
-updated: 2023-12-06T11:41
+updated: 2023-12-19T13:36
 ---
 
 # Neolithic
 
-Translating to “New Stone Age” and naturally following the “[[Paleolithic|Old Stone Age]]”, the Neolithic is a period spanning from about 8000BCE to 2000BCE in Africa, Europe, and Asia, and is the period in time in which humans started to form early [[Neolithic Villages|settled communities]] and eventually civilizations during the [[Neolithic Revolution]]. The Neolithic is part of a refinement to the [[Three-Age System]] of classifying human pre-history.
+Translating to “New Stone Age” and naturally following the “[[Paleolithic|Old Stone Age]]”, the Neolithic is a period spanning from about 8000BCE to 2000BCE in Africa, Europe, and Asia, and is the period in time in which humans started to form early [[Neolithic Village|settled communities]] and eventually civilizations during the [[Neolithic Revolution]]. The Neolithic is part of a refinement to the [[Three-Age System]] of classifying human pre-history.
 
 ## Important Developments
 

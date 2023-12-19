@@ -82,6 +82,7 @@ barely
 barrier
 bureaucracy
 barriers
+behind
 size
 sexes
 same
@@ -331,6 +332,8 @@ sacrifice
 souls
 spend
 societies
+soil
+south
 difference
 different
 deal
@@ -477,6 +480,8 @@ dreams
 died
 deity
 deities
+deserts
+dynasty
 of
 often
 or
@@ -673,6 +678,7 @@ transition
 textual
 temple
 tenant
+timber
 embedded
 each
 execute
@@ -867,6 +873,9 @@ Egyptian
 Elegy
 Euphrates
 Enlil
+Egypt
+Egyptians
+Emergence
 work
 with
 will
@@ -1116,6 +1125,9 @@ patron
 pantheon
 personalities
 political
+predicable
+productive
+periods
 hardware
 hierarchy
 how
@@ -1174,6 +1186,8 @@ heart
 holders
 hostile
 hundreds
+hyper
+his
 in
 interrupts
 instruction
@@ -1297,6 +1311,7 @@ introduction
 inhabitants
 imported
 invasion
+invaded
 conjunction
 conversion
 compilers
@@ -1567,6 +1582,10 @@ cultic
 chief
 consort
 collapse
+cradles
+cataracts
+coalescing
+capital
 achieve
 allow
 actions
@@ -1734,6 +1753,10 @@ aetcetera
 activities
 anthropomorphic
 absolute
+africa
+agricultural
+annual
+agriculturally
 These
 True
 The
@@ -1888,6 +1911,7 @@ farming
 fertility
 father
 forced
+flooding
 Common
 Counters
 Computing
@@ -2053,6 +2077,7 @@ Pottery
 Primarily
 Peasant
 Patron
+Period
 Hardware
 Heuristics
 Hoist
@@ -2081,6 +2106,7 @@ Hebrew
 Her
 Humans
 House
+He
 methodology
 more
 must
@@ -2318,6 +2344,11 @@ regularly
 rope
 religious
 royal
+richest
+rich
+requiring
+rival
+roughly
 use
 used
 unnecessary
@@ -2364,6 +2395,8 @@ ubiquity
 unsure
 understanding
 unification
+upper
+unified
 Algorithm
 Anti
 Advantages
@@ -2486,6 +2519,8 @@ Unbound
 UEFI
 Unified
 Uncontended
+Upper
+United
 graph
 going
 greater
@@ -2759,6 +2794,7 @@ Shamash
 Sun
 Sin
 Storms
+Sahara
 Figures
 Following
 Forward
@@ -2832,6 +2868,8 @@ Noise
 Normal
 Nodes
 Nippur
+Nile
+Narmer
 violate
 very
 variable
@@ -3027,6 +3065,7 @@ Domesticated
 Dust
 Deities
 Dying
+Decline
 Loop
 Live
 Liveness
@@ -3067,6 +3106,7 @@ LL
 Locked
 Languages
 Leaf
+Lower
 no
 not
 non
@@ -3114,6 +3154,7 @@ noisy
 nuts
 nutrients
 near
+north
 Register
 Range
 RHS
@@ -3225,6 +3266,8 @@ Mesopotamians
 Mesopotamian
 Moon
 Marduck
+Menes
+Memphis
 quasi
 qualitative
 quite
@@ -3251,6 +3294,7 @@ keyword
 keys
 knowing
 keeping
+kingdoms
 Goal
 Graph
 Generally
@@ -3307,3 +3351,4 @@ Variable
 Versioning
 Valley
 Vegetation
+Villages
