@@ -91,7 +91,7 @@
     "Runtime Complexity.md": "2fa146da58f9cdde38aa0bee5f8ed14e038c1245679fe447a75076673615bc43",
     "Run-To-Completion Scheduler.md": "99bb9fcc39f3852aaa9e9bd21ebf87f4f034f373f287fff27f8defd95972ed4d",
     "Romance of the Western Chamber.md": "d6ee833ed5325ca34c90d93a8613f2917cf67162d91ead94d3518ce0a9148016",
-    "River Valley Civilizations.md": "b0d8557b953c4272092e769d85b7fd43e43e8bebae4b095aa3812b2d76edddb4",
+    "River Valley Civilizations.md": "9477b93d41f5f12eca645e8c1e56ecff6bd1b60e289e48ed10ac0fe236574e8f",
     "Rig Veda.md": "f0e8f8c692e1ec4495b5a38ad98af1e29457b9bdd52e788741ec6b37264785a8",
     "Release Consistency.md": "9c1a3592db75c9fefc0aabfeee8c67501ecfb6d477ae0b0760326c802a566c82",
     "Relation.md": "c197d8900619e662c8e740ed280e562122a1fffe8c5f03bfdac7b5feb4b6eb6c",
@@ -370,7 +370,6 @@
     "Arithmetic Sequence.md": "217cc7a1f9efa7158de8a962c4bb3d26345f0886f5abaf11c0270fd7b3e2e4c1",
     "Arithmetic Instructions.md": "a05be2b14bcc86ccf8b84dcb03667b068b2e3d738fb792647e8fc1b50749dea9",
     "Ardipithecus.md": "f1dbf8a4e0f9b4b7049f5f0b4a4d4070fb8840b8c3af669217a2e93141c656db",
-    "Ancient Egypt.md": "8f4f10e24d79faa763831f4451c7639e4a0d132ed98bdd8c14c5fac19ffaa120",
     "Amplitude Modulation.md": "ee5c6d55aa890ac436b92fe29a310a31f385f87a441bf7975532784b947267ac",
     "Amplifier.md": "a2e3fb8ea73b0e6d661facaddabfd19f8c831ba98ec3aecec823661a369ecbb0",
     "Amplifier Frequency Response.md": "35a3f4591077e48b5b674dddb5aa7439b130e0ce140815acbc648dcff4639b96",
@@ -414,6 +413,7 @@
     "Rope.md": "ca676260acd025e63a5846e7b859056cd7c27ed78c3b79e467210e29be80dd0b",
     "Search Tree.md": "7414f7b658e3569d9676afd1dc955dc0c56766b44329944b5496bb9995da99c4",
     "City-State.md": "4bef8fa5b036fc04bf4e8b927f37a87249e38f56105860e94e3080c07da82ada",
-    "Babylon.md": "6616c472d7bcdc3d8e4ef13cbef0d2e8286370edc02beab2ee6ce6ecc19ecd03"
+    "Babylon.md": "6616c472d7bcdc3d8e4ef13cbef0d2e8286370edc02beab2ee6ce6ecc19ecd03",
+    "Egypt.md": "38f722ddab09cba3a9cc5c4f92aae970cd0a4d855ff188120c4865cf271f3eed"
   }
 }
