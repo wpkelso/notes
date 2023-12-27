@@ -2692,6 +2692,7 @@ Ohmic
 Opposite
 Odes
 Obsidian
+Old
 Schedule
 Store
 Solution
@@ -3008,6 +3009,7 @@ Kirchoff
 Kronecker
 Karnaugh
 Koran
+Kingdom
 Disadvantages
 Definition
 Dataflow
