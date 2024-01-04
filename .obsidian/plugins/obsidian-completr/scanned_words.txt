@@ -83,6 +83,9 @@ barrier
 bureaucracy
 barriers
 behind
+bureaucrats
+bulk
+bug
 size
 sexes
 same
@@ -334,6 +337,8 @@ spend
 societies
 soil
 south
+solely
+siblings
 difference
 different
 deal
@@ -679,6 +684,9 @@ textual
 temple
 tenant
 timber
+tenants
+translating
+testing
 embedded
 each
 execute
@@ -816,6 +824,8 @@ external
 eternity
 engaged
 egypt
+educated
+establishes
 Embedded
 Examples
 Eventually
@@ -1128,6 +1138,7 @@ political
 predicable
 productive
 periods
+parents
 hardware
 hierarchy
 how
@@ -1757,6 +1768,9 @@ africa
 agricultural
 annual
 agriculturally
+attributes
+affected
+attribute
 These
 True
 The
@@ -1912,6 +1926,8 @@ fertility
 father
 forced
 flooding
+freeholders
+figure
 Common
 Counters
 Computing
@@ -2078,6 +2094,10 @@ Primarily
 Peasant
 Patron
 Period
+Pharaoh
+Priests
+Peasants
+Part
 Hardware
 Heuristics
 Hoist
@@ -2218,6 +2238,7 @@ mono
 merchants
 maintained
 middleEast
+multiply
 ready
 resource
 reach
@@ -2349,6 +2370,7 @@ rich
 requiring
 rival
 roughly
+relationship
 use
 used
 unnecessary
@@ -2463,6 +2485,7 @@ Arabic
 Artisans
 Air
 Anu
+Associate
 Build
 Based
 Branch
@@ -2796,6 +2819,10 @@ Sun
 Sin
 Storms
 Sahara
+Societal
+Social
+Syntax
+Synthesized
 Figures
 Following
 Forward
@@ -2841,6 +2868,7 @@ Formal
 Firmware
 Fairness
 Families
+Family
 Note
 Non
 NP
@@ -2871,6 +2899,7 @@ Nodes
 Nippur
 Nile
 Narmer
+Nobility
 violate
 very
 variable
@@ -2977,6 +3006,8 @@ Implication
 Implementations
 Impact
 Ishtar
+Inherited
+Identity
 Will
 We
 What
@@ -3068,6 +3099,7 @@ Dust
 Deities
 Dying
 Decline
+Determined
 Loop
 Live
 Liveness
@@ -3109,6 +3141,8 @@ Locked
 Languages
 Leaf
 Lower
+Landed
+LVALUE
 no
 not
 non
@@ -3208,6 +3242,7 @@ Represents
 Rebalance
 Rising
 Replaced
+Royal
 Major
 Move
 Made
@@ -3270,6 +3305,7 @@ Moon
 Marduck
 Menes
 Memphis
+Merchants
 quasi
 qualitative
 quite

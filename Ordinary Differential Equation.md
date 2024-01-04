@@ -1,6 +1,6 @@
 ---
 created: 2023-09-08T14:31
-updated: 2023-09-08T14:31
+updated: 2023-12-27T15:52
 ---
 #mathematics #differential_equations 
 ## Definition
@@ -26,7 +26,7 @@ A [[Differential Equation]] where the unknowns consists of one or more functions
 	- **Constant/variable coefficient:** if the coefficient of $y$ or its derivatives is changing (because of another variable), the DE is a variable coefficient 
 	  *Ex.* $5x^2y''+3xy'+x^2y=2x^2+1$ is constant variable
 	- **Homogeneous/non-homogenous:** if one side is equal to zero, the ODE is homogeneous
-	  *Ex.* $5y''+3y'+y=0$ is homogeneous
+	  *Ex.* $5y''+3y'+y=0$ Wis homogeneous
 - **Non-Linear:**
   *Ex.* $2yy''+3x^2y=\sin(x)$
   
