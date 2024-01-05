@@ -25,28 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "cf83850abcc1ddd2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -278,8 +258,9 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "cf83850abcc1ddd2",
+  "active": "8c5718bd17f1f03b",
   "lastOpenFiles": [
+    "Communism.md",
     "Ordinary Differential Equation.md",
     "Eigenvector.md",
     "First-Order Language.md",
@@ -305,7 +286,6 @@
     "Early Arabic Poetry.md",
     "1001 Nights.md",
     "Neolithic.md",
-    "Indo-European Languages.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",

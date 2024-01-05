@@ -339,6 +339,7 @@ soil
 south
 solely
 siblings
+spread
 difference
 different
 deal
@@ -570,6 +571,7 @@ oral
 obtain
 oldest
 omens
+opposing
 the
 to
 timing
@@ -940,6 +942,7 @@ wing
 wheel
 wood
 worshipped
+wide
 peripheral
 peripherals
 processor
@@ -1597,6 +1600,7 @@ cradles
 cataracts
 coalescing
 capital
+communist
 achieve
 allow
 actions
@@ -2823,6 +2827,7 @@ Societal
 Social
 Syntax
 Synthesized
+States
 Figures
 Following
 Forward
