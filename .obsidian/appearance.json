@@ -9,7 +9,8 @@
     "monospace-editor-gutter",
     "monospace-metadata",
     "typomagical-overrides",
-    "dangling-link-normal-text-color"
+    "dangling-link-normal-text-color",
+    "flexoki"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",

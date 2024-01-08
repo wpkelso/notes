@@ -86,6 +86,7 @@ behind
 bureaucrats
 bulk
 bug
+begins
 size
 sexes
 same
@@ -340,6 +341,7 @@ south
 solely
 siblings
 spread
+subtract
 difference
 different
 deal
@@ -488,6 +490,9 @@ deity
 deities
 deserts
 dynasty
+dominate
+divide
+differnt
 of
 often
 or
@@ -572,6 +577,7 @@ obtain
 oldest
 omens
 opposing
+office
 the
 to
 timing
@@ -689,6 +695,7 @@ timber
 tenants
 translating
 testing
+translate
 embedded
 each
 execute
@@ -828,6 +835,8 @@ engaged
 egypt
 educated
 establishes
+edge
+elected
 Embedded
 Examples
 Eventually
@@ -888,6 +897,7 @@ Enlil
 Egypt
 Egyptians
 Emergence
+European
 work
 with
 will
@@ -943,6 +953,7 @@ wheel
 wood
 worshipped
 wide
+weeding
 peripheral
 peripherals
 processor
@@ -1142,6 +1153,13 @@ predicable
 productive
 periods
 parents
+phi
+prior
+presented
+page
+produced
+post
+puppet
 hardware
 hierarchy
 how
@@ -1326,6 +1344,11 @@ inhabitants
 imported
 invasion
 invaded
+increment
+info
+identifier
+issues
+immediately
 conjunction
 conversion
 compilers
@@ -1601,6 +1624,8 @@ cataracts
 coalescing
 capital
 communist
+chain
+conquest
 achieve
 allow
 actions
@@ -1775,6 +1800,8 @@ agriculturally
 attributes
 affected
 attribute
+aliasses
+america
 These
 True
 The
@@ -1835,6 +1862,7 @@ Traffic
 Travel
 Tigris
 Tammuz
+Tagged
 for
 first
 from
@@ -2102,6 +2130,9 @@ Pharaoh
 Priests
 Peasants
 Part
+Persian
+Page
+Physically
 Hardware
 Heuristics
 Hoist
@@ -2131,6 +2162,7 @@ Her
 Humans
 House
 He
+Hittite
 methodology
 more
 must
@@ -2375,6 +2407,9 @@ requiring
 rival
 roughly
 relationship
+requirement
+rulers
+riddles
 use
 used
 unnecessary
@@ -2423,6 +2458,7 @@ understanding
 unification
 upper
 unified
+untranslated
 Algorithm
 Anti
 Advantages
@@ -2490,6 +2526,7 @@ Artisans
 Air
 Anu
 Associate
+Antialiasing
 Build
 Based
 Branch
@@ -2529,6 +2566,7 @@ Babylonian
 Brother
 Boasting
 Babylon
+Book
 Use
 Unswitching
 Useful
@@ -2720,6 +2758,7 @@ Opposite
 Odes
 Obsidian
 Old
+Only
 Schedule
 Store
 Solution
@@ -2828,6 +2867,8 @@ Social
 Syntax
 Synthesized
 States
+Scottish
+Spanish
 Figures
 Following
 Forward
@@ -2874,6 +2915,7 @@ Firmware
 Fairness
 Families
 Family
+Flush
 Note
 Non
 NP
@@ -3013,6 +3055,8 @@ Impact
 Ishtar
 Inherited
 Identity
+Indo
+Irish
 Will
 We
 What
@@ -3196,6 +3240,8 @@ nuts
 nutrients
 near
 north
+namely
+narrations
 Register
 Range
 RHS
@@ -3248,6 +3294,7 @@ Rebalance
 Rising
 Replaced
 Royal
+Russian
 Major
 Move
 Made
@@ -3311,6 +3358,7 @@ Marduck
 Menes
 Memphis
 Merchants
+Match
 quasi
 qualitative
 quite
@@ -3360,6 +3408,7 @@ Gate
 Going
 God
 Goddess
+German
 You
 Younger
 just
@@ -3395,3 +3444,4 @@ Versioning
 Valley
 Vegetation
 Villages
+Virtually
