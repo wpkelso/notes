@@ -87,6 +87,7 @@ bureaucrats
 bulk
 bug
 begins
+balance
 size
 sexes
 same
@@ -493,6 +494,7 @@ dynasty
 dominate
 divide
 differnt
+design
 of
 often
 or
@@ -837,6 +839,7 @@ educated
 establishes
 edge
 elected
+evenly
 Embedded
 Examples
 Eventually
@@ -954,6 +957,7 @@ wood
 worshipped
 wide
 weeding
+weights
 peripheral
 peripherals
 processor
@@ -1160,6 +1164,7 @@ page
 produced
 post
 puppet
+principles
 hardware
 hierarchy
 how
@@ -1802,6 +1807,8 @@ affected
 attribute
 aliasses
 america
+art
+achieving
 These
 True
 The
@@ -1960,6 +1967,7 @@ forced
 flooding
 freeholders
 figure
+feel
 Common
 Counters
 Computing
@@ -2410,6 +2418,7 @@ relationship
 requirement
 rulers
 riddles
+recognizing
 use
 used
 unnecessary
@@ -2527,6 +2536,7 @@ Air
 Anu
 Associate
 Antialiasing
+Asymmetrical
 Build
 Based
 Branch
@@ -2567,6 +2577,7 @@ Brother
 Boasting
 Babylon
 Book
+Balance
 Use
 Unswitching
 Useful
@@ -2869,6 +2880,7 @@ Synthesized
 States
 Scottish
 Spanish
+Symmetrical
 Figures
 Following
 Forward
