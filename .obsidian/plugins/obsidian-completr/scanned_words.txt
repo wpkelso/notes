@@ -344,6 +344,7 @@ siblings
 spread
 subtract
 scheduler
+streams
 difference
 different
 deal
@@ -497,6 +498,7 @@ divide
 differnt
 design
 decisions
+dimensions
 of
 often
 or
@@ -700,6 +702,7 @@ tenants
 translating
 testing
 translate
+taxonomy
 embedded
 each
 execute
@@ -842,6 +845,7 @@ establishes
 edge
 elected
 evenly
+extensions
 Embedded
 Examples
 Eventually
@@ -1637,6 +1641,7 @@ communist
 chain
 conquest
 coded
+classifications
 achieve
 allow
 actions
@@ -1877,6 +1882,7 @@ Tigris
 Tammuz
 Tagged
 Tasks
+Taxonomy
 for
 first
 from
@@ -2074,6 +2080,7 @@ Civilizations
 Concatenation
 Considered
 City
+Classifications
 Peripheral
 Parameters
 Predictors
@@ -2290,6 +2297,7 @@ merchants
 maintained
 middleEast
 multiply
+machines
 ready
 resource
 reach
@@ -2890,6 +2898,9 @@ States
 Scottish
 Spanish
 Symmetrical
+SISD
+Single
+SIMD
 Figures
 Following
 Forward
@@ -2937,6 +2948,7 @@ Fairness
 Families
 Family
 Flush
+Flynn
 Note
 Non
 NP
@@ -3098,6 +3110,7 @@ Weak
 Wind
 Wisdom
 War
+Within
 Kinds
 Key
 King
@@ -3384,6 +3397,8 @@ Menes
 Memphis
 Merchants
 Match
+MISD
+MIMD
 quasi
 qualitative
 quite
