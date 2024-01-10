@@ -113,7 +113,7 @@
     "app:show-debug-info": 2
   },
   "keyboardStatistics": {
-    "file-explorer:new-file": 88,
+    "file-explorer:new-file": 89,
     "editor:save-file": 74,
     "obsidian-completr:completr-insert-selected-suggestion": 91,
     "obsidian-completr:completr-select-next-suggestion": 266,
@@ -128,7 +128,7 @@
     "editor:open-search": 1,
     "workspace:goto-tab-8": 1,
     "editor:open-link-in-new-leaf": 11,
-    "workspace:close": 55,
+    "workspace:close": 56,
     "obsidian-completr:completr-close-suggestion-popup": 43,
     "app:open-settings": 1,
     "vim-toggle:toggle-vim": 20,
