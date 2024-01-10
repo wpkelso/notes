@@ -4,13 +4,12 @@
   "translucency": false,
   "interfaceFontFamily": "Inter",
   "baseFontSize": 18,
-  "theme": "moonstone",
+  "theme": "system",
   "enabledCssSnippets": [
     "monospace-editor-gutter",
     "monospace-metadata",
     "typomagical-overrides",
-    "dangling-link-normal-text-color",
-    "flexoki"
+    "dangling-link-normal-text-color"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",
