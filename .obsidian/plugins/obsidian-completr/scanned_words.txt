@@ -343,6 +343,7 @@ solely
 siblings
 spread
 subtract
+scheduler
 difference
 different
 deal
@@ -495,6 +496,7 @@ dominate
 divide
 differnt
 design
+decisions
 of
 often
 or
@@ -1165,6 +1167,8 @@ produced
 post
 puppet
 principles
+preempting
+preempt
 hardware
 hierarchy
 how
@@ -1225,6 +1229,7 @@ hostile
 hundreds
 hyper
 his
+hard
 in
 interrupts
 instruction
@@ -1631,6 +1636,7 @@ capital
 communist
 chain
 conquest
+coded
 achieve
 allow
 actions
@@ -1870,6 +1876,7 @@ Travel
 Tigris
 Tammuz
 Tagged
+Tasks
 for
 first
 from
@@ -2419,6 +2426,8 @@ requirement
 rulers
 riddles
 recognizing
+round
+robin
 use
 used
 unnecessary
@@ -3254,6 +3263,7 @@ near
 north
 namely
 narrations
+names
 Register
 Range
 RHS
@@ -3307,6 +3317,9 @@ Rising
 Replaced
 Royal
 Russian
+RTCS
+Round
+Robin
 Major
 Move
 Made

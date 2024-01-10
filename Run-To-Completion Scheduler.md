@@ -1,17 +1,19 @@
 ---
-aliases:
-  - RTCS
+tags: programming, operating_systems, embedded_systems
+aliases: RTCS
 created: 2023-09-08T14:31
-updated: 2023-09-08T14:31
+updated: 2024-01-09T23:18
 ---
-#programming #operating_systems #embedded_systems #ECE460 
+
+# Run-to-Completion Scheduler
 
 Round-Robin based [[Scheduler (OS)|scheduler]] that doesn't allow [[Task (OS)|task]] preempting. This means that all tasks have the same priority, task function names are hard-coded into the scheduler, and each tasks makes its own decisions as to whether or not it runs. All tasks also run at the same rate, and have a fixed order of running.
 
->[!note]
->Tasks cannot preempt each other, and run one after the other in a round-robin format. [[Fair Scheduling (OS)|Fair Scheduling]]
+> [!note]
+> Tasks cannot preempt each other, and run one after the other in a round-robin format. [[Fair Scheduling (OS)|Fair Scheduling]]
 
 ## Example Code
+
 ```c
 int run_foo;
 int run_bar;
