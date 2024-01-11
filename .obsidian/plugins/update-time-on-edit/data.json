@@ -3,7 +3,7 @@
   "enableCreateTime": true,
   "headerUpdated": "updated",
   "headerCreated": "created",
-  "minMinutesBetweenSaves": 5,
+  "minMinutesBetweenSaves": 15,
   "ignoreGlobalFolder": [],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": true,
@@ -336,7 +336,7 @@
     "Class.md": "48bcf2c84b4049d4f17a2eb11ca7b535afaa03234864a14c4995859e07920d5e",
     "Circuit.md": "d42a13bca88f1ba806c24bd2c5b89518ff3080439a9b8b3e96ee52a3804cf497",
     "Choka.md": "fd467bee27c5e45a5acd2092de8152c04d76745ea724feb72cd1dc6c52581e1d",
-    "Chinese Writing Systems.md": "3105fa46d45d481e18278c7a2d34a3d034cf2ade079f90fcdbdfc11b7c0b542b",
+    "Chinese Writing Systems.md": "88f84e1167142e0cd86184cf52f90ee199e48ebf2b15fbfa3496028a08c8906e",
     "China.md": "3a479a2615c11ab69f4bf811eec378926a07fd22fa236d9fe551d6ccf49cc186",
     "Chilam Balam Book of Chumayel.md": "0c3c133119d044e2fc1cf87c3f5f1f1eb7ee5c47081aecd1a16e30b1d7896a21",
     "Characteristic Polynomial.md": "5ec44b21a6a242142565c71785c98405f647183237e66819ad19a187400183e5",
@@ -421,6 +421,8 @@
     "India.md": "f9bcba4e0deaffb88ad387d1cd54d6d42f8dd7d01e545a74b528495f4501307c",
     "East India Company.md": "163e80678a5e95663dc13e83365f7b20926bf17119a2ca686696e861131b5a2b",
     "Varna System.md": "bad079841e78b8db415b4782d3dbdb4bb9bfd64311a9a5b8ce230a0515a1bb47",
-    "Typography.md": "fce4e306f506a9bb8f65de0c4377daccdb9f00fb737e17f548463591e07d9631"
+    "Typography.md": "330b6900be8da81d08461c7a239d3b538d48f349fb721a281060996d44fe907a",
+    "Pictograph.md": "85b1768f308a1bea51bb7b21e3c002287741f0f97c420c8de41bbb4262777664",
+    "Phonetic Alphabet.md": "abb779da88f14c34f672beb6a8a14c6096b6f92734f619579a3dce3aa361d18b"
   }
 }

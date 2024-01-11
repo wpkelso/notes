@@ -42,7 +42,28 @@
               "type": "markdown",
               "state": {
                 "file": "Typography.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f48eda7317c7de1e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phonetic Alphabet.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -196,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SIMD",
+                "query": "logo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -289,7 +310,11 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Phonetic Alphabet.md",
+    "Pictograph.md",
     "Typography.md",
+    "Chinese Writing Systems.md",
+    "Logosyllabism.md",
     "India.md",
     "Varna System.md",
     "East India Company.md",
@@ -311,10 +336,6 @@
     "Communism.md",
     "Ordinary Differential Equation.md",
     "Eigenvector.md",
-    "Old Kingdom of Ancient Egypt.md",
-    "Euler's Identity.md",
-    "Euler's Formula.md",
-    "Semantic Attributes.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",

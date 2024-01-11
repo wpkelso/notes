@@ -94,6 +94,8 @@ bangledesh
 butchers
 birth
 boundaries
+bowl
+baseline
 size
 sexes
 same
@@ -356,6 +358,12 @@ sea
 subcontinent
 seasonal
 season
+standardized
+sits
+strokes
+stroke
+serif
+straight
 difference
 different
 deal
@@ -519,6 +527,7 @@ diversity
 disappeared
 diggers
 differentiated
+drops
 of
 often
 or
@@ -730,6 +739,9 @@ traditionally
 texts
 traders
 trash
+typography
+traced
+thicker
 embedded
 each
 execute
@@ -879,6 +891,8 @@ experiences
 extreme
 ethnic
 era
+ending
+extends
 Embedded
 Examples
 Eventually
@@ -941,6 +955,7 @@ Egyptians
 Emergence
 European
 Expressive
+Eye
 work
 with
 will
@@ -1413,6 +1428,7 @@ india
 imperialism
 ideas
 impure
+imaginary
 conjunction
 conversion
 compilers
@@ -1700,6 +1716,10 @@ claiming
 caste
 collectors
 contested
+curved
+counter
+clearer
+connect
 achieve
 allow
 actions
@@ -1879,6 +1899,8 @@ america
 art
 achieving
 approximately
+attaching
+attached
 These
 True
 The
@@ -1942,6 +1964,8 @@ Tammuz
 Tagged
 Tasks
 Taxonomy
+Typography
+Terminal
 for
 first
 from
@@ -2145,6 +2169,9 @@ Classifications
 Company
 Climate
 Caste
+Curved
+Counter
+Crossbar
 Peripheral
 Parameters
 Predictors
@@ -2220,6 +2247,8 @@ Persian
 Page
 Physically
 Pakistan
+Pictograph
+Phonetic
 Hardware
 Heuristics
 Hoist
@@ -2251,6 +2280,7 @@ House
 He
 Hittite
 Himalayas
+Horizontal
 methodology
 more
 must
@@ -2367,6 +2397,8 @@ machines
 mark
 moving
 md
+millennia
+marks
 ready
 resource
 reach
@@ -2509,6 +2541,8 @@ religions
 rebirth
 reborn
 regionally
+resemblance
+resemble
 use
 used
 unnecessary
@@ -2631,6 +2665,9 @@ Antialiasing
 Asymmetrical
 Arabian
 Attachment
+Ascender
+Arm
+Alphabet
 Build
 Based
 Branch
@@ -2672,6 +2709,9 @@ Boasting
 Babylon
 Book
 Balance
+Bone
+Baseline
+Bowl
 Use
 Unswitching
 Useful
@@ -2692,6 +2732,7 @@ Uncontended
 Upper
 United
 Untouchables
+Uppercase
 graph
 going
 greater
@@ -2746,6 +2787,7 @@ gods
 god
 grave
 groups
+graphic
 linear
 latency
 list
@@ -2841,6 +2883,9 @@ linguist
 largely
 legitimized
 lineage
+lowercase
+letter
+letterforms
 Output
 Ordering
 ODE
@@ -2875,6 +2920,7 @@ Old
 Only
 Ocean
 Other
+Oracle
 Schedule
 Store
 Solution
@@ -2992,6 +3038,11 @@ SIMD
 Situated
 Subcontinent
 Skihism
+Script
+Serif
+Stem
+Spine
+Shoulder
 Figures
 Following
 Forward
@@ -3115,6 +3166,7 @@ voting
 vegetables
 variances
 variety
+vertical
 Is
 Idea
 It
@@ -3187,6 +3239,7 @@ India
 Indian
 Indus
 Islam
+Ideograms
 Will
 We
 What
@@ -3208,6 +3261,8 @@ Wind
 Wisdom
 War
 Within
+Waist
+Writing
 Kinds
 Key
 King
@@ -3280,6 +3335,8 @@ Deities
 Dying
 Decline
 Determined
+Dragon
+Descender
 Loop
 Live
 Liveness
@@ -3327,6 +3384,10 @@ Lines
 Log
 Linguistics
 Laborers
+Logograms
+Lowercase
+Ligature
+Letterforms
 no
 not
 non
@@ -3504,6 +3565,9 @@ Match
 MISD
 MIMD
 Monsoon
+Marks
+Magiscule
+Miniscule
 quasi
 qualitative
 quite

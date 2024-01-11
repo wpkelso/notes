@@ -1,8 +1,14 @@
 ---
+tags: design, graphic_design, typography
 created: 2024-01-11T12:09
-updated: 2024-01-11T12:20
+updated: 2024-01-11T12:48
 ---
+
 # Typography
+## Types of Writing Systems
+Generally, two major types of writing systems exist:
+1. [[Pictograph|Pictographic]] writing systems, where marks represent ideas and concepts, generally through a resemblance to what is being described
+2. [[Phonetic Alphabet|Phonetic]] writing systems, where marks represent sounds
 
 ## Terminology
 
@@ -16,7 +22,7 @@ updated: 2024-01-11T12:20
 - **Bowl:** The round stroke in a letter like “d”. The **Counter** is the negative space inside the bowl.
 - **Eye:** The counter in an “e”
 - **Ascender:** The part of the letter form that extends above the x-height line
-- **Descender:** The part of the letter form that drops below the baseline 
+- **Descender:** The part of the letter form that drops below the baseline
 - **Magiscule:** Uppercase
 - **Miniscule:** Lowercase
 - **Crossbar:** Horizontal stroke attaching two sides
