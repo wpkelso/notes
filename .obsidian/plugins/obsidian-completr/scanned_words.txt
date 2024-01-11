@@ -91,6 +91,9 @@ balance
 bengal
 beliefs
 bangledesh
+butchers
+birth
+boundaries
 size
 sexes
 same
@@ -514,6 +517,8 @@ distinction
 dominates
 diversity
 disappeared
+diggers
+differentiated
 of
 often
 or
@@ -601,6 +606,7 @@ opposing
 office
 organization
 onward
+occupational
 the
 to
 timing
@@ -720,6 +726,10 @@ translating
 testing
 translate
 taxonomy
+traditionally
+texts
+traders
+trash
 embedded
 each
 execute
@@ -867,6 +877,8 @@ encompasses
 experiances
 experiences
 extreme
+ethnic
+era
 Embedded
 Examples
 Eventually
@@ -988,6 +1000,7 @@ weeding
 weights
 wet
 wind
+warriors
 peripheral
 peripherals
 processor
@@ -1266,6 +1279,7 @@ hard
 historical
 historically
 hinduism
+hierarchies
 in
 interrupts
 instruction
@@ -1397,6 +1411,8 @@ issues
 immediately
 india
 imperialism
+ideas
+impure
 conjunction
 conversion
 compilers
@@ -1681,6 +1697,9 @@ coasts
 continent
 center
 claiming
+caste
+collectors
+contested
 achieve
 allow
 actions
@@ -2022,6 +2041,7 @@ freeholders
 figure
 feel
 families
+fluid
 Common
 Counters
 Computing
@@ -2124,6 +2144,7 @@ City
 Classifications
 Company
 Climate
+Caste
 Peripheral
 Parameters
 Predictors
@@ -2485,6 +2506,9 @@ recognizing
 round
 robin
 religions
+rebirth
+reborn
+regionally
 use
 used
 unnecessary
@@ -2535,6 +2559,7 @@ upper
 unified
 untranslated
 united
+utilized
 Algorithm
 Anti
 Advantages
@@ -2666,6 +2691,7 @@ Unified
 Uncontended
 Upper
 United
+Untouchables
 graph
 going
 greater
@@ -2718,6 +2744,8 @@ gave
 grow
 gods
 god
+grave
+groups
 linear
 latency
 list
@@ -2811,6 +2839,8 @@ lands
 lies
 linguist
 largely
+legitimized
+lineage
 Output
 Ordering
 ODE
@@ -3296,6 +3326,7 @@ LVALUE
 Lines
 Log
 Linguistics
+Laborers
 no
 not
 non
@@ -3405,6 +3436,7 @@ Russian
 RTCS
 Round
 Robin
+Rulers
 Major
 Move
 Made
@@ -3562,3 +3594,4 @@ Valley
 Vegetation
 Villages
 Virtually
+Varna

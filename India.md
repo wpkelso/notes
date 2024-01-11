@@ -1,7 +1,7 @@
 ---
 tags: india, pakistan, bangledesh, asia, culture, history, hinduism, religion
 created: 2024-01-11T10:18
-updated: 2024-01-11T11:12
+updated: 2024-01-11T11:22
 ---
 
 # India
@@ -33,4 +33,7 @@ Islam is heavily prevalent in the northwest of the region (present Pakistan), as
 
 ## Social Structure
 
-The Indian social structure is based around a caste system.  It has two systems, with the [[Varna System]] being what is traditionally referred to as the “Caste System”.
+The Indian social structure is based around a caste system. It has two systems, with the [[Varna System]] being what is traditionally referred to as the “Caste System”. Eventually, the caste system became associated with the [[Jati System]], which differentiated people by birth across multiple, regionally distinct, occupational, lineage, ethnic groups.
+
+>[!note]
+>In the pre-modern era, religious and caste boundaries were fluid, and the hierarchies were very often contested.
