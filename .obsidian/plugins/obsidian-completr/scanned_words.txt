@@ -499,6 +499,7 @@ differnt
 design
 decisions
 dimensions
+distance
 of
 often
 or
@@ -907,6 +908,7 @@ Egypt
 Egyptians
 Emergence
 European
+Expressive
 work
 with
 will
@@ -1642,6 +1644,7 @@ chain
 conquest
 coded
 classifications
+closely
 achieve
 allow
 actions
@@ -2298,6 +2301,8 @@ maintained
 middleEast
 multiply
 machines
+mark
+moving
 ready
 resource
 reach
@@ -3090,6 +3095,7 @@ Inherited
 Identity
 Indo
 Irish
+Implied
 Will
 We
 What
@@ -3226,6 +3232,7 @@ Leaf
 Lower
 Landed
 LVALUE
+Lines
 no
 not
 non
