@@ -25,8 +25,72 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "2a715cb6249622a6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "India.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "43f0d150e14c677b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Varna System.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1b6a1dba29c3e185",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "East India Company.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -55,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Varna System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Varna System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +185,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Varna System.md"
+              }
             }
           },
           {
@@ -258,11 +326,15 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "8c5718bd17f1f03b",
+  "active": "43f0d150e14c677b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "India.md",
+    "Varna System.md",
+    "Attachment Name Formatting Log.md",
+    "East India Company.md",
     "First-Order Language.md",
     "Line.md",
     "Flynn's Taxonomy.md",
@@ -285,10 +357,6 @@
     "Euler's Formula.md",
     "Semantic Attributes.md",
     "Semantic Analysis.md",
-    "Ancient Egypt.md",
-    "Neolithic Village.md",
-    "Mesopotamia.md",
-    "Babylon.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",

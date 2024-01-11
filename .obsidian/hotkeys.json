@@ -57,10 +57,41 @@
   "highlightr-plugin:highlighter-plugin-menu": [
     {
       "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "pane-relief:go-next": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "pane-relief:go-prev": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageUp"
+    },
+    {
+      "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "H"
     }
-  ]
+  ],
+  "obsidian-editor-shortcuts:selectAllOccurrences": []
 }

@@ -88,6 +88,9 @@ bulk
 bug
 begins
 balance
+bengal
+beliefs
+bangledesh
 size
 sexes
 same
@@ -345,6 +348,11 @@ spread
 subtract
 scheduler
 streams
+southern
+sea
+subcontinent
+seasonal
+season
 difference
 different
 deal
@@ -500,6 +508,12 @@ design
 decisions
 dimensions
 distance
+dominated
+dry
+distinction
+dominates
+diversity
+disappeared
 of
 often
 or
@@ -585,6 +599,8 @@ oldest
 omens
 opposing
 office
+organization
+onward
 the
 to
 timing
@@ -847,6 +863,10 @@ edge
 elected
 evenly
 extensions
+encompasses
+experiances
+experiences
+extreme
 Embedded
 Examples
 Eventually
@@ -966,6 +986,8 @@ worshipped
 wide
 weeding
 weights
+wet
+wind
 peripheral
 peripherals
 processor
@@ -1175,6 +1197,11 @@ puppet
 principles
 preempting
 preempt
+patterns
+pakistan
+pockets
+presently
+prevalent
 hardware
 hierarchy
 how
@@ -1236,6 +1263,9 @@ hundreds
 hyper
 his
 hard
+historical
+historically
+hinduism
 in
 interrupts
 instruction
@@ -1365,6 +1395,8 @@ info
 identifier
 issues
 immediately
+india
+imperialism
 conjunction
 conversion
 compilers
@@ -1645,6 +1677,10 @@ conquest
 coded
 classifications
 closely
+coasts
+continent
+center
+claiming
 achieve
 allow
 actions
@@ -1823,6 +1859,7 @@ aliasses
 america
 art
 achieving
+approximately
 These
 True
 The
@@ -1984,6 +2021,7 @@ flooding
 freeholders
 figure
 feel
+families
 Common
 Counters
 Computing
@@ -2084,6 +2122,8 @@ Concatenation
 Considered
 City
 Classifications
+Company
+Climate
 Peripheral
 Parameters
 Predictors
@@ -2158,6 +2198,7 @@ Part
 Persian
 Page
 Physically
+Pakistan
 Hardware
 Heuristics
 Hoist
@@ -2188,6 +2229,7 @@ Humans
 House
 He
 Hittite
+Himalayas
 methodology
 more
 must
@@ -2303,6 +2345,7 @@ multiply
 machines
 mark
 moving
+md
 ready
 resource
 reach
@@ -2441,6 +2484,7 @@ riddles
 recognizing
 round
 robin
+religions
 use
 used
 unnecessary
@@ -2490,6 +2534,7 @@ unification
 upper
 unified
 untranslated
+united
 Algorithm
 Anti
 Advantages
@@ -2559,6 +2604,8 @@ Anu
 Associate
 Antialiasing
 Asymmetrical
+Arabian
+Attachment
 Build
 Based
 Branch
@@ -2760,6 +2807,10 @@ leaf
 least
 life
 love
+lands
+lies
+linguist
+largely
 Output
 Ordering
 ODE
@@ -2792,6 +2843,8 @@ Odes
 Obsidian
 Old
 Only
+Ocean
+Other
 Schedule
 Store
 Solution
@@ -2906,6 +2959,9 @@ Symmetrical
 SISD
 Single
 SIMD
+Situated
+Subcontinent
+Skihism
 Figures
 Following
 Forward
@@ -2954,6 +3010,7 @@ Families
 Family
 Flush
 Flynn
+Formatting
 Note
 Non
 NP
@@ -3096,6 +3153,10 @@ Identity
 Indo
 Irish
 Implied
+India
+Indian
+Indus
+Islam
 Will
 We
 What
@@ -3233,6 +3294,8 @@ Lower
 Landed
 LVALUE
 Lines
+Log
+Linguistics
 no
 not
 non
@@ -3284,6 +3347,8 @@ north
 namely
 narrations
 names
+northwest
+northeast
 Register
 Range
 RHS
@@ -3406,6 +3471,7 @@ Merchants
 Match
 MISD
 MIMD
+Monsoon
 quasi
 qualitative
 quite
@@ -3433,6 +3499,7 @@ keys
 knowing
 keeping
 kingdoms
+kingdom
 Goal
 Graph
 Generally
@@ -3456,6 +3523,8 @@ Going
 God
 Goddess
 German
+Geography
+Ganges
 You
 Younger
 just
@@ -3480,6 +3549,7 @@ JFET
 Julia
 Joseon
 Justice
+Jainism
 Zawi
 Zagros
 Zigguraut
