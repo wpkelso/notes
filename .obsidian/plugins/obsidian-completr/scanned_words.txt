@@ -1230,6 +1230,7 @@ pakistan
 pockets
 presently
 prevalent
+phonetic
 hardware
 hierarchy
 how
@@ -1901,6 +1902,8 @@ achieving
 approximately
 attaching
 attached
+alphabet
+alphabets
 These
 True
 The
@@ -2712,6 +2715,7 @@ Balance
 Bone
 Baseline
 Bowl
+Both
 Use
 Unswitching
 Useful
@@ -3388,6 +3392,7 @@ Logograms
 Lowercase
 Ligature
 Letterforms
+Latin
 no
 not
 non
