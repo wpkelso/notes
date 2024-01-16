@@ -96,6 +96,9 @@ birth
 boundaries
 bowl
 baseline
+buearacracy
+brought
+bases
 size
 sexes
 same
@@ -364,6 +367,10 @@ strokes
 stroke
 serif
 straight
+solidified
+surveys
+standard
+sponsored
 difference
 different
 deal
@@ -742,6 +749,13 @@ trash
 typography
 traced
 thicker
+takeover
+taxes
+tax
+took
+translations
+textiles
+turn
 embedded
 each
 execute
@@ -893,6 +907,12 @@ ethnic
 era
 ending
 extends
+empire
+empires
+ever
+exporter
+establishment
+establish
 Embedded
 Examples
 Eventually
@@ -956,6 +976,9 @@ Emergence
 European
 Expressive
 Eye
+Empire
+Empires
+Emperor
 work
 with
 will
@@ -1231,6 +1254,7 @@ pockets
 presently
 prevalent
 phonetic
+powerful
 hardware
 hierarchy
 how
@@ -1721,6 +1745,11 @@ curved
 counter
 clearer
 connect
+comparatively
+came
+cotton
+cities
+commercial
 achieve
 allow
 actions
@@ -1969,6 +1998,7 @@ Tasks
 Taxonomy
 Typography
 Terminal
+Trade
 for
 first
 from
@@ -2175,6 +2205,9 @@ Caste
 Curved
 Counter
 Crossbar
+Consolidation
+Cultural
+Calcutta
 Peripheral
 Parameters
 Predictors
@@ -2284,6 +2317,7 @@ He
 Hittite
 Himalayas
 Horizontal
+Hinduism
 methodology
 more
 must
@@ -2402,6 +2436,7 @@ moving
 md
 millennia
 marks
+monetized
 ready
 resource
 reach
@@ -2546,6 +2581,12 @@ reborn
 regionally
 resemblance
 resemble
+regional
+reign
+regards
+revenue
+rupee
+ruled
 use
 used
 unnecessary
@@ -2597,6 +2638,7 @@ unified
 untranslated
 united
 utilized
+undertook
 Algorithm
 Anti
 Advantages
@@ -2671,6 +2713,8 @@ Attachment
 Ascender
 Arm
 Alphabet
+Along
+Akbar
 Build
 Based
 Branch
@@ -2716,6 +2760,9 @@ Bone
 Baseline
 Bowl
 Both
+British
+By
+Bombay
 Use
 Unswitching
 Useful
@@ -2737,6 +2784,8 @@ Upper
 United
 Untouchables
 Uppercase
+Up
+Universalism
 graph
 going
 greater
@@ -2792,6 +2841,7 @@ god
 grave
 groups
 graphic
+groundwork
 linear
 latency
 list
@@ -3096,6 +3146,7 @@ Family
 Flush
 Flynn
 Formatting
+Formed
 Note
 Non
 NP
@@ -3244,6 +3295,7 @@ Indian
 Indus
 Islam
 Ideograms
+Importance
 Will
 We
 What
@@ -3573,6 +3625,9 @@ Monsoon
 Marks
 Magiscule
 Miniscule
+Mughal
+Mughals
+Madras
 quasi
 qualitative
 quite
@@ -3626,6 +3681,7 @@ Goddess
 German
 Geography
 Ganges
+Gunpowder
 You
 Younger
 just
@@ -3651,6 +3707,7 @@ Julia
 Joseon
 Justice
 Jainism
+James
 Zawi
 Zagros
 Zigguraut
