@@ -25,51 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "a7c5405698ac1d0d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mughal Empire.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "faba338d3fee1f2c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "British East India Company.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -98,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "British East India Company.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "British East India Company.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "British East India Company.md"
-              }
+              "state": {}
             }
           },
           {
@@ -305,7 +258,7 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "faba338d3fee1f2c",
+  "active": "00ab2517468a9824",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
