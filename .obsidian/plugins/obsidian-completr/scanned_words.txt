@@ -100,6 +100,7 @@ buearacracy
 brought
 bases
 becoming
+bringers
 size
 sexes
 same
@@ -372,6 +373,10 @@ solidified
 surveys
 standard
 sponsored
+soldiers
+soldiered
+spending
+sought
 difference
 different
 deal
@@ -538,6 +543,7 @@ differentiated
 drops
 death
 disintegrate
+directors
 of
 often
 or
@@ -626,6 +632,12 @@ office
 organization
 onward
 occupational
+occurred
+officer
+officially
+oversight
+overseen
+officials
 the
 to
 timing
@@ -759,6 +771,9 @@ took
 translations
 textiles
 turn
+territorial
+themselves
+traditional
 embedded
 each
 execute
@@ -916,6 +931,12 @@ ever
 exporter
 establishment
 establish
+expansions
+employed
+ed
+engage
+elite
+elites
 Embedded
 Examples
 Eventually
@@ -982,6 +1003,8 @@ Eye
 Empire
 Empires
 Emperor
+Europeans
+Establishment
 work
 with
 will
@@ -1324,6 +1347,9 @@ historical
 historically
 hinduism
 hierarchies
+headed
+hierarchical
+heaviest
 in
 interrupts
 instruction
@@ -1458,6 +1484,7 @@ imperialism
 ideas
 impure
 imaginary
+interest
 conjunction
 conversion
 compilers
@@ -1754,6 +1781,8 @@ came
 cotton
 cities
 commercial
+converting
+company
 achieve
 allow
 actions
@@ -1937,6 +1966,9 @@ attaching
 attached
 alphabet
 alphabets
+armies
+administered
+administration
 These
 True
 The
@@ -2003,6 +2035,7 @@ Taxonomy
 Typography
 Terminal
 Trade
+Their
 for
 first
 from
@@ -2212,6 +2245,8 @@ Crossbar
 Consolidation
 Cultural
 Calcutta
+Cornwallis
+Crown
 Peripheral
 Parameters
 Predictors
@@ -2289,6 +2324,8 @@ Physically
 Pakistan
 Pictograph
 Phonetic
+Princely
+Paradox
 Hardware
 Heuristics
 Hoist
@@ -2322,6 +2359,8 @@ Hittite
 Himalayas
 Horizontal
 Hinduism
+Hired
+Home
 methodology
 more
 must
@@ -2442,6 +2481,10 @@ millennia
 marks
 monetized
 minor
+mercenaries
+money
+military
+modernity
 ready
 resource
 reach
@@ -2592,6 +2635,10 @@ regards
 revenue
 rupee
 ruled
+recognized
+racially
+record
+recognition
 use
 used
 unnecessary
@@ -2720,6 +2767,9 @@ Arm
 Alphabet
 Along
 Akbar
+Act
+Aristocrat
+Alliance
 Build
 Based
 Branch
@@ -2768,6 +2818,7 @@ Both
 British
 By
 Bombay
+Board
 Use
 Unswitching
 Useful
@@ -2847,6 +2898,7 @@ grave
 groups
 graphic
 groundwork
+government
 linear
 latency
 list
@@ -2945,6 +2997,8 @@ lineage
 lowercase
 letter
 letterforms
+landed
+leaders
 Output
 Ordering
 ODE
@@ -2980,6 +3034,7 @@ Only
 Ocean
 Other
 Oracle
+Originally
 Schedule
 Store
 Solution
@@ -3102,6 +3157,9 @@ Serif
 Stem
 Spine
 Shoulder
+Sepoys
+Specified
+Subsidiary
 Figures
 Following
 Forward
@@ -3152,6 +3210,7 @@ Flush
 Flynn
 Formatting
 Formed
+French
 Note
 Non
 NP
@@ -3301,6 +3360,8 @@ Indus
 Islam
 Ideograms
 Importance
+Indians
+Indirect
 Will
 We
 What
@@ -3451,6 +3512,8 @@ Lowercase
 Ligature
 Letterforms
 Latin
+London
+Lord
 no
 not
 non
@@ -3561,6 +3624,9 @@ RTCS
 Round
 Robin
 Rulers
+Ruling
+Raj
+Rule
 Major
 Move
 Made
@@ -3634,6 +3700,7 @@ Miniscule
 Mughal
 Mughals
 Madras
+Military
 quasi
 qualitative
 quite
@@ -3689,6 +3756,8 @@ Geography
 Ganges
 Gunpowder
 Great
+Government
+Governor
 You
 Younger
 just
