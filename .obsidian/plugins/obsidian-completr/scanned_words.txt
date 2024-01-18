@@ -1005,6 +1005,7 @@ Empires
 Emperor
 Europeans
 Establishment
+EIC
 work
 with
 will
@@ -1282,6 +1283,7 @@ prevalent
 phonetic
 powerful
 player
+preceding
 hardware
 hierarchy
 how
@@ -1485,6 +1487,7 @@ ideas
 impure
 imaginary
 interest
+independence
 conjunction
 conversion
 compilers
@@ -1969,6 +1972,7 @@ alphabets
 armies
 administered
 administration
+abolished
 These
 True
 The
@@ -2639,6 +2643,7 @@ recognized
 racially
 record
 recognition
+rebellion
 use
 used
 unnecessary
@@ -2819,6 +2824,7 @@ British
 By
 Bombay
 Board
+Background
 Use
 Unswitching
 Useful
@@ -3772,6 +3778,7 @@ you
 yet
 years
 younger
+year
 Japan
 Jericho
 Jordan

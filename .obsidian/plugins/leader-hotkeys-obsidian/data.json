@@ -1,0 +1,73 @@
+{
+  "hotkeys": [
+    {
+      "sequence": [
+        {
+          "key": "O",
+          "shift": true,
+          "alt": false,
+          "ctrl": true,
+          "meta": false
+        }
+      ],
+      "commandID": "leader-hotkeys-obsidian:register-modal"
+    },
+    {
+      "sequence": [
+        {
+          "key": "w",
+          "shift": false,
+          "alt": false,
+          "ctrl": true,
+          "meta": false
+        },
+        {
+          "key": "l",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "pane-relief:go-next"
+    },
+    {
+      "sequence": [
+        {
+          "key": "w",
+          "shift": false,
+          "alt": false,
+          "ctrl": true,
+          "meta": false
+        },
+        {
+          "key": "q",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "workspace:close"
+    },
+    {
+      "sequence": [
+        {
+          "key": "w",
+          "shift": false,
+          "alt": false,
+          "ctrl": true,
+          "meta": false
+        },
+        {
+          "key": "h",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "pane-relief:go-prev"
+    }
+  ]
+}

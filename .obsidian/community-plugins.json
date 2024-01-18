@@ -28,5 +28,7 @@
   "obsidian-plugin-prettier",
   "pane-relief",
   "obsidian-contextual-typography",
-  "obsidian-epub-plugin"
+  "obsidian-epub-plugin",
+  "leader-hotkeys-obsidian",
+  "auto-note-mover"
 ]

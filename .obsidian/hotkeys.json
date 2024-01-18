@@ -66,12 +66,6 @@
   "pane-relief:go-next": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "PageDown"
-    },
-    {
-      "modifiers": [
         "Mod",
         "Shift"
       ],
@@ -81,17 +75,12 @@
   "pane-relief:go-prev": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "PageUp"
-    },
-    {
-      "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "H"
     }
   ],
-  "obsidian-editor-shortcuts:selectAllOccurrences": []
+  "obsidian-editor-shortcuts:selectAllOccurrences": [],
+  "workspace:close": []
 }
