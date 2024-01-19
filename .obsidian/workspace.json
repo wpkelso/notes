@@ -46,27 +46,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "3a55daee34138b36",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "history/Style.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
         "stacked": true
@@ -305,10 +284,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "history/Art Nouveau.md",
+    "history/Style.md",
     "history/British East India Company.md",
     "history/Sepoy.md",
-    "history/Style.md",
-    "history/Art Nouveau.md",
     "India.md",
     "history/Crown Rule.md",
     "literature",

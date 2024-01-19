@@ -379,6 +379,9 @@ soldiered
 spending
 sought
 soldier
+showcased
+speak
+soulless
 difference
 different
 deal
@@ -546,6 +549,7 @@ drops
 death
 disintegrate
 directors
+dominance
 of
 often
 or
@@ -640,6 +644,7 @@ officially
 oversight
 overseen
 officials
+outposts
 the
 to
 timing
@@ -941,6 +946,7 @@ engage
 elite
 elites
 emerged
+exotic
 Embedded
 Examples
 Eventually
@@ -1010,6 +1016,8 @@ Emperor
 Europeans
 Establishment
 EIC
+Effects
+England
 work
 with
 will
@@ -1289,6 +1297,7 @@ powerful
 player
 preceding
 philosophical
+perfect
 hardware
 hierarchy
 how
@@ -1357,6 +1366,7 @@ hierarchies
 headed
 hierarchical
 heaviest
+held
 in
 interrupts
 instruction
@@ -1493,6 +1503,7 @@ impure
 imaginary
 interest
 independence
+influences
 conjunction
 conversion
 compilers
@@ -1792,6 +1803,9 @@ commercial
 converting
 company
 conquering
+conveys
+coalesced
+curvilinear
 achieve
 allow
 actions
@@ -1980,6 +1994,9 @@ administered
 administration
 abolished
 arts
+artistic
+artists
+alternative
 These
 True
 The
@@ -2047,6 +2064,8 @@ Typography
 Terminal
 Trade
 Their
+Translated
+Tiffany
 for
 first
 from
@@ -2148,6 +2167,7 @@ feel
 families
 fluid
 focused
+flourishing
 Common
 Counters
 Computing
@@ -2338,6 +2358,8 @@ Pictograph
 Phonetic
 Princely
 Paradox
+Patterning
+Play
 Hardware
 Heuristics
 Hoist
@@ -2373,6 +2395,8 @@ Horizontal
 Hinduism
 Hired
 Home
+Historicism
+Harmony
 methodology
 more
 must
@@ -2498,6 +2522,9 @@ money
 military
 modernity
 mundane
+millennium
+mechanization
+movements
 ready
 resource
 reach
@@ -2654,6 +2681,9 @@ record
 recognition
 rebellion
 representation
+relates
+reaction
+rectilinear
 use
 used
 unnecessary
@@ -2706,6 +2736,7 @@ untranslated
 united
 utilized
 undertook
+unifying
 Algorithm
 Anti
 Advantages
@@ -2788,6 +2819,7 @@ Alliance
 Art
 Applied
 Armies
+Austria
 Build
 Based
 Branch
@@ -2838,6 +2870,7 @@ By
 Bombay
 Board
 Background
+Belgium
 Use
 Unswitching
 Useful
@@ -2918,6 +2951,7 @@ groups
 graphic
 groundwork
 government
+geography
 linear
 latency
 list
@@ -3018,6 +3052,7 @@ letter
 letterforms
 landed
 leaders
+literally
 Output
 Ordering
 ODE
@@ -3181,6 +3216,9 @@ Specified
 Subsidiary
 Style
 Sepoy
+Stile
+Secession
+Scotland
 Figures
 Following
 Forward
@@ -3233,6 +3271,9 @@ Formatting
 Formed
 French
 Fine
+Flattening
+Floral
+France
 Note
 Non
 NP
@@ -3386,6 +3427,9 @@ Ideograms
 Importance
 Indians
 Indirect
+Influences
+Industrial
+Italy
 Will
 We
 What
@@ -3538,6 +3582,7 @@ Letterforms
 Latin
 London
 Lord
+Liberty
 no
 not
 non
@@ -3651,6 +3696,7 @@ Rulers
 Ruling
 Raj
 Rule
+Reaction
 Major
 Move
 Made
@@ -3725,6 +3771,7 @@ Mughal
 Mughals
 Madras
 Military
+Mackintosh
 quasi
 qualitative
 quite
@@ -3782,8 +3829,11 @@ Gunpowder
 Great
 Government
 Governor
+Germany
+Geometric
 You
 Younger
+Youth
 just
 jumps
 jump
@@ -3809,6 +3859,7 @@ Joseon
 Justice
 Jainism
 James
+Jugendstil
 Zawi
 Zagros
 Zigguraut
