@@ -378,6 +378,7 @@ soldiers
 soldiered
 spending
 sought
+soldier
 difference
 different
 deal
@@ -775,6 +776,7 @@ turn
 territorial
 themselves
 traditional
+territory
 embedded
 each
 execute
@@ -1789,6 +1791,7 @@ cities
 commercial
 converting
 company
+conquering
 achieve
 allow
 actions
@@ -2784,6 +2787,7 @@ Aristocrat
 Alliance
 Art
 Applied
+Armies
 Build
 Based
 Branch
@@ -3176,6 +3180,7 @@ Sepoys
 Specified
 Subsidiary
 Style
+Sepoy
 Figures
 Following
 Forward

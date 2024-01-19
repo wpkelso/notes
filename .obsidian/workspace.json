@@ -69,7 +69,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/Art Nouveau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "history/Art Nouveau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +161,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "history/Art Nouveau.md"
-              }
+              "state": {}
             }
           },
           {
@@ -305,14 +300,15 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "ddd6e86ee01d852c",
+  "active": "00ab2517468a9824",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "history/British East India Company.md",
+    "history/Sepoy.md",
     "history/Style.md",
     "history/Art Nouveau.md",
-    "history/British East India Company.md",
     "India.md",
     "history/Crown Rule.md",
     "literature",
@@ -340,7 +336,6 @@
     "Chilam Balam Book of Chumayel.md",
     "Virtual Caches.md",
     "Induction Variables.md",
-    "Hangeul.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
