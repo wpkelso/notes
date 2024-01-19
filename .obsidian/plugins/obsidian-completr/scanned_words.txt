@@ -101,6 +101,7 @@ brought
 bases
 becoming
 bringers
+breaking
 size
 sexes
 same
@@ -937,6 +938,7 @@ ed
 engage
 elite
 elites
+emerged
 Embedded
 Examples
 Eventually
@@ -1284,6 +1286,7 @@ phonetic
 powerful
 player
 preceding
+philosophical
 hardware
 hierarchy
 how
@@ -1973,6 +1976,7 @@ armies
 administered
 administration
 abolished
+arts
 These
 True
 The
@@ -2140,6 +2144,7 @@ figure
 feel
 families
 fluid
+focused
 Common
 Counters
 Computing
@@ -2489,6 +2494,7 @@ mercenaries
 money
 military
 modernity
+mundane
 ready
 resource
 reach
@@ -2644,6 +2650,7 @@ racially
 record
 recognition
 rebellion
+representation
 use
 used
 unnecessary
@@ -2775,6 +2782,8 @@ Akbar
 Act
 Aristocrat
 Alliance
+Art
+Applied
 Build
 Based
 Branch
@@ -3166,6 +3175,7 @@ Shoulder
 Sepoys
 Specified
 Subsidiary
+Style
 Figures
 Following
 Forward
@@ -3217,6 +3227,7 @@ Flynn
 Formatting
 Formed
 French
+Fine
 Note
 Non
 NP
@@ -3248,6 +3259,7 @@ Nippur
 Nile
 Narmer
 Nobility
+Nouveau
 violate
 very
 variable
@@ -3292,6 +3304,7 @@ vegetables
 variances
 variety
 vertical
+visual
 Is
 Idea
 It

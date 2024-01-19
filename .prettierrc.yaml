@@ -1,0 +1,7 @@
+# Vault Prettier formatting rules
+tabWidth: 2
+printWidth: 80
+proseWrap: "always" # Soft-wrapping would probably get
+                     # smiliar results, and this makes it
+                     # easier to navigate with a vim cursor
+endOfLine: "lf" # Deny windows weirdness

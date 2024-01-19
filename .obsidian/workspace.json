@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "8b3c20fe86f86dc4",
+            "id": "ddd6e86ee01d852c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,13 +41,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "history/British East India Company.md",
+                "file": "history/Art Nouveau.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3a55daee34138b36",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history/Style.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "history/Art Nouveau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "history/Art Nouveau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +164,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "history/Art Nouveau.md"
+              }
             }
           },
           {
@@ -279,11 +305,13 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "00ab2517468a9824",
+  "active": "ddd6e86ee01d852c",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "history/Style.md",
+    "history/Art Nouveau.md",
     "history/British East India Company.md",
     "India.md",
     "history/Crown Rule.md",
@@ -313,7 +341,6 @@
     "Virtual Caches.md",
     "Induction Variables.md",
     "Hangeul.md",
-    "Indo-European Languages.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
