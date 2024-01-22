@@ -550,6 +550,8 @@ death
 disintegrate
 directors
 dominance
+deallocated
+deallocation
 of
 often
 or
@@ -1367,6 +1369,7 @@ headed
 hierarchical
 heaviest
 held
+having
 in
 interrupts
 instruction
@@ -2684,6 +2687,7 @@ representation
 relates
 reaction
 rectilinear
+reused
 use
 used
 unnecessary
@@ -2820,6 +2824,7 @@ Art
 Applied
 Armies
 Austria
+Automatically
 Build
 Based
 Branch
@@ -3053,6 +3058,7 @@ letterforms
 landed
 leaders
 literally
+lifetimes
 Output
 Ordering
 ODE
@@ -3219,6 +3225,7 @@ Sepoy
 Stile
 Secession
 Scotland
+Statically
 Figures
 Following
 Forward
@@ -3528,6 +3535,7 @@ Determined
 Dragon
 Descender
 Disintegration
+Dynamically
 Loop
 Live
 Liveness
@@ -3583,6 +3591,7 @@ Latin
 London
 Lord
 Liberty
+Lifetime
 no
 not
 non
