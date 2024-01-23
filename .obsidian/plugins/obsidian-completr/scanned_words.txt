@@ -382,6 +382,9 @@ soldier
 showcased
 speak
 soulless
+sitting
+seizure
+sympathizers
 difference
 different
 deal
@@ -552,6 +555,12 @@ directors
 dominance
 deallocated
 deallocation
+division
+delta
+densely
+despite
+differences
+dynasties
 of
 often
 or
@@ -784,6 +793,9 @@ territorial
 themselves
 traditional
 territory
+tended
+towards
+third
 embedded
 each
 execute
@@ -949,6 +961,8 @@ elite
 elites
 emerged
 exotic
+eastern
+expand
 Embedded
 Examples
 Eventually
@@ -1020,6 +1034,8 @@ Establishment
 EIC
 Effects
 England
+Extremely
+Era
 work
 with
 will
@@ -1300,6 +1316,12 @@ player
 preceding
 philosophical
 perfect
+prone
+pastoral
+populated
+pictographic
+prestige
+partly
 hardware
 hierarchy
 how
@@ -1370,6 +1392,8 @@ hierarchical
 heaviest
 held
 having
+heartland
+holdings
 in
 interrupts
 instruction
@@ -1507,6 +1531,7 @@ imaginary
 interest
 independence
 influences
+international
 conjunction
 conversion
 compilers
@@ -1809,6 +1834,9 @@ conquering
 conveys
 coalesced
 curvilinear
+commerce
+commercially
+campaign
 achieve
 allow
 actions
@@ -2000,6 +2028,8 @@ arts
 artistic
 artists
 alternative
+avenue
+advanced
 These
 True
 The
@@ -2069,6 +2099,9 @@ Trade
 Their
 Translated
 Tiffany
+Today
+Taiwan
+Thought
 for
 first
 from
@@ -2171,6 +2204,8 @@ families
 fluid
 focused
 flourishing
+fine
+founding
 Common
 Counters
 Computing
@@ -2282,6 +2317,9 @@ Cultural
 Calcutta
 Cornwallis
 Crown
+Commerical
+Chongqing
+CE
 Peripheral
 Parameters
 Predictors
@@ -2363,6 +2401,9 @@ Princely
 Paradox
 Patterning
 Play
+Pearl
+Preceeded
+Philosophical
 Hardware
 Heuristics
 Hoist
@@ -2400,6 +2441,9 @@ Hired
 Home
 Historicism
 Harmony
+Huang
+Historically
+Hanzi
 methodology
 more
 must
@@ -2688,6 +2732,7 @@ relates
 reaction
 rectilinear
 reused
+removing
 use
 used
 unnecessary
@@ -2741,6 +2786,7 @@ united
 utilized
 undertook
 unifying
+uniting
 Algorithm
 Anti
 Advantages
@@ -2876,6 +2922,7 @@ Bombay
 Board
 Background
 Belgium
+Beijing
 Use
 Unswitching
 Useful
@@ -2957,6 +3004,7 @@ graphic
 groundwork
 government
 geography
+geographical
 linear
 latency
 list
@@ -3059,6 +3107,7 @@ landed
 leaders
 literally
 lifetimes
+looked
 Output
 Ordering
 ODE
@@ -3226,6 +3275,8 @@ Stile
 Secession
 Scotland
 Statically
+Shanghai
+Schools
 Figures
 Following
 Forward
@@ -3281,6 +3332,7 @@ Fine
 Flattening
 Floral
 France
+Founded
 Note
 Non
 NP
@@ -3437,6 +3489,7 @@ Indirect
 Influences
 Industrial
 Italy
+Imperialism
 Will
 We
 What
@@ -3460,6 +3513,7 @@ War
 Within
 Waist
 Writing
+Whuan
 Kinds
 Key
 King
@@ -3536,6 +3590,7 @@ Dragon
 Descender
 Disintegration
 Dynamically
+Dynasty
 Loop
 Live
 Liveness
@@ -3645,6 +3700,7 @@ narrations
 names
 northwest
 northeast
+numerous
 Register
 Range
 RHS
@@ -3706,6 +3762,7 @@ Ruling
 Raj
 Rule
 Reaction
+Religious
 Major
 Move
 Made
@@ -3781,6 +3838,8 @@ Mughals
 Madras
 Military
 Mackintosh
+Manchus
+Ming
 quasi
 qualitative
 quite
@@ -3795,6 +3854,7 @@ zero
 Quantitative
 Quality
 Quantifiers
+Qing
 kept
 known
 kind
@@ -3843,6 +3903,8 @@ Geometric
 You
 Younger
 Youth
+Yellow
+Yangtze
 just
 jumps
 jump
@@ -3872,6 +3934,7 @@ Jugendstil
 Zawi
 Zagros
 Zigguraut
+Zhongguo
 Velocity
 Vocabulary
 Voltage
@@ -3882,3 +3945,4 @@ Vegetation
 Villages
 Virtually
 Varna
+Xinjiang

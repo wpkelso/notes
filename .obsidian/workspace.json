@@ -27,7 +27,34 @@
             }
           },
           {
-            "id": "6ddab4eed8571911",
+            "id": "cf70f08d80fc808d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Pictograph",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pictograph.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history/China.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "76a3fa4b223f48c5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,14 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/Lifetime.md",
-                "mode": "preview",
+                "file": "history/Qing Dynasty.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -77,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/Lifetime.md",
+                "file": "history/Qing Dynasty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/Lifetime.md",
+                "file": "history/Qing Dynasty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/Lifetime.md"
+                "file": "history/Qing Dynasty.md"
               }
             }
           },
@@ -284,11 +311,20 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "6ddab4eed8571911",
+  "active": "76a3fa4b223f48c5",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "history/China.md",
+    "history/Qing Dynasty.md",
+    "Pictograph.md",
+    "Pearl River.md",
+    "history/Yangtze River.md",
+    "history/Grand Canal.md",
+    "history/Yellow River.md",
+    "history/Chinese Writing Systems.md",
+    "history/Pan Ku, The Chinese Creator of the Universe.md",
     "programming/Lifetime.md",
     "history/Art Nouveau.md",
     "history/Style.md",
@@ -304,8 +340,6 @@
     "Mughal Empire.md",
     "Phonetic Alphabet.md",
     "Typography.md",
-    "Pictograph.md",
-    "Chinese Writing Systems.md",
     "Logosyllabism.md",
     "Varna System.md",
     "Attachment Name Formatting Log.md",
@@ -313,13 +347,6 @@
     "Line.md",
     "Flynn's Taxonomy.md",
     "Arborescence.md",
-    "Run-To-Completion Scheduler.md",
-    "Balance.md",
-    "Liveness Analysis.md",
-    "Instruction Scheduling.md",
-    "Compiler Optimization.md",
-    "Chilam Balam Book of Chumayel.md",
-    "Virtual Caches.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",
