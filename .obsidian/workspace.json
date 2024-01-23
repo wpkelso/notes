@@ -27,34 +27,7 @@
             }
           },
           {
-            "id": "cf70f08d80fc808d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Pictograph",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pictograph.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "history/China.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "76a3fa4b223f48c5",
+            "id": "cf679f9f156df848",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -68,14 +41,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "history/Qing Dynasty.md",
+                "file": "design/Futurism.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f6ac3e1383a93119",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design/Modernism.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "17181f0bcd0124a9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dadaism.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e8f53933ca440e37",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design/Cubism.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -104,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/Qing Dynasty.md",
+                "file": "Dadaism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "history/Qing Dynasty.md",
+                "file": "Dadaism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "history/Qing Dynasty.md"
+                "file": "Dadaism.md"
               }
             }
           },
@@ -311,13 +347,18 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "76a3fa4b223f48c5",
+  "active": "17181f0bcd0124a9",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "history/China.md",
+    "design/Modernism.md",
+    "Dadaism.md",
+    "design/Futurism.md",
+    "design/Cubism.md",
+    "Typography.md",
     "history/Qing Dynasty.md",
+    "history/China.md",
     "Pictograph.md",
     "Pearl River.md",
     "history/Yangtze River.md",
@@ -339,14 +380,9 @@
     "history",
     "Mughal Empire.md",
     "Phonetic Alphabet.md",
-    "Typography.md",
     "Logosyllabism.md",
     "Varna System.md",
     "Attachment Name Formatting Log.md",
-    "First-Order Language.md",
-    "Line.md",
-    "Flynn's Taxonomy.md",
-    "Arborescence.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",

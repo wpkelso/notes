@@ -656,6 +656,7 @@ oversight
 overseen
 officials
 outposts
+organized
 the
 to
 timing
@@ -796,6 +797,8 @@ territory
 tended
 towards
 third
+technique
+thoughts
 embedded
 each
 execute
@@ -963,6 +966,9 @@ emerged
 exotic
 eastern
 expand
+edged
+emphasis
+exploited
 Embedded
 Examples
 Eventually
@@ -1322,6 +1328,10 @@ populated
 pictographic
 prestige
 partly
+perspective
+printed
+planes
+progress
 hardware
 hierarchy
 how
@@ -1532,6 +1542,9 @@ interest
 independence
 influences
 international
+image
+interested
+industry
 conjunction
 conversion
 compilers
@@ -1837,6 +1850,8 @@ curvilinear
 commerce
 commercially
 campaign
+collage
+celebrated
 achieve
 allow
 actions
@@ -2206,6 +2221,7 @@ focused
 flourishing
 fine
 founding
+functionalism
 Common
 Counters
 Computing
@@ -2320,6 +2336,7 @@ Crown
 Commerical
 Chongqing
 CE
+Cubism
 Peripheral
 Parameters
 Predictors
@@ -2404,6 +2421,7 @@ Play
 Pearl
 Preceeded
 Philosophical
+Popular
 Hardware
 Heuristics
 Hoist
@@ -2733,6 +2751,8 @@ reaction
 rectilinear
 reused
 removing
+retaining
+recognizable
 use
 used
 unnecessary
@@ -2871,6 +2891,9 @@ Applied
 Armies
 Austria
 Automatically
+Analytic
+Artists
+Action
 Build
 Based
 Branch
@@ -2946,6 +2969,7 @@ Untouchables
 Uppercase
 Up
 Universalism
+Unique
 graph
 going
 greater
@@ -3277,6 +3301,10 @@ Scotland
 Statically
 Shanghai
 Schools
+Straight
+Synthetic
+Science
+Society
 Figures
 Following
 Forward
@@ -3333,6 +3361,7 @@ Flattening
 Floral
 France
 Founded
+Futurism
 Note
 Non
 NP
@@ -3410,6 +3439,7 @@ variances
 variety
 vertical
 visual
+valued
 Is
 Idea
 It
@@ -3840,6 +3870,8 @@ Military
 Mackintosh
 Manchus
 Ming
+Modernism
+Machines
 quasi
 qualitative
 quite
@@ -3900,6 +3932,7 @@ Government
 Governor
 Germany
 Geometric
+Grew
 You
 Younger
 Youth
