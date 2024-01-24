@@ -25,93 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "cf679f9f156df848",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design/Futurism.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f6ac3e1383a93119",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design/Modernism.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "17181f0bcd0124a9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dadaism.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e8f53933ca440e37",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design/Cubism.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -140,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dadaism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dadaism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dadaism.md"
-              }
+              "state": {}
             }
           },
           {
@@ -347,13 +258,13 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "17181f0bcd0124a9",
+  "active": "00ab2517468a9824",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "design/Modernism.md",
     "Dadaism.md",
+    "design/Modernism.md",
     "design/Futurism.md",
     "design/Cubism.md",
     "Typography.md",
