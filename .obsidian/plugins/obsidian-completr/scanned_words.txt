@@ -102,6 +102,7 @@ bases
 becoming
 bringers
 breaking
+beauty
 size
 sexes
 same
@@ -385,6 +386,7 @@ soulless
 sitting
 seizure
 sympathizers
+sake
 difference
 different
 deal
@@ -561,6 +563,8 @@ densely
 despite
 differences
 dynasties
+decimation
+differed
 of
 often
 or
@@ -799,6 +803,7 @@ towards
 third
 technique
 thoughts
+today
 embedded
 each
 execute
@@ -969,6 +974,8 @@ expand
 edged
 emphasis
 exploited
+emphasized
+embraced
 Embedded
 Examples
 Eventually
@@ -1332,6 +1339,8 @@ perspective
 printed
 planes
 progress
+patriotism
+photomontage
 hardware
 hierarchy
 how
@@ -1545,6 +1554,9 @@ international
 image
 interested
 industry
+intuition
+illogical
+imagery
 conjunction
 conversion
 compilers
@@ -1852,6 +1864,7 @@ commercially
 campaign
 collage
 celebrated
+chance
 achieve
 allow
 actions
@@ -2045,6 +2058,8 @@ artists
 alternative
 avenue
 advanced
+absurd
+against
 These
 True
 The
@@ -2337,6 +2352,9 @@ Commerical
 Chongqing
 CE
 Cubism
+Cafe
+Combined
+Created
 Peripheral
 Parameters
 Predictors
@@ -2422,6 +2440,7 @@ Pearl
 Preceeded
 Philosophical
 Popular
+Pushed
 Hardware
 Heuristics
 Hoist
@@ -2590,6 +2609,8 @@ mundane
 millennium
 mechanization
 movements
+meaningless
+morality
 ready
 resource
 reach
@@ -2946,6 +2967,7 @@ Board
 Background
 Belgium
 Beijing
+Began
 Use
 Unswitching
 Useful
@@ -3132,6 +3154,7 @@ leaders
 literally
 lifetimes
 looked
+leading
 Output
 Ordering
 ODE
@@ -3305,6 +3328,7 @@ Straight
 Synthetic
 Science
 Society
+Switzerland
 Figures
 Following
 Forward
@@ -3362,6 +3386,7 @@ Floral
 France
 Founded
 Futurism
+Futurists
 Note
 Non
 NP
@@ -3621,6 +3646,9 @@ Descender
 Disintegration
 Dynamically
 Dynasty
+Dadaism
+Dadaists
+Dadas
 Loop
 Live
 Liveness
@@ -3951,6 +3979,7 @@ yet
 years
 younger
 year
+youth
 Japan
 Jericho
 Jordan
@@ -3968,6 +3997,7 @@ Zawi
 Zagros
 Zigguraut
 Zhongguo
+Zurich
 Velocity
 Vocabulary
 Voltage
@@ -3978,4 +4008,6 @@ Vegetation
 Villages
 Virtually
 Varna
+Voltaire
+Valued
 Xinjiang
