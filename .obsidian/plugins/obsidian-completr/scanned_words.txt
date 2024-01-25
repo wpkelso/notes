@@ -2060,6 +2060,7 @@ avenue
 advanced
 absurd
 against
+assimilated
 These
 True
 The
@@ -2355,6 +2356,7 @@ Cubism
 Cafe
 Combined
 Created
+Confucian
 Peripheral
 Parameters
 Predictors
@@ -2441,6 +2443,7 @@ Preceeded
 Philosophical
 Popular
 Pushed
+Preceded
 Hardware
 Heuristics
 Hoist
