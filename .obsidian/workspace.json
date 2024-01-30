@@ -42,12 +42,55 @@
               "type": "markdown",
               "state": {
                 "file": "history/Qing Dynasty.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "43270e6874622197",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opium Wars.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e66d28174aacbea5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history/Canton System.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -76,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Opium Wars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Opium Wars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +185,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Opium Wars.md"
+              }
             }
           },
           {
@@ -279,12 +326,14 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "00ab2517468a9824",
+  "active": "43270e6874622197",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
     "history/Qing Dynasty.md",
+    "Opium Wars.md",
+    "history/Canton System.md",
     "Dadaism.md",
     "design/Modernism.md",
     "design/Futurism.md",
@@ -313,8 +362,6 @@
     "Mughal Empire.md",
     "Phonetic Alphabet.md",
     "Logosyllabism.md",
-    "Varna System.md",
-    "Attachment Name Formatting Log.md",
     "Pasted image 20231113120803.png",
     "Pasted image 20231018110628.png",
     "Pasted image 20231018110554.png",

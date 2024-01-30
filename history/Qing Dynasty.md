@@ -1,7 +1,7 @@
 ---
 tags: china, history, culture, imperialism
 created: 2024-01-23T11:04
-updated: 2024-01-23T11:26
+updated: 2024-01-30T10:40
 ---
 
 # Qing Dynasty
@@ -15,3 +15,8 @@ Existing from 1636CE-1911CE as the last of the great Chinese dynasties that exis
 - [[Confucianism]]: The most important and core principles that the Qing used to rule China (By this time Confucian thought had assimilated [[Leagalism|Leagalist]] thought)
 - [[Daoism]]
 - [[Buddhism]]
+
+## Administrative Structure
+
+### Exams
+
