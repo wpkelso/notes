@@ -103,6 +103,8 @@ becoming
 bringers
 breaking
 beauty
+ballooned
+banning
 size
 sexes
 same
@@ -387,6 +389,14 @@ sitting
 seizure
 sympathizers
 sake
+standing
+smoking
+severe
+suppression
+seizes
+shuts
+steamships
+sue
 difference
 different
 deal
@@ -565,6 +575,8 @@ differences
 dynasties
 decimation
 differed
+debate
+decided
 of
 often
 or
@@ -661,6 +673,7 @@ overseen
 officials
 outposts
 organized
+opium
 the
 to
 timing
@@ -804,6 +817,7 @@ third
 technique
 thoughts
 today
+tea
 embedded
 each
 execute
@@ -976,6 +990,11 @@ emphasis
 exploited
 emphasized
 embraced
+europe
+exchange
+epidemic
+enforcing
+emperor
 Embedded
 Examples
 Eventually
@@ -1050,6 +1069,8 @@ England
 Extremely
 Era
 Exams
+End
+Extraterritoriality
 work
 with
 will
@@ -1110,6 +1131,7 @@ weights
 wet
 wind
 warriors
+warfare
 peripheral
 peripherals
 processor
@@ -1342,6 +1364,10 @@ planes
 progress
 patriotism
 photomontage
+parties
+pragmatic
+prompting
+peace
 hardware
 hierarchy
 how
@@ -1414,6 +1440,7 @@ held
 having
 heartland
 holdings
+harshly
 in
 interrupts
 instruction
@@ -1558,6 +1585,9 @@ industry
 intuition
 illogical
 imagery
+import
+influx
+internal
 conjunction
 conversion
 compilers
@@ -1866,6 +1896,9 @@ campaign
 collage
 celebrated
 chance
+causing
+crisis
+conducive
 achieve
 allow
 actions
@@ -2062,6 +2095,8 @@ advanced
 absurd
 against
 assimilated
+addiction
+arguing
 These
 True
 The
@@ -2134,6 +2169,8 @@ Tiffany
 Today
 Taiwan
 Thought
+Treaty
+Treaties
 for
 first
 from
@@ -2239,6 +2276,8 @@ flourishing
 fine
 founding
 functionalism
+facilitated
+failed
 Common
 Counters
 Computing
@@ -2358,6 +2397,8 @@ Cafe
 Combined
 Created
 Confucian
+Crack
+Cession
 Peripheral
 Parameters
 Predictors
@@ -2445,6 +2486,9 @@ Philosophical
 Popular
 Pushed
 Preceded
+Ports
+Powers
+Palace
 Hardware
 Heuristics
 Hoist
@@ -2485,6 +2529,7 @@ Harmony
 Huang
 Historically
 Hanzi
+Hong
 methodology
 more
 must
@@ -2615,6 +2660,7 @@ mechanization
 movements
 meaningless
 morality
+monopoly
 ready
 resource
 reach
@@ -2778,6 +2824,7 @@ reused
 removing
 retaining
 recognizable
+regard
 use
 used
 unnecessary
@@ -2832,6 +2879,7 @@ utilized
 undertook
 unifying
 uniting
+ultimately
 Algorithm
 Anti
 Advantages
@@ -2920,6 +2968,8 @@ Analytic
 Artists
 Action
 Administrative
+Attempt
+Arrow
 Build
 Based
 Branch
@@ -2973,6 +3023,7 @@ Background
 Belgium
 Beijing
 Began
+BEIC
 Use
 Unswitching
 Useful
@@ -2997,6 +3048,8 @@ Uppercase
 Up
 Universalism
 Unique
+Ultimately
+Unequal
 graph
 going
 greater
@@ -3056,6 +3109,7 @@ groundwork
 government
 geography
 geographical
+growing
 linear
 latency
 list
@@ -3160,6 +3214,7 @@ literally
 lifetimes
 looked
 leading
+legalization
 Output
 Ordering
 ODE
@@ -3196,6 +3251,8 @@ Ocean
 Other
 Oracle
 Originally
+Opium
+Opening
 Schedule
 Store
 Solution
@@ -3334,6 +3391,8 @@ Synthetic
 Science
 Society
 Switzerland
+Second
+Summer
 Figures
 Following
 Forward
@@ -3392,6 +3451,11 @@ France
 Founded
 Futurism
 Futurists
+Forces
+Fuzhou
+Favored
+Foreign
+Forced
 Note
 Non
 NP
@@ -3424,6 +3488,9 @@ Nile
 Narmer
 Nobility
 Nouveau
+Nanjing
+Ningbo
+Nation
 violate
 very
 variable
@@ -3550,6 +3617,7 @@ Influences
 Industrial
 Italy
 Imperialism
+Indemnity
 Will
 We
 What
@@ -3574,6 +3642,7 @@ Within
 Waist
 Writing
 Whuan
+Wars
 Kinds
 Key
 King
@@ -3587,6 +3656,7 @@ Kronecker
 Karnaugh
 Koran
 Kingdom
+Kong
 Disadvantages
 Definition
 Dataflow
@@ -3710,6 +3780,8 @@ London
 Lord
 Liberty
 Lifetime
+Legalize
+Looting
 no
 not
 non
@@ -3764,6 +3836,7 @@ names
 northwest
 northeast
 numerous
+negotiate
 Register
 Range
 RHS
@@ -3905,6 +3978,9 @@ Manchus
 Ming
 Modernism
 Machines
+Macartney
+Mission
+Monopoly
 quasi
 qualitative
 quite
@@ -3966,6 +4042,7 @@ Governor
 Germany
 Geometric
 Grew
+Guangzhou
 You
 Younger
 Youth
@@ -4016,3 +4093,4 @@ Varna
 Voltaire
 Valued
 Xinjiang
+Xiamen
