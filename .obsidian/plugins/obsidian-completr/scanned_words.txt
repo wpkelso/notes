@@ -397,6 +397,9 @@ seizes
 shuts
 steamships
 sue
+surrounding
+shapes
+shape
 difference
 different
 deal
@@ -577,6 +580,7 @@ decimation
 differed
 debate
 decided
+directional
 of
 often
 or
@@ -818,6 +822,7 @@ technique
 thoughts
 today
 tea
+texture
 embedded
 each
 execute
@@ -995,6 +1000,7 @@ exchange
 epidemic
 enforcing
 emperor
+enclosed
 Embedded
 Examples
 Eventually
@@ -1589,6 +1595,7 @@ imagery
 import
 influx
 internal
+implied
 conjunction
 conversion
 compilers
@@ -2280,6 +2287,7 @@ functionalism
 facilitated
 failed
 foreign
+foreground
 Common
 Counters
 Computing
@@ -2492,6 +2500,7 @@ Preceded
 Ports
 Powers
 Palace
+Positive
 Hardware
 Heuristics
 Hoist
@@ -2829,6 +2838,7 @@ removing
 retaining
 recognizable
 regard
+receding
 use
 used
 unnecessary
@@ -3114,6 +3124,7 @@ government
 geography
 geographical
 growing
+ground
 linear
 latency
 list
@@ -3398,6 +3409,7 @@ Society
 Switzerland
 Second
 Summer
+Shape
 Figures
 Following
 Forward
@@ -3461,6 +3473,7 @@ Fuzhou
 Favored
 Foreign
 Forced
+Flat
 Note
 Non
 NP
@@ -3496,6 +3509,7 @@ Nouveau
 Nanjing
 Ningbo
 Nation
+Negative
 violate
 very
 variable
@@ -3729,6 +3743,7 @@ Dynasty
 Dadaism
 Dadaists
 Dadas
+Dimensional
 Loop
 Live
 Liveness
