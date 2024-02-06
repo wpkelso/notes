@@ -400,6 +400,11 @@ sue
 surrounding
 shapes
 shape
+stressed
+samurai
+scholar
+servants
+spite
 difference
 different
 deal
@@ -581,6 +586,7 @@ differed
 debate
 decided
 directional
+declined
 of
 often
 or
@@ -823,6 +829,7 @@ thoughts
 today
 tea
 texture
+technically
 embedded
 each
 execute
@@ -1375,6 +1382,8 @@ parties
 pragmatic
 prompting
 peace
+postceeded
+peak
 hardware
 hierarchy
 how
@@ -1448,6 +1457,7 @@ having
 heartland
 holdings
 harshly
+hereditary
 in
 interrupts
 instruction
@@ -1907,6 +1917,7 @@ chance
 causing
 crisis
 conducive
+classical
 achieve
 allow
 actions
@@ -2105,6 +2116,8 @@ against
 assimilated
 addiction
 arguing
+administrative
+although
 These
 True
 The
@@ -2179,6 +2192,7 @@ Taiwan
 Thought
 Treaty
 Treaties
+Tokugawa
 for
 first
 from
@@ -2288,6 +2302,8 @@ facilitated
 failed
 foreign
 foreground
+founded
+fluidity
 Common
 Counters
 Computing
@@ -2410,6 +2426,7 @@ Confucian
 Crack
 Cession
 Canton
+Contradictions
 Peripheral
 Parameters
 Predictors
@@ -2501,6 +2518,7 @@ Ports
 Powers
 Palace
 Positive
+Present
 Hardware
 Heuristics
 Hoist
@@ -2542,6 +2560,7 @@ Huang
 Historically
 Hanzi
 Hong
+Heian
 methodology
 more
 must
@@ -2674,6 +2693,7 @@ meaningless
 morality
 monopoly
 middle
+matured
 ready
 resource
 reach
@@ -2839,6 +2859,8 @@ retaining
 recognizable
 regard
 receding
+regime
+rigid
 use
 used
 unnecessary
@@ -2894,6 +2916,7 @@ undertook
 unifying
 uniting
 ultimately
+upheld
 Algorithm
 Anti
 Advantages
@@ -3064,6 +3087,7 @@ Universalism
 Unique
 Ultimately
 Unequal
+Urban
 graph
 going
 greater
@@ -3125,6 +3149,7 @@ geography
 geographical
 growing
 ground
+gentry
 linear
 latency
 list
@@ -3410,6 +3435,7 @@ Switzerland
 Second
 Summer
 Shape
+Shogunate
 Figures
 Following
 Forward
