@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "c672652de9a6ee97",
+            "id": "15cbf2f0c490b2a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tokugawa Shogunate.md",
+                "file": "history/Art Deco.md",
                 "mode": "source",
                 "source": true
               }
@@ -284,6 +284,7 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "history/Art Deco.md",
     "Tokugawa Shogunate.md",
     "Heian Period.md",
     "design/Shape.md",
@@ -309,7 +310,6 @@
     "history/British East India Company.md",
     "history/Sepoy.md",
     "India.md",
-    "history/Crown Rule.md",
     "literature",
     "programming",
     "design",

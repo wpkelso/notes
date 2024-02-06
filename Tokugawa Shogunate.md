@@ -1,7 +1,7 @@
 ---
 tags: japan, asia, culture, imperialism
 created: 2024-02-06T10:24
-updated: 2024-02-06T11:19
+updated: 2024-02-06T11:30
 ---
 
 # Tokugawa Shogunate
@@ -14,4 +14,14 @@ It upheld the rigid class system of [[Confucianism]], but stressed that the here
 
 1. The fluidity of Urban and Cultural development, in spite of the rigid hierarchy of Tokugawa order
 2. Policy of Exclusion (Sakoku Edit of 1635) - prevented [{Daimyo}] from having independent relations with foreigners and acquiring arms
-	- Still allowed the Dutch—and only the Dutch, to trade from an island off Nagasaki
+    - Still allowed the Dutch—and only the Dutch, to trade from an island off Nagasaki
+
+## Mid-19th Century Crisis
+
+In 1853, Commodore Matthew Perry arrived in Edo Bay and forcibly opened Japan to US/Foreign trade.
+
+## Bakumatsu Period (1852-1868)
+
+- period of widespread social unrest following Tokugawa efforts to come to terms with foreign threats to power
+- Longstanding tensions within Tokugawa society, including questions about the loyalty of “outer domains” (notably Choshu and Satsuma) find new reflection in challenges to Tokugawa authority as they are unable to effectively deal with outside threats
+- Challenge to Shogunate tied to new visions of Japanese identity bound up with the symbolic position of the Emperor

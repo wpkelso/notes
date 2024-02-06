@@ -587,6 +587,7 @@ debate
 decided
 directional
 declined
+domains
 of
 often
 or
@@ -684,6 +685,8 @@ officials
 outposts
 organized
 opium
+opened
+outer
 the
 to
 timing
@@ -830,6 +833,9 @@ today
 tea
 texture
 technically
+threats
+tensions
+tied
 embedded
 each
 execute
@@ -1008,6 +1014,8 @@ epidemic
 enforcing
 emperor
 enclosed
+efforts
+effectively
 Embedded
 Examples
 Eventually
@@ -1084,6 +1092,8 @@ Era
 Exams
 End
 Extraterritoriality
+Edit
+Edo
 work
 with
 will
@@ -1146,6 +1156,7 @@ wind
 warriors
 warfare
 wanted
+widespread
 peripheral
 peripherals
 processor
@@ -1384,6 +1395,8 @@ prompting
 peace
 postceeded
 peak
+prevented
+popular
 hardware
 hierarchy
 how
@@ -1606,6 +1619,7 @@ import
 influx
 internal
 implied
+island
 conjunction
 conversion
 compilers
@@ -1918,6 +1932,7 @@ causing
 crisis
 conducive
 classical
+challenges
 achieve
 allow
 actions
@@ -2118,6 +2133,11 @@ addiction
 arguing
 administrative
 although
+acquiring
+arms
+arrived
+authority
+appearing
 These
 True
 The
@@ -2304,6 +2324,8 @@ foreign
 foreground
 founded
 fluidity
+foreigners
+forcibly
 Common
 Counters
 Computing
@@ -2427,6 +2449,11 @@ Crack
 Cession
 Canton
 Contradictions
+Century
+Crisis
+Commodore
+Choshu
+Challenge
 Peripheral
 Parameters
 Predictors
@@ -2519,6 +2546,8 @@ Powers
 Palace
 Positive
 Present
+Policy
+Perry
 Hardware
 Heuristics
 Hoist
@@ -2861,6 +2890,7 @@ regard
 receding
 regime
 rigid
+reflection
 use
 used
 unnecessary
@@ -2917,6 +2947,7 @@ unifying
 uniting
 ultimately
 upheld
+unrest
 Algorithm
 Anti
 Advantages
@@ -3061,6 +3092,8 @@ Belgium
 Beijing
 Began
 BEIC
+Bay
+Bakumatsu
 Use
 Unswitching
 Useful
@@ -3088,6 +3121,8 @@ Unique
 Ultimately
 Unequal
 Urban
+US
+Unlike
 graph
 going
 greater
@@ -3256,6 +3291,7 @@ looked
 leading
 legalization
 liaison
+loyalty
 Output
 Ordering
 ODE
@@ -3436,6 +3472,10 @@ Second
 Summer
 Shape
 Shogunate
+Sakoku
+Still
+Satsuma
+Streamlined
 Figures
 Following
 Forward
@@ -3536,6 +3576,7 @@ Nanjing
 Ningbo
 Nation
 Negative
+Nagasaki
 violate
 very
 variable
@@ -3582,6 +3623,7 @@ variety
 vertical
 visual
 valued
+visions
 Is
 Idea
 It
@@ -3770,6 +3812,8 @@ Dadaism
 Dadaists
 Dadas
 Dimensional
+Dutch
+Deco
 Loop
 Live
 Liveness
@@ -3828,6 +3872,7 @@ Liberty
 Lifetime
 Legalize
 Looting
+Longstanding
 no
 not
 non
@@ -3883,6 +3928,7 @@ northwest
 northeast
 numerous
 negotiate
+notably
 Register
 Range
 RHS
@@ -4027,6 +4073,9 @@ Machines
 Macartney
 Mission
 Monopoly
+Mid
+Matthew
+Moderne
 quasi
 qualitative
 quite
