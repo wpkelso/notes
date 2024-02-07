@@ -2326,6 +2326,7 @@ founded
 fluidity
 foreigners
 forcibly
+featured
 Common
 Counters
 Computing
@@ -3185,6 +3186,7 @@ geographical
 growing
 ground
 gentry
+geometric
 linear
 latency
 list
