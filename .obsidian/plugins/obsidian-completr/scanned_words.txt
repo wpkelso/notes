@@ -405,6 +405,9 @@ samurai
 scholar
 servants
 spite
+sensitivity
+sentiment
+subjects
 difference
 different
 deal
@@ -836,6 +839,8 @@ technically
 threats
 tensions
 tied
+transparency
+transportation
 embedded
 each
 execute
@@ -1397,6 +1402,7 @@ postceeded
 peak
 prevented
 popular
+precision
 hardware
 hierarchy
 how
@@ -2327,6 +2333,7 @@ fluidity
 foreigners
 forcibly
 featured
+freedom
 Common
 Counters
 Computing
@@ -2455,6 +2462,9 @@ Crisis
 Commodore
 Choshu
 Challenge
+Characterizations
+Cassandre
+Cheret
 Peripheral
 Parameters
 Predictors
@@ -2549,6 +2559,7 @@ Positive
 Present
 Policy
 Perry
+Practitioners
 Hardware
 Heuristics
 Hoist
@@ -2724,6 +2735,7 @@ morality
 monopoly
 middle
 matured
+machinery
 ready
 resource
 reach
@@ -3294,6 +3306,7 @@ leading
 legalization
 liaison
 loyalty
+luminosity
 Output
 Ordering
 ODE
