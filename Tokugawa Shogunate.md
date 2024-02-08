@@ -1,7 +1,7 @@
 ---
 tags: japan, asia, culture, imperialism
 created: 2024-02-06T10:24
-updated: 2024-02-06T11:30
+updated: 2024-02-08T10:25
 ---
 
 # Tokugawa Shogunate
@@ -25,3 +25,5 @@ In 1853, Commodore Matthew Perry arrived in Edo Bay and forcibly opened Japan to
 - period of widespread social unrest following Tokugawa efforts to come to terms with foreign threats to power
 - Longstanding tensions within Tokugawa society, including questions about the loyalty of “outer domains” (notably Choshu and Satsuma) find new reflection in challenges to Tokugawa authority as they are unable to effectively deal with outside threats
 - Challenge to Shogunate tied to new visions of Japanese identity bound up with the symbolic position of the Emperor
+
+This period culminated in the first of the “Unequal Treaties” forced on Japan in 1858. The aftermath of this treaty included the 1860 Japanese delegation to Washington, as well as the 1860 assassination of Ii Naosuke (leading minister in the Tokugawa government) by xenophobic samurai acting in the name of loyalty to the Emperor.
