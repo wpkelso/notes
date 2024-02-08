@@ -408,6 +408,12 @@ spite
 sensitivity
 sentiment
 subjects
+stated
+shall
+strengthen
+self
+strengthening
+stipends
 difference
 different
 deal
@@ -591,6 +597,8 @@ decided
 directional
 declined
 domains
+doing
+domestic
 of
 often
 or
@@ -690,6 +698,8 @@ organized
 opium
 opened
 outer
+overthrow
+overtly
 the
 to
 timing
@@ -1021,6 +1031,9 @@ emperor
 enclosed
 efforts
 effectively
+echoes
+emulating
+export
 Embedded
 Examples
 Eventually
@@ -1403,6 +1416,9 @@ peak
 prevented
 popular
 precision
+policy
+pressures
+prefectures
 hardware
 hierarchy
 how
@@ -1477,6 +1493,8 @@ heartland
 holdings
 harshly
 hereditary
+head
+happened
 in
 interrupts
 instruction
@@ -1626,6 +1644,8 @@ influx
 internal
 implied
 island
+ideals
+imperial
 conjunction
 conversion
 compilers
@@ -1940,6 +1960,8 @@ conducive
 classical
 challenges
 culminated
+contradiction
+contradicts
 achieve
 allow
 actions
@@ -2145,6 +2167,7 @@ arms
 arrived
 authority
 appearing
+adapting
 These
 True
 The
@@ -2220,6 +2243,7 @@ Thought
 Treaty
 Treaties
 Tokugawa
+Tokyo
 for
 first
 from
@@ -2335,6 +2359,8 @@ foreigners
 forcibly
 featured
 freedom
+foundation
+fueled
 Common
 Counters
 Computing
@@ -2466,6 +2492,8 @@ Challenge
 Characterizations
 Cassandre
 Cheret
+Charter
+Constitution
 Peripheral
 Parameters
 Predictors
@@ -2561,6 +2589,7 @@ Present
 Policy
 Perry
 Practitioners
+Privileges
 Hardware
 Heuristics
 Hoist
@@ -2905,6 +2934,10 @@ receding
 regime
 rigid
 reflection
+renamed
+restored
+revolution
+resist
 use
 used
 unnecessary
@@ -3308,6 +3341,7 @@ legalization
 liaison
 loyalty
 luminosity
+legal
 Output
 Ordering
 ODE
@@ -3346,6 +3380,7 @@ Oracle
 Originally
 Opium
 Opening
+Oath
 Schedule
 Store
 Solution
@@ -3492,6 +3527,8 @@ Sakoku
 Still
 Satsuma
 Streamlined
+Self
+Strengthening
 Figures
 Following
 Forward
@@ -3746,6 +3783,7 @@ Waist
 Writing
 Whuan
 Wars
+Western
 Kinds
 Key
 King
@@ -3760,6 +3798,7 @@ Karnaugh
 Koran
 Kingdom
 Kong
+Knowledge
 Disadvantages
 Definition
 Dataflow
@@ -3945,6 +3984,10 @@ northeast
 numerous
 negotiate
 notably
+nationalism
+now
+nowhere
+national
 Register
 Range
 RHS
@@ -4007,6 +4050,8 @@ Raj
 Rule
 Reaction
 Religious
+Restoration
+Reforms
 Major
 Move
 Made
@@ -4092,6 +4137,7 @@ Monopoly
 Mid
 Matthew
 Moderne
+Meiji
 quasi
 qualitative
 quite
@@ -4203,5 +4249,7 @@ Virtually
 Varna
 Voltaire
 Valued
+Vague
 Xinjiang
 Xiamen
+xenophobia
