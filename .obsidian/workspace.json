@@ -27,11 +27,17 @@
             }
           },
           {
-            "id": "15cbf2f0c490b2a3",
+            "id": "16af461267e10a2a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Elements & Principles of Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Elements & Principles of Design.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -46,51 +52,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ef420480929b1e9f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tokugawa Shogunate.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5b1382255f7f0e5c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meiji Restoration.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tokugawa Shogunate.md",
+                "file": "history/Art Deco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tokugawa Shogunate.md",
+                "file": "history/Art Deco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tokugawa Shogunate.md"
+                "file": "history/Art Deco.md"
               }
             }
           },
@@ -326,14 +290,15 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "ef420480929b1e9f",
+  "active": "16af461267e10a2a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Elements & Principles of Design.md",
+    "history/Art Deco.md",
     "Meiji Restoration.md",
     "Tokugawa Shogunate.md",
-    "history/Art Deco.md",
     "Pasted image 20240207125314.png",
     "Heian Period.md",
     "design/Shape.md",
@@ -357,7 +322,6 @@
     "history/Art Nouveau.md",
     "history/Style.md",
     "history/British East India Company.md",
-    "history/Sepoy.md",
     "literature",
     "programming",
     "design",

@@ -82,5 +82,13 @@
     }
   ],
   "obsidian-editor-shortcuts:selectAllOccurrences": [],
-  "workspace:close": []
+  "workspace:close": [],
+  "pane-relief:ordered-close": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ]
 }
