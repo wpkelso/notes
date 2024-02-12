@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meiji Restoration.md",
+                "file": "Tokugawa Shogunate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meiji Restoration.md",
+                "file": "Tokugawa Shogunate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meiji Restoration.md"
+                "file": "Tokugawa Shogunate.md"
               }
             }
           },
@@ -326,13 +326,13 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "5b1382255f7f0e5c",
+  "active": "ef420480929b1e9f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Tokugawa Shogunate.md",
     "Meiji Restoration.md",
+    "Tokugawa Shogunate.md",
     "history/Art Deco.md",
     "Pasted image 20240207125314.png",
     "Heian Period.md",

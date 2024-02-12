@@ -599,6 +599,7 @@ declined
 domains
 doing
 domestic
+delegation
 of
 often
 or
@@ -851,6 +852,7 @@ tensions
 tied
 transparency
 transportation
+treaty
 embedded
 each
 execute
@@ -2168,6 +2170,8 @@ arrived
 authority
 appearing
 adapting
+aftermath
+assassination
 These
 True
 The
@@ -2766,6 +2770,7 @@ monopoly
 middle
 matured
 machinery
+minister
 ready
 resource
 reach
@@ -3630,6 +3635,7 @@ Ningbo
 Nation
 Negative
 Nagasaki
+Naosuke
 violate
 very
 variable
@@ -3758,6 +3764,7 @@ Industrial
 Italy
 Imperialism
 Indemnity
+Ii
 Will
 We
 What
@@ -3784,6 +3791,7 @@ Writing
 Whuan
 Wars
 Western
+Washington
 Kinds
 Key
 King
@@ -4253,3 +4261,4 @@ Vague
 Xinjiang
 Xiamen
 xenophobia
+xenophobic
