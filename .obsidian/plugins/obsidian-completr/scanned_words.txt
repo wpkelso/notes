@@ -853,6 +853,7 @@ tied
 transparency
 transportation
 treaty
+trained
 embedded
 each
 execute
@@ -1114,6 +1115,7 @@ End
 Extraterritoriality
 Edit
 Edo
+Education
 work
 with
 will
@@ -1422,6 +1424,11 @@ policy
 pressures
 prefectures
 practitioners
+peasants
+predominantly
+peasant
+polity
+participation
 hardware
 hierarchy
 how
@@ -1965,6 +1972,9 @@ challenges
 culminated
 contradiction
 contradicts
+conscripts
+carefully
+constitution
 achieve
 allow
 actions
@@ -2173,6 +2183,8 @@ appearing
 adapting
 aftermath
 assassination
+army
+armed
 These
 True
 The
@@ -2500,6 +2512,7 @@ Cassandre
 Cheret
 Charter
 Constitution
+Constitutional
 Peripheral
 Parameters
 Predictors
@@ -2596,6 +2609,8 @@ Policy
 Perry
 Practitioners
 Privileges
+People
+Party
 Hardware
 Heuristics
 Hoist
@@ -2773,6 +2788,7 @@ middle
 matured
 machinery
 minister
+mobilizing
 ready
 resource
 reach
@@ -2945,6 +2961,7 @@ renamed
 restored
 revolution
 resist
+reorganized
 use
 used
 unnecessary
@@ -3092,6 +3109,7 @@ Action
 Administrative
 Attempt
 Arrow
+Aritomo
 Build
 Based
 Branch
@@ -3600,6 +3618,8 @@ Favored
 Foreign
 Forced
 Flat
+Feudal
+Freedom
 Note
 Non
 NP
@@ -3767,6 +3787,8 @@ Italy
 Imperialism
 Indemnity
 Ii
+Imperial
+Itagaki
 Will
 We
 What
@@ -3879,6 +3901,7 @@ Dadas
 Dimensional
 Dutch
 Deco
+Daisuke
 Loop
 Live
 Liveness
@@ -3938,6 +3961,7 @@ Lifetime
 Legalize
 Looting
 Longstanding
+Loyalty
 no
 not
 non
@@ -4062,6 +4086,8 @@ Reaction
 Religious
 Restoration
 Reforms
+Rescript
+Rights
 Major
 Move
 Made
@@ -4163,6 +4189,7 @@ Quantitative
 Quality
 Quantifiers
 Qing
+Question
 kept
 known
 kind
@@ -4177,6 +4204,7 @@ knowing
 keeping
 kingdoms
 kingdom
+kokutai
 Goal
 Graph
 Generally
@@ -4210,11 +4238,13 @@ Germany
 Geometric
 Grew
 Guangzhou
+Gift
 You
 Younger
 Youth
 Yellow
 Yangtze
+Yamagata
 just
 jumps
 jump
