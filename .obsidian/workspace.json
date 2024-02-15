@@ -25,72 +25,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "17eddc6264aae1f4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meiji Restoration.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fca7b9de66419313",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sino-Japanese War.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9f7ad998e971ed21",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Russo-Japanese War.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +55,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meiji Restoration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +80,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meiji Restoration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +119,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Meiji Restoration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -326,14 +258,14 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "17eddc6264aae1f4",
+  "active": "00ab2517468a9824",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Meiji Restoration.md",
     "Russo-Japanese War.md",
     "Sino-Japanese War.md",
-    "Meiji Restoration.md",
     "Satsuma Rebellion.md",
     "design/Shape.md",
     "history/Art Deco.md",
