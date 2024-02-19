@@ -1,7 +1,7 @@
 ---
 tags: graphic_design, art, philosophy, history
 created: 2024-01-18T13:26
-updated: 2024-01-19T15:47
+updated: 2024-02-19T12:11
 ---
 
 # Art Nouveau
@@ -27,17 +27,17 @@ Art Nouveau exists as a reaction to the [[Historicism]] that characterized the [
 There were two major forms within Art Nouveau, which were called different things in different places:
 
 1. **Floral & curvilinear**
-	- Art Nouveau (England, France, Belgium)
-	- Jugendstil/“Youth style” (Germany)
-	- Stile Liberty (Italy)
-	- Tiffany (United States)
-1. Geometric & rectilinear 
-	- Secession (Austria)
-	- Mackintosh (Scotland)
+    - Art Nouveau (England, France, Belgium)
+    - Jugendstil/“Youth style” (Germany)
+    - Stile Liberty (Italy)
+    - Tiffany (United States)
+1. Geometric & rectilinear
+    - Secession (Austria)
+    - Mackintosh (Scotland)
 
 ## Influences
 
-The forms of Art Nouveau can be traced to [[Celtic]] and [[Midaeval]] art, as well as [[Rococo]] forms of the 18th century. Further influences include [[Japanese Art]], and other “exotic art” from non-western cultures.
+The forms of Art Nouveau can be traced to [[Celtic]] and [[Mediæval]] art, as well as [[Rococo]] forms of the 18th century. Further influences include [[Japanese Art]], and other “exotic art” from non-western cultures.
 
 ## Social Effects
 

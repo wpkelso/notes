@@ -414,6 +414,9 @@ strengthen
 self
 strengthening
 stipends
+sign
+something
+semiotics
 difference
 different
 deal
@@ -600,6 +603,7 @@ domains
 doing
 domestic
 delegation
+denotative
 of
 often
 or
@@ -1656,6 +1660,8 @@ implied
 island
 ideals
 imperial
+interpreted
+icon
 conjunction
 conversion
 compilers
@@ -1975,6 +1981,8 @@ contradicts
 conscripts
 carefully
 constitution
+connection
+connotative
 achieve
 allow
 actions
@@ -2185,6 +2193,8 @@ aftermath
 assassination
 army
 armed
+arbitrarily
+association
 These
 True
 The
@@ -2513,6 +2523,7 @@ Cheret
 Charter
 Constitution
 Constitutional
+Connotative
 Peripheral
 Parameters
 Predictors
@@ -2962,6 +2973,8 @@ restored
 revolution
 resist
 reorganized
+referent
+resembles
 use
 used
 unnecessary
@@ -3367,6 +3380,7 @@ liaison
 loyalty
 luminosity
 legal
+literal
 Output
 Ordering
 ODE
@@ -3554,6 +3568,8 @@ Satsuma
 Streamlined
 Self
 Strengthening
+Semiotics
+Signs
 Figures
 Following
 Forward
@@ -3705,6 +3721,7 @@ vertical
 visual
 valued
 visions
+viewer
 Is
 Idea
 It
@@ -3789,6 +3806,7 @@ Indemnity
 Ii
 Imperial
 Itagaki
+Icon
 Will
 We
 What
@@ -3902,6 +3920,7 @@ Dimensional
 Dutch
 Deco
 Daisuke
+Denotative
 Loop
 Live
 Liveness
@@ -4088,6 +4107,7 @@ Restoration
 Reforms
 Rescript
 Rights
+Referents
 Major
 Move
 Made
