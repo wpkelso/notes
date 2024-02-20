@@ -125,13 +125,13 @@
   "keyboardStatistics": {
     "file-explorer:new-file": 110,
     "editor:save-file": 75,
-    "obsidian-completr:completr-insert-selected-suggestion": 95,
-    "obsidian-completr:completr-select-next-suggestion": 302,
+    "obsidian-completr:completr-insert-selected-suggestion": 96,
+    "obsidian-completr:completr-select-next-suggestion": 303,
     "obsidian-completr:completr-select-previous-suggestion": 38,
     "editing-toolbar:fullscreen-focus": 1,
     "editor:toggle-bold": 111,
     "editor:toggle-italics": 53,
-    "switcher:open": 249,
+    "switcher:open": 250,
     "workspace:new-tab": 3,
     "obsidian-completr:completr-blacklist-current-word": 1,
     "app:open-help": 4,
@@ -148,10 +148,10 @@
     "typewriter-mode:move-typewriter-up": 8,
     "editor:insert-link": 3,
     "highlightr-plugin:Yellow": 1,
-    "markdown:toggle-preview": 476,
+    "markdown:toggle-preview": 483,
     "obsidian-editor-shortcuts:selectAllOccurrences": 1,
     "maximise-active-pane-obsidian:maximise-active-pane": 8,
-    "obsidian-plugin-prettier:format-note": 198,
+    "obsidian-plugin-prettier:format-note": 203,
     "obsidian-plugin-prettier:format-selection": 1,
     "pane-relief:go-4th": 1,
     "workspace:close-window": 3,
@@ -162,6 +162,6 @@
     "pane-relief:go-next": 14,
     "editor:toggle-comments": 1,
     "leader-hotkeys-obsidian:register-modal": 3,
-    "pane-relief:ordered-close": 1
+    "pane-relief:ordered-close": 2
   }
 }
