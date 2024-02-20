@@ -860,6 +860,7 @@ transparency
 transportation
 treaty
 trained
+tried
 embedded
 each
 execute
@@ -1046,6 +1047,8 @@ export
 evoke
 economic
 extraction
+exclusionary
+exports
 Embedded
 Examples
 Eventually
@@ -1188,6 +1191,7 @@ warriors
 warfare
 wanted
 widespread
+worked
 peripheral
 peripherals
 processor
@@ -1442,6 +1446,8 @@ past
 princes
 pledge
 projected
+professionals
+policies
 hardware
 hierarchy
 how
@@ -1673,6 +1679,7 @@ interpreted
 icon
 imagined
 indigenous
+industrial
 conjunction
 conversion
 compilers
@@ -1996,6 +2003,11 @@ connection
 connotative
 criminal
 courts
+challenged
+criticized
+critiques
+colonial
+calling
 achieve
 allow
 actions
@@ -2209,6 +2221,9 @@ armed
 arbitrarily
 association
 allegiance
+apparatus
+attaining
+accepted
 These
 True
 The
@@ -2541,6 +2556,7 @@ Constitution
 Constitutional
 Connotative
 Criminal
+Class
 Peripheral
 Parameters
 Predictors
@@ -2820,6 +2836,9 @@ matured
 machinery
 minister
 mobilizing
+minority
+marginalize
+microscopic
 ready
 resource
 reach
@@ -2997,6 +3016,8 @@ referent
 resembles
 rationality
 reformed
+racial
+reform
 use
 used
 unnecessary
@@ -3407,6 +3428,7 @@ literal
 law
 lording
 linked
+lawyers
 Output
 Ordering
 ODE
@@ -4292,6 +4314,7 @@ Geometric
 Grew
 Guangzhou
 Gift
+Growth
 You
 Younger
 Youth
@@ -4306,6 +4329,7 @@ japan
 junction
 junctions
 jiot
+journalists
 you
 yet
 years
@@ -4343,6 +4367,7 @@ Varna
 Voltaire
 Valued
 Vague
+Viceroy
 Xinjiang
 Xiamen
 xenophobia
