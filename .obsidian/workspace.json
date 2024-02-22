@@ -19,13 +19,42 @@
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "953ef6bd739e8722",
+            "id": "c7397ab283191b33",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Darbar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"history/Darbar.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":368},\"to\":{\"line\":12,\"ch\":368}},\"scroll\":5.925925925925926}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history/Indian National Congress.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "080c5f73f9d23214",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -37,14 +66,37 @@
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "history/Montagu Declaration.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e7497c7f2bc91bd6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mahatma Gandhi.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -73,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mahatma Gandhi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mahatma Gandhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +191,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mahatma Gandhi.md"
+              }
             }
           },
           {
@@ -276,11 +332,17 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "953ef6bd739e8722",
+  "active": "e7497c7f2bc91bd6",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "history/Montagu Declaration.md",
+    "Mahatma Gandhi.md",
+    "literature/Bhagavad Gita.md",
+    "history/Indian National Congress.md",
+    "history/Darbar.md",
+    "Hinduism.md",
     "history/Crown Rule.md",
     "India.md",
     "Semiotics.md",
@@ -302,12 +364,6 @@
     "Dadaism.md",
     "design/Modernism.md",
     "design/Futurism.md",
-    "design/Cubism.md",
-    "Typography.md",
-    "history/China.md",
-    "Pictograph.md",
-    "Pearl River.md",
-    "history/Yangtze River.md",
     "literature",
     "programming",
     "design",

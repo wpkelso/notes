@@ -1,0 +1,64 @@
+body {
+	--font-default: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+	--font-text-theme: var(--font-default);
+	font-feature-settings:
+		"calt" 1,
+		"dlig" 1,
+		"case" 1,
+		"ccmp" 1,
+		"ss02" 1,
+		"ss07" 1,
+		"ss08" 1;
+}
+
+
+
+/* HEADINGS */
+
+/* An h1 and a title are treated the same way here */
+h1,
+h1.embedded-note-title,
+.cm-header .cm-header-1,
+.HyperMD-header-1.HyperMD-header .cm-header-1,
+.markdown-preview-view h1,
+.inline-title {
+	font-family: "Jost* Semi";
+	font-size: 28pt;
+	letter-spacing: 0.5pt;
+	padding-bottom: 10px;
+}
+
+/* center align titles to better differentiate them */
+body:not(.align-title-left) {
+	.HyperMD-header-line.HyperMD-header-line-1.cm-line,
+	.inline-title,
+	.embeded-note-title.embedded-note-title,
+	.HyperMD-header-1,
+	.markdown-preview-section.markdown-preview-section h1 {
+		text-align: center;
+	}
+}
+
+.cm-header-1,
+.markdown-preview-view h1,
+.cm-header-2,
+.markdown-preview-view h2,
+.cm-header-3,
+.markdown-preview-view h3,
+.cm-header-4,
+.markdown-preview-view h4,
+.cm-header-5,
+.markdown-preview-view h5,
+.cm-header-6,
+.markdown-preview-view h6 {
+	line-height: 1.2;
+}
+
+
+
+/* BODY TEXT */
+
+p {
+	text-align: left;
+    hyphens: auto;
+}

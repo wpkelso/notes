@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Typomagical",
+  "cssTheme": "",
   "translucency": false,
   "interfaceFontFamily": "Inter",
   "baseFontSize": 18,
@@ -9,11 +9,12 @@
     "monospace-editor-gutter",
     "monospace-metadata",
     "typomagical-overrides",
-    "dangling-link-normal-text-color"
+    "dangling-link-normal-text-color",
+    "typography"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",
-  "monospaceFontFamily": "Monaspace Xenon Var,0xProto Nerd Font,Cousine",
+  "monospaceFontFamily": "0xProto Nerd Font,Cousine",
   "showViewHeader": true,
   "nativeMenus": true
 }
