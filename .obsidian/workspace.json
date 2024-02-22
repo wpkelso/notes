@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54f092d00824f4fc",
+        "id": "784c4adf69618516",
         "type": "tabs",
         "children": [
           {
-            "id": "00ab2517468a9824",
+            "id": "b4ab1d2c86e26ff5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -19,15 +19,13 @@
                 }
               ]
             },
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           },
           {
-            "id": "62b9d70b9eb02741",
+            "id": "953ef6bd739e8722",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -35,21 +33,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "India",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"India.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":188},\"to\":{\"line\":43,\"ch\":188}},\"scroll\":33.66826347305389}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "history/Crown Rule.md",
-                "mode": "source",
-                "source": true
+                "currentVersion": "1.5.8"
               }
             }
           }
@@ -83,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/Crown Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "history/Crown Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +137,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "history/Crown Rule.md"
-              }
+              "state": {}
             }
           },
           {
@@ -290,7 +276,7 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "62b9d70b9eb02741",
+  "active": "953ef6bd739e8722",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
