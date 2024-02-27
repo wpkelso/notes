@@ -1,6 +1,6 @@
 ---
 created: 2024-02-22T11:02
-updated: 2024-02-22T11:24
+updated: 2024-02-27T10:43
 ---
 
 # Mahatma Gandhi
@@ -14,3 +14,15 @@ After the end of [[World War I]], Gandhi accused the British of betraying their 
 ### Non-Cooperation (1920-1922)
 
 Movement within the [[Indian National Congress]] that focused on boycotting of British councils, schools, and courts as well as other non-violent acts of civil disobedience.
+
+The movement was called off after tha Chauri Chaua Violence in 1922. Gandhi was subsequently arrested and tried.
+
+### Khadi
+
+After being released from prison, Ghandi began to emphasize homespun cotton cloth as a symbol of national identity. This stems from the “identity” of India pre-colonialism as one of the world biggest exporters of cotton textiles.
+
+## Ideas
+
+### Swaraj (“Self-Rule”)
+
+### Satyagraha (“Truth Force”)

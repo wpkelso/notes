@@ -110,6 +110,7 @@ bhakti
 botching
 betraying
 boycotting
+biggest
 size
 sexes
 same
@@ -429,6 +430,8 @@ scripture
 synthesis
 selfless
 several
+subsequently
+stems
 difference
 different
 deal
@@ -880,6 +883,7 @@ tried
 theistic
 timeline
 transferred
+tha
 embedded
 each
 execute
@@ -1070,6 +1074,8 @@ exclusionary
 exports
 epic
 education
+emphasize
+exporters
 Embedded
 Examples
 Eventually
@@ -1485,6 +1491,7 @@ provincial
 promise
 police
 punishments
+prison
 hardware
 hierarchy
 how
@@ -1563,6 +1570,7 @@ head
 happened
 him
 harsh
+homespun
 in
 interrupts
 instruction
@@ -2057,6 +2065,8 @@ congress
 colony
 charioteer
 civil
+cloth
+colonialism
 achieve
 allow
 actions
@@ -2355,6 +2365,7 @@ Treaties
 Tokugawa
 Tokyo
 Traditional
+Truth
 for
 first
 from
@@ -2619,6 +2630,8 @@ Councils
 Chelmsford
 Came
 Cooperation
+Chauri
+Chaua
 Peripheral
 Parameters
 Predictors
@@ -3696,6 +3709,8 @@ Semiotics
 Signs
 Swadeshi
 Separate
+Swaraj
+Satyagraha
 Figures
 Following
 Forward
@@ -3762,6 +3777,7 @@ Forced
 Flat
 Feudal
 Freedom
+Force
 Note
 Non
 NP
@@ -3941,6 +3957,7 @@ Icon
 Ideology
 Islands
 Independence
+Ideas
 Will
 We
 What
@@ -3984,6 +4001,7 @@ Kingdom
 Kong
 Knowledge
 Krishna
+Khadi
 Disadvantages
 Definition
 Dataflow
@@ -4410,6 +4428,7 @@ Growth
 Gita
 Gandhi
 Gujarat
+Ghandi
 You
 Younger
 Youth
@@ -4464,6 +4483,7 @@ Voltaire
 Valued
 Vague
 Viceroy
+Violence
 Xinjiang
 Xiamen
 xenophobia
