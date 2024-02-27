@@ -1,7 +1,7 @@
 ---
 tags: india, pakistan, bangledesh, asia, culture, history, hinduism, religion
 created: 2024-01-11T10:18
-updated: 2024-01-18T10:24
+updated: 2024-02-27T11:28
 ---
 
 # India
@@ -42,3 +42,7 @@ The Indian social structure is based around a caste system. It has two systems, 
 
 ## British Rule
 After the takeover by the East India Company, the EIC ruled the region until 1858 when the company was abolished following a large rebellion in the preceding year. Following this, [[Crown Rule]] existed until India’s independence in 1947.
+
+### End of British Rule
+
+In 1947, Britain partitioned India into the state of India and the state of Pakistan, granting freedom to both of the states.
