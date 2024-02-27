@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "e7497c7f2bc91bd6",
+            "id": "71c53f2e22be7c7d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -35,19 +35,32 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Futurism",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"design/Futurism.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":5.221374045801527}"
+                },
+                {
+                  "title": "Art Nouveau",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"history/Art Nouveau.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mahatma Gandhi.md",
-                "mode": "source",
+                "file": "history/Art Deco.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "history/Art Deco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "history/Art Deco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +155,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "history/Art Deco.md"
+              }
             }
           },
           {
@@ -191,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,11 +296,13 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "b4ab1d2c86e26ff5",
+  "active": "71c53f2e22be7c7d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "design/Futurism.md",
+    "history/Art Nouveau.md",
     "history/Montagu Declaration.md",
     "history/India.md",
     "history/Indian National Congress.md",
@@ -293,7 +312,6 @@
     "Hinduism.md",
     "history/Crown Rule.md",
     "Semiotics.md",
-    "history/Art Nouveau.md",
     "Midaeval.md",
     "Meiji Restoration.md",
     "Russo-Japanese War.md",
@@ -310,7 +328,6 @@
     "Opium Wars.md",
     "Dadaism.md",
     "design/Modernism.md",
-    "design/Futurism.md",
     "literature",
     "programming",
     "design",

@@ -1076,6 +1076,7 @@ epic
 education
 emphasize
 exporters
+ego
 Embedded
 Examples
 Eventually
@@ -1222,6 +1223,7 @@ warfare
 wanted
 widespread
 worked
+writer
 peripheral
 peripherals
 processor
@@ -1492,6 +1494,9 @@ promise
 police
 punishments
 prison
+profound
+punctuation
+psychology
 hardware
 hierarchy
 how
@@ -1730,6 +1735,8 @@ industrial
 incite
 inherent
 inspiration
+influence
+infinitive
 conjunction
 conversion
 compilers
@@ -2067,6 +2074,7 @@ charioteer
 civil
 cloth
 colonialism
+claims
 achieve
 allow
 actions
@@ -2288,6 +2296,7 @@ advisory
 arrested
 accused
 acts
+authorship
 These
 True
 The
@@ -2632,6 +2641,8 @@ Came
 Cooperation
 Chauri
 Chaua
+Combine
+Consider
 Peripheral
 Parameters
 Predictors
@@ -3100,6 +3111,7 @@ revolts
 revered
 reforms
 resulted
+remove
 use
 used
 unnecessary
@@ -4198,6 +4210,7 @@ nationalism
 now
 nowhere
 national
+nouns
 Register
 Range
 RHS
@@ -4484,6 +4497,7 @@ Valued
 Vague
 Viceroy
 Violence
+Verbs
 Xinjiang
 Xiamen
 xenophobia
