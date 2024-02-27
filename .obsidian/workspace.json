@@ -27,54 +27,6 @@
             }
           },
           {
-            "id": "c7397ab283191b33",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Indian National Congress",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"history/Indian National Congress.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "history/India.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "080c5f73f9d23214",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "history/Montagu Declaration.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e7497c7f2bc91bd6",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -96,7 +48,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -125,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "history/India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +140,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "history/India.md"
-              }
+              "state": {}
             }
           },
           {
@@ -332,19 +279,19 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "c7397ab283191b33",
+  "active": "b4ab1d2c86e26ff5",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "history/Indian National Congress.md",
     "history/Montagu Declaration.md",
+    "history/India.md",
+    "history/Indian National Congress.md",
     "Mahatma Gandhi.md",
     "literature/Bhagavad Gita.md",
     "history/Darbar.md",
     "Hinduism.md",
     "history/Crown Rule.md",
-    "history/India.md",
     "Semiotics.md",
     "history/Art Nouveau.md",
     "Midaeval.md",
