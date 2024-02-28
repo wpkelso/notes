@@ -1,5 +1,15 @@
+/* This snippet is meant to allow for easy modification of large parts of the typography within Obsidian.md, while maintaining a consistent style that has contextual meaning. */
+
+root {
+    --typography-main: "Inter"; /*This should have both a bold, and a true italic or oblique variant*/
+    --typography-heading: "Jost* Semi";
+    --typography-accent: "0xProto";
+    --typography-technical: "0xProto"; /*Ideally this is a monospace font*/
+    --typography-link: "Alegreya Sans SC";
+}
+
 body {
-	--font-default: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+	--font-default: var(--typography-main), -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 	--font-text-theme: var(--font-default);
 	font-feature-settings:
 		"calt" 1,
@@ -22,7 +32,7 @@ h1.embedded-note-title,
 .HyperMD-header-1.HyperMD-header .cm-header-1,
 .markdown-preview-view h1,
 .inline-title {
-	font-family: "Jost* Semi";
+	font-family: var(--typography-heading);
 	font-size: 28pt;
 	letter-spacing: 0.5pt;
 	padding-bottom: 10px;
@@ -64,7 +74,7 @@ p {
 }
 
 .callout {
-    font-family: "0xProto";
+    font-family: var(--typography-accent);
     font-feature-settings:
         "calt" 1,
         "dlig" 1,
