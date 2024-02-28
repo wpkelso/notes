@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "71c53f2e22be7c7d",
+            "id": "4847b235663ae91e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -35,26 +35,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Futurism",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"design/Futurism.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":5.221374045801527}"
-                },
-                {
-                  "title": "Art Nouveau",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"history/Art Nouveau.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "history/Art Deco.md",
-                "mode": "preview",
+                "file": "design/Harumi Yamaguchi.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/Art Deco.md",
+                "file": "design/Harumi Yamaguchi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "history/Art Deco.md",
+                "file": "design/Harumi Yamaguchi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "history/Art Deco.md"
+                "file": "design/Harumi Yamaguchi.md"
               }
             }
           },
@@ -283,30 +271,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "random-note:Open random note": false,
       "obsidian-attachment-name-formatting:Export Attachments": false,
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "71c53f2e22be7c7d",
+  "active": "4847b235663ae91e",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "design/Harumi Yamaguchi.md",
+    "history/Mahatma Gandhi.md",
+    "history/Art Deco.md",
     "design/Futurism.md",
     "history/Art Nouveau.md",
     "history/Montagu Declaration.md",
     "history/India.md",
     "history/Indian National Congress.md",
-    "Mahatma Gandhi.md",
     "literature/Bhagavad Gita.md",
     "history/Darbar.md",
     "Hinduism.md",
@@ -318,7 +308,6 @@
     "Sino-Japanese War.md",
     "Satsuma Rebellion.md",
     "design/Shape.md",
-    "history/Art Deco.md",
     "Elements & Principles of Design.md",
     "Tokugawa Shogunate.md",
     "Pasted image 20240207125314.png",
@@ -327,7 +316,6 @@
     "history/Qing Dynasty.md",
     "Opium Wars.md",
     "Dadaism.md",
-    "design/Modernism.md",
     "literature",
     "programming",
     "design",

@@ -1,11 +1,12 @@
 ---
+tags: india, asia, history, politics
 created: 2024-02-22T11:02
-updated: 2024-02-27T10:43
+updated: 2024-02-28T12:15
 ---
 
 # Mahatma Gandhi
 
-Came from a relatively well off family from Gujarat in western [[India]], and was heavily educated in the British education system, eventually getting a law degree in England. However, he was ultimately a complete disaster of a lawyer, botching several of the cases that he got. This resulted in him being sent to work at an Indian law firm in South Africa. 
+Came from a relatively well off family from Gujarat in western [[India]], and was heavily educated in the British education system, eventually getting a law degree in England. However, he was ultimately a complete disaster of a lawyer, botching several of the cases that he got. This resulted in him being sent to work at an Indian law firm in South Africa.
 
 ## Activism
 

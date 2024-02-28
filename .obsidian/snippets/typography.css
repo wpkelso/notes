@@ -1,16 +1,15 @@
 /* This snippet is meant to allow for easy modification of large parts of the typography within Obsidian.md, while maintaining a consistent style that has contextual meaning. */
 
-root {
-    --typography-main: "Inter"; /*This should have both a bold, and a true italic or oblique variant*/
-    --typography-heading: "Jost* Semi";
-    --typography-accent: "0xProto";
-    --typography-technical: "0xProto"; /*Ideally this is a monospace font*/
-    --typography-link: "Alegreya Sans SC";
+:root {
+    --typography-main: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; /*This should have both a bold, and a true italic or oblique variant*/
+    --typography-heading: "Jost* Semi", sans-serif;
+    --typography-accent: "0xProto", monospace;
+    --typography-technical: "0xProto", monospace; /*Ideally this is a monospace font*/
+    --typography-link: "Heiti SC", sans-serif;
 }
 
 body {
-	--font-default: var(--typography-main), -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
-	--font-text-theme: var(--font-default);
+	--font-text-theme: var(--typography-main);
 	font-feature-settings:
 		"calt" 1,
 		"dlig" 1,
@@ -40,7 +39,7 @@ h1.embedded-note-title,
 
 /* center align titles to better differentiate them */
 body:not(.align-title-left) {
-	.HyperMD-header-line.HyperMD-header-line-1.cm-line,
+	.HyperMD-header-line.HyperMD-header-line-1.cm-line,bg
 	.inline-title,
 	.embeded-note-title.embedded-note-title,
 	.HyperMD-header-1,
@@ -67,8 +66,8 @@ body:not(.align-title-left) {
 
 
 /* BODY TEXT */
-
-p {
+p,
+.markdown-rendered p {
 	text-align: left;
     hyphens: auto;
 }
@@ -79,4 +78,26 @@ p {
         "calt" 1,
         "dlig" 1,
         "liga" 1;
+}
+
+/* LINKS */
+
+a {
+    font-family: var(--typography-technical);
+    font-feature-settings:
+        "calt" 1,
+        "dlig" 1,
+        "liga" 1;
+    text-decoration: none;
+}
+
+.cm-url,
+.cm-hmd-internal-link,
+.cm-s-obsidian span.cm-hmd-internal-link,
+.cm-link,
+.markdown-rendered .internal-link,
+.markdown-preview-view .internal-link {
+	font-family: var(--typography-link);
+    font-variant-caps: small-caps;
+    text-decoration: none;
 }
