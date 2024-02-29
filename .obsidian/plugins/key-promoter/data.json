@@ -162,7 +162,7 @@
     "pane-relief:go-next": 14,
     "editor:toggle-comments": 1,
     "leader-hotkeys-obsidian:register-modal": 3,
-    "pane-relief:ordered-close": 6,
+    "pane-relief:ordered-close": 7,
     "obsidian-editor-shortcuts:selectWordOrNextOccurrence": 1
   }
 }
