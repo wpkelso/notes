@@ -1,7 +1,7 @@
 ---
 tags: china, history, culture, imperialism
 created: 2024-01-23T11:04
-updated: 2024-01-30T10:40
+updated: 2024-02-29T10:20
 ---
 
 # Qing Dynasty
@@ -20,3 +20,4 @@ Existing from 1636CE-1911CE as the last of the great Chinese dynasties that exis
 
 ### Exams
 
+## Collapse
