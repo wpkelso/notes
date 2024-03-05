@@ -111,6 +111,7 @@ botching
 betraying
 boycotting
 biggest
+baihua
 size
 sexes
 same
@@ -432,6 +433,8 @@ selfless
 several
 subsequently
 stems
+sphere
+student
 difference
 different
 deal
@@ -625,6 +628,10 @@ dialogue
 declaration
 disaster
 disobedience
+democratic
+delegate
+demands
+demonstrations
 of
 often
 or
@@ -884,6 +891,7 @@ theistic
 timeline
 transferred
 tha
+triggered
 embedded
 each
 execute
@@ -1497,6 +1505,8 @@ prison
 profound
 punctuation
 psychology
+province
+party
 hardware
 hierarchy
 how
@@ -1737,6 +1747,8 @@ inherent
 inspiration
 influence
 infinitive
+ideology
+initially
 conjunction
 conversion
 compilers
@@ -2075,6 +2087,10 @@ civil
 cloth
 colonialism
 claims
+collapsed
+coup
+colloquial
+conference
 achieve
 allow
 actions
@@ -2497,6 +2513,9 @@ festivals
 friction
 framework
 firm
+foremost
+former
+founder
 Common
 Counters
 Computing
@@ -2643,6 +2662,9 @@ Chauri
 Chaua
 Combine
 Consider
+Classical
+Conference
+Communist
 Peripheral
 Parameters
 Predictors
@@ -2744,6 +2766,8 @@ Party
 Property
 Personal
 Protest
+Paris
+Peace
 Hardware
 Heuristics
 Hoist
@@ -3112,6 +3136,8 @@ revered
 reforms
 resulted
 remove
+rejected
+rejection
 use
 used
 unnecessary
@@ -3723,6 +3749,9 @@ Swadeshi
 Separate
 Swaraj
 Satyagraha
+Sen
+Shandong
+Specifically
 Figures
 Following
 Forward
@@ -3829,6 +3858,7 @@ Negative
 Nagasaki
 Naosuke
 National
+Nationalist
 violate
 very
 variable
@@ -3970,6 +4000,7 @@ Ideology
 Islands
 Independence
 Ideas
+Issue
 Will
 We
 What
@@ -3997,6 +4028,7 @@ Whuan
 Wars
 Western
 Washington
+Warlord
 Kinds
 Key
 King
@@ -4150,6 +4182,7 @@ Looting
 Longstanding
 Loyalty
 Limited
+Livelihood
 no
 not
 non
@@ -4372,6 +4405,8 @@ Muslims
 Mahatma
 Montagu
 Movement
+Mandarin
+May
 quasi
 qualitative
 quite
@@ -4442,12 +4477,14 @@ Gita
 Gandhi
 Gujarat
 Ghandi
+Guomindang
 You
 Younger
 Youth
 Yellow
 Yangtze
 Yamagata
+Yat
 just
 jumps
 jump

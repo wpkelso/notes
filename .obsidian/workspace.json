@@ -19,12 +19,99 @@
                 }
               ]
             },
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "b162eb76352b1ae3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warlord Period.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8a798e121c7d24e3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Culture Movement.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9969a8d4338d6862",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chinese Communist Party.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "760f8ae4035974b4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guomindang.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -53,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chinese Communist Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chinese Communist Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +206,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chinese Communist Party.md"
+              }
             }
           },
           {
@@ -256,11 +347,15 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "dec2f442825485ad",
+  "active": "9969a8d4338d6862",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Guomindang.md",
+    "Chinese Communist Party.md",
+    "New Culture Movement.md",
+    "Warlord Period.md",
     "history/Qing Dynasty.md",
     "design/Harumi Yamaguchi.md",
     "history/Mahatma Gandhi.md",
@@ -284,10 +379,6 @@
     "Elements & Principles of Design.md",
     "Tokugawa Shogunate.md",
     "Pasted image 20240207125314.png",
-    "Heian Period.md",
-    "history/Canton System.md",
-    "Opium Wars.md",
-    "Dadaism.md",
     "literature",
     "programming",
     "design",

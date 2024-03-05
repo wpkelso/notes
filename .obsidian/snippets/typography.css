@@ -1,11 +1,11 @@
 /* This snippet is meant to allow for easy modification of large parts of the typography within Obsidian.md, while maintaining a consistent style that has contextual meaning. */
 
 :root {
-    --typography-main: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; /*This should have both a bold, and a true italic or oblique variant*/
+    --typography-main: "Spectral", "Noto Serif CJK KR", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; /*This should have both a bold, and a true italic or oblique variant*/
     --typography-heading: "Jost* Semi", sans-serif;
     --typography-accent: "0xProto", monospace;
     --typography-technical: "0xProto", monospace; /*Ideally this is a monospace font*/
-    --typography-link: "Heiti SC", sans-serif;
+    --typography-link: "Vollkorn SC", sans-serif;
 }
 
 body {
@@ -14,10 +14,6 @@ body {
 		"calt" 1,
 		"dlig" 1,
 		"case" 1,
-		"ccmp" 1,
-		"ss02" 1,
-		"ss07" 1,
-		"ss08" 1;
 }
 
 
