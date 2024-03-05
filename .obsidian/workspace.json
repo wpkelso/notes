@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "784c4adf69618516",
+        "id": "b20aa2b6d55a4fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ab1d2c86e26ff5",
+            "id": "dec2f442825485ad",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -19,11 +19,9 @@
                 }
               ]
             },
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -258,7 +256,7 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "b4ab1d2c86e26ff5",
+  "active": "dec2f442825485ad",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },

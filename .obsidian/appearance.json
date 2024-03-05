@@ -6,11 +6,11 @@
   "baseFontSize": 18,
   "theme": "system",
   "enabledCssSnippets": [
+    "typomagical-overrides",
+    "typography",
     "monospace-editor-gutter",
     "monospace-metadata",
-    "typomagical-overrides",
-    "dangling-link-normal-text-color",
-    "typography"
+    "dangling-link-normal-text-color"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",
