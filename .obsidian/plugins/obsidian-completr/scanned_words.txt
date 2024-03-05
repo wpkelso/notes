@@ -112,6 +112,7 @@ betraying
 boycotting
 biggest
 baihua
+bourgeois
 size
 sexes
 same
@@ -892,6 +893,7 @@ timeline
 transferred
 tha
 triggered
+toward
 embedded
 each
 execute
@@ -1232,6 +1234,7 @@ wanted
 widespread
 worked
 writer
+worldwide
 peripheral
 peripherals
 processor
@@ -1749,6 +1752,7 @@ influence
 infinitive
 ideology
 initially
+interests
 conjunction
 conversion
 compilers
@@ -2091,6 +2095,8 @@ collapsed
 coup
 colloquial
 conference
+coordinate
+cooperation
 achieve
 allow
 actions
@@ -2313,6 +2319,7 @@ arrested
 accused
 acts
 authorship
+advisers
 These
 True
 The
@@ -2665,6 +2672,7 @@ Consider
 Classical
 Conference
 Communist
+CCP
 Peripheral
 Parameters
 Predictors
@@ -2952,6 +2960,7 @@ marginalize
 microscopic
 mobilization
 moksha
+moves
 ready
 resource
 reach
@@ -4001,6 +4010,7 @@ Islands
 Independence
 Ideas
 Issue
+International
 Will
 We
 What
@@ -4244,6 +4254,7 @@ now
 nowhere
 national
 nouns
+newly
 Register
 Range
 RHS
@@ -4311,6 +4322,7 @@ Reforms
 Rescript
 Rights
 Referents
+Russia
 Major
 Move
 Made
