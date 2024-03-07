@@ -35,13 +35,31 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Guomindang",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Guomindang.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":104},\"to\":{\"line\":23,\"ch\":104}},\"scroll\":17.928994082840237}"
+                },
+                {
+                  "title": "Chinese Communist Party",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chinese Communist Party.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":1.3333333333333333}"
+                },
+                {
+                  "title": "Warlord Period",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Warlord Period.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warlord Period.md",
+                "file": "Chinese Communist Party.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warlord Period.md",
+                "file": "Chinese Communist Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warlord Period.md",
+                "file": "Chinese Communist Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warlord Period.md"
+                "file": "Chinese Communist Party.md"
               }
             }
           },
@@ -289,10 +307,12 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "New Culture Movement.md",
-    "Chinese Communist Party.md",
     "Guomindang.md",
+    "Chinese Communist Party.md",
+    "United Front.md",
+    "Shanghai Massacre.md",
     "Warlord Period.md",
+    "New Culture Movement.md",
     "history/Qing Dynasty.md",
     "design/Harumi Yamaguchi.md",
     "history/Mahatma Gandhi.md",
@@ -313,8 +333,6 @@
     "Sino-Japanese War.md",
     "Satsuma Rebellion.md",
     "design/Shape.md",
-    "Elements & Principles of Design.md",
-    "Tokugawa Shogunate.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",

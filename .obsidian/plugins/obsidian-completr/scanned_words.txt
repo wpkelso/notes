@@ -436,6 +436,7 @@ subsequently
 stems
 sphere
 student
+shek
 difference
 different
 deal
@@ -1087,6 +1088,7 @@ education
 emphasize
 exporters
 ego
+expedition
 Embedded
 Examples
 Eventually
@@ -1169,6 +1171,7 @@ Education
 Effectively
 Elected
 Electorates
+Expedition
 work
 with
 will
@@ -2320,6 +2323,8 @@ accused
 acts
 authorship
 advisers
+alliance
+aid
 These
 True
 The
@@ -2673,6 +2678,7 @@ Classical
 Conference
 Communist
 CCP
+Chiang
 Peripheral
 Parameters
 Predictors
@@ -3828,6 +3834,7 @@ Flat
 Feudal
 Freedom
 Force
+Front
 Note
 Non
 NP
@@ -3868,6 +3875,7 @@ Nagasaki
 Naosuke
 National
 Nationalist
+Northern
 violate
 very
 variable
@@ -4056,6 +4064,7 @@ Kong
 Knowledge
 Krishna
 Khadi
+Kai
 Disadvantages
 Definition
 Dataflow
@@ -4490,6 +4499,7 @@ Gandhi
 Gujarat
 Ghandi
 Guomindang
+Guangdong
 You
 Younger
 Youth
