@@ -735,6 +735,7 @@ opened
 outer
 overthrow
 overtly
+overshadowed
 the
 to
 timing
@@ -2100,6 +2101,7 @@ colloquial
 conference
 coordinate
 cooperation
+considerable
 achieve
 allow
 actions
@@ -2325,6 +2327,7 @@ authorship
 advisers
 alliance
 aid
+advancements
 These
 True
 The
@@ -2825,6 +2828,7 @@ Hanzi
 Hong
 Heian
 Hindu
+Harumi
 methodology
 more
 must
@@ -2967,6 +2971,7 @@ microscopic
 mobilization
 moksha
 moves
+manufacturing
 ready
 resource
 reach
@@ -3571,6 +3576,7 @@ lording
 linked
 lawyers
 lawyer
+loss
 Output
 Ordering
 ODE
@@ -3767,6 +3773,7 @@ Satyagraha
 Sen
 Shandong
 Specifically
+Shek
 Figures
 Following
 Forward
@@ -4140,6 +4147,7 @@ Denotative
 Darbars
 Derived
 Declaration
+Decade
 Loop
 Live
 Liveness
@@ -4203,6 +4211,7 @@ Loyalty
 Limited
 Livelihood
 Long
+Life
 no
 not
 non
@@ -4510,6 +4519,7 @@ Yangtze
 Yamagata
 Yat
 Yan
+Yamaguchi
 just
 jumps
 jump
