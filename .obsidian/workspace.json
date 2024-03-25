@@ -33,8 +33,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c22c7fb8d5bafeb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -63,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Showa Era.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Showa Era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +145,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Showa Era.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,7 +284,7 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "5e245d9de23c3240",
+  "active": "0c22c7fb8d5bafeb",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
