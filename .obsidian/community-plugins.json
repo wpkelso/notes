@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-style-settings",
   "tag-wrangler",
   "various-complements",
   "obsidian-latex-suite",
@@ -21,7 +20,6 @@
   "improved-vimcursor",
   "vim-toggle",
   "update-time-on-edit",
-  "typewriter-mode",
   "highlightr-plugin",
   "obsidian-auto-hide",
   "maximise-active-pane-obsidian",
@@ -30,6 +28,7 @@
   "obsidian-contextual-typography",
   "obsidian-epub-plugin",
   "auto-note-mover",
+  "lapel",
   "d2-obsidian",
-  "lapel"
+  "obsidian-style-settings"
 ]

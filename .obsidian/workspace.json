@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b20aa2b6d55a4fc5",
+        "id": "7cea6fc53aeaed8d",
         "type": "tabs",
         "children": [
           {
-            "id": "dec2f442825485ad",
+            "id": "5e245d9de23c3240",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "7b67650b5cd0d337",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -41,14 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/Harumi Yamaguchi.md",
-                "mode": "preview",
-                "source": true
+                "file": "Showa Era.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -77,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/Harumi Yamaguchi.md",
+                "file": "Showa Era.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/Harumi Yamaguchi.md",
+                "file": "Showa Era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/Harumi Yamaguchi.md"
+                "file": "Showa Era.md"
               }
             }
           },
@@ -284,11 +270,13 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "7b67650b5cd0d337",
+  "active": "5e245d9de23c3240",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Showa Era.md",
+    "design/Harumi Yamaguchi.md",
     "Warlord Period.md",
     "Chinese Communist Party.md",
     "Guomindang.md",
@@ -296,7 +284,6 @@
     "Shanghai Massacre.md",
     "New Culture Movement.md",
     "history/Qing Dynasty.md",
-    "design/Harumi Yamaguchi.md",
     "history/Mahatma Gandhi.md",
     "history/Art Deco.md",
     "design/Futurism.md",
@@ -314,7 +301,6 @@
     "Russo-Japanese War.md",
     "Sino-Japanese War.md",
     "Satsuma Rebellion.md",
-    "design/Shape.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",

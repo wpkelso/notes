@@ -1,22 +1,22 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,500;0,600;0,800;1,200;1,300;1,500;1,600;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,500;0,700;0,900;1,100;1,300;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 /* @settings
 
 name: Announcements
 id: typomagical-title
 settings:
 	-
-		id: font-weight-return
-		title: "29 February 2024: Font weight slider returned"
-		description: "By request, *body font weight* slider has been returned, with a caveat. You will need to install any desired weights, most likely from Google Fonts. Some links below:
-
-		- [Spectral on Google Fonts](https://fonts.google.com/specimen/Spectral)
-
-		- [Spectral on Github](https://github.com/productiontype/spectral)
-
-		- [Alegreya Sans on Google Fonts](https://fonts.google.com/specimen/Alegreya+Sans?query=alegreya+sans)
-
-		- [Alegreya Sans on Github](https://github.com/huertatipografica/Alegreya-Sans)
-		"
+		id: body-weights
+		title: "6 March 2024: Body weights"
+		description: "Since Obsidian allows Google fonts, I've reintroduced all font weights for Spectral and Alegreya Sans. I've also expanded the weight slider from 200–800 to 200–900, so that Alegreya Sans users can use the **Black** 900 weight available."
+		type: info-text
+		markdown: true
+	-
+		id: amiri-returned
+		title: "4 March 2024: Amiri returned"
+		description: "Kepano has clarified that while Obsidian does ban network requests in themes, it makes an exception for requests from fonts.googleapis.com. Thus, Amiri is back in Obsidian, but requires an internet connection to work."
 		type: info-text
 		markdown: true
 	-
@@ -26,7 +26,7 @@ settings:
 
 		- Amiri font for titles
 
-		- Body text weight setting
+		- Body text weight setting, only 400 and 700 will work
 
 
 		If you dearly miss these, please contact me by filing a Github issue.
@@ -467,6 +467,7 @@ settings:
 		type: variable-select
 		default: Bitter
 		options:
+				- Amiri
 				- Bitter
 				- Playfair Display
 	-
@@ -1522,20 +1523,20 @@ settings:
 	-
 		id: body-weight
 		title: Body text weight
-		description: "The boldness of body text. For high resolution displays I recommend 300 or 400. As of 2024-February, you will need to install these weights yourself. Please see this theme's Announcements for more info."
+		description: "The boldness of body text. 900 is only available for Alegreya Sans."
 		type: variable-number-slider
 		default: 400
 		min: 200
-		max: 800
+		max: 900
 		step: 100
 	-
 		id: bold-weight
 		title: Bold text weight
-		description: The boldness of **bold** text. I recommend 600 or 700.
+		description: The boldness of **bold** text. 900 is only available for Alegreya Sans.
 		type: variable-number-slider
 		default: 600
 		min: 200
-		max: 800
+		max: 900
 		step: 100
 	-
 		id: line-height-body

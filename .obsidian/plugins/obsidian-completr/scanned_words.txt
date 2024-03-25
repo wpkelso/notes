@@ -634,6 +634,7 @@ democratic
 delegate
 demands
 demonstrations
+demarcated
 of
 often
 or
@@ -2829,6 +2830,7 @@ Hong
 Heian
 Hindu
 Harumi
+Hirohito
 methodology
 more
 must
@@ -3774,6 +3776,7 @@ Sen
 Shandong
 Specifically
 Shek
+Showa
 Figures
 Following
 Forward
