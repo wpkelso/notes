@@ -5,7 +5,7 @@
     --typography-heading: "Jost* Semi", sans-serif;
     --typography-accent: "0xProto", monospace;
     --typography-technical: "0xProto", monospace; /*Ideally this is a monospace font*/
-    --typography-link: "Vollkorn SC", "Helvetica", sans-serif;
+    --typography-link: "Alegre", sans-serif;
 }
 
 body {

@@ -437,6 +437,8 @@ stems
 sphere
 student
 shek
+surprise
+southeast
 difference
 different
 deal
@@ -737,6 +739,7 @@ outer
 overthrow
 overtly
 overshadowed
+oil
 the
 to
 timing
@@ -1091,6 +1094,7 @@ emphasize
 exporters
 ego
 expedition
+embargoes
 Embedded
 Examples
 Eventually
@@ -2329,6 +2333,7 @@ advisers
 alliance
 aid
 advancements
+attack
 These
 True
 The
@@ -2683,6 +2688,7 @@ Conference
 Communist
 CCP
 Chiang
+Circumstances
 Peripheral
 Parameters
 Predictors
@@ -2831,6 +2837,7 @@ Heian
 Hindu
 Harumi
 Hirohito
+Harbor
 methodology
 more
 must
@@ -3160,6 +3167,7 @@ resulted
 remove
 rejected
 rejection
+restricting
 use
 used
 unnecessary
@@ -3312,6 +3320,7 @@ Anglo
 Andaman
 Arjuna
 Activism
+Agitating
 Build
 Based
 Branch
@@ -3368,6 +3377,7 @@ Began
 BEIC
 Bay
 Bakumatsu
+Beginning
 Use
 Unswitching
 Useful
@@ -4029,6 +4039,7 @@ Independence
 Ideas
 Issue
 International
+Indonesia
 Will
 We
 What
@@ -4552,6 +4563,7 @@ Justice
 Jainism
 James
 Jugendstil
+January
 Zawi
 Zagros
 Zigguraut
