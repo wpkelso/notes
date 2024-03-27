@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7cea6fc53aeaed8d",
+        "id": "ad933f4c3b167ae7",
         "type": "tabs",
         "children": [
           {
-            "id": "0c22c7fb8d5bafeb",
+            "id": "581b5ae30c250dbf",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Japan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Japan.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -26,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pearl Harbor.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -63,7 +53,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pearl Harbor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +78,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pearl Harbor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +117,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pearl Harbor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,13 +256,13 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "0c22c7fb8d5bafeb",
+  "active": "581b5ae30c250dbf",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Japan.md",
     "Pearl Harbor.md",
+    "Japan.md",
     "Showa Era.md",
     "design/Harumi Yamaguchi.md",
     "Warlord Period.md",
