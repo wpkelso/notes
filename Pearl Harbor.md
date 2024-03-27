@@ -1,12 +1,12 @@
 ---
 tags: japan, united_states, asia, war
 created: 2024-03-26T10:32
-updated: 2024-03-26T10:32
+updated: 2024-03-26T11:07
 ---
 
 # Pearl Harbor
 
-US military base, which was the subject of a surprise attack by the [[Japan|Empire of Japan]], ultimately leading the US into [[World War II]].
+United States military base, which was the subject of a surprise attack by the [[Japan|Empire of Japan]], ultimately leading the United States into [[World War II]].
 
 ## Agitating Circumstances
 

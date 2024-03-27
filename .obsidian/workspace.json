@@ -11,8 +11,14 @@
             "id": "0c22c7fb8d5bafeb",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Japan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Japan.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -269,6 +275,7 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Japan.md",
     "Pearl Harbor.md",
     "Showa Era.md",
     "design/Harumi Yamaguchi.md",
@@ -294,7 +301,6 @@
     "Midaeval.md",
     "Meiji Restoration.md",
     "Russo-Japanese War.md",
-    "Sino-Japanese War.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",

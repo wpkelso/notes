@@ -1,15 +1,15 @@
 /* This snippet is meant to allow for easy modification of large parts of the typography within Obsidian.md, while maintaining a consistent style that has contextual meaning. */
 
 :root {
-    --typography-main: "Spectral", "Noto Serif CJK KR", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; /*This should have both a bold, and a true italic or oblique variant*/
+    --typography-main: "Palatino Linotype", "Noto Serif CJK KR", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; /*This should have both a bold, and a true italic or oblique variant*/
     --typography-heading: "Jost* Semi", sans-serif;
+    --typography-heading-alt: "Palatino Linotype", "Noto Serif CJK KR", serif;
     --typography-accent: "0xProto", monospace;
     --typography-technical: "0xProto", monospace; /*Ideally this is a monospace font*/
-    --typography-link: "Vollkorn SC", "Helvetica", sans-serif;
+    --typography-link: "Noto Serif", serif;
 }
 
 body {
-	--font-text-theme: var(--typography-main);
 	font-feature-settings:
 		"calt" 1,
 		"dlig" 1,
@@ -29,6 +29,37 @@ h1.embedded-note-title,
 .inline-title {
 	font-family: var(--typography-heading);
 	font-size: 28pt;
+	letter-spacing: 0.5pt;
+	padding-bottom: 10px;
+}
+
+h2,
+h2.embedded-note-title,
+.cm-header .cm-header-2,
+.HyperMD-header-2.HyperMD-header .cm-header-2,
+.markdown-preview-view h2,
+h3,
+h3.embedded-note-title,
+.cm-header .cm-header-3,
+.HyperMD-header-3.HyperMD-header .cm-header-3,
+.markdown-preview-view h3,
+h4,
+h4.embedded-note-title,
+.cm-header .cm-header-4,
+.HyperMD-header-4.HyperMD-header .cm-header-4,
+.markdown-preview-view h4,
+h5,
+h5.embedded-note-title,
+.cm-header .cm-header-5,
+.HyperMD-header-5.HyperMD-header .cm-header-5,
+.markdown-preview-view h5,
+h6,
+h6.embedded-note-title,
+.cm-header .cm-header-6,
+.HyperMD-header-6.HyperMD-header .cm-header-6,
+.markdown-preview-view h6 {
+	font-family: var(--typography-heading-alt);
+	font-size: 20pt;
 	letter-spacing: 0.5pt;
 	padding-bottom: 10px;
 }
@@ -63,7 +94,9 @@ body:not(.align-title-left) {
 
 /* BODY TEXT */
 p,
-.markdown-rendered p {
+.markdown-rendered p,
+.cm-line {
+    font-family: var(--typography-main);
 	text-align: left;
     hyphens: auto;
 }
