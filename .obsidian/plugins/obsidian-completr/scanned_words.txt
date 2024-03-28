@@ -1519,6 +1519,7 @@ punctuation
 psychology
 province
 party
+partitioned
 hardware
 hierarchy
 how
@@ -3378,6 +3379,7 @@ BEIC
 Bay
 Bakumatsu
 Beginning
+Britain
 Use
 Unswitching
 Useful
@@ -3473,6 +3475,7 @@ geometric
 guide
 getting
 got
+granting
 linear
 latency
 list
