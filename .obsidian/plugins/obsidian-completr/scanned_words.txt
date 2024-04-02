@@ -1095,6 +1095,7 @@ exporters
 ego
 expedition
 embargoes
+especially
 Embedded
 Examples
 Eventually
@@ -1599,6 +1600,7 @@ happened
 him
 harsh
 homespun
+huge
 in
 interrupts
 instruction
@@ -2335,6 +2337,7 @@ alliance
 aid
 advancements
 attack
+alongside
 These
 True
 The
@@ -2793,6 +2796,7 @@ Personal
 Protest
 Paris
 Peace
+Partition
 Hardware
 Heuristics
 Hoist
@@ -2982,6 +2986,8 @@ mobilization
 moksha
 moves
 manufacturing
+migration
+migrating
 ready
 resource
 reach
@@ -3952,6 +3958,7 @@ viceroy
 vision
 verse
 violent
+violence
 Is
 Idea
 It
@@ -4044,6 +4051,7 @@ Ideas
 Issue
 International
 Indonesia
+Immediately
 Will
 We
 What
@@ -4360,6 +4368,7 @@ Rescript
 Rights
 Referents
 Russia
+Radcliffe
 Major
 Move
 Made
@@ -4457,6 +4466,7 @@ Movement
 Mandarin
 May
 March
+Minorities
 quasi
 qualitative
 quite
