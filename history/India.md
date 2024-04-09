@@ -1,7 +1,7 @@
 ---
 tags: india, pakistan, bangledesh, asia, culture, history, hinduism, religion
 created: 2024-01-11T10:18
-updated: 2024-03-28T10:31
+updated: 2024-04-02T10:34
 ---
 
 # India
@@ -41,6 +41,7 @@ The Indian social structure is based around a caste system. It has two systems, 
 > In the pre-modern era, religious and caste boundaries were fluid, and the hierarchies were very often contested.
 
 ## British Rule
+
 After the takeover by the East India Company, the EIC ruled the region until 1858 when the company was abolished following a large rebellion in the preceding year. Following this, [[Crown Rule]] existed until India’s independence in 1947.
 
 ### Partition (End of British Rule)
@@ -48,3 +49,7 @@ After the takeover by the East India Company, the EIC ruled the region until 185
 In 1947, Britain partitioned India into the state of India and the state of Pakistan, granting freedom to both of the states. The division, along the “Radcliffe Partition Lines,” were largely divided alongside religious majority lines.
 
 Immediately following the division, there were huge amounts of migration (Minorities migrating to their respective majority countries) and violence—especially in the west.
+
+### Creation of Linguistic States
+
+Helped to undercut separatism as regional cultural identities are given an important structural place _within_ the system.

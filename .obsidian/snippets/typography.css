@@ -1,7 +1,7 @@
 /* This snippet is meant to allow for easy modification of large parts of the typography within Obsidian.md, while maintaining a consistent style that has contextual meaning. */
 
 :root {
-    --typography-main: "Palatino Linotype", "Noto Serif CJK KR", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; /*This should have both a bold, and a true italic or oblique variant*/
+    --typography-main: "Libertinus Serif", "Noto Serif CJK KR", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; /*This should have both a bold, and a true italic or oblique variant*/
     --typography-heading: "Jost* Semi", sans-serif;
     --typography-heading-alt: "Palatino Linotype", "Noto Serif CJK KR", serif;
     --typography-accent: "0xProto", monospace;
