@@ -439,6 +439,8 @@ student
 shek
 surprise
 southeast
+separatism
+structural
 difference
 different
 deal
@@ -1765,6 +1767,7 @@ infinitive
 ideology
 initially
 interests
+identities
 conjunction
 conversion
 compilers
@@ -2110,6 +2113,7 @@ conference
 coordinate
 cooperation
 considerable
+cultural
 achieve
 allow
 actions
@@ -2843,6 +2847,7 @@ Hindu
 Harumi
 Hirohito
 Harbor
+Helped
 methodology
 more
 must
@@ -3232,6 +3237,7 @@ uniting
 ultimately
 upheld
 unrest
+undercut
 Algorithm
 Anti
 Advantages
@@ -4238,6 +4244,7 @@ Limited
 Livelihood
 Long
 Life
+Linguistic
 no
 not
 non
