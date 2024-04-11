@@ -4,7 +4,7 @@
     --typography-main: "Libertinus Serif", "Noto Serif CJK KR", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; /*This should have both a bold, and a true italic or oblique variant*/
     --typography-heading: "Jost* Semi", sans-serif;
     --typography-heading-alt: "Libertinus Serif Display", "Noto Serif CJK KR", serif;
-    --typography-accent: "Courier Prime", "0xProto", monospace;
+    --typography-accent: "Courier Prime", monospace;
     --typography-technical: "0xProto", monospace; /*Ideally this is a monospace font*/
     --typography-link: "Noto Serif", serif;
 }
@@ -13,7 +13,8 @@ body {
 	font-feature-settings:
 		"calt" 1,
 		"dlig" 1,
-		"case" 1,
+		"case" 1;
+    font-variant-numeric: oldstyle-nums proportional-nums;
 }
 
 
@@ -90,6 +91,16 @@ body:not(.align-title-left) {
 	line-height: 1.2;
 }
 
+h2::before,
+h2.embedded-note-title::before,
+.cm-header .cm-header-2::before,
+.HyperMD-header-2.HyperMD-header .cm-header-2::before,
+.markdown-preview-view h2::before {
+    content: "";
+    margin-left: -5px;
+    margin-right: 5px;
+    border-left: 2px solid black;
+}
 
 
 /* BODY TEXT */
@@ -141,6 +152,11 @@ a {
 
 .markdown-rendered table {
     font-family: var(--typography-main);
+    font-feature-settings:
+            "calt" 1,
+            "dlig" 1,
+            "liga" 1;
+    font-variant-numeric: lining-nums proportional-nums;
 
     border-top-color: black;
     border-top-style: solid;
@@ -158,6 +174,7 @@ a {
 .markdown-rendered th {
     font-family: var(--typography-heading-alt);
     font-weight: 700;
+
     border-bottom-color: black;
     border-bottom-style: solid;
     border-bottom-width: 1px;
