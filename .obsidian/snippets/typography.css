@@ -91,17 +91,22 @@ body:not(.align-title-left) {
 	line-height: 1.2;
 }
 
-h2::before,
-h2.embedded-note-title::before,
-.cm-header .cm-header-2::before,
-.HyperMD-header-2.HyperMD-header .cm-header-2::before,
-.markdown-preview-view h2::before {
+h2::after,
+.cm-header .cm-header-2::after,
+.HyperMD-header-2.HyperMD-header .cm-header-2::after,
+.markdown-preview-view h2::after,
+.markdown-rendered h2::after{
     content: "";
-    margin-left: -5px;
-    margin-right: 5px;
-    border-left: 2px solid black;
-}
 
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+
+    width: 35%;
+    height: 1px;
+
+    background-color: black;
+}
 
 /* BODY TEXT */
 p,
