@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "history/India.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -303,8 +303,8 @@
   },
   "lastOpenFiles": [
     "history/India.md",
-    "Mao Zedong.md",
     "Chinese Communist Party.md",
+    "Mao Zedong.md",
     "Pearl Harbor.md",
     "Japan.md",
     "Showa Era.md",

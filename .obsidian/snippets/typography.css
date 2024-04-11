@@ -101,12 +101,18 @@ p,
     hyphens: auto;
 }
 
+.callout-title {
+    font-family: var(--typography-heading);
+}
+
 .callout-content p {
     font-family: var(--typography-accent);
-    font-feature-settings:
-        "calt" 1,
-        "dlig" 1,
-        "liga" 1;
+}
+
+/* LISTS */
+
+.markdown-rendered ul, .markdown-rendered ol {
+    font-family: var(--typography-main);
 }
 
 /* LINKS */
@@ -150,6 +156,8 @@ a {
 }
 
 .markdown-rendered th {
+    font-family: var(--typography-heading-alt);
+    font-weight: 700;
     border-bottom-color: black;
     border-bottom-style: solid;
     border-bottom-width: 1px;

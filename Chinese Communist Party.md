@@ -1,6 +1,6 @@
 ---
 created: 2024-03-05T11:01
-updated: 2024-04-11T11:14
+updated: 2024-04-11T11:18
 ---
 
 # Chinese Communist Party
@@ -33,7 +33,7 @@ This was solved by discrediting the landowners through public trials, in which t
 ### Great Leap Forward (1958)
 
 > [!quote] The Big Idea
-> China to surpass Britain in 15 years
+> “China to surpass Britain in 15 years”
 
 Campaign to use the party to mobilize the people forward, out of it’s colonial past and towards it’s place as a world power. It emphasized that the “People’s power is limitless.”
 
