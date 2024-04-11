@@ -29,6 +29,33 @@
               "type": "markdown",
               "state": {
                 "file": "Chinese Communist Party.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c101eafc24b4f7f0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mao Zedong",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mao Zedong.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":12},\"to\":{\"line\":4,\"ch\":12}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history/India.md",
                 "mode": "source",
                 "source": true
               }
@@ -276,12 +303,13 @@
   },
   "lastOpenFiles": [
     "history/India.md",
+    "Mao Zedong.md",
+    "Chinese Communist Party.md",
     "Pearl Harbor.md",
     "Japan.md",
     "Showa Era.md",
     "design/Harumi Yamaguchi.md",
     "Warlord Period.md",
-    "Chinese Communist Party.md",
     "Guomindang.md",
     "United Front.md",
     "Shanghai Massacre.md",
@@ -300,7 +328,6 @@
     "Semiotics.md",
     "Midaeval.md",
     "Meiji Restoration.md",
-    "Russo-Japanese War.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",

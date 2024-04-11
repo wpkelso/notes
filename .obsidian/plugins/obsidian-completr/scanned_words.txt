@@ -443,6 +443,9 @@ separatism
 structural
 supposed
 sins
+surpass
+steel
+sidelining
 difference
 different
 deal
@@ -1191,6 +1194,7 @@ Elected
 Electorates
 Expedition
 Event
+Enlai
 work
 with
 will
@@ -1257,6 +1261,7 @@ widespread
 worked
 writer
 worldwide
+welcome
 peripheral
 peripherals
 processor
@@ -1535,6 +1540,7 @@ party
 partitioned
 peasantry
 panel
+plummeted
 hardware
 hierarchy
 how
@@ -1781,6 +1787,10 @@ ideology
 initially
 interests
 identities
+incredibly
+initiatives
+initiative
+ideological
 conjunction
 conversion
 compilers
@@ -2130,6 +2140,7 @@ cultural
 critics
 cadres
 confess
+commitment
 achieve
 allow
 actions
@@ -2361,6 +2372,8 @@ alongside
 attacks
 aspects
 acquired
+afterward
+appealed
 These
 True
 The
@@ -2565,6 +2578,9 @@ firm
 foremost
 former
 founder
+famine
+failure
+forefront
 Common
 Counters
 Computing
@@ -2721,6 +2737,7 @@ Civil
 Collectivization
 Campaign
 Communes
+Chairman
 Peripheral
 Parameters
 Predictors
@@ -2827,6 +2844,7 @@ Peace
 Partition
 Post
 Proletarian
+Pragmatists
 Hardware
 Heuristics
 Hoist
@@ -3021,6 +3039,9 @@ manufacturing
 migration
 migrating
 met
+mobilize
+momentarily
+makers
 ready
 resource
 reach
@@ -3212,6 +3233,7 @@ radicalization
 revolutionaries
 redistribute
 revolutionary
+realized
 use
 used
 unnecessary
@@ -3270,6 +3292,8 @@ ultimately
 upheld
 unrest
 undercut
+unsuccessful
+unusable
 Algorithm
 Anti
 Advantages
@@ -3426,6 +3450,8 @@ Bay
 Bakumatsu
 Beginning
 Britain
+Backyard
+Blast
 Use
 Unswitching
 Useful
@@ -3642,6 +3668,9 @@ landholders
 landholding
 legitimizing
 landowners
+limitless
+leaped
+leadership
 Output
 Ordering
 ODE
@@ -3841,6 +3870,8 @@ Specifically
 Shek
 Showa
 Socialization
+Steel
+Shaoqi
 Figures
 Following
 Forward
@@ -3910,6 +3941,7 @@ Freedom
 Force
 Front
 Flowers
+Furnace
 Note
 Non
 NP
@@ -4221,6 +4253,7 @@ Darbars
 Derived
 Declaration
 Decade
+Deng
 Loop
 Live
 Liveness
@@ -4287,6 +4320,8 @@ Long
 Life
 Linguistic
 Land
+Leap
+Liu
 no
 not
 non
@@ -4420,6 +4455,7 @@ Russia
 Radcliffe
 Reform
 Rightist
+Rectify
 Major
 Move
 Made
@@ -4531,6 +4567,7 @@ questions
 quantifier
 quantifiers
 qualities
+quickly
 zero
 Quantitative
 Quality
@@ -4638,6 +4675,8 @@ Zagros
 Zigguraut
 Zhongguo
 Zurich
+Zedong
+Zhou
 Velocity
 Vocabulary
 Voltage
@@ -4656,5 +4695,6 @@ Violence
 Verbs
 Xinjiang
 Xiamen
+Xiaoping
 xenophobia
 xenophobic

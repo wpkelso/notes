@@ -3,8 +3,8 @@
 :root {
     --typography-main: "Libertinus Serif", "Noto Serif CJK KR", -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; /*This should have both a bold, and a true italic or oblique variant*/
     --typography-heading: "Jost* Semi", sans-serif;
-    --typography-heading-alt: "Palatino Linotype", "Noto Serif CJK KR", serif;
-    --typography-accent: "0xProto", monospace;
+    --typography-heading-alt: "Libertinus Serif Display", "Noto Serif CJK KR", serif;
+    --typography-accent: "Courier Prime", "0xProto", monospace;
     --typography-technical: "0xProto", monospace; /*Ideally this is a monospace font*/
     --typography-link: "Noto Serif", serif;
 }
@@ -101,7 +101,7 @@ p,
     hyphens: auto;
 }
 
-.callout {
+.callout-content p {
     font-family: var(--typography-accent);
     font-feature-settings:
         "calt" 1,
@@ -129,4 +129,28 @@ a {
 	font-family: var(--typography-link);
     font-variant-caps: small-caps;
     text-decoration: none;
+}
+
+/* TABLES */
+
+.markdown-rendered table {
+    font-family: var(--typography-main);
+
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 2px;
+
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+
+.markdown-rendered td, .markdown-rendered th {
+    border-style: none;
+}
+
+.markdown-rendered th {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
 }
