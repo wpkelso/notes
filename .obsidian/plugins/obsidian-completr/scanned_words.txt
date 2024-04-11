@@ -441,6 +441,8 @@ surprise
 southeast
 separatism
 structural
+supposed
+sins
 difference
 different
 deal
@@ -639,6 +641,9 @@ delegate
 demands
 demonstrations
 demarcated
+de
+distrust
+discrediting
 of
 often
 or
@@ -742,6 +747,8 @@ overthrow
 overtly
 overshadowed
 oil
+overly
+oppression
 the
 to
 timing
@@ -902,6 +909,8 @@ transferred
 tha
 triggered
 toward
+trials
+told
 embedded
 each
 execute
@@ -1181,6 +1190,7 @@ Effectively
 Elected
 Electorates
 Expedition
+Event
 work
 with
 will
@@ -1523,6 +1533,8 @@ psychology
 province
 party
 partitioned
+peasantry
+panel
 hardware
 hierarchy
 how
@@ -1603,6 +1615,7 @@ him
 harsh
 homespun
 huge
+holding
 in
 interrupts
 instruction
@@ -2114,6 +2127,9 @@ coordinate
 cooperation
 considerable
 cultural
+critics
+cadres
+confess
 achieve
 allow
 actions
@@ -2342,6 +2358,9 @@ aid
 advancements
 attack
 alongside
+attacks
+aspects
+acquired
 These
 True
 The
@@ -2420,6 +2439,7 @@ Tokugawa
 Tokyo
 Traditional
 Truth
+Teams
 for
 first
 from
@@ -2697,6 +2717,10 @@ Communist
 CCP
 Chiang
 Circumstances
+Civil
+Collectivization
+Campaign
+Communes
 Peripheral
 Parameters
 Predictors
@@ -2801,6 +2825,8 @@ Protest
 Paris
 Peace
 Partition
+Post
+Proletarian
 Hardware
 Heuristics
 Hoist
@@ -2848,6 +2874,7 @@ Harumi
 Hirohito
 Harbor
 Helped
+Hundred
 methodology
 more
 must
@@ -2993,6 +3020,7 @@ moves
 manufacturing
 migration
 migrating
+met
 ready
 resource
 reach
@@ -3180,6 +3208,10 @@ remove
 rejected
 rejection
 restricting
+radicalization
+revolutionaries
+redistribute
+revolutionary
 use
 used
 unnecessary
@@ -3334,6 +3366,8 @@ Andaman
 Arjuna
 Activism
 Agitating
+Aid
+Accelerated
 Build
 Based
 Branch
@@ -3604,6 +3638,10 @@ linked
 lawyers
 lawyer
 loss
+landholders
+landholding
+legitimizing
+landowners
 Output
 Ordering
 ODE
@@ -3802,6 +3840,7 @@ Shandong
 Specifically
 Shek
 Showa
+Socialization
 Figures
 Following
 Forward
@@ -3870,6 +3909,7 @@ Feudal
 Freedom
 Force
 Front
+Flowers
 Note
 Non
 NP
@@ -3965,6 +4005,7 @@ vision
 verse
 violent
 violence
+villages
 Is
 Idea
 It
@@ -4245,6 +4286,7 @@ Livelihood
 Long
 Life
 Linguistic
+Land
 no
 not
 non
@@ -4376,6 +4418,8 @@ Rights
 Referents
 Russia
 Radcliffe
+Reform
+Rightist
 Major
 Move
 Made
@@ -4474,6 +4518,9 @@ Mandarin
 May
 March
 Minorities
+Mutual
+Moves
+Mao
 quasi
 qualitative
 quite
@@ -4555,6 +4602,7 @@ Yamagata
 Yat
 Yan
 Yamaguchi
+Years
 just
 jumps
 jump
