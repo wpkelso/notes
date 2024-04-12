@@ -11,8 +11,14 @@
             "id": "7f064585f681d8b8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -20,8 +26,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Guomindang.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -53,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Guomindang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Guomindang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Guomindang.md"
+              }
             }
           },
           {
@@ -261,6 +275,7 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Guomindang.md",
     "Chinese Communist Party.md",
     "history/India.md",
     "Mao Zedong.md",
@@ -269,7 +284,6 @@
     "Showa Era.md",
     "design/Harumi Yamaguchi.md",
     "Warlord Period.md",
-    "Guomindang.md",
     "United Front.md",
     "Shanghai Massacre.md",
     "New Culture Movement.md",
