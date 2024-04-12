@@ -59,6 +59,7 @@ h6.embedded-note-title,
 .cm-header .cm-header-6,
 .HyperMD-header-6.HyperMD-header .cm-header-6,
 .markdown-preview-view h6 {
+    position: relative;
 	font-family: var(--typography-heading-alt);
 	font-size: 20pt;
 	letter-spacing: 0.5pt;
@@ -67,7 +68,7 @@ h6.embedded-note-title,
 
 /* center align titles to better differentiate them */
 body:not(.align-title-left) {
-	.HyperMD-header-line.HyperMD-header-line-1.cm-line,bg
+	.HyperMD-header-line.HyperMD-header-line-1.cm-line,
 	.inline-title,
 	.embeded-note-title.embedded-note-title,
 	.HyperMD-header-1,
@@ -91,22 +92,91 @@ body:not(.align-title-left) {
 	line-height: 1.2;
 }
 
-h2::after,
-.cm-header .cm-header-2::after,
-.HyperMD-header-2.HyperMD-header .cm-header-2::after,
-.markdown-preview-view h2::after,
-.markdown-rendered h2::after{
+/* Reader mode H3 mark */
+.markdown-rendered h3::before {
     content: "";
 
     position: absolute;
-    left: 0;
-    bottom: -5px;
+    left: 0px;
+    bottom: 0.2ex;
 
-    width: 35%;
+    width: 5%;
     height: 1px;
 
     background-color: black;
 }
+.markdown-rendered h3::after {
+    content: "...";
+
+    position: absolute;
+    left: 6%;
+    bottom: -0.6ex;
+}
+
+/* Reader mode H4 mark */
+.markdown-rendered h4::before {
+    content: "";
+
+    position: absolute;
+    left: 0px;
+    bottom: 0.2ex;
+
+    width: 10%;
+    height: 1px;
+
+    background-color: black;
+}
+.markdown-rendered h4::after {
+    content: "....";
+
+    position: absolute;
+    left: 11%;
+    bottom: -0.6ex;
+}
+
+/* Reader mode H5 mark */
+.markdown-rendered h5::before {
+    content: "";
+
+    position: absolute;
+    left: 0px;
+    bottom: 0.2ex;
+
+    width: 15%;
+    height: 1px;
+
+    background-color: black;
+}
+.markdown-rendered h5::after {
+    content: ".....";
+
+    position: absolute;
+    left: 16%;
+    bottom: -0.6ex;
+}
+
+/* Reader mode H6 mark */
+.markdown-rendered h6::before {
+    content: "";
+
+    position: absolute;
+    left: 0px;
+    bottom: 0.2ex;
+
+    width: 20%;
+    height: 1px;
+
+    background-color: black;
+}
+.markdown-rendered h6::after {
+    content: "......";
+
+    position: absolute;
+    left: 21%;
+    bottom: -0.6ex;
+}
+
+
 
 /* BODY TEXT */
 p,
@@ -125,14 +195,16 @@ p,
     font-family: var(--typography-accent);
 }
 
-/* LISTS */
 
+
+/* LISTS */
 .markdown-rendered ul, .markdown-rendered ol {
     font-family: var(--typography-main);
 }
 
-/* LINKS */
 
+
+/* LINKS */
 a {
     font-family: var(--typography-technical);
     font-feature-settings:
@@ -153,8 +225,9 @@ a {
     text-decoration: none;
 }
 
-/* TABLES */
 
+
+/* TABLES */
 .markdown-rendered table {
     font-family: var(--typography-main);
     font-feature-settings:

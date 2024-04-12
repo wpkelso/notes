@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "c101eafc24b4f7f0",
+            "id": "087ff39706447b3b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,12 +43,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Mao Zedong",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mao Zedong.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":12},\"to\":{\"line\":4,\"ch\":12}}}"
                 }
               ]
             },
@@ -56,12 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "history/India.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chinese Communist Party.md",
+                "file": "history/India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chinese Communist Party.md",
+                "file": "history/India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chinese Communist Party.md"
+                "file": "history/India.md"
               }
             }
           },
@@ -297,13 +292,13 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "581b5ae30c250dbf",
+  "active": "087ff39706447b3b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "history/India.md",
     "Chinese Communist Party.md",
+    "history/India.md",
     "Mao Zedong.md",
     "Pearl Harbor.md",
     "Japan.md",

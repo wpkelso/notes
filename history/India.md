@@ -1,7 +1,7 @@
 ---
 tags: india, pakistan, bangledesh, asia, culture, history, hinduism, religion
 created: 2024-01-11T10:18
-updated: 2024-04-02T10:34
+updated: 2024-04-11T19:52
 ---
 
 # India
