@@ -446,6 +446,7 @@ sins
 surpass
 steel
 sidelining
+socialism
 difference
 different
 deal
@@ -1195,6 +1196,8 @@ Electorates
 Expedition
 Event
 Enlai
+Economic
+Economy
 work
 with
 will
@@ -1541,6 +1544,8 @@ partitioned
 peasantry
 panel
 plummeted
+pragmatism
+pursues
 hardware
 hierarchy
 how
@@ -1791,6 +1796,7 @@ incredibly
 initiatives
 initiative
 ideological
+investment
 conjunction
 conversion
 compilers
@@ -2141,6 +2147,7 @@ critics
 cadres
 confess
 commitment
+capitalism
 achieve
 allow
 actions
@@ -2374,6 +2381,7 @@ aspects
 acquired
 afterward
 appealed
+aisa
 These
 True
 The
@@ -2738,6 +2746,7 @@ Collectivization
 Campaign
 Communes
 Chairman
+Capitalism
 Peripheral
 Parameters
 Predictors
@@ -3234,6 +3243,7 @@ revolutionaries
 redistribute
 revolutionary
 realized
+rights
 use
 used
 unnecessary
@@ -3294,6 +3304,7 @@ unrest
 undercut
 unsuccessful
 unusable
+underwent
 Algorithm
 Anti
 Advantages
@@ -3392,6 +3403,7 @@ Activism
 Agitating
 Aid
 Accelerated
+Aftermath
 Build
 Based
 Branch
@@ -3672,6 +3684,8 @@ landowners
 limitless
 leaped
 leadership
+liberalization
+laws
 Output
 Ordering
 ODE
@@ -3873,6 +3887,7 @@ Showa
 Socialization
 Steel
 Shaoqi
+Socialist
 Figures
 Following
 Forward
@@ -4255,6 +4270,7 @@ Derived
 Declaration
 Decade
 Deng
+Democracy
 Loop
 Live
 Liveness
@@ -4323,6 +4339,7 @@ Linguistic
 Land
 Leap
 Liu
+Liberalization
 no
 not
 non
@@ -4558,6 +4575,7 @@ Minorities
 Mutual
 Moves
 Mao
+Market
 quasi
 qualitative
 quite
@@ -4570,6 +4588,7 @@ quantifiers
 qualities
 quickly
 zero
+zones
 Quantitative
 Quality
 Quantifiers
@@ -4631,6 +4650,7 @@ Gujarat
 Ghandi
 Guomindang
 Guangdong
+Gov
 You
 Younger
 Youth
@@ -4678,6 +4698,7 @@ Zhongguo
 Zurich
 Zedong
 Zhou
+Zones
 Velocity
 Vocabulary
 Voltage

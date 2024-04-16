@@ -1,6 +1,7 @@
 ---
+tags: asia, china, communism, socialism, imperialism
 created: 2024-03-05T11:01
-updated: 2024-04-11T11:18
+updated: 2024-04-16T11:10
 ---
 
 # Chinese Communist Party
@@ -41,7 +42,7 @@ It was incredibly unsuccessful, resulting in a massive famine between 1959 and 1
 
 ### CCP Pragmatists (1962-1965)
 
-After the failure of the Great Leap Forward, the party was lead more by three policy makers known for being more pragmatic, rather than ideological: Deng Xiaoping, Liu Shaoqi, and Zhou Enlai. While this leadership was welcome, it eventually led to the Cultural Revolution beginning in 1966 and the return of [[Mao Zedong]] to the forefront.
+After the failure of the Great Leap Forward, the party was lead more by three policy makers known for being more pragmatic, rather than ideological: [[Deng Xiaopeng]], Liu Shaoqi, and Zhou Enlai. While this leadership was welcome, it eventually led to the Cultural Revolution beginning in 1966 and the return of [[Mao Zedong]] to the forefront.
 
 ### Cultural Revolution (1966-1969)
 

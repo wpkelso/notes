@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Guomindang",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Guomindang.md\",\"mode\":\"preview\",\"source\":true}}",
@@ -26,11 +32,37 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chinese Communist Party.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f52a0435f880374d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1989 Democracy Movement.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -59,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1989 Democracy Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1989 Democracy Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +157,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1989 Democracy Movement.md"
+              }
             }
           },
           {
@@ -262,13 +298,15 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "7f064585f681d8b8",
+  "active": "f52a0435f880374d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Guomindang.md",
     "Chinese Communist Party.md",
+    "1989 Democracy Movement.md",
+    "Liberalization.md",
+    "Guomindang.md",
     "history/India.md",
     "Mao Zedong.md",
     "Pearl Harbor.md",
@@ -291,8 +329,6 @@
     "Hinduism.md",
     "history/Crown Rule.md",
     "Semiotics.md",
-    "Midaeval.md",
-    "Meiji Restoration.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",
