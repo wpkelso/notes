@@ -2148,6 +2148,7 @@ cadres
 confess
 commitment
 capitalism
+communism
 achieve
 allow
 actions

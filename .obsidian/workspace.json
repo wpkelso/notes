@@ -62,7 +62,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1989 Democracy Movement.md",
+                "file": "Chinese Communist Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1989 Democracy Movement.md",
+                "file": "Chinese Communist Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1989 Democracy Movement.md"
+                "file": "Chinese Communist Party.md"
               }
             }
           },
@@ -298,13 +297,13 @@
       "obsidian-attachment-name-formatting:Export Unused Attachments": false
     }
   },
-  "active": "f52a0435f880374d",
+  "active": "7f064585f681d8b8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Chinese Communist Party.md",
     "1989 Democracy Movement.md",
+    "Chinese Communist Party.md",
     "Liberalization.md",
     "Guomindang.md",
     "history/India.md",
