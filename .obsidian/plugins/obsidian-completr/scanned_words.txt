@@ -447,6 +447,8 @@ surpass
 steel
 sidelining
 socialism
+scene
+studio
 difference
 different
 deal
@@ -1198,6 +1200,7 @@ Event
 Enlai
 Economic
 Economy
+Evolved
 work
 with
 will
@@ -2383,6 +2386,7 @@ acquired
 afterward
 appealed
 aisa
+animation
 These
 True
 The
@@ -2462,6 +2466,7 @@ Tokyo
 Traditional
 Truth
 Teams
+Titling
 for
 first
 from
@@ -2748,6 +2753,7 @@ Campaign
 Communes
 Chairman
 Capitalism
+Computer
 Peripheral
 Parameters
 Predictors
@@ -2855,6 +2861,7 @@ Partition
 Post
 Proletarian
 Pragmatists
+Pioneers
 Hardware
 Heuristics
 Hoist
@@ -3562,6 +3569,7 @@ guide
 getting
 got
 granting
+graphics
 linear
 latency
 list
@@ -4652,6 +4660,8 @@ Ghandi
 Guomindang
 Guangdong
 Gov
+Generated
+Graphics
 You
 Younger
 Youth
