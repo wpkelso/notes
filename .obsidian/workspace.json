@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd69d85b61e970d2",
+        "id": "365e34ba71ef9446",
         "type": "tabs",
         "children": [
           {
-            "id": "aac2afa991a6d23c",
+            "id": "f216fc5743948349",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,22 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Broadcast Design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"design/Broadcast Design.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Generated Graphics.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -63,7 +53,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Generated Graphics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +78,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Generated Graphics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +117,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Generated Graphics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,13 +256,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "aac2afa991a6d23c",
+  "active": "f216fc5743948349",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "design/Broadcast Design.md",
     "Computer Generated Graphics.md",
+    "design/Broadcast Design.md",
     "history/India.md",
     "design/Harumi Yamaguchi.md",
     "Showa Era.md",
