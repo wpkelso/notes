@@ -11,6 +11,33 @@
             "id": "f216fc5743948349",
             "type": "leaf",
             "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Local Area Network.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e8214cc62208a1f6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
@@ -20,11 +47,12 @@
               ]
             },
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -53,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Virtual Local Area Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Virtual Local Area Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +147,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Virtual Local Area Network.md"
+              }
             }
           },
           {
@@ -256,11 +288,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f216fc5743948349",
+  "active": "e8214cc62208a1f6",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Virtual Local Area Network.md",
     "Computer Generated Graphics.md",
     "design/Broadcast Design.md",
     "history/India.md",
@@ -286,7 +319,6 @@
     "history/Indian National Congress.md",
     "literature/Bhagavad Gita.md",
     "history/Darbar.md",
-    "Hinduism.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",
