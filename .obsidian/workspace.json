@@ -50,9 +50,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "df5e2efeae18b29b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -288,7 +298,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e8214cc62208a1f6",
+  "active": "df5e2efeae18b29b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
