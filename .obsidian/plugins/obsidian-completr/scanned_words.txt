@@ -114,6 +114,7 @@ biggest
 baihua
 bourgeois
 building
+bad
 size
 sexes
 same
@@ -653,6 +654,7 @@ de
 distrust
 discrediting
 displays
+digits
 of
 often
 or
@@ -920,6 +922,7 @@ triggered
 toward
 trials
 told
+target
 embedded
 each
 execute
@@ -1117,6 +1120,9 @@ expedition
 embargoes
 especially
 eye
+encode
+encoding
+equally
 Embedded
 Examples
 Eventually
@@ -1205,6 +1211,9 @@ Enlai
 Economic
 Economy
 Evolved
+Encoding
+Efficiency
+Extending
 work
 with
 will
@@ -1553,6 +1562,12 @@ panel
 plummeted
 pragmatism
 pursues
+pertaining
+predictable
+probable
+probabilities
+probability
+parity
 hardware
 hierarchy
 how
@@ -1804,6 +1819,8 @@ initiatives
 initiative
 ideological
 investment
+impacts
+interference
 conjunction
 conversion
 compilers
@@ -2156,6 +2173,11 @@ confess
 commitment
 capitalism
 communism
+communicated
+choice
+choices
+correcting
+codes
 achieve
 allow
 actions
@@ -2600,6 +2622,7 @@ famine
 failure
 forefront
 facade
+fact
 Common
 Counters
 Computing
@@ -3065,6 +3088,7 @@ mobilize
 momentarily
 makers
 mini
+manipulate
 ready
 resource
 reach
@@ -3258,6 +3282,9 @@ redistribute
 revolutionary
 realized
 rights
+received
+resolves
+resilience
 use
 used
 unnecessary
@@ -3319,6 +3346,8 @@ undercut
 unsuccessful
 unusable
 underwent
+uncertainty
+unlikely
 Algorithm
 Anti
 Advantages
@@ -3741,6 +3770,7 @@ Originally
 Opium
 Opening
 Oath
+OpenCourseWare
 Schedule
 Store
 Solution
@@ -3904,6 +3934,8 @@ Socialization
 Steel
 Shaoqi
 Socialist
+Security
+Sometimes
 Figures
 Following
 Forward
@@ -4357,6 +4389,7 @@ Land
 Leap
 Liu
 Liberalization
+Lec
 no
 not
 non
@@ -4421,6 +4454,9 @@ nouns
 newly
 naked
 networking
+necessary
+noise
+narrows
 Register
 Range
 RHS
@@ -4493,6 +4529,7 @@ Radcliffe
 Reform
 Rightist
 Rectify
+Reliability
 Major
 Move
 Made
@@ -4595,6 +4632,8 @@ Mutual
 Moves
 Mao
 Market
+MIT
+Mechanism
 quasi
 qualitative
 quite
@@ -4606,6 +4645,7 @@ quantifier
 quantifiers
 qualities
 quickly
+quantifying
 zero
 zones
 Quantitative
@@ -4613,6 +4653,7 @@ Quality
 Quantifiers
 Qing
 Question
+Quantifying
 kept
 known
 kind
@@ -4628,6 +4669,7 @@ keeping
 kingdoms
 kingdom
 kokutai
+knowledge
 Goal
 Graph
 Generally
