@@ -16,12 +16,40 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Cache",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":17.902912621359224}"
+                },
+                {
+                  "title": "Multi-Level Cache Architecture",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Multi-Level Cache Architecture.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Cache Miss Penalty",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache Miss Penalty.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pipelining.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -53,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pipelining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +147,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pipelining.md"
+              }
             }
           },
           {
@@ -168,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"out of order\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,6 +293,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Cache.md",
+    "Multi-Level Cache Architecture.md",
+    "Cache Miss Penalty.md",
     "Information.md",
     "Hamming Distance.md",
     "Virtual Local Area Network.md",
@@ -284,9 +319,6 @@
     "history/Mahatma Gandhi.md",
     "history/Art Deco.md",
     "design/Futurism.md",
-    "history/Art Nouveau.md",
-    "history/Montagu Declaration.md",
-    "history/Indian National Congress.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",

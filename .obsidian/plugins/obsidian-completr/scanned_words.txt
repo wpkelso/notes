@@ -452,6 +452,8 @@ socialism
 scene
 studio
 switches
+stages
+stalled
 difference
 different
 deal
@@ -655,6 +657,7 @@ distrust
 discrediting
 displays
 digits
+datapath
 of
 often
 or
@@ -760,6 +763,7 @@ overshadowed
 oil
 overly
 oppression
+overlapped
 the
 to
 timing
@@ -1568,6 +1572,10 @@ probable
 probabilities
 probability
 parity
+pipeline
+partially
+pipelined
+purpose
 hardware
 hierarchy
 how
@@ -1649,6 +1657,7 @@ harsh
 homespun
 huge
 holding
+hidden
 in
 interrupts
 instruction
@@ -2890,6 +2899,9 @@ Post
 Proletarian
 Pragmatists
 Pioneers
+Pipelined
+Processors
+Pipeline
 Hardware
 Heuristics
 Hoist
@@ -3771,6 +3783,7 @@ Opium
 Opening
 Oath
 OpenCourseWare
+Out
 Schedule
 Store
 Solution
@@ -4006,6 +4019,7 @@ Force
 Front
 Flowers
 Furnace
+Fig
 Note
 Non
 NP
@@ -4196,6 +4210,7 @@ Issue
 International
 Indonesia
 Immediately
+Ideally
 Will
 We
 What
@@ -4320,6 +4335,7 @@ Declaration
 Decade
 Deng
 Democracy
+Defining
 Loop
 Live
 Liveness
@@ -4634,6 +4650,7 @@ Mao
 Market
 MIT
 Mechanism
+Miss
 quasi
 qualitative
 quite
@@ -4646,6 +4663,8 @@ quantifiers
 qualities
 quickly
 quantifying
+queued
+queue
 zero
 zones
 Quantitative
