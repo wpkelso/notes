@@ -15,7 +15,7 @@
     "obsidian-git:backup-and-close": 391,
     "pane-relief:ordered-close": 344,
     "obsidian-completr:completr-close-suggestion-popup": 344,
-    "graph:open": 77,
+    "graph:open": 78,
     "workspace:toggle-pin": 2,
     "graph:open-local": 52,
     "graph:animate": 52,
@@ -127,7 +127,7 @@
     "switcher:open": 4
   },
   "keyboardStatistics": {
-    "file-explorer:new-file": 128,
+    "file-explorer:new-file": 129,
     "editor:save-file": 107,
     "obsidian-completr:completr-insert-selected-suggestion": 98,
     "obsidian-completr:completr-select-next-suggestion": 305,

@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Pipelining",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pipelining.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Cache",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cache.md\",\"mode\":\"preview\",\"source\":true}}",
@@ -44,15 +50,33 @@
               ]
             },
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "48de85031feee0b4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Pipelining.md",
-                "mode": "preview",
+                "file": "UEFI.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -81,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pipelining.md",
+                "file": "UEFI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pipelining.md",
+                "file": "UEFI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pipelining.md"
+                "file": "UEFI.md"
               }
             }
           },
@@ -288,11 +312,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e8214cc62208a1f6",
+  "active": "48de85031feee0b4",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "UEFI.md",
+    "Pipelining.md",
     "Cache.md",
     "Multi-Level Cache Architecture.md",
     "Cache Miss Penalty.md",
@@ -317,8 +343,6 @@
     "New Culture Movement.md",
     "history/Qing Dynasty.md",
     "history/Mahatma Gandhi.md",
-    "history/Art Deco.md",
-    "design/Futurism.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",
