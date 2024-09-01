@@ -115,6 +115,7 @@ baihua
 bourgeois
 building
 bad
+boot
 size
 sexes
 same
@@ -454,6 +455,7 @@ studio
 switches
 stages
 stalled
+succeeded
 difference
 different
 deal
@@ -764,6 +766,7 @@ oil
 overly
 oppression
 overlapped
+obsolete
 the
 to
 timing
@@ -927,6 +930,7 @@ toward
 trials
 told
 target
+thirty
 embedded
 each
 execute
@@ -1576,6 +1580,8 @@ pipeline
 partially
 pipelined
 purpose
+pure
+proprietary
 hardware
 hierarchy
 how
@@ -1658,6 +1664,7 @@ homespun
 huge
 holding
 hidden
+host
 in
 interrupts
 instruction
@@ -1830,6 +1837,7 @@ ideological
 investment
 impacts
 interference
+initialization
 conjunction
 conversion
 compilers
@@ -2187,6 +2195,7 @@ choice
 choices
 correcting
 codes
+configuration
 achieve
 allow
 actions
@@ -2422,6 +2431,9 @@ afterward
 appealed
 aisa
 animation
+alias
+assembly
+adapt
 These
 True
 The
@@ -3101,6 +3113,7 @@ momentarily
 makers
 mini
 manipulate
+mention
 ready
 resource
 reach
@@ -3360,6 +3373,7 @@ unusable
 underwent
 uncertainty
 unlikely
+utilities
 Algorithm
 Anti
 Advantages
@@ -3521,6 +3535,7 @@ Britain
 Backyard
 Blast
 Big
+BIOS
 Use
 Unswitching
 Useful
@@ -3743,6 +3758,7 @@ leaped
 leadership
 liberalization
 laws
+licence
 Output
 Ordering
 ODE
@@ -4257,6 +4273,7 @@ Knowledge
 Krishna
 Khadi
 Kai
+Kildall
 Disadvantages
 Definition
 Dataflow
@@ -4733,6 +4750,7 @@ Guangdong
 Gov
 Generated
 Graphics
+Gary
 You
 Younger
 Youth

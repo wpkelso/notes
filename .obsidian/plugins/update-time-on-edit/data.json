@@ -386,7 +386,6 @@
     "Steiner Tree.md": "4468306340fc712a3eec24f761641d1d7aed674686ec0fb43eae541ab54626d2",
     "Julia Set.md": "a2bae85426ead46a7f59caee2b2182276704126646a9d253e104a7a26ee62d7e",
     "Planar Graph.md": "c4183859ca9d311222e338dbd7db1d8e6738e2463c84ba294f635faf2d6d3e27",
-    "Unified Extensible Firmware Interface.md": "d9aeb9f1abe2a50fda9453578c8040a2d5fee27e3aa2282dfa4f6f6531755920",
     "Communism.md": "5d359b71699b0fb6b29de2354debb3599cd0427f24f743fa97be5f07fa74dd40",
     "Complete Set.md": "ced457e0942718a33c02bb5e6701fb260cbb71b29f8e9818560a4afe113cf219",
     "Digital Logic.md": "27d4e6b803906b13736f6d06a6d0981850e7940f71972f5df803287170a712f0",
@@ -470,6 +469,8 @@
     "Virtual Local Area Network.md": "3dece05831593e57f66a5abc8b2d4b43380eb5536b9aa68ee1b8c26f0e463421",
     "Information.md": "d74cea6a36384aa6e390ace7d68e029832d0da0b1161e0b44237699799989a45",
     "Hamming Distance.md": "db4a593557b075268e50fc1f651b87d8427891701c9939b2da898b7596210997",
-    "UEFI.md": "16fda30123115aaee9446c68181576b035aeceea29c897279b861ebd72968217"
+    "programming/Unified Extensible Firmware Interface.md": "aa2ddc9beb88c1fb6fffe7050d470cdc87c541f1eaa61ccfebd7fe5e537eee40",
+    "Basic Input Output System.md": "625ef71b8f6bec0a137690496e1a6cafe6fd7c140fcef002248fcd773f85d0a7",
+    "Network Topology.md": "8551cec4840ff5c681b97a246a1b6689778aa8f0e7b14034fedb45a68e1aae61"
   }
 }
