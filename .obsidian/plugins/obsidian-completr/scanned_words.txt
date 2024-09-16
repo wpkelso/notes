@@ -1222,6 +1222,7 @@ Evolved
 Encoding
 Efficiency
 Extending
+Extended
 work
 with
 will
@@ -2514,6 +2515,7 @@ Traditional
 Truth
 Teams
 Titling
+Topology
 for
 first
 from
@@ -2803,6 +2805,7 @@ Communes
 Chairman
 Capitalism
 Computer
+Chain
 Peripheral
 Parameters
 Predictors
@@ -3536,6 +3539,7 @@ Backyard
 Blast
 Big
 BIOS
+Bus
 Use
 Unswitching
 Useful
@@ -3965,6 +3969,7 @@ Shaoqi
 Socialist
 Security
 Sometimes
+Star
 Figures
 Following
 Forward
@@ -4353,6 +4358,7 @@ Decade
 Deng
 Democracy
 Defining
+Daisy
 Loop
 Live
 Liveness
@@ -4563,6 +4569,7 @@ Reform
 Rightist
 Rectify
 Reliability
+Ring
 Major
 Move
 Made
@@ -4668,6 +4675,7 @@ Market
 MIT
 Mechanism
 Miss
+Mesh
 quasi
 qualitative
 quite
