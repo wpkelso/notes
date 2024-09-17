@@ -17,7 +17,9 @@ body {
     font-variant-numeric: oldstyle-nums proportional-nums;
 }
 
-
+.view-content div {
+    font-family: var(--typography-main);
+}
 
 /* HEADINGS */
 
@@ -326,3 +328,4 @@ a {
     border-bottom-style: solid;
     border-bottom-width: 1px;
 }
+

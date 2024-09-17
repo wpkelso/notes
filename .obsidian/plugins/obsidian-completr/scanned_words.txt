@@ -462,6 +462,9 @@ stable
 scalable
 separation
 shareable
+serious
+supports
+specifications
 difference
 different
 deal
@@ -668,6 +671,12 @@ digits
 datapath
 donated
 documentation
+driver
+drivers
+duplicates
+dl
+dt
+dd
 of
 often
 or
@@ -940,6 +949,7 @@ trials
 told
 target
 thirty
+trustworthy
 embedded
 each
 execute
@@ -1235,6 +1245,8 @@ Efficiency
 Extending
 Extended
 EFI
+EDKII
+EDK
 work
 with
 will
@@ -1302,6 +1314,7 @@ worked
 writer
 worldwide
 welcome
+worse
 peripheral
 peripherals
 processor
@@ -1598,6 +1611,10 @@ proprietary
 players
 providing
 partition
+promoted
+paths
+preserved
+preventing
 hardware
 hierarchy
 how
@@ -1856,6 +1873,9 @@ interference
 initialization
 innovations
 interfaces
+infrastructure
+insecure
+insecurities
 conjunction
 conversion
 compilers
@@ -2219,6 +2239,8 @@ compatible
 coherent
 consumed
 clearly
+certificate
+covering
 achieve
 allow
 actions
@@ -2459,6 +2481,7 @@ assembly
 adapt
 abstraction
 architecturally
+authentication
 These
 True
 The
@@ -2540,6 +2563,7 @@ Truth
 Teams
 Titling
 Topology
+TianoCore
 for
 first
 from
@@ -2672,6 +2696,7 @@ facade
 fact
 functionality
 feature
+functional
 Common
 Counters
 Computing
@@ -2832,6 +2857,8 @@ Chairman
 Capitalism
 Computer
 Chain
+Criticisms
+Community
 Peripheral
 Parameters
 Predictors
@@ -2946,6 +2973,7 @@ Pipeline
 Platform
 PI
 Provide
+PEI
 Hardware
 Heuristics
 Hoist
@@ -3344,6 +3372,7 @@ rights
 received
 resolves
 resilience
+reference
 use
 used
 unnecessary
@@ -3512,6 +3541,7 @@ Apple
 Additonally
 Abstract
 Abstraction
+AArch
 Build
 Based
 Branch
@@ -3575,6 +3605,7 @@ Blast
 Big
 BIOS
 Bus
+Boot
 Use
 Unswitching
 Useful
@@ -3800,6 +3831,7 @@ liberalization
 laws
 licence
 legacy
+lasting
 Output
 Ordering
 ODE
@@ -3844,6 +3876,8 @@ Out
 OS
 OSes
 Option
+Opened
+Open
 Schedule
 Store
 Solution
@@ -4010,6 +4044,8 @@ Socialist
 Security
 Sometimes
 Star
+Secure
+Specification
 Figures
 Following
 Forward
@@ -4179,6 +4215,9 @@ violent
 violence
 villages
 visualize
+vendor
+vulnerabilities
+vendors
 Is
 Idea
 It
@@ -4275,6 +4314,9 @@ Immediately
 Ideally
 Initialization
 Initially
+Integration
+Interfaces
+IA
 Will
 We
 What
@@ -4402,6 +4444,8 @@ Deng
 Democracy
 Defining
 Daisy
+DXE
+Developed
 Loop
 Live
 Liveness
@@ -4615,6 +4659,7 @@ Rectify
 Reliability
 Ring
 Reasonable
+RISC
 Major
 Move
 Made
