@@ -16,13 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Network Topology",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Network Topology.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Topology.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "mode": "preview",
                 "source": true
               }
@@ -57,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Topology.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Topology.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Topology.md"
+                "file": "programming/Unified Extensible Firmware Interface.md"
               }
             }
           },

@@ -116,6 +116,7 @@ bourgeois
 building
 bad
 boot
+bootstrap
 size
 sexes
 same
@@ -456,6 +457,11 @@ switches
 stages
 stalled
 succeeded
+sometimes
+stable
+scalable
+separation
+shareable
 difference
 different
 deal
@@ -660,6 +666,8 @@ discrediting
 displays
 digits
 datapath
+donated
+documentation
 of
 often
 or
@@ -767,6 +775,7 @@ overly
 oppression
 overlapped
 obsolete
+organizations
 the
 to
 timing
@@ -1131,6 +1140,8 @@ eye
 encode
 encoding
 equally
+execept
+encompass
 Embedded
 Examples
 Eventually
@@ -1223,6 +1234,7 @@ Encoding
 Efficiency
 Extending
 Extended
+EFI
 work
 with
 will
@@ -1583,6 +1595,9 @@ pipelined
 purpose
 pure
 proprietary
+players
+providing
+partition
 hardware
 hierarchy
 how
@@ -1839,6 +1854,8 @@ investment
 impacts
 interference
 initialization
+innovations
+interfaces
 conjunction
 conversion
 compilers
@@ -2197,6 +2214,11 @@ choices
 correcting
 codes
 configuration
+contribution
+compatible
+coherent
+consumed
+clearly
 achieve
 allow
 actions
@@ -2435,6 +2457,8 @@ animation
 alias
 assembly
 adapt
+abstraction
+architecturally
 These
 True
 The
@@ -2646,6 +2670,8 @@ failure
 forefront
 facade
 fact
+functionality
+feature
 Common
 Counters
 Computing
@@ -2917,6 +2943,9 @@ Pioneers
 Pipelined
 Processors
 Pipeline
+Platform
+PI
+Provide
 Hardware
 Heuristics
 Hoist
@@ -3117,6 +3146,8 @@ makers
 mini
 manipulate
 mention
+minimal
+mass
 ready
 resource
 reach
@@ -3477,6 +3508,10 @@ Aid
 Accelerated
 Aftermath
 Area
+Apple
+Additonally
+Abstract
+Abstraction
 Build
 Based
 Branch
@@ -3637,6 +3672,7 @@ getting
 got
 granting
 graphics
+grown
 linear
 latency
 list
@@ -3763,6 +3799,7 @@ leadership
 liberalization
 laws
 licence
+legacy
 Output
 Ordering
 ODE
@@ -3804,6 +3841,9 @@ Opening
 Oath
 OpenCourseWare
 Out
+OS
+OSes
+Option
 Schedule
 Store
 Solution
@@ -4041,6 +4081,7 @@ Front
 Flowers
 Furnace
 Fig
+Forum
 Note
 Non
 NP
@@ -4232,6 +4273,8 @@ International
 Indonesia
 Immediately
 Ideally
+Initialization
+Initially
 Will
 We
 What
@@ -4429,6 +4472,7 @@ Leap
 Liu
 Liberalization
 Lec
+Legacy
 no
 not
 non
@@ -4570,6 +4614,7 @@ Rightist
 Rectify
 Reliability
 Ring
+Reasonable
 Major
 Move
 Made
@@ -4676,6 +4721,7 @@ MIT
 Mechanism
 Miss
 Mesh
+Microsoft
 quasi
 qualitative
 quite
@@ -4759,6 +4805,8 @@ Gov
 Generated
 Graphics
 Gary
+Goals
+Grow
 You
 Younger
 Youth
