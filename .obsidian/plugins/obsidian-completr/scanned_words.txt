@@ -680,6 +680,7 @@ dl
 dt
 dd
 degrees
+deep
 of
 often
 or
@@ -2246,6 +2247,8 @@ consumed
 clearly
 certificate
 covering
+copying
+contents
 achieve
 allow
 actions
@@ -2866,6 +2869,7 @@ Computer
 Chain
 Criticisms
 Community
+Copy
 Peripheral
 Parameters
 Predictors
@@ -4061,6 +4065,7 @@ Star
 Secure
 Specification
 Specific
+Shallow
 Figures
 Following
 Forward
@@ -4463,6 +4468,7 @@ Defining
 Daisy
 DXE
 Developed
+Deep
 Loop
 Live
 Liveness
