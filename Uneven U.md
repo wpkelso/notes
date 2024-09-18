@@ -2,7 +2,9 @@
 created: 2024-09-17T17:20
 updated: 2024-09-17T17:21
 ---
-# Uneven U
+# Uneven-U
+>[!summary]
+> A writing schema meant to improve the logical flow of paragraphs in non-fictional/academic writing.
 
 ## Principles
 
@@ -18,4 +20,4 @@ updated: 2024-09-17T17:21
 4. “Meh”
 5. “Pedantry”
 
-Using these levels, a paragraph should roughly follow a pattern of 4 → 3 → 2 → 1 → 2 → 3 → 4 → 5 over it’s length, with the 
+Using these levels, a paragraph should roughly follow a pattern of 4→3→2→1→2→3→4→5 over it’s length, with the final sentence performing the role of the initial sentence of the next paragraph.
