@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Uneven U",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Uneven U.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uneven U.md",
+                "file": "Shallow Copy.md",
                 "mode": "preview",
                 "source": true
               }
@@ -57,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uneven U.md",
+                "file": "Shallow Copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uneven U.md",
+                "file": "Shallow Copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uneven U.md"
+                "file": "Shallow Copy.md"
               }
             }
           },
@@ -289,7 +295,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Pasted image 20240917215510.png",
+    "Pasted image 20240917215445.png",
     "Uneven U.md",
+    "Shallow Copy.md",
     "programming/Unified Extensible Firmware Interface.md",
     "Network Topology.md",
     "Basic Input Output System.md",
@@ -313,8 +322,6 @@
     "Liberalization.md",
     "Guomindang.md",
     "Pearl Harbor.md",
-    "Japan.md",
-    "Warlord Period.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",
@@ -330,7 +337,6 @@
     "Pasted image 20231015162527.png",
     "Pasted image 20231008175516.png",
     "Pasted image 20231001164139.png",
-    "Pasted image 20231001164129.png",
     "obsidian.css"
   ]
 }
