@@ -117,6 +117,7 @@ building
 bad
 boot
 bootstrap
+bootloader
 size
 sexes
 same
@@ -467,6 +468,8 @@ supports
 specifications
 schema
 sentence
+specifies
+spec
 difference
 different
 deal
@@ -681,6 +684,8 @@ dt
 dd
 degrees
 deep
+detailed
+description
 of
 often
 or
@@ -1156,6 +1161,7 @@ encoding
 equally
 execept
 encompass
+essentially
 Embedded
 Examples
 Eventually
@@ -1621,6 +1627,7 @@ preserved
 preventing
 paragraphs
 paragraph
+payload
 hardware
 hierarchy
 how
@@ -2249,6 +2256,9 @@ certificate
 covering
 copying
 contents
+custom
+combining
+coreboot
 achieve
 allow
 actions
@@ -2707,6 +2717,7 @@ functionality
 feature
 functional
 fictional
+fulfilled
 Common
 Counters
 Computing
@@ -2870,6 +2881,7 @@ Chain
 Criticisms
 Community
 Copy
+Commercial
 Peripheral
 Parameters
 Predictors
@@ -2988,6 +3000,7 @@ PEI
 Principles
 Paragraphs
 Pedantry
+Possible
 Hardware
 Heuristics
 Hoist
@@ -3557,6 +3570,9 @@ Additonally
 Abstract
 Abstraction
 AArch
+Architecture
+AMI
+Aptio
 Build
 Based
 Branch
@@ -4066,6 +4082,7 @@ Secure
 Specification
 Specific
 Shallow
+SlimBootLoader
 Figures
 Following
 Forward
@@ -4339,6 +4356,7 @@ Integration
 Interfaces
 IA
 Intentional
+InsydeH
 Will
 We
 What
@@ -4367,6 +4385,7 @@ Wars
 Western
 Washington
 Warlord
+Wiki
 Kinds
 Key
 King

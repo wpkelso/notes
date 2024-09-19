@@ -7,7 +7,7 @@ tags:
   - computer_architecture
   - programming
 created: 2023-11-05T22:50
-updated: 2024-09-17T17:19
+updated: 2024-09-19T13:28
 ---
 
 # Unified Extensible Firmware Interface
@@ -69,3 +69,23 @@ UEFI has now grown to encompass five main goals:
 - Its extreme complexity makes it hard to maintain, and can lead to worse performance and potential insecurities
 
 ## Architecture
+
+![[Pasted image 20240919130131.png]]
+
+TianoCore Wiki | PI-Boot-Flow[](https://github.com/tianocore/tianocore.github.io/wiki/PI-Boot-Flow)
+
+As can be seen, UEFI specifies only the interface to communicate with drivers and the bootloader, as well as with the OS. All of these can, however, be fulfilled by anything that supports the protocol.
+
+> [!note]
+> Only the [[Driver Execution Environment | Driver Execution Environment (DXE)]] has a detailed description in the UEFI spec
+
+## Implementations
+
+- EDKII is a reference implementation , and is usually used as a base for a custom implementation
+- Commercial implementations such as InsydeH2O and AMI Aptio
+- Possible to build by combining coreboot and a part of EDKII referred to as the “TianoCore payload”
+- SlimBootLoader: essentially a minimal subset of EDKII
+- Yabits: Minoca OS-based minimal UEFI implementation that can be used as a coreboot payload
+- U-Boot: UEFI compatible interface implemented to comply with Arm Embedded Base Boot Requirements
+- U-Root: Go userspace Linux bootloader, used by LinuxBoot
+- CloverBootLoader: macOS, Windows, & Linux compatible bootloader

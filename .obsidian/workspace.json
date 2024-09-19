@@ -11,11 +11,23 @@
             "id": "18f255348397dc5b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Driver Execution Environment",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Driver Execution Environment.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Shallow Copy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Shallow Copy.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":25}}}"
                 },
                 {
                   "title": "Uneven U",
@@ -28,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shallow Copy.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shallow Copy.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shallow Copy.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shallow Copy.md"
+                "file": "programming/Unified Extensible Firmware Interface.md"
               }
             }
           },
@@ -295,11 +307,13 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Driver Execution Environment.md",
+    "programming/Unified Extensible Firmware Interface.md",
+    "Pasted image 20240919130131.png",
+    "Shallow Copy.md",
     "Pasted image 20240917215510.png",
     "Pasted image 20240917215445.png",
     "Uneven U.md",
-    "Shallow Copy.md",
-    "programming/Unified Extensible Firmware Interface.md",
     "Network Topology.md",
     "Basic Input Output System.md",
     "Firmware.md",
@@ -335,8 +349,6 @@
     "Pasted image 20231017170838.png",
     "theme.css",
     "Pasted image 20231015162527.png",
-    "Pasted image 20231008175516.png",
-    "Pasted image 20231001164139.png",
     "obsidian.css"
   ]
 }
