@@ -4,46 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "37f525f8e803a2f3",
+        "id": "a91fcd8f433af023",
         "type": "tabs",
         "children": [
           {
-            "id": "18f255348397dc5b",
+            "id": "4f76dd49ce5e910b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Driver Execution Environment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Driver Execution Environment.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
                   "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Shallow Copy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Shallow Copy.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":25}}}"
-                },
-                {
-                  "title": "Uneven U",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Uneven U.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/Unified Extensible Firmware Interface.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -75,7 +53,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/Unified Extensible Firmware Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +78,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/Unified Extensible Firmware Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +117,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "programming/Unified Extensible Firmware Interface.md"
-              }
+              "state": {}
             }
           },
           {
@@ -302,13 +276,13 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "18f255348397dc5b",
+  "active": "4f76dd49ce5e910b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Driver Execution Environment.md",
     "programming/Unified Extensible Firmware Interface.md",
+    "Driver Execution Environment.md",
     "Pasted image 20240919130131.png",
     "Shallow Copy.md",
     "Pasted image 20240917215510.png",
