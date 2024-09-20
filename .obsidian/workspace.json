@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fibers.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -53,6 +57,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fibers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +83,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fibers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +123,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fibers.md"
+              }
             }
           },
           {
@@ -281,6 +289,7 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Fibers.md",
     "programming/Unified Extensible Firmware Interface.md",
     "Driver Execution Environment.md",
     "Pasted image 20240919130131.png",
@@ -309,7 +318,6 @@
     "1989 Democracy Movement.md",
     "Liberalization.md",
     "Guomindang.md",
-    "Pearl Harbor.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",
