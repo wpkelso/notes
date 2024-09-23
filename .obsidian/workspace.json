@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Fibers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fibers.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fibers.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "mode": "preview",
                 "source": true
               }
@@ -57,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fibers.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fibers.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fibers.md"
+                "file": "programming/Unified Extensible Firmware Interface.md"
               }
             }
           },
