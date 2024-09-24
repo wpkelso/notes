@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f76dd49ce5e910b",
+            "id": "274e1b58f8fbc90d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,11 +16,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/Software Development Method.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4e77ff2b610b741a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "Fibers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fibers.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -28,13 +43,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/Unified Extensible Firmware Interface.md",
-                "mode": "preview",
+                "file": "Engineering & Scientific Method.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -63,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/Unified Extensible Firmware Interface.md",
+                "file": "Engineering & Scientific Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/Unified Extensible Firmware Interface.md",
+                "file": "Engineering & Scientific Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/Unified Extensible Firmware Interface.md"
+                "file": "Engineering & Scientific Method.md"
               }
             }
           },
@@ -290,13 +306,15 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "4f76dd49ce5e910b",
+  "active": "4e77ff2b610b741a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Fibers.md",
+    "programming/Software Development Method.md",
+    "Engineering & Scientific Method.md",
     "programming/Unified Extensible Firmware Interface.md",
+    "Fibers.md",
     "Driver Execution Environment.md",
     "Pasted image 20240919130131.png",
     "Shallow Copy.md",
@@ -322,8 +340,6 @@
     "Mao Zedong.md",
     "Chinese Communist Party.md",
     "1989 Democracy Movement.md",
-    "Liberalization.md",
-    "Guomindang.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",
