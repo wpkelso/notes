@@ -7,7 +7,7 @@ tags:
   - computer_architecture
   - programming
 created: 2023-11-05T22:50
-updated: 2024-09-23T15:27
+updated: 2024-09-26T12:38
 ---
 
 # Unified Extensible Firmware Interface
@@ -74,10 +74,33 @@ UEFI has now grown to encompass five main goals:
 
 TianoCore Wiki | PI-Boot-Flow[](https://github.com/tianocore/tianocore.github.io/wiki/PI-Boot-Flow)
 
-As can be seen, UEFI specifies only the interface to communicate with drivers and the bootloader, as well as with the OS. All of these can, however, be fulfilled by anything that supports the protocol.
+As can be seen, UEFI specifies only the interface to communicate with drivers and the bootloader, as well as with the OS.
+All of these can, however, be fulfilled by anything that supports the protocol.
 
 > [!note]
 > Only the [[Driver Execution Environment | Driver Execution Environment (DXE)]] has a detailed description in the UEFI spec
+
+### Design Principles
+
+- Reuse existing table-based interfaces:
+    - ACPI, SMBIOS, MultiProcessor Table, Device Tree
+    - Various network related tables, such as ARP
+    - Also introduce new table (e.g. EFI_MEMORY_ATTRIBUTES_TABLE)
+- System Partition (storage for software consumed during firmware-OS transition)
+- Boot services (access to platform hardware resources by OS loaders)
+- Runtime services (access to platform hardware resources by OS)
+
+### Structure
+
+UEFI firmware has a hierarchical structure:
+
+- Firmware device
+- Firmware volumes → logical representation of firmware device
+
+A full firmware image consists of at least one firmware volume which in turn consists of GUID (Global Unique ID) -identified files.
+Files, in turn, consist of sections (e.g. code sections), with various types of files being recognized by the UEFI spec.
+
+When passing information from the Pre-EFI Initialization to further phases, [[Hand-Off Block|Hand-Off Blocks]] (HOBs) are used.
 
 ## Implementations
 

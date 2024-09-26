@@ -974,6 +974,7 @@ trustworthy
 twisted
 temperatures
 theories
+tables
 embedded
 each
 execute
@@ -1652,6 +1653,8 @@ polyester
 person
 posing
 pertinent
+passing
+phases
 hardware
 hierarchy
 how
@@ -1916,6 +1919,7 @@ insecure
 insecurities
 intact
 identify
+identified
 conjunction
 conversion
 compilers
@@ -2617,6 +2621,7 @@ Titling
 Topology
 TianoCore
 Testing
+TABLE
 for
 first
 from
@@ -3040,6 +3045,7 @@ Principles
 Paragraphs
 Pedantry
 Possible
+Pre
 Hardware
 Heuristics
 Hoist
@@ -3088,6 +3094,8 @@ Hirohito
 Harbor
 Helped
 Hundred
+HOBs
+Hand
 methodology
 more
 must
@@ -3618,6 +3626,9 @@ Architecture
 AMI
 Aptio
 Accumulate
+ACPI
+ARP
+ATTRIBUTES
 Build
 Based
 Branch
@@ -3915,6 +3926,7 @@ licence
 legacy
 lasting
 limits
+loaders
 Output
 Ordering
 ODE
@@ -3961,6 +3973,7 @@ OSes
 Option
 Opened
 Open
+Off
 Schedule
 Store
 Solution
@@ -4136,6 +4149,7 @@ Staple
 Study
 Scientific
 Simplify
+SMBIOS
 Figures
 Following
 Forward
@@ -4211,6 +4225,7 @@ Forum
 Fibers
 Filament
 Figure
+Files
 Note
 Non
 NP
@@ -4313,6 +4328,8 @@ vulnerabilities
 vendors
 voice
 verify
+volumes
+volume
 Is
 Idea
 It
@@ -4417,6 +4434,7 @@ InsydeH
 Identify
 Implementation
 Implement
+ID
 Will
 We
 What
@@ -4552,6 +4570,7 @@ Developed
 Deep
 Determine
 Develop
+Device
 Loop
 Live
 Liveness
@@ -4771,6 +4790,8 @@ Reasonable
 RISC
 Requirements
 Recognize
+Reuse
+Runtime
 Major
 Move
 Made
@@ -4881,6 +4902,8 @@ Microsoft
 Meh
 Minoca
 Make
+MultiProcessor
+MEMORY
 quasi
 qualitative
 quite
@@ -4969,6 +4992,8 @@ Goals
 Grow
 Generality
 Go
+GUID
+Global
 You
 Younger
 Youth
@@ -5043,6 +5068,7 @@ VLAN
 Very
 Verify
 Verification
+Various
 Xinjiang
 Xiamen
 Xiaoping
