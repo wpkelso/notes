@@ -477,6 +477,10 @@ spandex
 strand
 staple
 strength
+solves
+suited
+sure
+simplifications
 difference
 different
 deal
@@ -693,6 +697,7 @@ degrees
 deep
 detailed
 description
+displayed
 of
 often
 or
@@ -967,6 +972,8 @@ target
 thirty
 trustworthy
 twisted
+temperatures
+theories
 embedded
 each
 execute
@@ -1170,6 +1177,7 @@ equally
 execept
 encompass
 essentially
+eliminating
 Embedded
 Examples
 Eventually
@@ -1265,6 +1273,7 @@ Extended
 EFI
 EDKII
 EDK
+Engineering
 work
 with
 will
@@ -1640,6 +1649,9 @@ paragraph
 payload
 plant
 polyester
+person
+posing
+pertinent
 hardware
 hierarchy
 how
@@ -1903,6 +1915,7 @@ infrastructure
 insecure
 insecurities
 intact
+identify
 conjunction
 conversion
 compilers
@@ -2274,6 +2287,7 @@ custom
 combining
 coreboot
 comply
+costs
 achieve
 allow
 actions
@@ -2518,6 +2532,8 @@ authentication
 academic
 alpaca
 amassed
+affect
+accuracy
 These
 True
 The
@@ -2600,6 +2616,7 @@ Teams
 Titling
 Topology
 TianoCore
+Testing
 for
 first
 from
@@ -2738,6 +2755,7 @@ fulfilled
 fibers
 filament
 fiber
+facts
 Common
 Counters
 Computing
@@ -3423,6 +3441,7 @@ resolves
 resilience
 reference
 role
+relying
 use
 used
 unnecessary
@@ -3488,6 +3507,8 @@ uncertainty
 unlikely
 utilities
 userspace
+unimportant
+understand
 Algorithm
 Anti
 Advantages
@@ -3596,6 +3617,7 @@ AArch
 Architecture
 AMI
 Aptio
+Accumulate
 Build
 Based
 Branch
@@ -3661,6 +3683,7 @@ BIOS
 Bus
 Boot
 Blends
+Be
 Use
 Unswitching
 Useful
@@ -3692,6 +3715,7 @@ US
 Unlike
 Uneven
 Using
+Understand
 graph
 going
 greater
@@ -3890,6 +3914,7 @@ laws
 licence
 legacy
 lasting
+limits
 Output
 Ordering
 ODE
@@ -4108,6 +4133,9 @@ Specific
 Shallow
 SlimBootLoader
 Staple
+Study
+Scientific
+Simplify
 Figures
 Following
 Forward
@@ -4182,6 +4210,7 @@ Fig
 Forum
 Fibers
 Filament
+Figure
 Note
 Non
 NP
@@ -4283,6 +4312,7 @@ vendor
 vulnerabilities
 vendors
 voice
+verify
 Is
 Idea
 It
@@ -4384,6 +4414,9 @@ Interfaces
 IA
 Intentional
 InsydeH
+Identify
+Implementation
+Implement
 Will
 We
 What
@@ -4414,6 +4447,7 @@ Washington
 Warlord
 Wiki
 Windows
+Waterfall
 Kinds
 Key
 King
@@ -4516,6 +4550,8 @@ Daisy
 DXE
 Developed
 Deep
+Determine
+Develop
 Loop
 Live
 Liveness
@@ -4734,6 +4770,7 @@ Ring
 Reasonable
 RISC
 Requirements
+Recognize
 Major
 Move
 Made
@@ -4843,6 +4880,7 @@ Mesh
 Microsoft
 Meh
 Minoca
+Make
 quasi
 qualitative
 quite
@@ -4859,6 +4897,7 @@ queued
 queue
 zero
 zones
+zeroing
 Quantitative
 Quality
 Quantifiers
@@ -4959,6 +4998,7 @@ year
 youth
 yogic
 yarns
+yourself
 Japan
 Jericho
 Jordan
@@ -5001,6 +5041,8 @@ VR
 Virtual
 VLAN
 Very
+Verify
+Verification
 Xinjiang
 Xiamen
 Xiaoping
