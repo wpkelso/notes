@@ -129,7 +129,7 @@
     "app:go-forward": 2
   },
   "keyboardStatistics": {
-    "file-explorer:new-file": 137,
+    "file-explorer:new-file": 138,
     "editor:save-file": 111,
     "obsidian-completr:completr-insert-selected-suggestion": 98,
     "obsidian-completr:completr-select-next-suggestion": 305,
@@ -154,10 +154,10 @@
     "typewriter-mode:move-typewriter-up": 8,
     "editor:insert-link": 3,
     "highlightr-plugin:Yellow": 1,
-    "markdown:toggle-preview": 900,
+    "markdown:toggle-preview": 902,
     "obsidian-editor-shortcuts:selectAllOccurrences": 1,
     "maximise-active-pane-obsidian:maximise-active-pane": 8,
-    "obsidian-plugin-prettier:format-note": 372,
+    "obsidian-plugin-prettier:format-note": 374,
     "obsidian-plugin-prettier:format-selection": 1,
     "pane-relief:go-4th": 1,
     "workspace:close-window": 3,

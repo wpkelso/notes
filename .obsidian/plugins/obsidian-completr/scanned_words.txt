@@ -1287,6 +1287,7 @@ EDKII
 EDK
 Engineering
 EN
+Exploration
 work
 with
 will
@@ -1669,6 +1670,8 @@ passing
 phases
 pass
 passed
+pruning
+parameters
 hardware
 hierarchy
 how
@@ -3543,6 +3546,7 @@ userspace
 unimportant
 understand
 unintended
+unwanted
 Algorithm
 Anti
 Advantages
@@ -4185,6 +4189,8 @@ Supplements
 SCADE
 Synchronous
 Stream
+Space
+Systematic
 Figures
 Following
 Forward

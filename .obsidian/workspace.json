@@ -27,6 +27,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a41c09f19487f1e2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Space Exploration.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "stacked": true
@@ -289,6 +310,8 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Design Space Exploration.md",
+    "Virtual Cache.md",
     "Model Coverage.md",
     "Safety-critical Embedded Software.md",
     "Reactive System.md",
@@ -316,8 +339,6 @@
     "Virtual Local Area Network.md",
     "Computer Generated Graphics.md",
     "design/Broadcast Design.md",
-    "history/India.md",
-    "design/Harumi Yamaguchi.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",
