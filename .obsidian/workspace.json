@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61ff41723bd30434",
+        "id": "a63af97968d330f3",
         "type": "tabs",
         "children": [
           {
-            "id": "0c62a71d1004ca6d",
+            "id": "4aa1ae80097938be",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,34 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Unified Extensible Firmware Interface",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"programming/Unified Extensible Firmware Interface.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":105,\"ch\":0},\"to\":{\"line\":105,\"ch\":0}},\"scroll\":90.1921052631579}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hand-Off Block.md",
+                "file": "Safety-critical Embedded Software.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f680357b07e95616",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Model Coverage.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hand-Off Block.md",
+                "file": "Safety-critical Embedded Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hand-Off Block.md",
+                "file": "Safety-critical Embedded Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hand-Off Block.md"
+                "file": "Safety-critical Embedded Software.md"
               }
             }
           },
@@ -290,13 +305,16 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "0c62a71d1004ca6d",
+  "active": "4aa1ae80097938be",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "programming/Unified Extensible Firmware Interface.md",
+    "Model Coverage.md",
+    "Safety-critical Embedded Software.md",
+    "Reactive System.md",
     "Hand-Off Block.md",
+    "programming/Unified Extensible Firmware Interface.md",
     "programming/Software Development Method.md",
     "Engineering & Scientific Method.md",
     "Fibers.md",
@@ -321,9 +339,6 @@
     "design/Broadcast Design.md",
     "history/India.md",
     "design/Harumi Yamaguchi.md",
-    "Showa Era.md",
-    "Mao Zedong.md",
-    "Chinese Communist Party.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",

@@ -120,6 +120,7 @@ bootstrap
 bootloader
 bamboo
 blend
+bounded
 size
 sexes
 same
@@ -482,6 +483,7 @@ suited
 sure
 simplifications
 stacked
+safety
 difference
 different
 deal
@@ -699,6 +701,10 @@ deep
 detailed
 description
 displayed
+decades
+deterministic
+develop
+diagrams
 of
 often
 or
@@ -1276,6 +1282,7 @@ EFI
 EDKII
 EDK
 Engineering
+EN
 work
 with
 will
@@ -2295,6 +2302,8 @@ combining
 coreboot
 comply
 costs
+critical
+correlation
 achieve
 allow
 actions
@@ -2625,6 +2634,8 @@ Topology
 TianoCore
 Testing
 TABLE
+Tool
+Tools
 for
 first
 from
@@ -2930,6 +2941,8 @@ Community
 Copy
 Commercial
 CloverBootLoader
+Critical
+Certification
 Peripheral
 Parameters
 Predictors
@@ -3635,6 +3648,9 @@ Accumulate
 ACPI
 ARP
 ATTRIBUTES
+Avionics
+Assurance
+Application
 Build
 Based
 Branch
@@ -4156,6 +4172,11 @@ Study
 Scientific
 Simplify
 SMBIOS
+Safety
+Standard
+Supplements
+SCADE
+Synchronous
 Figures
 Following
 Forward
@@ -4441,6 +4462,8 @@ Identify
 Implementation
 Implement
 ID
+IEC
+ISO
 Will
 We
 What
@@ -4577,6 +4600,8 @@ Deep
 Determine
 Develop
 Device
+DO
+Dialect
 Loop
 Live
 Liveness
@@ -4650,6 +4675,8 @@ Lec
 Legacy
 Linux
 LinuxBoot
+Level
+Lustre
 no
 not
 non
@@ -4911,6 +4938,7 @@ Make
 MultiProcessor
 MEMORY
 MM
+Maintained
 quasi
 qualitative
 quite
@@ -4934,6 +4962,7 @@ Quantifiers
 Qing
 Question
 Quantifying
+Qualification
 kept
 known
 kind

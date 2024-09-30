@@ -477,6 +477,8 @@
     "Fibers.md": "57045b7317b9edbc432548eb83a59dd158082e50e2f1ff81edd302afb530af6a",
     "programming/Software Development Method.md": "ae0b0711e410cedc75c86aa0d8fd4dfa43fd64a82c2bc25bf0b0cd5b3c7a0e06",
     "Engineering & Scientific Method.md": "ae7842dfabc78f7d948e16aa421e193deecbd89a122ae44a14881eb1c490e257",
-    "Hand-Off Block.md": "a4b6fa553a13d56003188088471d6b7e98d919da8851e143d8b74b03e7d22e05"
+    "Hand-Off Block.md": "a4b6fa553a13d56003188088471d6b7e98d919da8851e143d8b74b03e7d22e05",
+    "Safety-critical Embedded Software.md": "df6b98b44901aa7796e34ebe67e2bf7d2c2462636b251622f0d37b58e62a921a",
+    "Model Coverage.md": "2b08391f43fe8071d17755ede2a30211d6faca80779c4e662e1cefebf042342b"
   }
 }
