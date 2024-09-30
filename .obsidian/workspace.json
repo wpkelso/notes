@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a63af97968d330f3",
+        "id": "da7bf46c59dcb0f3",
         "type": "tabs",
         "children": [
           {
-            "id": "4aa1ae80097938be",
+            "id": "31eb344e0fdb0421",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,33 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Safety-critical Embedded Software.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f680357b07e95616",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Model Coverage.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -78,7 +53,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Safety-critical Embedded Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +78,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Safety-critical Embedded Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +117,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Safety-critical Embedded Software.md"
-              }
+              "state": {}
             }
           },
           {
@@ -305,7 +276,7 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "4aa1ae80097938be",
+  "active": "31eb344e0fdb0421",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },

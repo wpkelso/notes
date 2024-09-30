@@ -484,6 +484,8 @@ sure
 simplifications
 stacked
 safety
+scenario
+stream
 difference
 different
 deal
@@ -1186,6 +1188,8 @@ execept
 encompass
 essentially
 eliminating
+exercised
+eliminate
 Embedded
 Examples
 Eventually
@@ -2304,6 +2308,7 @@ comply
 costs
 critical
 correlation
+coverage
 achieve
 allow
 actions
@@ -2943,6 +2948,7 @@ Commercial
 CloverBootLoader
 Critical
 Certification
+Coverage
 Peripheral
 Parameters
 Predictors
@@ -3536,6 +3542,7 @@ utilities
 userspace
 unimportant
 understand
+unintended
 Algorithm
 Anti
 Advantages
@@ -4177,6 +4184,7 @@ Standard
 Supplements
 SCADE
 Synchronous
+Stream
 Figures
 Following
 Forward
@@ -4357,6 +4365,7 @@ voice
 verify
 volumes
 volume
+verification
 Is
 Idea
 It
@@ -4939,6 +4948,7 @@ MultiProcessor
 MEMORY
 MM
 Maintained
+Methodology
 quasi
 qualitative
 quite
