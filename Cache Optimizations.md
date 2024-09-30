@@ -1,6 +1,6 @@
 ---
 created: 2023-09-08T14:31
-updated: 2023-09-08T14:31
+updated: 2024-09-30T11:51
 ---
 #computer_hardware #computer_architecture 
 
@@ -15,5 +15,5 @@ updated: 2023-09-08T14:31
    - write-through cache with write buffer (check write buffer on read, read when write buffer empty)
    - write-back cache (use write buffer when replacing [[Dirty Block|dirty block]])
 6. Avoid address translation on cache accesses ([[Virtual Memory]])
-   - [[Virtual Caches]]
+   - [[Virtual Cache]]
    - virtually indexed, physically tagged caches

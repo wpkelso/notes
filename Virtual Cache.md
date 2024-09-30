@@ -1,7 +1,11 @@
 ---
-tags: computer_architecture, parallel_computing
+aliases:
+  - Logical Cache
+tags:
+  - computer_architecture
+  - parallel_computing
 created: 2023-09-08T14:31
-updated: 2024-01-08T12:29
+updated: 2024-09-30T11:51
 ---
 
 # Virtual Cache

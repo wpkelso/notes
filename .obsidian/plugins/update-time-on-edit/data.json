@@ -14,7 +14,6 @@
     "Wellposedness.md": "09fe323f930450d33d2ab7e2ade3f513530f6dfc83ba8730ba3f7e2ea33b4c19",
     "Weak Ordering.md": "5e68380dbb2ed591a9f501a971f4399b2eadaa3beef69276cecca37e1d582930",
     "Virtual Memory.md": "2006979558adaa02014d4e4b1669790a0bd4e1b3dd9c48f5b35c449ff59020c3",
-    "Virtual Caches.md": "75c315e13fc87cfffd63bc58dfa01dccecc5933c36645a6b45646a9fff3722b8",
     "Vertex.md": "b48bf40c2276822442fc9600f9939ddaf1b185f0b5e6b7fb4554c56d01f6b466",
     "Velocity Saturation.md": "3f8ffe836ec943c46062d14646fc697cc7f6a90be8899dc2844b6b6dd1085c53",
     "Vector Space.md": "4d4683d74b4e1eba804489235f3d4648ce71e81f7876ec2664602c3e0cc776a9",
@@ -342,7 +341,7 @@
     "Causability.md": "39ac5572d06f81d256e9de7b4b843619ee4a6ed9ef877a6d09b01134a2703987",
     "Cache.md": "59f6d42e92eb5bc28f77156704b50184161f5ffb20a96006d59018559c359125",
     "Cache Policies.md": "b9cdfe026a3556cb32da6ebe642b1c631d4aaec1025594bc7f681a07da507164",
-    "Cache Optimizations.md": "cb6eb77ad937eab26dfc7e1af74b3b1593c384beffa54c991e5002574ee26ff9",
+    "Cache Optimizations.md": "0e23abd9a70e9434637a9c36152c37d00835f0fa4776b05c63d55223cb3c277e",
     "Cache Miss Penalty.md": "96aacd75cad1d9e6b728c56c1df1d8731be96b994d3f832f878fdd62ca90f8c3",
     "Cache Coherence.md": "842e01501a52bcb053409f817fcd82af7f473552bf52b1d853fb88e433d3c999",
     "Cache Associativity.md": "8e725c124f7ec404668217881950da4e46a31876a220fb92b69a24f0aaf7d93c",
@@ -479,6 +478,7 @@
     "Engineering & Scientific Method.md": "ae7842dfabc78f7d948e16aa421e193deecbd89a122ae44a14881eb1c490e257",
     "Hand-Off Block.md": "a4b6fa553a13d56003188088471d6b7e98d919da8851e143d8b74b03e7d22e05",
     "Safety-critical Embedded Software.md": "df6b98b44901aa7796e34ebe67e2bf7d2c2462636b251622f0d37b58e62a921a",
-    "Model Coverage.md": "2b08391f43fe8071d17755ede2a30211d6faca80779c4e662e1cefebf042342b"
+    "Model Coverage.md": "2b08391f43fe8071d17755ede2a30211d6faca80779c4e662e1cefebf042342b",
+    "Virtual Cache.md": "a062269af8e550c4daf3a8d29ab11fcca107da2a755d20c100a7968cdc24fdf7"
   }
 }
