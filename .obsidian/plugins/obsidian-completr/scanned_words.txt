@@ -481,6 +481,7 @@ solves
 suited
 sure
 simplifications
+stacked
 difference
 different
 deal
@@ -1655,6 +1656,8 @@ posing
 pertinent
 passing
 phases
+pass
+passed
 hardware
 hierarchy
 how
@@ -2761,6 +2764,7 @@ fibers
 filament
 fiber
 facts
+flexible
 Common
 Counters
 Computing
@@ -3096,6 +3100,7 @@ Helped
 Hundred
 HOBs
 Hand
+HOB
 methodology
 more
 must
@@ -3251,6 +3256,7 @@ mention
 minimal
 mass
 macOS
+media
 ready
 resource
 reach
@@ -4904,6 +4910,7 @@ Minoca
 Make
 MultiProcessor
 MEMORY
+MM
 quasi
 qualitative
 quite
