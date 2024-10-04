@@ -16,37 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Cache.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a41c09f19487f1e2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Virtual Cache",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Virtual Cache.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":22},\"to\":{\"line\":5,\"ch\":22}},\"scroll\":14.676315789473684}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Space Exploration.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -78,7 +59,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +84,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtual Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +123,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Virtual Cache.md"
-              }
+              "state": {}
             }
           },
           {
@@ -307,8 +284,8 @@
   },
   "active": "31eb344e0fdb0421",
   "lastOpenFiles": [
-    "Design Space Exploration.md",
     "Virtual Cache.md",
+    "Design Space Exploration.md",
     "Model Coverage.md",
     "Safety-critical Embedded Software.md",
     "Reactive System.md",

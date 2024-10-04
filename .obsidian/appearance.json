@@ -14,7 +14,7 @@
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",
-  "monospaceFontFamily": "Cousine,0xProto Nerd Font",
+  "monospaceFontFamily": "0xProto Nerd Font,Cascadia Mono",
   "showViewHeader": true,
   "nativeMenus": true
 }
