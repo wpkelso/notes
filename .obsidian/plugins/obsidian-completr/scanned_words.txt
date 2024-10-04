@@ -2952,6 +2952,7 @@ CloverBootLoader
 Critical
 Certification
 Coverage
+CRDT
 Peripheral
 Parameters
 Predictors
@@ -4842,6 +4843,7 @@ Requirements
 Recognize
 Reuse
 Runtime
+Replicated
 Major
 Move
 Made

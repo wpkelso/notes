@@ -8,7 +8,7 @@
   "mouseStatistics": {
     "workspace:undo-close-pane": 353,
     "workspace:close": 353,
-    "workspace:close-window": 374,
+    "workspace:close-window": 375,
     "workspace:close-others": 353,
     "workspace:close-tab-group": 353,
     "workspace:close-others-tab-group": 353,
@@ -126,7 +126,8 @@
     "editor:toggle-blockquote": 1,
     "switcher:open": 5,
     "various-complements:fallback-linkify": 2,
-    "app:go-forward": 2
+    "app:go-forward": 2,
+    "pane-relief:maximize": 1
   },
   "keyboardStatistics": {
     "file-explorer:new-file": 139,
@@ -157,7 +158,7 @@
     "markdown:toggle-preview": 913,
     "obsidian-editor-shortcuts:selectAllOccurrences": 1,
     "maximise-active-pane-obsidian:maximise-active-pane": 8,
-    "obsidian-plugin-prettier:format-note": 376,
+    "obsidian-plugin-prettier:format-note": 378,
     "obsidian-plugin-prettier:format-selection": 1,
     "pane-relief:go-4th": 1,
     "workspace:close-window": 3,
