@@ -50,9 +50,36 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c16b4e87228fded3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Nyquist Rate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nyquist Rate.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sampling.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -81,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conflict-Free Replicated Data Type.md",
+                "file": "Sampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conflict-Free Replicated Data Type.md",
+                "file": "Sampling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conflict-Free Replicated Data Type.md"
+                "file": "Sampling.md"
               }
             }
           },
@@ -308,8 +335,9 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "d4344772491ac505",
+  "active": "c16b4e87228fded3",
   "lastOpenFiles": [
+    "Nyquist Rate.md",
     "Conflict-Free Replicated Data Type.md",
     "Virtual Cache.md",
     "Design Space Exploration.md",
@@ -338,7 +366,6 @@
     "Information.md",
     "Hamming Distance.md",
     "Virtual Local Area Network.md",
-    "Computer Generated Graphics.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",

@@ -486,6 +486,8 @@ stacked
 safety
 scenario
 stream
+sending
+spaced
 difference
 different
 deal
@@ -984,6 +986,8 @@ twisted
 temperatures
 theories
 tables
+transmission
+train
 embedded
 each
 execute
@@ -1672,6 +1676,7 @@ pass
 passed
 pruning
 parameters
+practical
 hardware
 hierarchy
 how
@@ -1939,6 +1944,7 @@ identify
 identified
 independently
 inconsistences
+idempotent
 conjunction
 conversion
 compilers
@@ -2318,6 +2324,7 @@ computers
 concurrently
 coordinating
 converge
+consequence
 achieve
 allow
 actions
@@ -2564,6 +2571,7 @@ alpaca
 amassed
 affect
 accuracy
+arrive
 These
 True
 The
@@ -3291,6 +3299,7 @@ mass
 macOS
 media
 modes
+merged
 ready
 resource
 reach
@@ -3976,6 +3985,7 @@ legacy
 lasting
 limits
 loaders
+locally
 Output
 Ordering
 ODE
@@ -4207,6 +4217,7 @@ Synchronous
 Stream
 Space
 Systematic
+Signal
 Figures
 Following
 Forward

@@ -50,7 +50,6 @@
     "Sinusoidal Function.md": "c482a51816a0b888e08fafb1aff5f5eee58dbb6445e3740e54549f893d248bf4",
     "Singly-Linked List.md": "e52748040fe2453cd99593ffffe8b9530c24f8784a0a4e796e591d44fdf2b32e",
     "Signal.md": "e655e7ba8d1a5ded8cdcc3a5ba5b4d660d8ba511a4af833720492f5920ffb38b",
-    "Signal Sampling.md": "0e185a0fd7e76bf14e93dd86789d10830fec15b3039d541193c0cae316b181f5",
     "Signal Reconstruction.md": "daf081f664e865b9ae671096e17e17f994d4474934b2cf1a7623c146bf03850c",
     "Sifting Property.md": "a6ff87e70b91c5878adc3a5f2177b9f191ed432663db7ed835bf2d8e14d70878",
     "Shintoism.md": "b2b6c85ebc333859139e018d2ea8f7f873200cc5e54437b316acc9eb7d86d4e2",
@@ -71,7 +70,7 @@
     "Scaling.md": "d6b0eaa3356b36af3ca794c6c7e09cea6d6930b04444aad32958e9293328eadb",
     "Scalar.md": "9daf5b6a505441818c931685589cb9d03de1fae1cd46066c0fc067e03c04b18f",
     "Saturation Arithmetic.md": "a5facc5da794da70b3201646c9b7c7e73d35b7a9353d03331831b03b033d3b4b",
-    "Sampling Theorem.md": "9ea2f3f3bcdbfc41fc012f66568d8acd3819c8587dbc57a8678d800a2c220840",
+    "Sampling Theorem.md": "785af488462c42a3040f41d22759974d646ae68b95c1a73ed058cfdc9a9d6ba1",
     "Runtime Complexity.md": "2fa146da58f9cdde38aa0bee5f8ed14e038c1245679fe447a75076673615bc43",
     "Run-To-Completion Scheduler.md": "0b40863296955e86431ae2678386888e3026b9f22200c78764445280ff1846bc",
     "Romance of the Western Chamber.md": "d6ee833ed5325ca34c90d93a8613f2917cf67162d91ead94d3518ce0a9148016",
@@ -481,6 +480,8 @@
     "programming/Unambiguous Variable.md": "964fb5705890ee4c07633d6e80d66d0ba0f5b49fd8b40b7383177a2a8b019f45",
     "programming/Variable Shadowing.md": "aac7ecab4b7d9433442d0ef0fb647fec71b15ad15b991c077a29d690ab754042",
     "history/Zhou Dynasty.md": "75386c113e1a288aa13b422292bbf461b8e181efc8bc23097107e625a13f6e31",
-    "Conflict-Free Replicated Data Type.md": "0e471befd9fa1c9126bf5348f37f0678998ca46a29328a3cc815d2c9c3465580"
+    "Conflict-Free Replicated Data Type.md": "0e471befd9fa1c9126bf5348f37f0678998ca46a29328a3cc815d2c9c3465580",
+    "Nyquist Rate.md": "ad9ba21716f30d5cafbff0cd4dd17fb0d04288e3ab3470652246c88826bfc972",
+    "Sampling.md": "220b4e5fb6f21558d9270c051b79b1a185d70052c1f2154317751c71bdf4cf8a"
   }
 }
