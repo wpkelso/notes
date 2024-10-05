@@ -1937,6 +1937,8 @@ insecurities
 intact
 identify
 identified
+independently
+inconsistences
 conjunction
 conversion
 compilers
@@ -2312,6 +2314,10 @@ costs
 critical
 correlation
 coverage
+computers
+concurrently
+coordinating
+converge
 achieve
 allow
 actions
@@ -2784,6 +2790,7 @@ filament
 fiber
 facts
 flexible
+features
 Common
 Counters
 Computing
@@ -2953,6 +2960,9 @@ Critical
 Certification
 Coverage
 CRDT
+CRDTs
+Commutative
+Convergent
 Peripheral
 Parameters
 Predictors
@@ -3480,6 +3490,10 @@ resilience
 reference
 role
 relying
+replicates
+replica
+replicas
+replicated
 use
 used
 unnecessary
@@ -4844,6 +4858,7 @@ Recognize
 Reuse
 Runtime
 Replicated
+Replicas
 Major
 Move
 Made
