@@ -7,7 +7,7 @@ tags:
   - computer_architecture
   - programming
 created: 2023-11-05T22:50
-updated: 2024-10-01T18:06
+updated: 2024-10-09T15:54
 ---
 
 # Unified Extensible Firmware Interface
@@ -116,3 +116,26 @@ When passing information from the Pre-EFI Initialization to further phases, [[Ha
 - U-Boot: UEFI compatible interface implemented to comply with Arm Embedded Base Boot Requirements
 - U-Root: Go userspace Linux bootloader, used by LinuxBoot
 - CloverBootLoader: macOS, Windows, & Linux compatible bootloader
+
+## Services
+
+Accessed through pointers to global functions, located in the EFI System Table
+
+### Boot Services
+
+- Event, Time, and Task Priority functions
+- Memory allocation
+- Protocol handling
+- Image Services
+- Misc.: watchdog, memory set/copy, monotonic counter, CRC32, etc.
+
+### Runtime Services
+
+- Variable services; get/set variables
+- Time services
+- Virtual memory services, dealing with conversion between physical and virtual memory addressing
+- Misc.: capsule update, reset, monotonic counter
+
+## Protocols
+
+Defined as a collection of related functions and data, a protocol has a Globally Unique ID (GUID), an interface structure, and can use Protocol services. Protocols can only be used at boot time.
