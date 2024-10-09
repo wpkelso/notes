@@ -7,7 +7,7 @@ tags:
   - computer_architecture
   - programming
 created: 2023-11-05T22:50
-updated: 2024-09-26T12:38
+updated: 2024-10-01T18:06
 ---
 
 # Unified Extensible Firmware Interface
@@ -101,6 +101,10 @@ A full firmware image consists of at least one firmware volume which in turn con
 Files, in turn, consist of sections (e.g. code sections), with various types of files being recognized by the UEFI spec.
 
 When passing information from the Pre-EFI Initialization to further phases, [[Hand-Off Block|Hand-Off Blocks]] (HOBs) are used.
+
+### Boot Sequence
+
+![[Pasted image 20241001180605.png]]
 
 ## Implementations
 

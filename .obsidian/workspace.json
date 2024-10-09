@@ -16,26 +16,11 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Cache.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a41c09f19487f1e2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
+                  "title": "Virtual Cache",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Virtual Cache.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 }
               ]
@@ -43,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Space Exploration.md",
-                "mode": "preview",
+                "file": "programming/Unified Extensible Firmware Interface.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -78,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Cache.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtual Cache.md",
+                "file": "programming/Unified Extensible Firmware Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtual Cache.md"
+                "file": "programming/Unified Extensible Firmware Interface.md"
               }
             }
           },
@@ -310,8 +295,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Design Space Exploration.md",
+    "Pasted image 20241001180605.png",
     "Virtual Cache.md",
+    "Design Space Exploration.md",
     "Model Coverage.md",
     "Safety-critical Embedded Software.md",
     "Reactive System.md",
@@ -338,7 +324,6 @@
     "Hamming Distance.md",
     "Virtual Local Area Network.md",
     "Computer Generated Graphics.md",
-    "design/Broadcast Design.md",
     "Pasted image 20240207125314.png",
     "literature",
     "programming",
