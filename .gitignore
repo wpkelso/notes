@@ -1,2 +1,5 @@
-.obsidian/workspace
-.obsidian/workspace.*
+.obsidian/workspace*
+
+.obsidian/plugins/key-promoter
+.obsidian/plugins/completr
+.obsidian/plugins/various-complements
