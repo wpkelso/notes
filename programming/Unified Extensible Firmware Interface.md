@@ -7,7 +7,7 @@ tags:
   - computer_architecture
   - programming
 created: 2023-11-05T22:50
-updated: 2024-10-09T15:54
+updated: 2024-10-10T12:37
 ---
 
 # Unified Extensible Firmware Interface
@@ -30,7 +30,7 @@ The terminology used to refer to UEFI varies widely between organizations:
 Additionally:
 
 - Firmware providing [[Basic Input Output System|BIOS]] functionality is typically called “Legacy BIOS”
-- Platform Initialization (PI) and UEFI compatible firmware implementations are sometimes called UEFI BIOS, or just UEFI
+- [[Platform Initialization]] (PI) and UEFI compatible firmware implementations are sometimes called UEFI BIOS, or just UEFI
 
 <dl>
 	<dt>UEFI PI</dt>
