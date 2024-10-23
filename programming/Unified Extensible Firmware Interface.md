@@ -7,7 +7,7 @@ tags:
   - computer_architecture
   - programming
 created: 2023-11-05T22:50
-updated: 2024-10-10T12:37
+updated: 2024-10-23T14:47
 ---
 
 # Unified Extensible Firmware Interface
@@ -139,3 +139,9 @@ Accessed through pointers to global functions, located in the EFI System Table
 ## Protocols
 
 Defined as a collection of related functions and data, a protocol has a Globally Unique ID (GUID), an interface structure, and can use Protocol services. Protocols can only be used at boot time.
+
+## Variables
+
+Used to store UEFI firmware configuration data, variables are defined as key/value pairs.
+The key consists of identifying information and attributes, while the value is arbitrary data, typically in a binary format.
+
