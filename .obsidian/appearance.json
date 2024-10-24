@@ -7,8 +7,6 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "dangling-link-normal-text-color",
-    "monospace-editor-gutter",
-    "monospace-metadata",
     "typography",
     "window-mod"
   ],
