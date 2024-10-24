@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "",
   "translucency": false,
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "",
   "baseFontSize": 18,
   "theme": "moonstone",
   "enabledCssSnippets": [
@@ -14,7 +14,7 @@
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",
-  "monospaceFontFamily": "0xProto Nerd Font,Cascadia Mono",
+  "monospaceFontFamily": "",
   "showViewHeader": true,
   "nativeMenus": true
 }
