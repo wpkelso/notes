@@ -3,7 +3,7 @@
   "cssTheme": "",
   "translucency": false,
   "interfaceFontFamily": "",
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "theme": "moonstone",
   "enabledCssSnippets": [
     "dangling-link-normal-text-color",
