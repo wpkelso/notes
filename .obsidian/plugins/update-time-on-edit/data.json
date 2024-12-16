@@ -260,7 +260,6 @@
     "Deep Learning.md": "d9f4fe130204766d8c9ae6612e4e89c6ec44328af759b6032a87f0a3020872cd",
     "Datapath Design.md": "b44fccb28ec43762cafb65ca6dd55f5c3ce3c9702d48b0bf81d8f8b479566ab6",
     "Dataflow Hazards.md": "7f422f6c0d9454213f0ca5e35638696b5e50a2c19c2ce6fd699ec80001ed21eb",
-    "Data Structure.md": "7cf60ce48cd84c94faee1f53baa12840135f30199d529c4c573dfaadd68ee114",
     "Data Dependence.md": "09f7ec01e5ce03180495393f2a5f8bc123633219be9e1d42d3a8b39aa7ff4f91",
     "Data Dependence Height.md": "e168bb5c1f8c6745032396e42ad87147677f60cc4c8f8a43af81f3a1761e3e40",
     "Data Dependence Graph.md": "f7333a4eaf18665c9c1aec41a83f993eb2ab9d4c1ece0c8219c1c6b61fd90cc9",
@@ -335,7 +334,6 @@
     "Addition of a Constant.md": "3e4c2e345083a24f089f82fbd8cab44a681339546093f5af82b03849f6e14e6a",
     "Addition & Subtraction of Signals.md": "a5ba82344a938472b0b2490d250304b18bea945711cfe27ad392d73716c99100",
     "Adapa the Man.md": "098ee233517e3571d5f61eb2055f6f4bc3f952ea045f9402a16baeff9ca348e9",
-    "Abstract Data Type.md": "45a4cd28f8fbab229f0ab36faad4a2fb7a2c543f21c40aa8b0dca1b6a30c7709",
     "Abrahamic Faith.md": "574e59bd577da7a336a27854043c9155d9eb8db77d2bca87012e61c337669f4c",
     "1001 Nights.md": "f69464312250ac58ec743fcc4143fad09bc90a0bb897f00b2f179eaa89f5e3ec",
     "Model.md": "e748213fa67fcd941400fbc9e6016c17ce9becd958037bbb47a92a1d51cac5c6",
@@ -485,6 +483,8 @@
     "mathematics/Vertex.md": "b48bf40c2276822442fc9600f9939ddaf1b185f0b5e6b7fb4554c56d01f6b466",
     "mathematics/Wellposedness.md": "09fe323f930450d33d2ab7e2ade3f513530f6dfc83ba8730ba3f7e2ea33b4c19",
     "mathematics/Wronskian.md": "f3a8b0edfd551ab9a105aa33bcca41c25b6490c7908b4a226061c678bc7ff076",
-    "literature/The Conventional Wisdom.md": "123cb4026d564ded30bf0a107da2819d27f6f40689d765c90521fe24e4dbf323"
+    "literature/The Conventional Wisdom.md": "123cb4026d564ded30bf0a107da2819d27f6f40689d765c90521fe24e4dbf323",
+    "mathematics/Data Structure.md": "d2de2f064a397a8831c03ee128dac2684498d07874c658b717e11a1a9b11ee57",
+    "mathematics/Abstract Data Type.md": "44e302059a4cea161360425eb4ad242caf082d6204dbbe447db6dabbec873f54"
   }
 }
