@@ -1,13 +1,10 @@
 ---
 tags:
   - philosophy
-  - western_thought
-  - reason
 created: 2024-12-16T09:55
-updated: 2024-12-18T13:31
+updated: 2025-02-26T13:01
 ---
 
-﻿
 ﻿# Metaphysics
 
 > [!info] Definition

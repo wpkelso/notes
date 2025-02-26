@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Primary",
+  "cssTheme": "",
   "translucency": false,
   "interfaceFontFamily": "",
   "baseFontSize": 20,
@@ -15,5 +15,6 @@
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "showViewHeader": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "showRibbon": false
 }
