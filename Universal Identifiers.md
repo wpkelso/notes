@@ -1,6 +1,6 @@
 ---
 created: 2025-02-28T14:50
-updated: 2025-02-28T14:50
+updated: 2025-03-17T14:43
 ---
 
 # Universal Identifiers
@@ -13,7 +13,7 @@ updated: 2025-02-28T14:50
 Host identifiers can be classified under the following categories:
 
 1. Names
-2. Addresses
+2. [[Internet Protocol Address|Addresses]]
 3. Routes
 
 Generally, a _name_ identifies _what_ an object is, an _address_ identifies _where_ an object is, and a _route_ describes how to get there.
