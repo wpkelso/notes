@@ -1,15 +1,14 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "translucency": false,
   "interfaceFontFamily": "",
-  "baseFontSize": 20,
+  "baseFontSize": 22,
   "theme": "moonstone",
   "enabledCssSnippets": [
     "dangling-link-normal-text-color",
     "window-mod",
-    "typography",
-    "rounded-window-corners"
+    "flexoki"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "",

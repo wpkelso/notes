@@ -2,15 +2,16 @@
 aliases:
   - ip
 created: 2025-03-17T14:43
-updated: 2025-03-17T15:33
+updated: 2025-06-02T16:07
 ---
 
 # Internet Protocol Address
 
-> [!note]
-> A 32-bit address that is used in all communication with a host on a [[TCP/IP Internet]].
-> They do not specify an individual machine, but rather a distinct connection to a network.
-> Thus, A single physical machine may have multiple IP addresses.
+## Overview
+
+A 32-bit address that is used in all communication with a host on a [[TCP/IP Internet]].
+They do not specify an individual machine, but rather a distinct connection to a network.
+Thus, a single physical machine may have multiple IP addresses.
 
 ## Classes
 
@@ -19,8 +20,8 @@ There are five classes of IP addresses:
 1. Class A, `0 <1:7, netid> <8:31, hostid>`
 2. Class B, `10 <2:15, netid> <16:31, hostid>`
 3. Class C, `110 <3:23, netid> <24:31, hostid>`
-4. Class D `1110 <4:31, multicast address>`
-5. Class E `11110 <5:31, reserved for future use>`
+4. Class D, `1110 <4:31, multicast address>`
+5. Class E, `11110 <5:31, reserved for future use>`
 
 ## Reserved Addresses
 
